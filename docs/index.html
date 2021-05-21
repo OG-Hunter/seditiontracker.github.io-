@@ -1,0 +1,35 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+seo.type: website
+layout: default
+title: Sedition Has Consequences
+description: Click for latest case details. Suspects considered innocent until proven guilty.
+image: images/suspects.png
+---
+
+<h2 class="listing">Most Recent Suspects</h2>
+
+{% assign suspects = site.suspects | reverse %} {% for suspect in suspects limit: 20 %}
+<h3>
+  <div class="details-link">
+    <a href="{{suspect.url}}">{{ suspect.name }}</a>
+  </div>
+  <div>
+    <a href="{{suspect.url}}">
+      <img class="before" src="{{suspect.image}}" />
+    </a>
+  </div>
+</h3>
+{% endfor %}
+
+<div class="navigation"></div>
+
+<h2 class="listing">Browse All Suspects</h2>
+<div><a href="/suspects">By Date</a></div>
+<div><a href="/suspects/by_name">By Name</a></div>
+<div><a href="/suspects/by_state">By State</a></div>
+<div><a href="/suspects/by_status">By Status</a></div>
+
+<p>There are currently {{ suspects.size }} suspects logged in our database</p>

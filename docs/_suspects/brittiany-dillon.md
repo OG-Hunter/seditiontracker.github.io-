@@ -1,0 +1,29 @@
+---
+name: Brittiany Dillon
+lastName: Dillon
+aka:
+residence: Maryland
+status: Charged
+date: 2021-04-26
+charged: 2021-04-26
+indicted:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/brittiany-dillon.jpg
+suspect: brittiany-dillon.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote: 'I fought hard ... I fell in the door and they beat me with batons so I backed off and they pepper sprayed my eyes.'
+title: Brittiany Dillon charged on April 26, 2021.
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+charges:
+---
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Statement%20of%20Facts.pdf)

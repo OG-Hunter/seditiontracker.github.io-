@@ -1,0 +1,36 @@
+---
+name: Paul Johnson
+lastName: Johnson
+aka:
+residence: Virginia
+status: Indicted
+date: 2021-04-12
+charged: 2021-04-12
+indicted: 2021-04-30
+age: 35
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/paul-johnson.jpg
+suspect: paul-johnson.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote: "Second wing, we breached, pulled up, start throwing shit. I mean we're fu- we're we're fighting cops and shit. I have video where I'm slinging one around...."
+title: Paul Johnson arrested on April 12, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+charges:
+---
+
+- [News Story](https://www.wusa9.com/article/news/national/capitol-riots/virginia-man-charged-in-capitol-riot-assault-that-gave-officer-concussion-paul-russell-johnson-lanexa/65-fa9f1175-7df1-44cf-949f-832027907a81)
+- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1386831/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assaulting-us-capitol-police-officer-jan-6-capitol-breach)
+- [Statement of Facts](https://assets.documentcloud.org/documents/20615289/paul-russell-johnson.pdf)
+- [Incriminating Evidence (VIDEO)](https://www.instagram.com/p/CJugaFfnFD7/)
+- [Incriminating Interview (VIDEO)](https://youtu.be/ObVMGPGHRe8?t=5855)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390826/download)

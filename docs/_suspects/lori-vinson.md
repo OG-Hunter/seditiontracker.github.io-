@@ -1,0 +1,32 @@
+---
+name: Lori Vinson
+lastName: Vinson
+aka:
+residence: Kentucky
+status: Charged
+date: 2021-02-23
+charged: 2021-02-23
+indicted:
+age:
+occupation: Nurse
+affiliations:
+jurisdiction: Federal
+image: /images/preview/lori-vinson.jpg
+suspect: lori-vinson.jpg
+booking: lori-vinson.jpg
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote: 'I felt like I have done nothing wrong and I wouldn’t change it.'
+title: Lori Vinson arrested on February 23, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+charges:
+---
+
+- [News Report](https://www.kentucky.com/news/local/crime/article249457150.html)
+- [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1364284639385378825)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lori%20Vinson%20and%20Thomas%20Vinson%20Statement%20of%20Facts.pdf)

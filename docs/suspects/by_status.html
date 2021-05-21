@@ -1,0 +1,68 @@
+---
+layout: default
+title: Suspects (by Status)
+image: /images/suspects.png
+description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
+---
+
+{% assign convicted = site.suspects | where_exp: "suspect", "suspect.status == 'Convicted'" | sort:
+"convicted" | reverse %}
+
+<h2 class="table">Suspects (Convicted)</h2>
+Total Count: {{ convicted.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in convicted %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.convicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+{% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" | sort:
+"indicted" | reverse %}
+
+<h2 class="table">Suspects (Indicted)</h2>
+Total Count: {{ indicted.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Indicted</a></th>
+  </tr>
+  {% for suspect in indicted %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.indicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+{% assign charged = site.suspects | where_exp: "suspect", "suspect.status == 'Charged'" | sort:
+"charged" | reverse %}
+<h2 class="table">Suspects (Charged)</h2>
+Total Count: {{ charged.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspect/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Charged</a></th>
+  </tr>
+  {% for suspect in charged %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.charged | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>

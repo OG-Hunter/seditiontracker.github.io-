@@ -1,0 +1,101 @@
+/* Container holding the image and the text */
+img.before {
+  float: left;
+}
+
+.image-container {
+  position: relative;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+}
+
+.image-container a {
+  color: white;
+}
+
+/* Top left text */
+.top-left {
+  background: #e43;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  padding: 5px;
+}
+
+.mugshot {
+  float: none;
+}
+
+.details {
+  padding: 20px;
+  float: left;
+}
+
+.details-link {
+  clear: both;
+  padding-bottom: 5px;
+}
+
+img.before {
+  padding-bottom: 15px;
+}
+
+.navigation {
+  clear: both;
+}
+
+footer {
+  clear: both;
+  padding-top: 20px;
+}
+
+.listing {
+  padding-top: 20px;
+}
+
+h2 a {
+  text-decoration: none;
+  color: #b5e853;
+}
+
+h1.table {
+  margin: 0;
+}
+
+table.suspects {
+  margin-top: 10px;
+}
+
+div.quote {
+  background-color: #63c0f5;
+  color: black;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+td.charged {
+  color: IndianRed;
+}
+
+td.indicted {
+  color: IndianRed;
+}
+
+li.charges {
+  padding-bottom: 10px;
+}
+
+div.image-label {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+}
+
+div.mugshot {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+}

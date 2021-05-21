@@ -1,0 +1,27 @@
+---
+layout: default
+title: Suspects (by Date)
+image: /images/suspects.png
+description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
+---
+
+<h1 class="table">{{ page.title }}</h1>
+{% assign suspects_by_date = site.suspects | sort: "date" | reverse %}
+Total Count: {{ suspects_by_date.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects/by_status">Status</a></th>
+    <th>Date</th>
+  </tr>
+  {% for suspect in suspects_by_date %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td class={{ suspect.status | downcase }}>{{ suspect.status }}</td>
+    <td>{{ suspect.date | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>

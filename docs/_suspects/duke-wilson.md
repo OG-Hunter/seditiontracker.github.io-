@@ -1,0 +1,31 @@
+---
+name: Duke Wilson
+lastName: Wilson
+aka:
+residence: Idaho
+status: Charged
+date: 2021-04-12
+charged: 2021-04-12
+indicted:
+age: 66
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/duke-wilson.jpg
+suspect: duke-wilson.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Duke Wilson charged on April 12, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+charges:
+---
+
+- [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)
+- [Statement of Facts](https://assets.documentcloud.org/documents/20616375/wilson-affidavit.pdf)

@@ -1,0 +1,51 @@
+{
+  "explorer.openEditors.visible": 0,
+  "window.zoomLevel": 2,
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "explorer.confirmDelete": false,
+  "files.exclude": {
+    ".cdk.staging": true,
+    "cdk.out": true,
+    "cdk/node_modules": true,
+    "node_modules": true
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.detectIndentation": false,
+  "search.exclude": {
+    ".cache": true,
+    ".parcel-cache": true,
+    "dist/**": true
+  },
+  "editor.columnSelection": false,
+  "typescript.format.enable": false,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "editor.renderControlCharacters": false,
+  "eslint.lintTask.options": "--fix",
+  "eslint.codeAction.showDocumentation": {
+
+    "enable": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.options": {
+
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
