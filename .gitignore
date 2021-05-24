@@ -9,4 +9,5 @@ vendor
 node_modules
 .sass-cache
 .jekyll-metadata
+.vscode
 *.xlsx
