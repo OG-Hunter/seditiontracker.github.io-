@@ -23,7 +23,7 @@ title: Leonard Ridge charged on April 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://6abc.com/leonard-ridge-capitol-riot-bucks-county-pennsylvania-snapchat/10675548/)

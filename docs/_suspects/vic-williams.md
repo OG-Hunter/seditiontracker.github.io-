@@ -23,7 +23,7 @@ title: Vic Williams charged on May 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/an-accused-capitol-rioter-nicknamed-stiemy-vic-gave-fbi-agents-two-bags-of-coffee-they-gave-him-four-federal-charges/)
