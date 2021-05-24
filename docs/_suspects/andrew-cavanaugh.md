@@ -28,3 +28,4 @@ charges:
 ---
 - [News Report](https://www.kbzk.com/news/crime-courts/bozeman-man-facing-charges-for-alleged-offenses-at-us-capitol-on-jan-6)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Cavanaugh%20Statement%20of%20Facts_Redacted.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1397111/download)
