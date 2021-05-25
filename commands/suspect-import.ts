@@ -25,10 +25,17 @@ const getNameSet = (): Set<string> => {
 
   for (const suspectFile of suspectFiles) {
     const suspect = getSuspectByFile(suspectFile)
-    const firstName = suspect.name.split(" ")[0];
-    nameSet.add(dasherizeName(firstName, suspect.lastName));
-  }
 
+    // special hack to deal with duplicate william sywak
+    if (suspect.name == "William Jason Sywak") {
+      suspect.name = "William Sywak"
+    }
+
+    const names = suspect.name.split(" ")
+    const firstName = names.shift();
+
+    nameSet.add(dasherizeName(firstName, names.join(" ")));
+  }
   return nameSet;
 }
 
@@ -182,6 +189,7 @@ const falsePositives = (site: string) => {
       break;
     case "GW":
       set.add("Bentacur");
+      set.add("Carlton");
       set.add("Courtwright");
       set.add("DeCarlo");
       set.add("DeGrave");
@@ -197,6 +205,7 @@ const falsePositives = (site: string) => {
       set.add("Witcher")
       set.add("Sueski")
       set.add("Sunstrum")
+      set.add("Sywak")
       set.add("Gonzalez")
       set.add("Vargas")
       break;
