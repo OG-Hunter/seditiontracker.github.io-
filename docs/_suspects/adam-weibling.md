@@ -2,12 +2,12 @@
 name: Adam Weibling
 lastName: Weibling
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2021-05-19
 charged: 2021-05-19
 indicted:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -27,6 +27,6 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.houstonpublicmedia.org/articles/news/criminal-justice/2021/05/26/399105/seventh-houston-area-resident-arrested-in-connection-to-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398256/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398261/download)
