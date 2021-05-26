@@ -18,17 +18,18 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Did I have the right to go in? I guess not. Because it’s illegal. But did I do anything wrong? No, I didn’t.'
 title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
 charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
+  - name: Unlawful entry on restricted building or grounds
+    code: 18 USC 1752
+    link: https://www.law.cornell.edu/uscode/text/18/1752
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)

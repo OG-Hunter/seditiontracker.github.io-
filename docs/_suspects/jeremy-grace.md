@@ -2,7 +2,7 @@
 name: Jeremy Grace
 lastName: Grace
 aka:
-residence:
+residence: Oregon
 status: Charged
 date: 2021-05-24
 charged: 2021-05-24
