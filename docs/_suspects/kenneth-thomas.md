@@ -1,13 +1,13 @@
 ---
 name: Kenneth Thomas
 lastName: Thomas
-aka:
-residence:
+aka: Pi Annon
+residence: Ohio
 status: Charged
-date:
-charged:
+date: 2021-05-25
+charged: 2021-05-25
 indicted:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -19,12 +19,12 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Kenneth Thomas charged on [longDate]
+title: Kenneth Thomas charged on May 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://pittsburgh.cbslocal.com/2021/05/27/ohio-man-charged-with-assaulting-officers-in-us-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398806/download)
