@@ -23,7 +23,7 @@ title: Nicholas Hendrix arrested on May 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.wmtw.com/article/second-mainer-arrested-accused-of-taking-part-in-capitol-riot/36559629)

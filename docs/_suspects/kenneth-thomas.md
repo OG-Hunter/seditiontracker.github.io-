@@ -23,7 +23,7 @@ title: Kenneth Thomas charged on May 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://pittsburgh.cbslocal.com/2021/05/27/ohio-man-charged-with-assaulting-officers-in-us-capitol-riot/)

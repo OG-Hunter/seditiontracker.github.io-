@@ -23,7 +23,7 @@ title: Nicholas Brockhoff charged on May 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-man-charges-jan-6-capitol-riot-nicholas-james-brockhoff-insurrection/417-242a7574-396c-492c-9479-35057a5994c2)

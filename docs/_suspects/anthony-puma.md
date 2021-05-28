@@ -23,7 +23,7 @@ title: Anthony Puma arrested on May 27, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/05/27/anthony-puma-charged-breaking-into-capitol-during-jan-6-riot/7467940002/)
