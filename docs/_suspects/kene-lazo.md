@@ -2,10 +2,10 @@
 name: Kene Lazo
 lastName: Lazo
 aka:
-residence:
+residence: Virginia
 status: Charged
-date:
-charged:
+date: 2021-05-28
+charged: 2021-05-28
 indicted:
 age:
 occupation:
@@ -18,13 +18,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
-title: Kene Lazo charged on [longDate]
+quote: "...i took a boi boi to the Capitol and swept the floor literally..."
+title: Kene Lazo charged on May 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://news.abs-cbn.com/news/05/29/21/walis-tambo-man-arrested-virginia-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399516/download)
