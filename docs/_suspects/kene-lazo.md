@@ -23,7 +23,7 @@ title: Kene Lazo charged on May 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://news.abs-cbn.com/news/05/29/21/walis-tambo-man-arrested-virginia-capitol-riot)
