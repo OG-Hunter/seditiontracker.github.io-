@@ -7,8 +7,8 @@ status: Charged
 date: 2021-06-01
 charged: 2021-06-01
 indicted:
-age:
-occupation:
+age: 52
+occupation: Music teacher
 affiliations:
 jurisdiction: Federal
 image: /images/preview/audrey-southard-rumsey.png
