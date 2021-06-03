@@ -3,10 +3,11 @@ name: Paul Hodgkins
 lastName: Hodgkins
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
+convicted: 2021-06-02
 age:
 occupation:
 affiliations:
@@ -29,3 +30,4 @@ charges:
 
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Allard%20Hodgkins%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)
+- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/opa/pr/man-pleads-guilty-obstruction-official-proceeding-breaching-us-capitol-jan-6)
