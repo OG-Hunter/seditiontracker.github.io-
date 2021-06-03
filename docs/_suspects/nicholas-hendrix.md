@@ -27,3 +27,4 @@ published: true
 charges:
 ---
 - [News Story](https://www.wmtw.com/article/second-mainer-arrested-accused-of-taking-part-in-capitol-riot/36559629)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Hendrix%20Complaint%20and%20Statement%20of%20Facts.pdf)
