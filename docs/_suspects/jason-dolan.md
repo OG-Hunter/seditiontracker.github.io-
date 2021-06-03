@@ -9,7 +9,7 @@ charged: 2021-05-26
 indicted: 2021-05-26
 age:
 occupation: Security Guard
-affiliations: Former USMC
+affiliations: Oath Keepers, Former USMC
 jurisdiction: Federal
 image: /images/preview/jason-dolan.png
 suspect: jason-dolan.png
@@ -26,5 +26,6 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.palmbeachpost.com/story/news/2021/06/01/marine-wellington-arrested-capitol-riots/7469247002/)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caldwell%20et%20al%20Fourth%20Superseding%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)

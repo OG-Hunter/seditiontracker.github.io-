@@ -2,7 +2,7 @@
 name: Michael Adams
 lastName: Adams
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2021-04-20
 charged: 2021-04-20
