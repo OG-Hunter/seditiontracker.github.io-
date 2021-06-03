@@ -26,6 +26,27 @@ Total Count: {{ convicted.size }}
   {% endfor %}
 </table>
 
+{% assign dismissed = site.suspects | where_exp: "suspect", "suspect.status == 'Dismissed'" | sort:
+"dismissed" | reverse %}
+
+<h2 class="table">Suspects (Dismissed)</h2>
+Total Count: {{ dismissed.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in dismissed %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.convicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
 {% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" | sort:
 "indicted" | reverse %}
 
