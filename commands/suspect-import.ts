@@ -141,6 +141,10 @@ const importDoj = async (nameSet: Set<string>) => {
       continue
     }
 
+    if (name == "BAGGOTT") {
+      name = "BAGGOTT, Matthew"
+    }
+
     const nameChunks = name.split(",")
     const lastName = startCase(toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' iv', '').replace('sr', '')).trim();
     const firstName = nameChunks[1].trim().split(" ")[0];
