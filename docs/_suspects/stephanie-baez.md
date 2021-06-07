@@ -2,10 +2,10 @@
 name: Stephanie Baez
 lastName: Baez
 aka:
-residence:
+residence: Alabama
 status: Charged
-date:
-charged:
+date: 2021-05-28
+charged: 2021-05-28
 indicted:
 age:
 occupation:
@@ -19,12 +19,13 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Stephanie Baez charged on [longDate]
+title: Stephanie Baez charged on May 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401761/download)
