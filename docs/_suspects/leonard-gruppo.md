@@ -23,7 +23,7 @@ title: Leonard Gruppo charged on June 1st, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.everythinglubbock.com/news/local-news/new-info-released-about-clovis-man-arrested-in-connection-to-capitol-breach/)
