@@ -5,10 +5,10 @@ aka:
 residence: Texas
 status: Charged
 date: 2020-06-01
-charged:
+charged: 2020-06-01
 indicted:
 age:
-occupation:
+occupation: Physician's Assistant
 affiliations:
 jurisdiction: Federal
 image: /images/preview/leonard-gruppo.jpg
@@ -26,6 +26,6 @@ layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.everythinglubbock.com/news/local-news/new-info-released-about-clovis-man-arrested-in-connection-to-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401796/download)

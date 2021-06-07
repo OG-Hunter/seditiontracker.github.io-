@@ -7,9 +7,9 @@ status: Charged
 date: 2021-05-21
 charged: 2021-05-21
 indicted:
-age:
+age: 47
 occupation:
-affiliations:
+affiliations: Marine Corps veteran
 jurisdiction: Federal
 image: /images/preview/carey-walden.jpg
 suspect: carey-walden.jpg
@@ -27,6 +27,6 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401811/download)
