@@ -36,13 +36,13 @@ Total Count: {{ dismissed.size }}
   <tr>
     <th><a href="/suspects/by_name">Name</a></th>
     <th><a href="/suspects/by_state">Residence</a></th>
-    <th><a href="/suspects">Convicted</a></th>
+    <th><a href="/suspects">Dimissed</a></th>
   </tr>
   {% for suspect in dismissed %}
   <tr>
     <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
     <td>{{ suspect.residence }}</td>
-    <td>{{ suspect.convicted | date: "%Y-%m-%d" }}</td>
+    <td>{{ suspect.dismissed | date: "%Y-%m-%d" }}</td>
   </tr>
   {% endfor %}
 </table>
