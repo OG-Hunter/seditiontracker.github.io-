@@ -23,7 +23,7 @@ title: Dillon Herrington arrested on June 7, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.waff.com/2021/06/08/court-documents-state-madison-man-nicknamed-magalumberjack-charged-with-assaulting-federal-officer-january-6-riot/)

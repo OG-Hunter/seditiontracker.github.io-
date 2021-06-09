@@ -23,7 +23,7 @@ title: Christian Kulas charged on June 3, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://abc7chicago.com/north-shore-man-charged-in-jan-6-breach-of-us-capitol/10762676/)
