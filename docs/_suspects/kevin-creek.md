@@ -23,7 +23,7 @@ title: Kevin Creek charged on June 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
