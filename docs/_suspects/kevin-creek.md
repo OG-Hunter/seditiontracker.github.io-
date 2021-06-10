@@ -2,12 +2,12 @@
 name: Kevin Creek
 lastName: Creek
 aka:
-residence:
+residence: Georgia
 status: Charged
-date:
-charged:
+date: 2021-06-04
+charged: 2021-06-04
 indicted:
-age:
+age: 46
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -19,12 +19,12 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Kevin Creek charged on [longDate]
+title: Kevin Creek charged on June 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
