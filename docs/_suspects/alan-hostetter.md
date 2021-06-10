@@ -8,7 +8,7 @@ date: 2021-06-09
 charged: 2021-06-09
 indicted: 2021-06-09
 age: 56
-occupation:
+occupation: Yoga Instructor, Former Police Chief
 affiliations: Three Percenters, American Phoenix Project
 jurisdiction: Federal
 image: /images/preview/alan-hostetter.png
