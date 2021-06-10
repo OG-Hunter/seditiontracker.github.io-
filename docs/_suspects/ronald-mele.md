@@ -11,8 +11,8 @@ age: 51
 occupation:
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/adam-weibling.jpg
-suspect: adam-weibling.jpg
+image: /images/preview/ronald-mele.png
+suspect: ronald-mele.png
 booking:
 courtroom:
 courthouse:
@@ -27,5 +27,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)
