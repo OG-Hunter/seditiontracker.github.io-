@@ -11,8 +11,8 @@ age: 39
 occupation:
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/adam-weibling.jpg
-suspect: adam-weibling.jpg
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
@@ -27,6 +27,6 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.desertsun.com/story/news/nation/california/2021/06/10/four-riverside-county-men-among-6-socal-residents-indicted-capitol-breach/7647401002/)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)
