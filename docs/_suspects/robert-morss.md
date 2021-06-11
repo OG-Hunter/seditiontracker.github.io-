@@ -4,8 +4,8 @@ lastName: Morss
 aka:
 residence: Pennsylvania
 status: Charged
-date:
-charged:
+date: 2021-06-11
+charged: 2021-06-11
 indicted:
 age:
 occupation:
@@ -26,5 +26,6 @@ layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Morss%20Criminal%20Complaint.pdf)

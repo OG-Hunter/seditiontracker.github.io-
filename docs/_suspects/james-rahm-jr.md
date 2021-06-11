@@ -4,8 +4,8 @@ lastName: Rahm Jr
 aka:
 residence: New Jersey
 status: Charged
-date:
-charged:
+date: 2021-03-16
+charged: 2021-03-16
 indicted:
 age:
 occupation:
@@ -26,5 +26,6 @@ layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Rahm%20III%20Statement%20of%20Facts.pdf)
