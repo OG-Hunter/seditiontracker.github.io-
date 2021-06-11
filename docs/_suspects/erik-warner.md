@@ -11,8 +11,8 @@ age: 45
 occupation:
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/erik-warner.png
+suspect: erik-warner.png
 booking:
 courtroom:
 courthouse:
