@@ -1,7 +1,7 @@
 ---
 name: James Rahm
 lastName: Rahm
-aka:
+aka: JD Rahm III
 residence: New Jersey
 status: Indicted
 date: 2021-02-05
