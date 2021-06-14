@@ -3,10 +3,10 @@ name: John Andries
 lastName: Andries
 aka:
 residence: Maryland
-status: Charged
+status: Indicted
 date: 2021-01-28
 charged: 2021-01-28
-indicted:
+indicted: 2021-05-26
 age: 35
 occupation: U.S. Military (former)
 affiliations: military
@@ -36,3 +36,4 @@ charges:
 - [News Report](https://smnewsnet.com/archives/487309/piney-point-man-arrested-for-involvement-with-capitol-siege-on-january-6th/)
 - [Complaint](https://beta.documentcloud.org/documents/20475087-2-8-21-us-v-john-andries-information)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Daniel%20Andries%20Statement%20of%20Facts.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404256/download)

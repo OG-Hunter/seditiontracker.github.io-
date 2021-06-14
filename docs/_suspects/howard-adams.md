@@ -3,10 +3,10 @@ name: Howard Adams
 lastName: Adams
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-03-10
 charged: 2021-03-10
-indicted:
+indicted: 2021-05-14
 age: 57
 occupation:
 affiliations:
@@ -26,5 +26,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/03/10/another-central-florida-man-arrested-in-capitol-riot/#//)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Adams%20Statement%20of%20Facts.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404186/download)
