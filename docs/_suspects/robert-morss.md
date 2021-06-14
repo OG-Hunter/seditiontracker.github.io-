@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "You guys are betraying us. You get paid enough to betray your people?"
+quote: 'You guys are betraying us. You get paid enough to betray your people?'
 title: Robert Morss charged on June 11, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -28,4 +28,4 @@ charges:
 ---
 
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Morss%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)
