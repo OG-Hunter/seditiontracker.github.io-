@@ -8,7 +8,7 @@ date: 2011-06-11
 charged: 2011-06-11
 indicted:
 age:
-occupation:
+occupation: Police Officer
 affiliations:
 jurisdiction: Federal
 image: /images/preview/karol-chwiesiuk.png
