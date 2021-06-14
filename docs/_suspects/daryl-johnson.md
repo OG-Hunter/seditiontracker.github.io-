@@ -2,7 +2,7 @@
 name: Daryl Johnson
 lastName: Johnson
 aka:
-residence:
+residence: Iowa
 status: Charged
 date: 2021-06-04
 charged: 2021-06-04
@@ -18,8 +18,8 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
-title: Daryl Johnson charged on [longDate]
+quote: "I was there the media story is completely crap"
+title: Daryl Johnson charged on June 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -27,5 +27,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://globegazette.com/community/mcpress/news/st-ansgar-man-and-his-son-arrested-for-alleged-involvement-in-january-u-s-capitol/article_b933ccd3-4b4f-5133-b737-78c3c0886510.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
