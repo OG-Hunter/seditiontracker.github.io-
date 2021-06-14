@@ -3,10 +3,11 @@ name: Joshua Bustle
 lastName: Bustle
 aka:
 residence: Virginia
-status: Charged
+status: Convicted
 date: 2021-03-04
 charged: 2021-03-04
 indicted:
+convicted: 2021-06-14
 age: 34
 occupation:
 affiliations:
@@ -26,6 +27,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/anti-vaxxer-jessica-bustle-and-husband-joshua-bustle-are-both-busted-for-breaching-u-s-capitol-building-on-jan-6/)
 - [Statement of Facts](https://www.scribd.com/document/498371241/Bustle-Statement-of-Facts?secret_password=dLy9FK4sxcc6rBK5zQGk#from_embed)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380181/download)
