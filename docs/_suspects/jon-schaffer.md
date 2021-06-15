@@ -8,6 +8,7 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2021-04-16
+dismissed:
 age: 52
 occupation: Metal Guitarist (Iced Earth)
 affiliations: Oath Keepers
@@ -26,17 +27,17 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://variety.com/2021/music/news/metal-guitarist-john-schaffer-surrenders-fbi-capitol-siege-1234887239/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1350971493891661829?s=20)
 - [Self Incrimination(Video)](https://youtu.be/wIvjGg3RFyg)
 - [Complaint](https://www.justice.gov/opa/page/file/1356011/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356006/download)
 - [Guilty Plea (News)](https://www.washingtonpost.com/local/legal-issues/guilty-plea-capitol-riot/2021/04/16/f7d5d420-9eb6-11eb-9d05-ae06f4529ece_story.html)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jon%20Ryan%20Schaffer%20Plea%20Agreement.pdf)

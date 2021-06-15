@@ -249,6 +249,8 @@ const linkType = (description: string, lastName?: string) => {
     description = description.replace("&nbsp;", " ");
 
     switch(true) {
+      case /Plea Agreement/.test(description):
+        return "Plea Agreement"
       case /Affidavit/.test(description):
       case /Affidavit in Support of Criminal Complaint/.test(description):
       case /Affadavit/.test(description):
