@@ -25,7 +25,7 @@ title: Nicole Prado charged on June 3, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/meet-the-new-congresswoman-friends-instagram-post-leads-to-womans-capitol-riot-arrest-nicole-prado-trump-gaithersburg/65-f436d15e-6d06-462d-9a94-5ac2d9ea4e11)
