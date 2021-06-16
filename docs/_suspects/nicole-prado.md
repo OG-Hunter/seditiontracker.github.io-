@@ -30,3 +30,4 @@ charges:
 ---
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/meet-the-new-congresswoman-friends-instagram-post-leads-to-womans-capitol-riot-arrest-nicole-prado-trump-gaithersburg/65-f436d15e-6d06-462d-9a94-5ac2d9ea4e11)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicole%20Prado%20Criminal%20Complaint.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404496/download)
