@@ -310,6 +310,8 @@ const linkType = (description: string, lastName?: string) => {
       case /Governments Opposition to Defendants Motion for Reconsideration/.test(description):
       case /Opposition to Defendants Motion for Revocation of Detention Order/.test(description):
         return "Government Opposition to Reconsideration of Release"
+      case /Bustle*/.test(description):
+        return "DOJ Press Release"
       default:
         warning(`unknown link type for ${lastName}: ${description}`)
         return "DOJ Press Release"
