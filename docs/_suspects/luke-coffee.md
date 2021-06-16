@@ -3,10 +3,12 @@ name: Luke Coffee
 lastName: Coffee
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-02-16
 charged: 2021-02-16
-indicted:
+indicted: 2021-04-28
+convicted:
+dismissed:
 age: 41
 occupation:
 affiliations:
@@ -26,5 +28,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.thedailybeast.com/luke-coffee-fledgling-actor-from-texas-bashed-a-cop-during-capitol-riot-prosecutors-allege)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Coffee%20Statement%20of%20Facts_0.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404986/download)

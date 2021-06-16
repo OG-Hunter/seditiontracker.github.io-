@@ -2,10 +2,10 @@
 name: Anthony Scirica
 lastName: Scirica
 aka:
-residence: 
+residence:
 status: Charged
-date:
-charged:
+date: 2021-06-14
+charged: 2021-06-14
 indicted:
 convicted:
 dismissed:
@@ -28,5 +28,6 @@ layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Scirica%20Statement%20of%20Facts.pdf)
