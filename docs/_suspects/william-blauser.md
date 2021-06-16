@@ -3,10 +3,10 @@ name: William Blauser
 lastName: Blauser
 aka:
 residence: Pennsylvania
-status: Charged
+status: Indicted
 date: 2021-05-18
 charged: 2021-05-18
-indicted:
+indicted: 2021-06-04
 age:
 occupation:
 affiliations:
@@ -26,6 +26,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://triblive.com/local/regional/fbi-charges-pair-from-mckean-county-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395356/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395401/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404551/download)
