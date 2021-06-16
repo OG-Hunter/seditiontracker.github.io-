@@ -4,8 +4,8 @@ lastName: Gruppo
 aka:
 residence: Texas
 status: Charged
-date: 2020-06-01
-charged: 2020-06-01
+date: 2021-06-01
+charged: 2021-06-01
 indicted:
 age:
 occupation: Physician's Assistant
@@ -19,7 +19,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Leonard Gruppo charged on June 1st, 2020
+title: Leonard Gruppo charged on June 1st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
