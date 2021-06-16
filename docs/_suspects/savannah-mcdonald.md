@@ -25,7 +25,7 @@ title: Savannah Mcdonald charged on June 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.emptywheel.net/2021/06/15/the-delayed-trespassing-charges-against-savanah-mcdonald-and-nolan-kidd/)
