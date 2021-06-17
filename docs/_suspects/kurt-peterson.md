@@ -25,7 +25,7 @@ title: Kurt Peterson arrested on June 16, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.whas11.com/article/news/crime/arrest-kurt-peterson-hodgenville-capitol-riot/417-10893ffb-00ba-4977-991a-3996fd089803)
