@@ -25,7 +25,7 @@ title: Kim Sorgente arrested on March 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)
