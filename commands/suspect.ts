@@ -8,6 +8,7 @@ const suspect = new Command()
   .command("import", "import suspects from an external source")
   .command("unpublished", "list unpublished suspects")
   .command("verify", "verify all required elements present before publishing")
+  .command("convict", "mark a new suspect as convicted")
 suspect.parse(process.argv);
 
 const subCmd = head(suspect.args);

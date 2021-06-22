@@ -3,10 +3,11 @@ name: Bryan Ivey
 lastName: Ivey
 aka:
 residence: Tennessee
-status: Charged
+status: Convicted
 date: 2021-03-04
 charged: 2021-03-04
 indicted:
+convicted: 2021-06-22
 age: 28
 occupation:
 affiliations:
