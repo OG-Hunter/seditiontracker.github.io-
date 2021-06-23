@@ -3,10 +3,11 @@ name: Anna Morgan-Lloyd
 lastName: Morgan-Lloyd
 aka:
 residence: Indiana
-status: Charged
+status: Convicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted:
+convicted: 2021-06-23
 age: 49
 occupation:
 affiliations:
