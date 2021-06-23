@@ -5,6 +5,27 @@ image: /images/suspects.png
 description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
+{% assign sentenced = site.suspects | where_exp: "suspect", "suspect.status == 'Sentenced'" | sort:
+"sentenced" | reverse %}
+
+<h2 class="table">Suspects (Sentenced)</h2>
+Total Count: {{ sentenced.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in sentenced %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.sentenced | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
 {% assign convicted = site.suspects | where_exp: "suspect", "suspect.status == 'Convicted'" | sort:
 "convicted" | reverse %}
 

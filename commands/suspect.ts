@@ -9,6 +9,7 @@ const suspect = new Command()
   .command("unpublished", "list unpublished suspects")
   .command("verify", "verify all required elements present before publishing")
   .command("convict", "mark a new suspect as convicted")
+  .command("sentence", "mark a new suspect as sentenced")
 suspect.parse(process.argv);
 
 const subCmd = head(suspect.args);

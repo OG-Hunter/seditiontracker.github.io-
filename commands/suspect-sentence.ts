@@ -5,34 +5,34 @@ import { readFile, writeFile } from "./common/file";
 import { exit } from "process";
 import { execSync } from 'child_process'
 
-const cmd = new Command('convict')
+const cmd = new Command('sentence')
   .requiredOption("-s, --slug [slug]", "filename slug")
-  .requiredOption("-d, --date [date]", "date of guilty plea");
+  .requiredOption("-d, --date [date]", "date of sentencing");
 cmd.parse(process.argv);
 
-const convict = async() => {
+const sentence = async() => {
   const suspectFiles = fs.readdirSync('./docs/_suspects');
   const nameSet:Set<string> = new Set();
   let maxId = 0;
 
   for (const suspectFile of suspectFiles) {
     if (suspectFile.replace(".md", "") == cmd.slug) {
-      info("Changing status to guilty");
+      info("Changing status to sentenced");
 
       const suspectPath = `./docs/_suspects/${suspectFile}`
       let data = readFile(suspectPath)
 
-      data = data.replace(/status: .*\n/, "status: Convicted\n")
-      if (/convicted:.*\n/.test(data)) {
-        data = data.replace(/convicted:.*\n/, `convicted: ${cmd.date}\n`)
+      data = data.replace(/status: .*\n/, "status: Sentenced\n")
+      if (/sentenced:.*\n/.test(data)) {
+        data = data.replace(/sentenced:.*\n/, `sentenced: ${cmd.date}\n`)
       } else {
-        data.match(/(indicted:.*\n)/)
-        data = data.replace(/(indicted:.*\n)/, `${RegExp.$1}convicted: ${cmd.date}\n`)
+        data.match(/(convicted:.*\n)/)
+        data = data.replace(/(convicted:.*\n)/, `${RegExp.$1}sentenced: ${cmd.date}\n`)
       }
 
       writeFile(suspectPath, data)
-      const previewImage = data.match(/\/images\/preview\/(.*)\n/)
-      execSync(`yarn suspect preview -f ${RegExp.$1} -s Convicted`)
+      data.match(/\/images\/preview\/(.*)\n/)
+      execSync(`yarn suspect preview -f ${RegExp.$1} -s Sentenced`)
 
       exit()
     }
@@ -40,4 +40,4 @@ const convict = async() => {
   exitWithError(`No such file ${cmd.slug}.md`)
 }
 
-convict();
+sentence();
