@@ -8,6 +8,7 @@ date: 2021-03-04
 charged: 2021-03-04
 indicted:
 convicted: 2021-06-22
+dismissed:
 age: 28
 occupation:
 affiliations:
@@ -31,3 +32,4 @@ charges:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Wayne%20Ivey%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383061/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405631/download)
