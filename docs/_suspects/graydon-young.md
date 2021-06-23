@@ -3,10 +3,11 @@ name: Graydon Young
 lastName: Young
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-02-15
 charged: 2021-02-15
-indicted: 2021-02-19
+indicted:
+convicted: 2021-06-23
 age: 54
 occupation:
 affiliations: Oath Keepers
