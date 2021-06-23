@@ -18,7 +18,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Teargassed 6 times, pepper sprayed, and mustard gassed at the end."
+quote: 'Teargassed 6 times, pepper sprayed, and mustard gassed at the end.'
 title: Brian Mock charged on June 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -29,3 +29,4 @@ charges:
 
 - [News Report](https://minnesota.cbslocal.com/2021/06/11/minneapolis-man-brian-mock-accused-of-assaulting-officer-in-jan-6-u-s-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403426/download)
+- [Bodycam Evidence (Video)](https://twitter.com/alanfeuer/status/1407784550986563584)
