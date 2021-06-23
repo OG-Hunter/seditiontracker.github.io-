@@ -3,10 +3,12 @@ name: Robert Reeder
 lastName: Reeder
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted:
+convicted: 2021-06-23
+dismissed:
 age:
 occupation:
 affiliations:
@@ -29,3 +31,4 @@ charges:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371496/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377946/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405716/download)
