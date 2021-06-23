@@ -8,6 +8,7 @@ date: 2021-02-15
 charged: 2021-02-15
 indicted:
 convicted: 2021-06-23
+dismissed:
 age: 54
 occupation:
 affiliations: Oath Keepers
@@ -27,9 +28,9 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369071/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Graydon%20Young%20Plea%20Agreement.pdf)
