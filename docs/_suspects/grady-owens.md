@@ -31,3 +31,4 @@ charges:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382531/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382536/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384581/download)
+- [Bodycam Evidence (Video)](https://twitter.com/ryanjreilly/status/1407812891730976783)
