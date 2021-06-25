@@ -25,7 +25,7 @@ title: David Lesperance arrested on June 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.msn.com/en-us/news/crime/central-florida-man-arrested-in-connection-with-january-6-capitol-riot/ar-AALpHS2)
