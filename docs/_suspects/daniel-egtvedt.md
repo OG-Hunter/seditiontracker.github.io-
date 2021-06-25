@@ -31,3 +31,4 @@ charges:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Dean%20Egtvedt%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371351/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377696/download)
+- [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408447364680065024)
