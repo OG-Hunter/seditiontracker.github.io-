@@ -34,3 +34,4 @@ charges:
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408447364680065024)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408448956737142787)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408451094989225989)
+- [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408452088976322563)
