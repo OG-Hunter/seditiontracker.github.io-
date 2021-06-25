@@ -17,7 +17,7 @@ image: /images/preview/david-lesperance.jpg
 suspect: david-lesperance.jpg
 booking:
 courtroom:
-courthouse:
+courthouse: david-lesperance.jpg
 raid:
 perpwalk:
 quote:
@@ -28,4 +28,4 @@ layout: suspect
 published: false
 charges:
 ---
-- [News Story](https://www.orlandosentinel.com/news/crime/os-ne-capitol-arrest-melbourne-church-members-20210624-uxuok4bodvgu3iuuppfqiugrn4-story.html)
+- [News Story](https://www.msn.com/en-us/news/crime/central-florida-man-arrested-in-connection-with-january-6-capitol-riot/ar-AALpHS2)
