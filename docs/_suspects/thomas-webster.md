@@ -31,3 +31,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1363940436835004416?s=20)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380296/download)
+- [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408403884637405188)
