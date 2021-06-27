@@ -310,6 +310,10 @@ const linkType = (description: string, lastName?: string) => {
       case /Governments Opposition to Defendants Motion for Reconsideration/.test(description):
       case /Opposition to Defendants Motion for Revocation of Detention Order/.test(description):
         return "Government Opposition to Reconsideration of Release"
+      case /Memorandum in Aid of Sentencing/.test(description):
+        return "Memorandum in Aid of Sentencing"
+      case /Defense Memorandum in Support of Probationary Sentence/.test(description):
+        return "Defense Memorandum in Support of Probationary Sentence"
       case /Bustle*/.test(description):
         return "DOJ Press Release"
       default:
