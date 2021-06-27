@@ -14,7 +14,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/christopher-kelly.jpg
 suspect: christopher-kelly.jpg
-booking: christopher-kelly.jpg
+booking:
 courtroom:
 courthouse:
 raid:
