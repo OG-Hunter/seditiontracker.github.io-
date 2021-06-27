@@ -13,7 +13,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/christopher-warnagiris.jpg
 suspect: christopher-warnagiris.jpg
-booking:
+booking: christopher-warnagiris.png
 courtroom:
 courthouse:
 raid:
