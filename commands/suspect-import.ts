@@ -216,6 +216,7 @@ const falsePositives = (site: string) => {
       set.add("Sywak")
       set.add("Gonzalez")
       set.add("Vargas")
+      set.add("Weyer")
       break;
     case "DOJ":
       set.add("Capsel");
