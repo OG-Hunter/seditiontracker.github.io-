@@ -9,7 +9,7 @@ charged: 2021-06-23
 indicted:
 convicted:
 dismissed:
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -29,3 +29,4 @@ published: true
 charges:
 ---
 - [News Story](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mitchell%20Paul%20Vukich%20Statement%20of%20Facts.pdf)
