@@ -3,10 +3,11 @@ name: Robert Bauer
 lastName: Bauer
 aka:
 residence: Kentucky
-status: Charged
+status: Convicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted:
+convicted: 2021-06-28
 age:
 occupation:
 affiliations:
