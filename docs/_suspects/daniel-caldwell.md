@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-10
 charged: 2021-02-10
 indicted: 2021-03-03
+convicted: 
+sentenced: 
+dismissed: 
 age: 49
 occupation: Equipment Engineering Technician
 affiliations:

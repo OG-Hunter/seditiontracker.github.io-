@@ -8,6 +8,8 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-06-28
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:

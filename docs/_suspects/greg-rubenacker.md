@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-05
+convicted: 
+sentenced: 
+dismissed: 
 age: 25
 occupation: DJ
 affiliations:
@@ -25,14 +28,13 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Greg%20Rubenacker%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377751/download)

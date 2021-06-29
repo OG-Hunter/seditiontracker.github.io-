@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-04-02
 charged: 2021-04-02
 indicted: 2021-04-21
+convicted: 
+sentenced: 
+dismissed: 
 age: 33
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Story](https://news.yahoo.com/rioter-filmed-bashing-capitol-cops-223359036.html)
 - [Statement of Facts](https://assets.documentcloud.org/documents/20601199/andrew-jackson-morgan-jr.pdf)
 - [Self-Incrimination (Video)](https://www.youtube.com/watch?v=baV5XGmNteA)

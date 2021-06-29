@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
+convicted: 
+sentenced: 
+dismissed: 
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military

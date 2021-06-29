@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-30
 charged: 2021-03-30
 indicted: 2021-05-26
+convicted: 
+sentenced: 
+dismissed: 
 age: 30
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2021/03/30/capitol-riot-suspect-in-custody-in-orlando/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1381341/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1381346/download)

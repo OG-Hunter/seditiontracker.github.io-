@@ -7,6 +7,9 @@ status: Charged
 date: 2021-06-01
 charged: 2021-06-01
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 52
 occupation: Music teacher
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/florida-woman-assaulted-u-s-capitol-sergeant-with-a-flagpole-and-threatened-nancy-pelosi-on-jan-6th-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401016/download)
 - [Courthouse (Video)](https://twitter.com/nycsouthpaw/status/1400276104544493572)

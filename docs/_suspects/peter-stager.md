@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-01-29
+convicted: 
+sentenced: 
+dismissed: 
 age: 41
 occupation:
 affiliations:
@@ -25,11 +28,10 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Civil disorder
-    code: 18 USC 231
-    link: https://www.law.cornell.edu/uscode/text/18/231
+ - name: Civil disorder
+   code: 18 USC 231
+   link: https://www.law.cornell.edu/uscode/text/18/231
 ---
-
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)
 - [Complaint](https://www.justice.gov/opa/page/file/1354981/download)

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-02
+convicted: 
+sentenced: 
+dismissed: 
 age: 28
 occupation: Peace Corps
 affiliations:

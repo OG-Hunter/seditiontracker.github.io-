@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-11
 charged: 2021-01-11
 indicted: 2021-01-15
+convicted: 
+sentenced: 
+dismissed: 
 age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
 affiliations:

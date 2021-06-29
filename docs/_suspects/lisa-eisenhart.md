@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-02-12
+convicted: 
+sentenced: 
+dismissed: 
 age: 56
 occupation:
 affiliations:
@@ -25,20 +28,19 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Conspiracy
-    code: 18 USC 371
-    link: https://www.law.cornell.edu/uscode/text/18/371
-  - name: Civil disorder
-    code: 18 USC 231
-    link: https://www.law.cornell.edu/uscode/text/18/231
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Conspiracy
+   code: 18 USC 371
+   link: https://www.law.cornell.edu/uscode/text/18/371
+ - name: Civil disorder
+   code: 18 USC 231
+   link: https://www.law.cornell.edu/uscode/text/18/231
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)

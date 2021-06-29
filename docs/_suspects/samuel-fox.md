@@ -7,9 +7,10 @@ status: Charged
 date: 2021-06-23
 charged: 2021-06-23
 indicted:
-convicted:
-dismissed:
-age: 
+convicted: 
+sentenced: 
+dismissed: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal

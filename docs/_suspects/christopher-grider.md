@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-26
+convicted: 
+sentenced: 
+dismissed: 
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military

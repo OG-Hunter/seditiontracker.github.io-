@@ -8,7 +8,8 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2021-04-16
-dismissed:
+sentenced: 
+dismissed: 
 age: 52
 occupation: Metal Guitarist (Iced Earth)
 affiliations: Oath Keepers

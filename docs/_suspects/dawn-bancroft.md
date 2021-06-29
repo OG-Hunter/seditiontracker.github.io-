@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-29
 charged: 2021-01-29
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 59
 occupation: Business Owner (CrossFit)
 affiliations:

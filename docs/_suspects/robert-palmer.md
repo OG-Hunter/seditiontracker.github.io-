@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-28
+convicted: 
+sentenced: 
+dismissed: 
 age: 53
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Palmer%20Complaint_Redacted.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)

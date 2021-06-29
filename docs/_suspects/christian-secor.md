@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-16
 charged: 2021-02-16
 indicted: 2021-02-26
+convicted: 
+sentenced: 
+dismissed: 
 age: 22
 occupation: Student, UCLA
 affiliations:

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-04-26
 charged: 2021-04-26
 indicted: 2021-05-05
+convicted: 
+sentenced: 
+dismissed: 
 age: 54
 occupation: Owner, Motor-Coach Business
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download)

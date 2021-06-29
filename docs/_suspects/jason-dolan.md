@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Security Guard
 affiliations: Oath Keepers, Former USMC
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.palmbeachpost.com/story/news/2021/06/01/marine-wellington-arrested-capitol-riots/7469247002/)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-14
 charged: 2021-01-14
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 49
 occupation: School Therapist
 affiliations:

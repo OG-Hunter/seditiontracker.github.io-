@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-19
 charged: 2021-02-19
 indicted: 2021-03-19
+convicted: 
+sentenced: 
+dismissed: 
 age: 55
 occupation: Police Officer
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.washingtonpost.com/nation/2021/02/21/officer-joseph-fischer-charged-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369301/download)
 - [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.229085/gov.uscourts.dcd.229085.12.0_1.pdf)

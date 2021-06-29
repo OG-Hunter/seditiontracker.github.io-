@@ -7,6 +7,9 @@ status: Charged
 date: 2021-06-11
 charged: 2021-06-11
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Substitute Teacher
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)

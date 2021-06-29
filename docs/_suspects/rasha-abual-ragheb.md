@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-28
+convicted: 
+sentenced: 
+dismissed: 
 age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-17
 charged: 2021-05-17
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:

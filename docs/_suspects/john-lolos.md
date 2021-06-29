@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-09
 charged: 2021-01-09
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)

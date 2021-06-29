@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-02-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 37
 occupation: Gym Owner
 affiliations:

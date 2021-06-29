@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-03-19
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-pennsylvania-man-charged-capitol-ex-girlfriend-fbi-20210224-ykcigqstwvdvnaric6chlxrqxy-story.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Michetti%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.229091/gov.uscourts.dcd.229091.7.0.pdf)

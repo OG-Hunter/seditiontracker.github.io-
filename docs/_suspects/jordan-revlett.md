@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 23
 occupation:
 affiliations:

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-22
 charged: 2021-02-22
 indicted: 2021-03-12
+convicted: 
+sentenced: 
+dismissed: 
 age: 54
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nytimes.com/2021/02/23/nyregion/nypd-officer-arrested-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1363940436835004416?s=20)

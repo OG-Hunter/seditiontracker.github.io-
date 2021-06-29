@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations: Oath Keepers
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.mysuncoast.com/2021/05/31/sarasota-man-facing-changes-jan-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)

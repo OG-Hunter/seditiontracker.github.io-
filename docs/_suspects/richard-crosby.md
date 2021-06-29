@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-28
 charged: 2021-05-28
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 25
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.courant.com/news/connecticut/hc-news-crosby-capitol-riot-20210603-20210603-5alcjgmuafddvavo667mmm4epe-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401786/download)

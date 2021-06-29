@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 48
 occupation: Police Officer
 affiliations:

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-25
 charged: 2021-04-25
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 62
 occupation:
 affiliations: U.S. Army Veteran

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-03
 charged: 2021-03-03
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 53
 occupation:
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379351/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379356/download)

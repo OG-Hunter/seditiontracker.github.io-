@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-04-01
 charged: 2021-04-01
 indicted: 2021-04-07
+convicted: 
+sentenced: 
+dismissed: 
 age: 21
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-riot-grady-owens-denied-release-20210402-6c6ehq5imva3dhaud6hujkjgoy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382531/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382536/download)

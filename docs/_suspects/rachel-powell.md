@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-03-03
+convicted: 
+sentenced: 
+dismissed: 
 age: 40
 occupation:
 affiliations:
@@ -25,20 +28,19 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Obstruction of an official proceeding
-    code: 18 USC 1512
-    link: https://www.law.cornell.edu/uscode/text/18/1512
-  - name: Destruction of government property
-    code: 18 USC 1361
-    link: https://www.law.cornell.edu/uscode/text/18/1361
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
+ - name: Destruction of government property
+   code: 18 USC 1361
+   link: https://www.law.cornell.edu/uscode/text/18/1361
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [FBI Search (VIDEO)](https://www.wpxi.com/news/top-stories/local-woman-wanted-role-violence-us-capitol-custody-source-say/CDOTG3JKHRGQXMZW4GOVFKOJHQ/)
 - [Self Incrimination (Interview)](https://www.newyorker.com/news/news-desk/a-pennsylvania-mothers-path-to-insurrection-capitol-riot)

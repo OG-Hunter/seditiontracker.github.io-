@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-13
 charged: 2021-04-13
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 26
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Story](https://www.tennessean.com/story/news/crime/2021/04/13/murfreesboro-man-michael-roche-arrested-u-s-capitol-riot-case/7205782002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386731/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386736/download)

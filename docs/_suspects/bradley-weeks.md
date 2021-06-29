@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-03-24
+convicted: 
+sentenced: 
+dismissed: 
 age: 43
 occupation:
 affiliations:
@@ -25,14 +28,13 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.firstcoastnews.com/article/news/crime/jacksonville-man-arrested-charged-in-deadly-capitol-riot/77-c247b5a6-100b-462c-a035-3c458106725d)
 - [FBI Statement](https://news.wjct.org/post/baker-county-man-arrested-charged-connection-siege-us-capitol)
 - [Self Incrimination (Interview)](https://bakercountypress.com/2021/01/local-man-involved-in-capitol-siege/)

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-19
 charged: 2021-03-19
 indicted: 2021-04-02
+convicted: 
+sentenced: 
+dismissed: 
 age: 31
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.richlandsource.com/crawford_source/bucyrus-man-who-posted-on-facebook-charged-in-jan-6-capitol-assault/article_82a3bc50-8c30-11eb-a7b8-837ae2e13500.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Seitz%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384361/download)

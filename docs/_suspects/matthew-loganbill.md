@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-15
 charged: 2021-03-15
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 55
 occupation: Owner, Firearms Store
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.kshb.com/news/crime/missouri-firearms-store-owner-charged-in-connection-to-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380626/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380631/download)

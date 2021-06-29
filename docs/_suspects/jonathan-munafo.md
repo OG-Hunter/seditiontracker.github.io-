@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-23
 charged: 2021-04-23
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 34
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/breaking-news/os-ne-jonathan-munafo-us-capitol-riot-20210427-cmz7ovdhejeefm2unzdns4aqzy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389816/download)

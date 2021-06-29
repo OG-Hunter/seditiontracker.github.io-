@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 44
 occupation: FAA
 affiliations:

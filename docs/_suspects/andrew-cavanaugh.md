@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-15
 charged: 2021-03-15
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 36
 occupation: Business Owner (Tactical Citizen, LLC)
 affiliations:

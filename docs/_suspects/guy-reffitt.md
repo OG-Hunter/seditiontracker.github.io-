@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-27
+convicted: 
+sentenced: 
+dismissed: 
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force

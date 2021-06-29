@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-05
+convicted: 
+sentenced: 
+dismissed: 
 age: 26
 occupation: Sanitation Worker
 affiliations:

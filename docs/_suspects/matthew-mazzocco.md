@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-17
 charged: 2021-01-17
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 37
 occupation: "Mortgage Loan Ninja"
 affiliations:

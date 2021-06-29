@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-29
 charged: 2021-01-29
 indicted: 2021-02-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem

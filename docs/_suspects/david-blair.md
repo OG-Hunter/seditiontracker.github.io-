@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-blair-capitol-search-warrant-20210202-x4uzotfxhng5ddglhnl5npeonu-story.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Blair%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371291/download)

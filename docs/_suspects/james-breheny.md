@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-18
 charged: 2021-05-18
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 61
 occupation:
 affiliations: Oath Keepers

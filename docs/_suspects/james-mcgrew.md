@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-27
 charged: 2021-05-27
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.azcentral.com/story/news/local/arizona/2021/06/02/james-burton-mcgrew-king-james-belly-tattoo-arrested-arizona-striking-2-officers-capitol-riot-jan-6/7499980002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400856/download)

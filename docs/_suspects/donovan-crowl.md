@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-27
+convicted: 
+sentenced: 
+dismissed: 
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia

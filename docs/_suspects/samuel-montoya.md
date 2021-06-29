@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-08
 charged: 2021-04-08
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
 affiliations:

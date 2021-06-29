@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-01-27
+convicted: 
+sentenced: 
+dismissed: 
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters

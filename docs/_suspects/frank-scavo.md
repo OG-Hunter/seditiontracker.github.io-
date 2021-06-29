@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-24
 charged: 2021-03-24
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 58
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.timesleader.com/news/1137275/scavo-was-pushed-into-capitol-lawyer-says)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380551/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380711/download)

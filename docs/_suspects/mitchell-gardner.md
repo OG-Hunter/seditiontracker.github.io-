@@ -7,8 +7,9 @@ status: Charged
 date: 2021-06-25
 charged: 2021-06-25
 indicted:
-convicted:
-dismissed:
+convicted: 
+sentenced: 
+dismissed: 
 age: 33
 occupation:
 affiliations:
@@ -28,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Story](https://www.tampabay.com/news/hillsborough/2021/06/28/hillsborough-mans-arrest-makes-500-charged-in-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407206/download)

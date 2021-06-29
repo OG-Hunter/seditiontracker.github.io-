@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-04-30
+convicted: 
+sentenced: 
+dismissed: 
 age: 36
 occupation: Business Owner (Woodworking Shop)
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/pennsylvania-rioter-dale-shalvey-charged-after-going-through-senate-papers-during-capitol-riot)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Shalvey%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390821/download)

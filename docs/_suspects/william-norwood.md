@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-25
 charged: 2021-02-25
 indicted: 2021-03-19
+convicted: 
+sentenced: 
+dismissed: 
 age: 37
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nbcnews.com/news/us-news/south-carolina-man-charged-capitol-riot-bragged-he-dressed-antifa-n1259298)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379061/download)

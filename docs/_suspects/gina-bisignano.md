@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-29
+convicted: 
+sentenced: 
+dismissed: 
 age: 52
 occupation: Salon Owner
 affiliations:

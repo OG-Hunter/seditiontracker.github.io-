@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-02-26
+convicted: 
+sentenced: 
+dismissed: 
 age: 53
 occupation: Business Owner
 affiliations:
@@ -25,11 +28,10 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Transmitting a threat in interstate commerce
-    code: 18 USC 875
-    link: https://www.law.cornell.edu/uscode/text/18/875
+ - name: Transmitting a threat in interstate commerce
+   code: 18 USC 875
+   link: https://www.law.cornell.edu/uscode/text/18/875
 ---
-
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353311/download)

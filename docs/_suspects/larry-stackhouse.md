@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-02
 charged: 2021-03-02
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 33
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nj.com/camden/2021/03/nj-man-charged-in-capitol-riot-identified-by-coworkers-had-called-out-that-day-feds-say.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379371/download)

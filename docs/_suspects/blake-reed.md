@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-03-10
+convicted: 
+sentenced: 
+dismissed: 
 age: 35
 occupation:
 affiliations:
@@ -25,14 +28,13 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

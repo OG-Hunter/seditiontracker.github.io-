@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-03-10
+convicted: 
+sentenced: 
+dismissed: 
 age: 37
 occupation:
 affiliations: Proud Boys (Organizer)
@@ -25,17 +28,16 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Obstruction of an official proceeding
-    code: 18 USC 1512
-    link: https://www.law.cornell.edu/uscode/text/18/1512
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Obstruction of an official proceeding
+   code: 18 USC 1512
+   link: https://www.law.cornell.edu/uscode/text/18/1512
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://www.thedailybeast.com/joseph-biggs-proud-boys-leader-arrested-for-storming-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357251/download)
 - [Court Appearance (VIDEO)](https://www.youtube.com/watch?v=G9hkJRbSptI)

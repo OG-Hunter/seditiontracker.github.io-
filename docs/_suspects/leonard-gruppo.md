@@ -7,6 +7,9 @@ status: Charged
 date: 2021-06-01
 charged: 2021-06-01
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Physician's Assistant
 affiliations:

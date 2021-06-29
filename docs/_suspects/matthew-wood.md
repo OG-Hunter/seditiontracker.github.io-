@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-03
 charged: 2021-03-03
 indicted: 2021-03-17
+convicted: 
+sentenced: 
+dismissed: 
 age: 23
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.charlotteobserver.com/news/politics-government/article249797823.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Wood%20Statement%20of%20Facts_Redacted.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379541/download)

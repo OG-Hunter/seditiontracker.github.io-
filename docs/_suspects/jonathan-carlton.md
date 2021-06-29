@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-24
+convicted: 
+sentenced: 
+dismissed: 
 age: 45
 occupation: State Corrections Officer
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.jacksonville.com/story/news/courts/2021/03/11/corrections-officer-faces-judge-jacksonville-over-capitol-riot/4650980001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378516/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378521/download)

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-08
 charged: 2021-01-08
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 35
 occupation: West Viriginia Delegate
 affiliations:

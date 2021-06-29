@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-12
 charged: 2021-04-12
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 30
 occupation: Owner, Tree Removal Business
 affiliations:

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-02-24
+convicted: 
+sentenced: 
+dismissed: 
 age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military
@@ -25,17 +28,16 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Civil disorder
-    code: 18 USC 231
-    link: https://www.law.cornell.edu/uscode/text/18/231
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Civil disorder
+   code: 18 USC 231
+   link: https://www.law.cornell.edu/uscode/text/18/231
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355471/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355471/download)

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-10
 charged: 2021-02-10
 indicted: 2021-03-05
+convicted: 
+sentenced: 
+dismissed: 
 age: 34
 occupation: Real Estate Agent
 affiliations:

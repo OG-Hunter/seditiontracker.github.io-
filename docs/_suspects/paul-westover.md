@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 52
 occupation: Technical Recruiter
 affiliations:

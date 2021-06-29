@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-04-21
 charged: 2021-04-21
 indicted: 2021-04-20
+convicted: 
+sentenced: 
+dismissed: 
 age: 33
 occupation:
 affiliations: Proud Boys
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://spectrumlocalnews.com/nys/central-ny/public-safety/2021/04/21/syracuse--proud-boy--charged-in-jan--6-capitol-riot)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388681/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAlbany/status/1384996862026035205)

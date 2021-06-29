@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-10
 charged: 2021-02-10
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 40
 occupation: Insurance Adjuster
 affiliations:

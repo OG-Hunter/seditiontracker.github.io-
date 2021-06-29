@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-19
+convicted: 
+sentenced: 
+dismissed: 
 age: 55
 occupation: Veteran, U.S. Marine Corps
 affiliations:

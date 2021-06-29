@@ -7,8 +7,9 @@ status: Charged
 date: 2021-06-14
 charged: 2021-06-14
 indicted:
-convicted:
-dismissed:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -28,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-anthony-scirica-charged-after-friend-snapchats-about-him-tv-1601370)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Scirica%20Statement%20of%20Facts.pdf)

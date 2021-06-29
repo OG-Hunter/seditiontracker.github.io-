@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-06-09
 charged: 2021-06-09
 indicted: 2021-06-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 39
 occupation:
 affiliations: Three Percenters
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.desertsun.com/story/news/nation/california/2021/06/10/four-riverside-county-men-among-6-socal-residents-indicted-capitol-breach/7647401002/)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)

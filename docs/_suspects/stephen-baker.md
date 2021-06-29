@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)

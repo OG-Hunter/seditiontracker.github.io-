@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-17
 charged: 2021-02-17
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 47
 occupation: Nurse Anesthetist
 affiliations:

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-22
 charged: 2021-03-22
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 60
 occupation: Owner, Auto Body Shop
 affiliations:

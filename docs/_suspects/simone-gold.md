@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-05
+convicted: 
+sentenced: 
+dismissed: 
 age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
 affiliations:

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-12
 charged: 2021-01-12
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Fire Fighter
 affiliations:
@@ -25,14 +28,13 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Courthouse Steps [Video]](https://twitter.com/EricMockTV/status/1349127558709866502?s=20)

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-21
+convicted: 
+sentenced: 
+dismissed: 
 age: 48
 occupation: Business Owner
 affiliations:

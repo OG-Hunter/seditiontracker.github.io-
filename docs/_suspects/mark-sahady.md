@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)

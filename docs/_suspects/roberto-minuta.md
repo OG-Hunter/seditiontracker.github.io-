@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-06
 charged: 2021-03-06
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 36
 occupation: Owner, Tattoo Parlor
 affiliations: Oath Keepers

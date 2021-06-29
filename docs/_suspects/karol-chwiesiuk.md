@@ -7,6 +7,9 @@ status: Charged
 date: 2021-06-11
 charged: 2021-06-11
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Police Officer
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://chicago.cbslocal.com/2021/06/11/cpd-officer-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-02-08
+convicted: 
+sentenced: 
+dismissed: 
 age: 47
 occupation: County Commissioner
 affiliations: Cowboys for Trump

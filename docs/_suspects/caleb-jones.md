@@ -7,6 +7,9 @@ status: Charged
 date: 2021-03-22
 charged: 2021-03-22
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 23
 occupation:
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nbc4i.com/news/local-news/columbus-man-23-charged-in-captiol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caleb%20Jones%20Statement%20of%20Facts_Redacted.pdf)

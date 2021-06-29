@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-03-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 58
 occupation:
 affiliations:
@@ -25,11 +28,10 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Transmitting a threat in interstate commerce
-    code: 18 USC 875
-    link: https://www.law.cornell.edu/uscode/text/18/875
+ - name: Transmitting a threat in interstate commerce
+   code: 18 USC 875
+   link: https://www.law.cornell.edu/uscode/text/18/875
 ---
-
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)

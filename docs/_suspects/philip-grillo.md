@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-21
 charged: 2021-02-21
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 46
 occupation:
 affiliations:
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://queenseagle.com/all/queens-gop-district-leader-arrested-for-role-in-capitol-insurrection)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Grillo%20Statement%20of%20Facts.pdf)

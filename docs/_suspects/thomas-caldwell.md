@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-27
+convicted: 
+sentenced: 
+dismissed: 
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military

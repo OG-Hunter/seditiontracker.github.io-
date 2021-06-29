@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-07
 charged: 2021-04-07
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -26,5 +29,4 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Kramer%20Statement%20of%20Facts.pdf)

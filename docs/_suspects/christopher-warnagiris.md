@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-13
 charged: 2021-05-13
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 40
 occupation: Active Duty U.S. Marine Corps Officer
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.newsweek.com/christopher-warnagiris-active-duty-marine-based-quantico-arrested-assaulting-officer-capitol-1591329)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/active-duty-us-marine-corps-officer-arrested-assault-federal-law-enforcement-officer)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1393941/download)

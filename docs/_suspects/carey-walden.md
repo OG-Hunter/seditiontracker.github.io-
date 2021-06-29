@@ -7,6 +7,9 @@ status: Charged
 date: 2021-05-21
 charged: 2021-05-21
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 47
 occupation:
 affiliations: Marine Corps veteran
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401811/download)

@@ -7,6 +7,9 @@ status: Charged
 date: 2021-01-20
 charged: 2021-01-20
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776

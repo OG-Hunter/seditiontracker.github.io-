@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-06-09
 charged: 2021-06-09
 indicted: 2021-06-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 56
 occupation: Yoga Instructor, Former Police Chief
 affiliations: Three Percenters, American Phoenix Project
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/alan-hostetter-california-stop-the-steal-organizer-indicted-for-conspiracy)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
 - [FBI Raid](https://www.cnn.com/2021/02/03/politics/fbi-raids-capitol-attack-investigation/index.html)

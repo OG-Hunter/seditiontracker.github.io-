@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-06
 charged: 2021-04-06
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 25
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384121/download)

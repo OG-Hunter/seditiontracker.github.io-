@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-09
 charged: 2021-04-09
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation: Volunteer Firefighter
 affiliations:

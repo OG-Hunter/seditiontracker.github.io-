@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-08
 charged: 2021-03-08
 indicted: 2021-03-26
+convicted: 
+sentenced: 
+dismissed: 
 age:
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.masslive.com/springfield/2021/03/troy-sargent-arrested-after-fbi-says-pittsfield-man-participated-in-violence-at-us-capitol.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Sargent%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380406/download)

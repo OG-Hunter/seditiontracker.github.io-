@@ -7,8 +7,9 @@ status: Indicted
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-03-10
-convicted:
-dismissed:
+convicted: 
+sentenced: 
+dismissed: 
 age: 33
 occupation:
 affiliations: Proud Boys

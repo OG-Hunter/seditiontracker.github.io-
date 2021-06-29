@@ -7,6 +7,9 @@ status: Charged
 date: 2021-04-20
 charged: 2021-04-20
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 27
 occupation:
 affiliations: Three Percenters
@@ -28,6 +31,4 @@ charges:
 ---
 - [News Story](https://baytobaynews.com/stories/former-kent-county-resident-charged-in-us-capitol-riot,46025)
 - [Statement of Facts](https://assets.documentcloud.org/documents/20685691/anthony-antonio.pdf)
-- [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=wIFpSg-6HIc&t=2091s)
-- [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=iISN53RNVlA&t=259s)
 - [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=hAkAAoI6_i8&t=160s)

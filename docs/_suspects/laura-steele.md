@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-02-19
+convicted: 
+sentenced: 
+dismissed: 
 age: 52
 occupation: Law Enforcement (former SWAT)
 affiliations: Oath Keepers

@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-17
+convicted: 
+sentenced: 
+dismissed: 
 age: 46
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.ksat.com/news/local/2021/03/09/san-antonio-area-man-charged-in-us-capitol-riot-allegedly-took-shots-of-whiskey-in-pelosis-office/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378611/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378616/download)

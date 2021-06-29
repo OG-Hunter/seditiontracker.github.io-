@@ -1,12 +1,15 @@
 ---
 name: William Michael Sywak
-lastName: Sywak
+lastName: Michael Sywak
 aka:
 residence: New York
 status: Charged
 date: 2021-05-19
 charged: 2021-05-19
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 45
 occupation:
 affiliations:

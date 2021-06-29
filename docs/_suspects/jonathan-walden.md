@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
+convicted: 
+sentenced: 
+dismissed: 
 age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/oath-keeper-jonathan-walden-brought-82-pound-german-shepherd-warrior-to-capitol-riots)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)

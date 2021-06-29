@@ -7,6 +7,9 @@ status: Charged
 date: 2021-02-19
 charged: 2021-02-19
 indicted:
+convicted: 
+sentenced: 
+dismissed: 
 age: 41
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:

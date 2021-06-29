@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-02
+convicted: 
+sentenced: 
+dismissed: 
 age: 20
 occupation:
 affiliations:
@@ -26,7 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.cleveland.com/nation/2021/03/lorain-man-attacked-capitol-police-officer-during-jan-6-riots-following-stop-the-steal-rally-feds-say.html)
 - [Complaint](https://ewscripps.brightspotcdn.com/0c/73/be8c633047959a5a832099395123/clifford-mackrell.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1393641/download)

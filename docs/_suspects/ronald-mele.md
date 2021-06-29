@@ -7,6 +7,9 @@ status: Indicted
 date: 2021-06-09
 charged: 2021-06-09
 indicted: 2021-06-09
+convicted: 
+sentenced: 
+dismissed: 
 age: 51
 occupation:
 affiliations: Three Percenters
@@ -26,6 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)
