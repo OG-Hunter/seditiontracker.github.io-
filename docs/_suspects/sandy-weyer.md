@@ -25,7 +25,7 @@ title: Sandy Weyer charged on June 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://cumberlink.com/news/local/crime-and-courts/mechanicsburg-woman-faces-multiple-charges-related-to-capitol-riot-on-jan-6/article_7c4d0033-057c-5fe7-aeb8-030782d76f64.html)

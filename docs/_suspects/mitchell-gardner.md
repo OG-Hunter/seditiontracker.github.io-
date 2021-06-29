@@ -25,7 +25,7 @@ title: Mitchell Gardner arrested on June 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.tampabay.com/news/hillsborough/2021/06/28/hillsborough-mans-arrest-makes-500-charged-in-capitol-riot/)
