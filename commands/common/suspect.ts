@@ -7,6 +7,7 @@ export interface Suspect {
   published: boolean
   status?: string
   date?: string
+  sentenced?: string
   charged?: string
   indicted?: string
   convicted?: string
@@ -150,6 +151,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`charged: ${suspect.charged}`)
   lines.push(`indicted: ${suspect.indicted}`)
   lines.push(`convicted: ${suspect.convicted}`)
+  lines.push(`sentenced: ${suspect.sentenced}`)
   lines.push(`dismissed: ${suspect.dismissed}`)
   lines.push(`age: ${suspect.age}`)
   lines.push(`occupation: ${suspect.occupation}`)

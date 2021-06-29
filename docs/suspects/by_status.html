@@ -5,8 +5,37 @@ image: /images/suspects.png
 description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
-{% assign sentenced = site.suspects | where_exp: "suspect", "suspect.status == 'Sentenced'" | sort:
-"sentenced" | reverse %}
+{% assign dismissed = ''|split:''%}
+{% assign sentenced = ''|split:''%}
+{% assign convicted = ''|split:''%}
+{% assign indicted = ''|split:''%}
+{% assign charged = ''|split:''%}
+
+{% for suspect in site.suspects %}
+  {% if suspect.sentenced %}
+    {%assign sentenced = sentenced|push:suspect%}
+  {% endif %}
+  {% if suspect.convicted %}
+    {%assign convicted = convicted|push:suspect%}
+  {% endif %}
+  {% if suspect.dismissed %}
+    {%assign dismissed = dismissed|push:suspect%}
+  {% endif %}
+  {% if suspect.indicted %}
+    {%assign indicted = indicted|push:suspect%}
+  {% endif %}
+  {% if suspect.charged %}
+    {%assign charged = charged|push:suspect%}
+  {% endif %}
+
+{% endfor %}
+
+{% assign sentenced = sentenced | sort: "sentenced" | reverse %}
+{% assign dismissed = dismissed | sort: "dismissed" | reverse %}
+{% assign convicted = convicted | sort: "convicted" | reverse %}
+{% assign indicted = indicted | sort: "indicted" | reverse %}
+{% assign charged = charged | sort: "charged" | reverse %}
+
 
 <h2 class="table">Suspects (Sentenced)</h2>
 Total Count: {{ sentenced.size }}
@@ -26,9 +55,6 @@ Total Count: {{ sentenced.size }}
   {% endfor %}
 </table>
 
-{% assign convicted = site.suspects | where_exp: "suspect", "suspect.status == 'Convicted'" | sort:
-"convicted" | reverse %}
-
 <h2 class="table">Suspects (Convicted)</h2>
 Total Count: {{ convicted.size }}
 
@@ -46,9 +72,6 @@ Total Count: {{ convicted.size }}
   </tr>
   {% endfor %}
 </table>
-
-{% assign dismissed = site.suspects | where_exp: "suspect", "suspect.status == 'Dismissed'" | sort:
-"dismissed" | reverse %}
 
 <h2 class="table">Suspects (Dismissed)</h2>
 Total Count: {{ dismissed.size }}
@@ -68,9 +91,6 @@ Total Count: {{ dismissed.size }}
   {% endfor %}
 </table>
 
-{% assign indicted = site.suspects | where_exp: "suspect", "suspect.status == 'Indicted'" | sort:
-"indicted" | reverse %}
-
 <h2 class="table">Suspects (Indicted)</h2>
 Total Count: {{ indicted.size }}
 
@@ -89,8 +109,6 @@ Total Count: {{ indicted.size }}
   {% endfor %}
 </table>
 
-{% assign charged = site.suspects | where_exp: "suspect", "suspect.status == 'Charged'" | sort:
-"charged" | reverse %}
 <h2 class="table">Suspects (Charged)</h2>
 Total Count: {{ charged.size }}
 

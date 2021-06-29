@@ -10,6 +10,7 @@ const suspect = new Command()
   .command("verify", "verify all required elements present before publishing")
   .command("convict", "mark a new suspect as convicted")
   .command("sentence", "mark a new suspect as sentenced")
+  .command("migrate", "migrate suspects to latest data model")
 suspect.parse(process.argv);
 
 const subCmd = head(suspect.args);

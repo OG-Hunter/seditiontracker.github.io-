@@ -8,8 +8,8 @@ date: 2021-02-24
 charged: 2021-02-24
 indicted:
 convicted: 2021-06-23
-sentenced: 
-dismissed: 
+sentenced: 2021-06-23
+dismissed:
 age: 49
 occupation:
 affiliations:
@@ -29,6 +29,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.indystar.com/story/news/crime/2021/02/25/fbi-arrests-indiana-women-capitol-riot-charges-aftermath/6822567002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dona%20Sue%20Bissey%20and%20Anna%20Morgan-Lloyd%20Statement%20of%20Facts.pdf)
