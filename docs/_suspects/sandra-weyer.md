@@ -1,15 +1,15 @@
 ---
-name: Sandy Weyer
+name: Sandra Weyer
 lastName: Weyer
-aka:
+aka: Sandy Weyer
 residence: Pennsylvania
 status: Charged
 date: 2021-06-24
 charged: 2021-06-24
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age:
 occupation:
 affiliations:
@@ -30,4 +30,4 @@ published: true
 charges:
 ---
 - [News Story](https://cumberlink.com/news/local/crime-and-courts/mechanicsburg-woman-faces-multiple-charges-related-to-capitol-riot-on-jan-6/article_7c4d0033-057c-5fe7-aeb8-030782d76f64.html)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232734/gov.uscourts.dcd.232734.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407556/download)

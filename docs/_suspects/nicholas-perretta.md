@@ -8,7 +8,7 @@ date: 2021-06-23
 charged: 2021-06-23
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
 age:
 occupation:
@@ -30,3 +30,4 @@ published: true
 charges:
 ---
 - [News Story](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20J%20Perretta%20Statement%20of%20Facts.pdf)
