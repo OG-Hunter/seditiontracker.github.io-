@@ -3,11 +3,11 @@ name: Mark Grods
 lastName: Grods
 aka:
 residence:
-status: Charged
+status: Convicted
 date: 2021-06-28
 charged: 2021-06-28
 indicted:
-convicted:
+convicted: 2021-06-30
 sentenced:
 dismissed:
 age: NaN
