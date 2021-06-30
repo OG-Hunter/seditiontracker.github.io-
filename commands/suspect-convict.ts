@@ -31,6 +31,8 @@ const convict = async() => {
       }
 
       writeFile(suspectPath, data)
+      data.match(/\/images\/preview\/(.*)\n/)
+
       execSync(`yarn suspect preview -f ${RegExp.$1} -s Convicted`)
 
       exit()

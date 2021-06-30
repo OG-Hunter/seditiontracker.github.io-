@@ -3,11 +3,11 @@ name: Valerie Ehrke
 lastName: Ehrke
 aka:
 residence: California
-status: Charged
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
-convicted: 
+convicted: 2021-06-30
 sentenced: 
 dismissed: 
 age: 53
