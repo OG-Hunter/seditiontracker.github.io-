@@ -22,7 +22,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Mark Grods arrested on June 28, 2021
+title: Mark Grods charged on June 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
