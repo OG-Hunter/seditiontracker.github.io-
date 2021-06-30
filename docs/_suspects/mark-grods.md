@@ -12,7 +12,7 @@ sentenced:
 dismissed:
 age: NaN
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/mark-grods.png
 suspect: mark-grods.png
