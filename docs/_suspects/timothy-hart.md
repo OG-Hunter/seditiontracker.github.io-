@@ -1,11 +1,11 @@
 ---
-name: Steven Thurlow
-lastName: Thurlow
+name: Timothy Hart
+lastName: Hart
 aka:
-residence: Michigan
+residence:
 status: Charged
-date: 2021-06-24
-charged: 2021-06-24
+date: 2021-06-29
+charged: 2021-06-29
 indicted:
 convicted:
 sentenced:
@@ -14,20 +14,21 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/steven-thurlow.jpg
-suspect: steven-thurlow.jpg
+image: /images/preview/timothy-hart.jpg
+suspect: timothy-hart.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Steven Thurlow charged on [longDate]
+title: Timothy Hart charged on [longDate]
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407971/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408076/download)
