@@ -18,7 +18,7 @@ image: /images/preview/mark-grods.png
 suspect: mark-grods.png
 booking:
 courtroom:
-courthouse:
+courthouse: mark-grods.png
 raid:
 perpwalk:
 quote:
@@ -29,6 +29,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Story](https://www.huffpost.com/entry/mark-grods-oath-keeper-capitol-attack-trump_n_60dc7417e4b058eea49d79ad)
 - [Information](/filings/mark-grods.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408091/download)
