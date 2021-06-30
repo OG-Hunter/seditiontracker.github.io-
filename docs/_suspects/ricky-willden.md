@@ -2,7 +2,7 @@
 name: Ricky Willden
 lastName: Willden
 aka:
-residence:
+residence: California
 status: Indicted
 date: 2021-06-23
 charged: 2021-06-23
