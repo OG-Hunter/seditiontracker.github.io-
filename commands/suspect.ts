@@ -11,6 +11,8 @@ const suspect = new Command()
   .command("convict", "mark a new suspect as convicted")
   .command("sentence", "mark a new suspect as sentenced")
   .command("migrate", "migrate suspects to latest data model")
+  .command("indict", "mark a suspect as indicted")
+
 suspect.parse(process.argv);
 
 const subCmd = head(suspect.args);

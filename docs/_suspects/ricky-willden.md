@@ -3,10 +3,10 @@ name: Ricky Willden
 lastName: Willden
 aka:
 residence:
-status: Charged
+status: Indicted
 date: 2021-06-23
 charged: 2021-06-23
-indicted:
+indicted: 2021-06-23
 convicted:
 sentenced:
 dismissed:
@@ -14,8 +14,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/ricky-willden.jpg
-suspect: ricky-willden.jpg
+image: /images/preview/ricky-willden.png
+suspect: ricky-willden.png
 booking:
 courtroom:
 courthouse:
@@ -26,9 +26,8 @@ title: Ricky Willden charged on [longDate]
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
-- [News Report]()
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407976/download)
