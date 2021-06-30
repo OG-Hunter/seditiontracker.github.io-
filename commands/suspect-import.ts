@@ -320,6 +320,7 @@ const linkType = (description: string, lastName?: string) => {
       case /Defense Memorandum in Support of Probationary Sentence/.test(description):
         return "Defense Memorandum in Support of Probationary Sentence"
       case /Bustle*/.test(description):
+      case /grods\.pdf/.test(description):
         return "DOJ Press Release"
       default:
         warning(`unknown link type for ${lastName}: ${description}`)
