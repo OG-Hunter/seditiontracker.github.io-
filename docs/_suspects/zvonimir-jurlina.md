@@ -26,10 +26,10 @@ title: Zvonimir Jurlina charged on June 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)
 - [Incriminating Evidence (VIDEO)](https://youtu.be/ZrDckH2Td68?t=190)

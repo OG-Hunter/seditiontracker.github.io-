@@ -26,7 +26,7 @@ title: George Tenney charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
