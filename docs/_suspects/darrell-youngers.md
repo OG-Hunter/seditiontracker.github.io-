@@ -10,7 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
-age: NaN
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -30,3 +30,4 @@ published: false
 charges:
 ---
 - [News Story](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Amos%20Tenney%20and%20Darrell%20Alan%20Youngers%20Statement%20of%20Facts.pdf)

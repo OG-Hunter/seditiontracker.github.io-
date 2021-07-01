@@ -30,3 +30,4 @@ published: true
 charges:
 ---
 - [News Story](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Amos%20Tenney%20and%20Darrell%20Alan%20Youngers%20Statement%20of%20Facts.pdf)

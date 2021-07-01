@@ -8,7 +8,7 @@ date: 2021-01-08
 charged: 2021-01-08
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
 age: 35
 occupation: West Viriginia Delegate
@@ -41,3 +41,4 @@ charges:
 - [Perp Walk (VIDEO)](https://www.youtube.com/watch?v=gYauxtRX3P4)
 - [More Perp Walk(VIDEO)](https://wtov9.com/news/local/west-virgina-delegate-wont-resign-after-videoing-himself-storming-the-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355511/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392956/download)
