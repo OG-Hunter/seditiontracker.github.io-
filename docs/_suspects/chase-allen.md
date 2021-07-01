@@ -1,0 +1,32 @@
+---
+name: Chase Allen
+lastName: Allen
+aka:
+residence: Massachusetts
+status: Charged
+date: 2021-06-30
+charged: 2021-06-30
+indicted:
+convicted:
+sentenced:
+dismissed:
+age: 
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/chase-allen.jpg
+suspect: chase-allen.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Chase Allen charged on June 30, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+charges:
+---
+- [News Story](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)

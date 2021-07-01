@@ -22,7 +22,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Evan Neumann charged on [longDate]
+title: Evan Neumann charged on March 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
