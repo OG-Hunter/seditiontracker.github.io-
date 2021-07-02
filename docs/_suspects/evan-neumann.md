@@ -26,9 +26,8 @@ title: Evan Neumann charged on March 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Evan%20Neumann%20Statement%20of%20Facts.pdf)

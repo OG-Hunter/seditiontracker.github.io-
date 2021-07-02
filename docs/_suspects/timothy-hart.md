@@ -26,7 +26,7 @@ title: Timothy Hart charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/i70-paintball-and-airsoft-owner-charged-in-capitol-riots-wearing-qanon-gear-timothy-hart/65-b2582dd8-1272-4dd0-817c-e56829faf180)

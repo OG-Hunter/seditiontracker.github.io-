@@ -10,7 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -26,8 +26,9 @@ title: Timothy O’Malley charged on June 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
-- [News Story]()
+
+- [News Story](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Earl%20O%27Malley%20Statement%20of%20Facts.pdf)

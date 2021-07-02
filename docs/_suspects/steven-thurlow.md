@@ -26,7 +26,7 @@ title: Steven Thurlow charged on June 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.macombdaily.com/2021/06/30/st-clair-shores-man-accused-of-participating-in-jan-6-capitol-insurrection/)

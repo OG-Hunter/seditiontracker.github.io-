@@ -26,7 +26,7 @@ title: Chase Allen charged on June 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)

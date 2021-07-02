@@ -26,7 +26,7 @@ title: Trevor Brown arrested on July 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/07/02/feds-bust-michigan-man-u-s-capitol-siege-crackdown-continues/7839249002/)
