@@ -12,7 +12,7 @@ sentenced:
 dismissed:
 age:
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/timothy-omalley.jpg
 suspect: timothy-omalley.jpg
