@@ -36,6 +36,7 @@ const getNameSet = (): Set<string> => {
 
     nameSet.add(dasherizeName(firstName, names.join(" ")));
   }
+  console.log({nameSet})
   return nameSet;
 }
 
@@ -102,7 +103,11 @@ const importGw = async (nameSet: Set<string>) => {
         continue
       }
 
-      const nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
+      let nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
+
+      if (nameText.match(/.*Malley.*/)) {
+        nameText = "O'Malley, Timothy"
+      }
 
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", "").replace(" IV", "").replace(" Jr.", "").replace(" Sr.", "").replace(" III", "").replace(" II", ""));
 
@@ -147,6 +152,11 @@ const importDoj = async (nameSet: Set<string>) => {
 
     if (name == "WOODS,") {
       name = "WOODS, Shane"
+    }
+
+    if (name.match(/.*Timothy Earl$/)) {
+      console.log("MATCH!")
+      name = "O'MALLEY, Timothy"
     }
 
     const nameChunks = name.split(",")
@@ -329,10 +339,11 @@ const linkType = (description: string, lastName?: string) => {
 }
 
 const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, residence?: string, age?: string) => {
-  const nameToCheck = dasherizeName(firstName, lastName);
+  const nameToCheck = dasherizeName(firstName, lastName).replace("'", "");
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
+    console.log({nameToCheck})
     newSuspect(firstName, lastName, dateString, links, residence);
     return;
   }
