@@ -1,6 +1,6 @@
 ---
-name: Timothy Omalley
-lastName: Omalley
+name: Timothy O'Malley
+lastName: O'Malley
 aka:
 residence: FLorida
 status: Charged
