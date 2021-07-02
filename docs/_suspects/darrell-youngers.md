@@ -1,6 +1,6 @@
 ---
-name: George Tenney
-lastName: Tenney
+name: Darrell Youngers
+lastName: Youngers
 aka:
 residence: Texas
 status: Charged
@@ -10,24 +10,24 @@ indicted:
 convicted:
 sentenced:
 dismissed:
-age: 34
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/george-tenney.jpg
-suspect: george-tenney.jpg
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: George Tenney charged on June 29, 2021
+title: Darrell Youngers charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: true
+published: false
 charges:
 ---
-- [News Story](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
+- [News Story](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Amos%20Tenney%20and%20Darrell%20Alan%20Youngers%20Statement%20of%20Facts.pdf)
