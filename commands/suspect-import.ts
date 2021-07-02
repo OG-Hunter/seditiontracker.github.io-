@@ -3,7 +3,7 @@ import { info, warning } from "./common/console";
 import fs from "fs";
 import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
-import { isEmpty, startCase, toLower } from 'lodash';
+import { capitalize, isEmpty, toLower } from 'lodash';
 import moment from 'moment';
 import { getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 const { execSync } = require('child_process')
@@ -155,12 +155,14 @@ const importDoj = async (nameSet: Set<string>) => {
     }
 
     if (name.match(/.*Timothy Earl$/)) {
-      console.log("MATCH!")
       name = "O'MALLEY, Timothy"
     }
 
     const nameChunks = name.split(",")
-    const lastName = startCase(toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '')).trim();
+    console.log({nameChunks})
+
+    const lastName = toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '').replace(/\w+/g, capitalize).trim();
+    console.log({lastName})
     const firstName = nameChunks[1].trim().split(" ")[0];
 
     if (falsePositives("DOJ").has(lastName)) {
@@ -339,7 +341,7 @@ const linkType = (description: string, lastName?: string) => {
 }
 
 const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, residence?: string, age?: string) => {
-  const nameToCheck = dasherizeName(firstName, lastName).replace("'", "");
+  const nameToCheck = dasherizeName(firstName, lastName);
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them

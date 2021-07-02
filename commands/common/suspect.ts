@@ -188,7 +188,7 @@ export const updateSuspect = (suspect: Suspect) => {
 }
 
 export const getSuspect = (firstName: string, lastName: string) => {
-  const dashedName = dasherizeName(`${firstName} ${lastName}`)
+  const dashedName = dasherizeName(`${firstName} ${lastName}`).replace("'", '')
   return getSuspectByFile(`${dashedName}.md`)
 }
 
