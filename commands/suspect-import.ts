@@ -36,7 +36,6 @@ const getNameSet = (): Set<string> => {
 
     nameSet.add(dasherizeName(firstName, names.join(" ")));
   }
-  console.log({nameSet})
   return nameSet;
 }
 
@@ -159,10 +158,9 @@ const importDoj = async (nameSet: Set<string>) => {
     }
 
     const nameChunks = name.split(",")
-    console.log({nameChunks})
 
     const lastName = toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '').replace(/\w+/g, capitalize).trim();
-    console.log({lastName})
+
     const firstName = nameChunks[1].trim().split(" ")[0];
 
     if (falsePositives("DOJ").has(lastName)) {
@@ -345,7 +343,6 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
-    console.log({nameToCheck})
     newSuspect(firstName, lastName, dateString, links, residence);
     return;
   }
