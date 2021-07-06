@@ -21,7 +21,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "They are gonna fucking kill your children, they are gonna imprison them, and you're defending the people that are going to do this to your children."
+quote: "They are gonna fucking kill your children, they are gonna rape them, they are gonna imprison them, and you're defending the people that are going to do this to your children."
 title: Evan Neumann charged on March 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
