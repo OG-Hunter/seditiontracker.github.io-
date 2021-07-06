@@ -4,8 +4,8 @@ lastName: Moerschel
 aka:
 residence: Florida
 status: Charged
-date:
-charged:
+date: 2021-07-01
+charged: 2021-07-01
 indicted:
 convicted:
 sentenced:
@@ -22,12 +22,13 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: David Moerschel charged on [longDate]
+title: David Moerschel charged on July 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Moerschel%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408901/download)
