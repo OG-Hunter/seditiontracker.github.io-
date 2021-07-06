@@ -329,6 +329,13 @@ const linkType = (description: string, lastName?: string) => {
         return "Memorandum in Aid of Sentencing"
       case /Defense Memorandum in Support of Probationary Sentence/.test(description):
         return "Defense Memorandum in Support of Probationary Sentence"
+      case /Defense Motion for Reconsideration of Conditions of Release/.test(description):
+        return "Defense Motion for Reconsideration of Release"
+      case /Detention Hearing Transcript/.test(description):
+        return "Detention Hearing Transcript"
+      case /Government Motion to Revoke Release Order/.test(description):
+      case /Motion to Revoke Pretrial Release/.test(description):
+        return "Motion to Revoke Pretrial Release"
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"

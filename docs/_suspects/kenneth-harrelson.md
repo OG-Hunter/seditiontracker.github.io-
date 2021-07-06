@@ -8,7 +8,7 @@ date: 2021-03-10
 charged: 2021-03-10
 indicted: 2021-03-12
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
 age: 41
 occupation:
@@ -34,3 +34,5 @@ charges:
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378526/download)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Government%20Opposition%20to%20Motion%20for%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
+- [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Detention%20Hearing%20Transcript.pdf)
+- [Defense Motion for Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Defense%20Motion%20For%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
