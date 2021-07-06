@@ -2,7 +2,7 @@
 name: Kenneth Reda
 lastName: Reda
 aka:
-residence:
+residence: Florida
 status: Charged
 date:
 charged:
