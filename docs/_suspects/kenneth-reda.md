@@ -4,8 +4,8 @@ lastName: Reda
 aka:
 residence: Florida
 status: Charged
-date:
-charged:
+date: 2021-07-01
+charged: 2021-07-01
 indicted:
 convicted:
 sentenced:
@@ -29,5 +29,6 @@ layout: suspect
 published: false
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408996/download)

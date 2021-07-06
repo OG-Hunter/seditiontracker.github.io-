@@ -3,11 +3,11 @@ name: Matthew Mazzocco
 lastName: Mazzocco
 aka:
 residence: Texas
-status: Charged
+status: Convicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted:
-convicted: 
+convicted: 2021-07-02
 sentenced: 
 dismissed: 
 age: 37
