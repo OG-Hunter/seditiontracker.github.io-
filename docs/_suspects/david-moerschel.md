@@ -1,7 +1,7 @@
 ---
 name: David Moerschel
 lastName: Moerschel
-aka:
+aka: Hatsy
 residence: Florida
 status: Charged
 date: 2021-07-01
@@ -10,9 +10,9 @@ indicted:
 convicted:
 sentenced:
 dismissed:
-age:
+age: 43
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/david-moerschel.jpg
 suspect: david-moerschel.jpg

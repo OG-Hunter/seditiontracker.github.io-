@@ -8,7 +8,7 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2021-07-02
-sentenced: 
+sentenced:
 dismissed: 
 age: 37
 occupation: "Mortgage Loan Ninja"
@@ -40,3 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)
 - [FBI Raid (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
 - [Self Incrimination (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409091/download)
