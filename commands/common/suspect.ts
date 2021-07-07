@@ -158,7 +158,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`convicted: ${suspect.convicted}`)
   lines.push(`sentenced: ${suspect.sentenced}`)
   lines.push(`dismissed: ${suspect.dismissed}`)
-  lines.push(`dismissed: ${suspect.deceased}`)
+  lines.push(`deceased: ${suspect.deceased}`)
   lines.push(`age: ${suspect.age}`)
   lines.push(`occupation: ${suspect.occupation}`)
   lines.push(`affiliations: ${suspect.affiliations}`)

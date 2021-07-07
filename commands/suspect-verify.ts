@@ -15,7 +15,7 @@ const doVerify = () => {
   for (const filename of suspects) {
     const suspect = getSuspectByFile(filename);
 
-    if (suspect.date == "[date]" || isEmpty(suspect.date) || suspect.title.match(/title: .*\[longDate]/)) {
+    if (suspect.date == "[date]" || isEmpty(suspect.date) || suspect.title.match(/.*\[longDate]/)) {
       exitWithError(`Missing date for ${suspect.name}`);
     }
 
