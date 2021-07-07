@@ -265,6 +265,7 @@ const linkType = (description: string, lastName?: string) => {
 
     switch(true) {
       case /Plea Agreement/.test(description):
+      case /Grods Plea/.test(description):
         return "Plea Agreement"
       case /Affidavit/.test(description):
       case /Affidavit in Support of Criminal Complaint/.test(description):

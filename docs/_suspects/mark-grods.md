@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-06-30
 sentenced:
 dismissed:
+deceased:
 age: 54
 occupation:
 affiliations: Oath Keepers
@@ -31,5 +32,6 @@ charges:
 ---
 
 - [News Story](https://www.huffpost.com/entry/mark-grods-oath-keeper-capitol-attack-trump_n_60dc7417e4b058eea49d79ad)
-- [Information](/filings/mark-grods.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408091/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409401/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409406/download)

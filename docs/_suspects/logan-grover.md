@@ -8,8 +8,9 @@ date: 2021-04-28
 charged: 2021-04-28
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.fortmorgantimes.com/2021/04/28/logan-grover-colorado-capitol-riot-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390406/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390411/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409431/download)
