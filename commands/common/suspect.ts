@@ -12,6 +12,7 @@ export interface Suspect {
   indicted?: string
   convicted?: string
   dismissed?: string
+  deceased?: string
   name?: string
   lastName?: string
   links?: { [type:string]: string }
@@ -62,6 +63,10 @@ export const getSuspectByFile = (filename:string) => {
 
   if (data.match(/indicted: (.*)/)) {
     suspect.indicted = data.match(/indicted: (.*)/)[1].trim();
+  }
+
+  if (data.match(/deceased: (.*)/)) {
+    suspect.deceased = data.match(/deceased: (.*)/)[1].trim();
   }
 
   suspect.name = data.match(/name: (.*)/)[1];
@@ -153,6 +158,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`convicted: ${suspect.convicted}`)
   lines.push(`sentenced: ${suspect.sentenced}`)
   lines.push(`dismissed: ${suspect.dismissed}`)
+  lines.push(`dismissed: ${suspect.deceased}`)
   lines.push(`age: ${suspect.age}`)
   lines.push(`occupation: ${suspect.occupation}`)
   lines.push(`affiliations: ${suspect.affiliations}`)
