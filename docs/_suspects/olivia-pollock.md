@@ -26,7 +26,7 @@ title: Olivia Pollock charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.tampabay.com/news/florida/2021/06/30/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/)

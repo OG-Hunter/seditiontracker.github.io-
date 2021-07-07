@@ -26,7 +26,7 @@ title: Joshua Doolin charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)

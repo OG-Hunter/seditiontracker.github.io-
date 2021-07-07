@@ -26,7 +26,7 @@ title: Fi Duong charged on June 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.washingtonpost.com/local/legal-issues/capitol-riot-bible-study-group-militia/2021/07/06/e5e6cd26-de82-11eb-ae31-6b7c5c34f0d6_story.html)
