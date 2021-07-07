@@ -32,3 +32,4 @@ charges:
 - [News Report](https://buffalonews.com/news/local/buffalo-man-charged-in-attack-on-capitol-officer-says-he-buried-cops-badge-in-backyard/article_3c9f8f5e-8398-11eb-87ca-9f337774ebb3.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Sibick%20Statement%20of%20Facts.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sibick%20Head%20Young%20Indictment.pdf)
+- [Bodycam Evidence (Video)](https://twitter.com/ryanjreilly/status/1412463847622025223)

@@ -48,3 +48,4 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)
 - [Statement of Facts](https://assets.documentcloud.org/documents/20475133/bruno_cua.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bruno%20Joseph%20Cua%20Indictment.pdf)
+- [Closed Circuit Evidence (Video)](https://twitter.com/ryanjreilly/status/1412461018622697477)
