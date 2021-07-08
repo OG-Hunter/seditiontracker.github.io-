@@ -27,7 +27,7 @@ title: Alan Byerly charged on June 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)

@@ -27,7 +27,7 @@ title: Jonathan Pollock charged on July 7, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Story](https://twitter.com/MacFarlaneNews/status/1412898239695790086)
