@@ -32,3 +32,4 @@ charges:
 ---
 
 - [News Story](https://twitter.com/MacFarlaneNews/status/1412898239695790086)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
