@@ -14,8 +14,8 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/joshua-doolin.jpg
+suspect: joshua-doolin.jpg
 booking:
 courtroom:
 courthouse: joshua-doolin.jpg
