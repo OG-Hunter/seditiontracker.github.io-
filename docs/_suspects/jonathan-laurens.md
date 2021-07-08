@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -31,3 +32,4 @@ charges:
 ---
 - [News Report](https://www.gwinnettdailypost.com/local/federal-law-enforcement-arrests-duluth-man-accused-of-participating-in-jan-6-storming-of-the/article_2a23fad8-dae4-11eb-9836-5f51e53d28e5.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408586/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410486/download)

@@ -8,8 +8,9 @@ date: 2021-03-25
 charged: 2021-03-25
 indicted: 2021-04-21
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 64
 occupation:
 affiliations:
@@ -33,3 +34,4 @@ charges:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385926/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389886/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410506/download)
