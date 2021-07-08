@@ -8,8 +8,9 @@ date: 2021-04-21
 charged: 2021-04-21
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 51
 occupation:
 affiliations:
@@ -31,3 +32,4 @@ charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/feds-arrest-new-york-man-seen-wearing-trump-2020-cowboy-hat-during-u-s-capitol-breach/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395351/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410416/download)

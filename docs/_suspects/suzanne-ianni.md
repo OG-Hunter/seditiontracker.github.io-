@@ -8,8 +8,9 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
@@ -40,3 +41,4 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBIBoston/status/1351560718915612672?s=20)
 - [Complaint](https://www.justice.gov/opa/page/file/1357016/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357021/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410371/download)

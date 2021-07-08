@@ -2,7 +2,7 @@
 name: Joseph Hutchinson
 lastName: Hutchinson
 aka:
-residence:
+residence: Florida
 status: Indicted
 date: 2021-07-07
 charged: 2021-07-07
@@ -30,7 +30,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Story](https://twitter.com/MacFarlaneNews/status/1412898245353869319)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

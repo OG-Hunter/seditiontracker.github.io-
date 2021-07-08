@@ -3,13 +3,14 @@ name: Joshua James
 lastName: James
 aka:
 residence: Alabama
-status: Charged
+status: Indicted
 date: 2021-03-08
 charged: 2021-03-08
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-05-26
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 33
 occupation:
 affiliations: Oath Keepers, Proud Boys
@@ -29,6 +30,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.nbcnews.com/news/us-news/alabama-man-ties-oath-keepers-militia-arrested-connection-capitol-riot-n1260499)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Statement%20of%20Facts.pdf)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Govt%20Opposition%20to%20Defendants%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410391/download)
