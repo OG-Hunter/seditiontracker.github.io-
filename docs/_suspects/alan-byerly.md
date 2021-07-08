@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 54
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -23,12 +23,13 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Alan Byerly charged on [longDate]
+title: Alan Byerly charged on June 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
 charges:
 ---
-- [News Report]()
+- [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409211/download)
+- [Incriminating Evidence (VIDEO)](https://twitter.com/capitolhunters/status/1412810756236595201)
