@@ -3,7 +3,7 @@ name: Jonathan Pollock
 lastName: Pollock
 aka:
 residence:
-status: Charged
+status: Indicted
 date: 2021-07-07
 charged: 2021-07-07
 indicted: 2021-07-01
