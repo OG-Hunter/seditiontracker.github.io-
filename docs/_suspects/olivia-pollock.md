@@ -14,8 +14,8 @@ age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/olivia-pollock.jpg
+suspect: olivia-pollock.jpg
 booking:
 courtroom:
 courthouse: olivia-pollock.jpg

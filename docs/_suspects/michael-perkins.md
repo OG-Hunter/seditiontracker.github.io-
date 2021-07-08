@@ -14,8 +14,8 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/michael-perkins.jpg
+suspect: michael-perkins.jpg
 booking: michael-perkins.jpg
 courtroom:
 courthouse:
