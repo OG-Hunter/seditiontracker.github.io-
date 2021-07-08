@@ -8,8 +8,9 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-06-28
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -39,3 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1355726/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371586/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410286/download)

@@ -3,13 +3,14 @@ name: Joshua Doolin
 lastName: Doolin
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-06-29
 charged: 2021-06-29
-indicted:
+indicted: 2021-07-01
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 23
 occupation:
 affiliations:
@@ -29,4 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Story](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

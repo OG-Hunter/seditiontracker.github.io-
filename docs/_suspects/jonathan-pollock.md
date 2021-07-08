@@ -2,16 +2,16 @@
 name: Jonathan Pollock
 lastName: Pollock
 aka:
-residence: 
+residence:
 status: Charged
 date: 2021-07-07
 charged: 2021-07-07
-indicted:
+indicted: 2021-07-01
 convicted:
 sentenced:
 dismissed:
 deceased:
-age: 
+age:
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -30,4 +30,5 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Story](https://twitter.com/MacFarlaneNews/status/1412898239695790086)

@@ -3,13 +3,14 @@ name: Andrew Hernandez
 lastName: Hernandez
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-02-23
 charged: 2021-02-23
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-06-30
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 44
 occupation:
 affiliations:
@@ -29,6 +30,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.sfgate.com/politics/article/California-man-wore-shirt-job-logo-manager-FBI-15982541.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Alan%20Hernandez%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378676/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410316/download)

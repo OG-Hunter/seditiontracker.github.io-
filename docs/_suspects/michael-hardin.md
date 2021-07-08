@@ -8,8 +8,9 @@ date: 2021-04-02
 charged: 2021-04-02
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 50
 occupation: Retired Police Officer
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.washingtonpost.com/nation/2021/04/03/former-utah-police-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382931/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382936/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410226/download)
