@@ -8,8 +8,9 @@ date: 2021-03-12
 charged: 2021-03-12
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 27
 occupation: Busines Owner
 affiliations:
@@ -31,3 +32,4 @@ charges:
 ---
 - [News Report](https://www.wpxi.com/news/top-stories/local-business-owners-charged-connection-with-violence-us-capitol/5E2CEWKFCVAZHLD5YPHS25DA3U/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Debra%20Maimone%20Statement%20of%20Facts.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410636/download)
