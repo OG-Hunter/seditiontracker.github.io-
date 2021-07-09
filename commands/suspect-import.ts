@@ -315,8 +315,10 @@ const linkType = (description: string, lastName?: string) => {
       case /Memorandum in Support of Pre-Trial Detention/.test(description):
         return "Motion for Pretrial Detention"
       case /Defense Motion for Modification of Bond/.test(description):
+      case /Defendants Motion to Modify Bond Conditions/.test(description):
         return "Defense Motion for Modification of Bond"
       case /Defense Motion for Release/.test(description):
+      case /Defendants Motion to Revoke Order of Detention/.test(description):
         return "Defense Motion for Release"
       case /Government Opposition/.test(description):
       case /Response to Defendants Motion for Bond/.test(description):
@@ -325,6 +327,7 @@ const linkType = (description: string, lastName?: string) => {
       case /Opposition to Defendants Motion to Reconsider/.test(description):
       case /Governments Opposition to Defendants Motion for Reconsideration/.test(description):
       case /Opposition to Defendants Motion for Revocation of Detention Order/.test(description):
+      case /Governments Opposition to Defendants Motion to Revoke Order of Detention/.test(description):
         return "Government Opposition to Reconsideration of Release"
       case /Memorandum in Aid of Sentencing/.test(description):
         return "Memorandum in Aid of Sentencing"
@@ -333,10 +336,13 @@ const linkType = (description: string, lastName?: string) => {
       case /Defense Motion for Reconsideration of Conditions of Release/.test(description):
         return "Defense Motion for Reconsideration of Release"
       case /Detention Hearing Transcript/.test(description):
+      case /Preliminary Hearing and Detention Transcript/.test(description):
         return "Detention Hearing Transcript"
       case /Government Motion to Revoke Release Order/.test(description):
       case /Motion to Revoke Pretrial Release/.test(description):
         return "Motion to Revoke Pretrial Release"
+      case /Governments Opposition to Defendants Motion to Modify Conditions of Release/.test(description):
+        return "Governments Opposition to Modifying Conditions of Release"
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"
