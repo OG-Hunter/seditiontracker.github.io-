@@ -8,8 +8,9 @@ date: 2021-04-07
 charged: 2021-04-07
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 35
 occupation:
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/prosecutors-file-charges-against-man-who-called-the-fbi-to-say-he-was-there-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385896/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385901/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410821/download)
