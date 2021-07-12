@@ -34,3 +34,4 @@ charges:
 - [News Story](https://www.wfla.com/news/polk-county/polk-county-emt-among-arrests-linked-to-jan-6-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
+- [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1414629926456729606/video/1)
