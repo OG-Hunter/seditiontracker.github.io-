@@ -3,13 +3,14 @@ name: Robert Morss
 lastName: Morss
 aka:
 residence: Pennsylvania
-status: Charged
+status: Indicted
 date: 2021-06-11
 charged: 2021-06-11
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-06-16
+convicted:
+sentenced:
+dismissed:
+deceased:
 age:
 occupation: Substitute Teacher
 affiliations:
@@ -29,5 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
