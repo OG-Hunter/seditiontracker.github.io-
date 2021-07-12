@@ -35,3 +35,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1414629926456729606/video/1)
+- [Bodycam Evidence (Video)](https://twitter.com/ryanjreilly/status/1414641655110639616)
