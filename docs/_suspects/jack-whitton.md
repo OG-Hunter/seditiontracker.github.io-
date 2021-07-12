@@ -31,3 +31,5 @@ charges:
 ---
 - [News Report](https://www.ajc.com/news/georgia-man-arrested-for-assaulting-capitol-police-officer-in-jan-6-riot/TGTRBG5SEJEZ5AQQNI7ZIN6QUQ/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382756/download)
+- [Bodycam Evidence (Video)](https://twitter.com/LukeLBarr/status/1413528971464134657)
+- [Bodycam Evidence (Video)](https://twitter.com/LukeLBarr/status/1413532213761789956)

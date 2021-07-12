@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 26
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'We made it all the way through.'
 title: Edward Rodriguez charged on July 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -31,5 +31,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/here-in-america-we-fight-back-formally-dressed-man-dubbed-suitmacer-charged-with-spraying-police-during-capitol-siege/ar-AALZYmU)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410871/download)
