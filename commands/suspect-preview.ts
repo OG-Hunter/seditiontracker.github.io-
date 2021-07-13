@@ -20,6 +20,8 @@ const generatePreview = (previewImage, status) => {
       return 185;
     case "INDICTED":
       return 205;
+    case "SENTENCED":
+      return 221;
     default:
       return 200;
   }
