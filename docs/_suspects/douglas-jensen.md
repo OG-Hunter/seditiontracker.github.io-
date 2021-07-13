@@ -46,3 +46,7 @@ charges:
 - [Indictment](https://www.justice.gov/opa/page/file/1353381/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1353386/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353376/download)
+- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414811289885581313)
+- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414812435320561666)
+- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414814099821760513)
+- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414816114018762754)
