@@ -3,12 +3,12 @@ name: Michael Curzio
 lastName: Curzio
 aka:
 residence: Florida
-status: Indicted
+status: Sentenced
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-01-15
-convicted: 
-sentenced: 
+convicted: 2021-07-12
+sentenced: 2021-07-12
 dismissed: 
 age: 35
 occupation:
