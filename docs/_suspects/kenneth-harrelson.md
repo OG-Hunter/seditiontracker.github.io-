@@ -36,3 +36,7 @@ charges:
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Government%20Opposition%20to%20Motion%20for%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
 - [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Detention%20Hearing%20Transcript.pdf)
 - [Defense Motion for Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Defense%20Motion%20For%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
+- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415007585795776512)
+- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415008197119782912)
+- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415009303640084482)
+- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415010654637985795)
