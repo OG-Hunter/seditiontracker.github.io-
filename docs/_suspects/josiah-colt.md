@@ -3,11 +3,11 @@ name: Josiah Colt
 lastName: Colt
 aka:
 residence: Idaho
-status: Indicted
+status: Convicted
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-03
-convicted: 
+convicted: 2021-07-14
 sentenced: 
 dismissed: 
 age: 34
