@@ -27,9 +27,8 @@ title: Erik Rau charged on July 13, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
-- [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Rau%20Criminal%20Complaint.pdf)
