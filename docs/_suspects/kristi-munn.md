@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/kristi-munn.png
 suspect: kristi-munn.png
-booking:
+booking: kristi-munn.png
 courtroom:
 courthouse:
 raid:

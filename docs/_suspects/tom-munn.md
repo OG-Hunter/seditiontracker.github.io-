@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/tom-munn.png
 suspect: tom-munn.png
-booking:
+booking: thomas-munn.png
 courtroom:
 courthouse:
 raid:

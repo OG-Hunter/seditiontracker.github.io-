@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/kayli-munn.png
 suspect: kayli-munn.png
-booking:
+booking: kayli-munn.png
 courtroom:
 courthouse:
 raid:

@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/dawn-munn.png
 suspect: dawn-munn.png
-booking:
+booking: dawn-munn.png
 courtroom:
 courthouse:
 raid:
