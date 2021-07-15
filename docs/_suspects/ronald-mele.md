@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.msn.com/en-us/news/us/temecula-man-5-others-indicted-in-us-capitol-attack/ar-AAKVtDh)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kinnison%20et%20al%20Indictment.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)

@@ -10,9 +10,9 @@ indicted: 2021-06-23
 convicted:
 sentenced:
 dismissed:
-age:
+age: 39
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/ricky-willden.png
 suspect: ricky-willden.png
@@ -29,5 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
-
+- [News Report](https://sacramento.cbslocal.com/2021/06/30/ricky-christopher-willden-oakhurst-capitol-riot-arrest/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407976/download)

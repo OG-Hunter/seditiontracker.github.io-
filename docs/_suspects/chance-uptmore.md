@@ -35,6 +35,7 @@ charges:
    code: 40 USC 5104
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
+- [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360731/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377851/download)

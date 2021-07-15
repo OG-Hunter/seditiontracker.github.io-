@@ -29,4 +29,5 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.lohud.com/story/news/crime/2021/03/17/mahopac-man-charged-capitol-riot/4730583001/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Ballesteros%20Statement%20of%20Facts.pdf)

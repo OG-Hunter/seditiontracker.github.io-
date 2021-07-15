@@ -38,6 +38,7 @@ charges:
    code: 40 USC 5104
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
+- [News Report](https://www.msn.com/en-us/news/crime/gloucester-woman-arrested-after-photos-show-her-inside-us-capitol-during-riot/ar-BB1dzAz3)
 - [Complaint](https://www.justice.gov/file/1360206/download)
 - [Statement of Facts](https://www.justice.gov/file/1360206/download)
 - [Indictment](https://assets.documentcloud.org/documents/20471979/steele-smith.pdf)

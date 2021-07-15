@@ -10,7 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
-age:
+age: 58
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.chicagotribune.com/news/criminal-justice/ct-us-capitol-breach-illinois-charges-wangler-harrison-20210517-jz7eahg2rfgahcwaoyzs27amkq-story.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Bruce%20Harrison%20Statement%20of%20Facts.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)

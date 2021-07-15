@@ -10,7 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
-age:
+age: 53
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.wcia.com/news/two-central-illinois-men-charged-in-january-6-capitol-attack/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Bruce%20Harrison%20Statement%20of%20Facts.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)

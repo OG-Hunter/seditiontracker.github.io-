@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.msn.com/en-us/news/crime/boise-woman-arrested-accused-of-crimes-related-to-us-capitol-riot/ar-BB1ef7i4)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379351/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379356/download)

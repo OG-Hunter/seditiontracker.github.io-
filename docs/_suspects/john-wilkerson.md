@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.thechesapeaketoday.com/2021/04/18/capitol-riot-john-wilkerson-iv-charged-with-being-part-of-capitol-mob/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Wilkerson%20IV%20Statement%20of%20Facts.pdf)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387501/download)

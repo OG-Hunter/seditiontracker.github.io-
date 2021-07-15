@@ -10,7 +10,7 @@ indicted:
 convicted: 2021-06-23
 sentenced: 
 dismissed: 
-age:
+age: 55
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -29,6 +29,7 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://baltimore.cbslocal.com/2021/06/23/us-capitol-riot-attack-robert-reeder-harford-county-guilty-plea/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371496/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377946/download)

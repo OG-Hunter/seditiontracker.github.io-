@@ -10,7 +10,7 @@ indicted: 2021-03-05
 convicted: 2021-06-02
 sentenced: 
 dismissed: 
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -29,6 +29,7 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Allard%20Hodgkins%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/opa/pr/man-pleads-guilty-obstruction-official-proceeding-breaching-us-capitol-jan-6)

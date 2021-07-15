@@ -29,5 +29,6 @@ layout: suspect
 published: true
 charges:
 ---
+- [News Report](https://wcti12.com/news/state-news/nc-man-arrested-and-charged-in-connection-with-the-capitol-riots)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Johnny%20Harris%20Statement%20of%20Facts.pdf)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393726/download)

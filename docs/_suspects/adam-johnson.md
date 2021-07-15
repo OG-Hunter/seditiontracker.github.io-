@@ -38,6 +38,7 @@ charges:
    code: 18 USC 641
    link: https://www.law.cornell.edu/uscode/text/18/641
 ---
+- [News Report](https://www.msn.com/en-us/news/world/adam-johnson-spotted-with-pelosis-lectern-stormed-capitol-to-witness-history-e2-80-94lawyers/ar-BB1cH0ZJ)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Information.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351951/download)

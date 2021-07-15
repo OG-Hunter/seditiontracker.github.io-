@@ -35,5 +35,6 @@ charges:
    code: 40 USC 5104
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
+- [News Report](https://www.msn.com/en-us/news/crime/gallatin-man-arrested-on-charges-related-to-capitol-riots/ar-BB1djcvS)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Chase%20Torrens%20Statement%20of%20Facts.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bledsoe%20Torrens%20Reed%20Griffith%20Indictment.pdf)

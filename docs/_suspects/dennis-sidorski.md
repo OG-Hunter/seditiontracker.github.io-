@@ -35,5 +35,6 @@ charges:
    code: 40 USC 5104
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
+- [News Report](https://www.newsweek.com/dennis-sidorski-american-supremacist-rioter-charged-employee-fbi-1566787)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dennis%20Sidorski%20Statement%20of%20Facts.pdf)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377856/download)
