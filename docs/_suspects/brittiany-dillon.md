@@ -8,8 +8,9 @@ date: 2021-04-26
 charged: 2021-04-26
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -30,3 +31,4 @@ published: true
 charges:
 ---
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Statement%20of%20Facts.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412381/download)
