@@ -1,7 +1,7 @@
 ---
-name: Josh Munn
+name: Joshua Munn
 lastName: Munn
-aka:
+aka: Josh Munn
 residence: Texas
 status: Charged
 date: 2021-07-12

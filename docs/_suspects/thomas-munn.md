@@ -1,7 +1,7 @@
 ---
-name: Tom Munn
+name: Thomas Munn
 lastName: Munn
-aka:
+aka: Tom Munn
 residence: Texas
 status: Charged
 date: 2021-07-12
