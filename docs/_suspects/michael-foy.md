@@ -51,3 +51,4 @@ charges:
 - [FBI Statement](https://twitter.com/FBIDetroit/status/1352288123359780866?s=20)
 - [Detention Memo](https://assets.documentcloud.org/documents/20463304/1-24-21-us-v-michael-foy-detention-memo.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371621/download)
+- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1415484916675096579)
