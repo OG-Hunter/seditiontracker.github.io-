@@ -8,8 +8,9 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted:
 convicted: 2021-06-30
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 53
 occupation: Home Designer
 affiliations:
@@ -39,3 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366076/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Valerie%20Ehrke%20Plea%20Agreement.pdf)
