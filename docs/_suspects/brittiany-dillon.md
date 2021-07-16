@@ -3,11 +3,11 @@ name: Brittiany Dillon
 lastName: Dillon
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2021-04-26
 charged: 2021-04-26
 indicted:
-convicted: 
+convicted: 2021-07-15
 sentenced:
 dismissed: 
 deceased:
