@@ -19,7 +19,7 @@ image: /images/preview/nathaniel-tuck.png
 suspect: nathaniel-tuck.png
 booking:
 courtroom:
-courthouse:
+courthouse: nathaniel-tuck.jpg
 raid:
 perpwalk:
 quote:
