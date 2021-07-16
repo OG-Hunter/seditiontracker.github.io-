@@ -19,7 +19,7 @@ image: /images/preview/kevin-tuck.png
 suspect: kevin-tuck.png
 booking:
 courtroom:
-courthouse:
+courthouse: kevin-tuck.png
 raid:
 perpwalk:
 quote: 'We stormed the Capitol, fought the police'
