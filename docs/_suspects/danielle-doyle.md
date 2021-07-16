@@ -3,11 +3,11 @@ name: Danielle Doyle
 lastName: Doyle
 aka:
 residence: Oklahoma
-status: Charged
+status: Convicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted:
-convicted: 
+convicted: 2021-07-15
 sentenced:
 dismissed: 
 deceased:
