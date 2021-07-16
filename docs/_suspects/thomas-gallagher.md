@@ -3,11 +3,11 @@ name: Thomas Gallagher
 lastName: Gallagher
 aka:
 residence: New Hampshire
-status: Indicted
+status: Convicted
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-15
-convicted: 
+convicted: 2021-07-15
 sentenced: 
 dismissed: 
 age: 61
