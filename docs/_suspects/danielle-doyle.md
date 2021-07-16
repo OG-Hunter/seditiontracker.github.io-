@@ -8,8 +8,9 @@ date: 2021-02-24
 charged: 2021-02-24
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -33,3 +34,4 @@ charges:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Danielle%20Nicole%20Doyle%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378606/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392951/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412406/download)

@@ -157,6 +157,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "O'MALLEY, Timothy"
     }
 
+    if (name == "GALLGHER, Thomas") {
+      name = "GALLAGHER, Thomas"
+    }
+
     const nameChunks = name.split(",")
 
     const lastName = toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '').replace(/\w+/g, capitalize).trim();
@@ -215,6 +219,7 @@ const falsePositives = (site: string) => {
       set.add("Sparks");
       set.add("Spencer");
       set.add("Mazzocco");
+      set.add("Munn");
       set.add("Curzio");
       set.add("Clark")
       set.add("Mink");

@@ -31,4 +31,5 @@ published: true
 charges:
 ---
 
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Rau%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412526/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412531/download)
