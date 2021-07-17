@@ -287,7 +287,7 @@ const linkType = (description: string, lastName?: string) => {
         return "Statement of Facts"
       case /Indictment/.test(description):
       case /indictment/.test(description):
-      case /caldwell_et_al_4th_ss.pdf/.test(description):
+      case /caldwell_et_al.*/.test(description):
         return "Indictment"
       case /Ammended Complaint/.test(description):
         return "Ammended Complaint"

@@ -3,13 +3,14 @@ name: Roberto Minuta
 lastName: Minuta
 aka:
 residence: New Jersey
-status: Charged
+status: Indicted
 date: 2021-03-06
 charged: 2021-03-06
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-05-26
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 36
 occupation: Owner, Tattoo Parlor
 affiliations: Oath Keepers
@@ -29,5 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Roberto%20Minuta%20Criminal%20Complaint%20and%20Affidavit_Redacted.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410751/download)
