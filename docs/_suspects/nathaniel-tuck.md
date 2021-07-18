@@ -1,12 +1,12 @@
 ---
 name: Nathaniel Tuck
 lastName: Tuck
-aka:
+aka: Nathan Tuck, Tito
 residence: FL
-status: Charged
-date: 2021-07-15
-charged: 2021-07-15
-indicted:
+status: Indicted
+date: 2021-07-07
+charged: 2021-07-07
+indicted: 2021-07-07
 convicted:
 sentenced:
 dismissed:
@@ -32,3 +32,4 @@ charges:
 ---
 
 - [News Story](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
+- [Indictment](/filings/jackman-indictment.pdf)
