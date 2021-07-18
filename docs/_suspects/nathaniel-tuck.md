@@ -2,7 +2,7 @@
 name: Nathaniel Tuck
 lastName: Tuck
 aka: Nathan Tuck, Tito
-residence: FL
+residence: Florida
 status: Indicted
 date: 2021-07-07
 charged: 2021-07-07
