@@ -3,12 +3,12 @@ name: Paul Hodgkins
 lastName: Hodgkins
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
 convicted: 2021-06-02
-sentenced: 
+sentenced: 2021-07-19
 dismissed: 
 age: 38
 occupation:
