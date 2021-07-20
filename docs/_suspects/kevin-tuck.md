@@ -2,7 +2,7 @@
 name: Kevin Tuck
 lastName: Tuck
 aka:
-residence: FL
+residence: Florida
 status: Indicted
 date: 2021-07-15
 charged: 2021-07-15
