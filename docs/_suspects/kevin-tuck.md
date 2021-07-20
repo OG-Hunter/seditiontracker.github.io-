@@ -3,10 +3,10 @@ name: Kevin Tuck
 lastName: Tuck
 aka:
 residence: FL
-status: Charged
+status: Indicted
 date: 2021-07-15
 charged: 2021-07-15
-indicted:
+indicted: 2021-07-07
 convicted:
 sentenced:
 dismissed:
@@ -32,3 +32,4 @@ charges:
 ---
 
 - [News Story](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Arthur%20Jackman%20et%20al%20Indictment.pdf)
