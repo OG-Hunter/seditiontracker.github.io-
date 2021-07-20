@@ -7,7 +7,7 @@ status: Convicted
 date: 2021-07-09
 charged: 2021-07-09
 indicted:
-convicted: 2020-07-20
+convicted: 2021-07-20
 sentenced:
 dismissed:
 deceased:
