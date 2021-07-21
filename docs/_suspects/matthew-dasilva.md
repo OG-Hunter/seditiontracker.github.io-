@@ -30,6 +30,4 @@ layout: suspect
 published: false
 charges:
 ---
-
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Dasilva%20Statement%20of%20Facts.pdf)
