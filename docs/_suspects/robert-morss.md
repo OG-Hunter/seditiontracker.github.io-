@@ -34,3 +34,5 @@ charges:
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
+- [Closed Circuit Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1417578495291576322)
+- [Body Camera Evidence (Video)](https://twitter.com/ZoeTillman/status/1417586917458292738)
