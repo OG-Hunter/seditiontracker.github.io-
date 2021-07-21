@@ -1,15 +1,16 @@
 ---
-name: Nicholas Perretta
-lastName: Perretta
+name: Nicholas Peretta
+lastName: Peretta
 aka:
-residence: Pennsylvania
+residence:
 status: Charged
 date: 2021-06-23
 charged: 2021-06-23
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -22,12 +23,13 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Nicholas Perretta arrested on June 23, 2021
+title: Nicholas Peretta charged on June 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
 charges:
 ---
+
 - [News Story](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20J%20Perretta%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412486/download)

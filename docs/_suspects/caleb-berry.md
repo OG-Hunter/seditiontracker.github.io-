@@ -33,3 +33,4 @@ charges:
 
 - [News Story](https://www.rawstory.com/caleb-berry/)
 - [Information](/filings/caleb-berry-information.pdf)
+- [DOJ Statement (Twitter)](https://twitter.com/FBIWFO/status/1417871768736370693)
