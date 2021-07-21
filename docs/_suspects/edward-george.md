@@ -1,7 +1,7 @@
 ---
-name: Edward George Jr
-lastName: George Jr
-aka: Eddie George Jr
+name: Edward George
+lastName: George
+aka: Eddie George
 residence: Florida
 status: Indicted
 date: 2021-07-07
@@ -23,7 +23,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Edward George Jr. charged on July 7, 2021
+title: Edward George charged on July 7, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
