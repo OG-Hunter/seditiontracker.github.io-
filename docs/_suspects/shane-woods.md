@@ -3,13 +3,14 @@ name: Shane Woods
 lastName: Woods
 aka: Shane Castleman
 residence: Illinois
-status: Charged
+status: Indicted
 date: 2021-06-21
 charged: 2021-06-21
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-07-16
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 43
 occupation:
 affiliations:
@@ -29,5 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413656/download)
