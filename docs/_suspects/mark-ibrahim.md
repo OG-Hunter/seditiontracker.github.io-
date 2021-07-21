@@ -27,7 +27,7 @@ title: Mark Ibrahim charged on July 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.cbsnews.com/news/mark-ibrahim-dea-agent-arrested-capitol-riot-gun-badge/)

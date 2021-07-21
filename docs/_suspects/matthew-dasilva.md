@@ -27,7 +27,7 @@ title: Matthew Dasilva charged on July 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Dasilva%20Statement%20of%20Facts.pdf)
