@@ -8,8 +8,9 @@ date: 2021-04-28
 charged: 2021-04-28
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 51
 occupation:
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414606/download)

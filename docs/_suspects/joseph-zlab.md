@@ -8,8 +8,9 @@ date: 2021-05-07
 charged: 2021-05-07
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 51
 occupation:
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.theolympian.com/news/state/washington/article251432728.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394226/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394231/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414716/download)

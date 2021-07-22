@@ -8,8 +8,9 @@ date: 2021-01-26
 charged: 2021-01-26
 indicted:
 convicted: 2021-07-22
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 22
 occupation:
 affiliations: Proud Boys
@@ -39,3 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/file/1360786/download)
 - [Statement of Facts](https://www.justice.gov/file/1360786/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379256/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414706/download)
