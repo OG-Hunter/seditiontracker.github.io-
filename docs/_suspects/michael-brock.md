@@ -2,7 +2,7 @@
 name: Michael Brock
 lastName: Brock
 aka:
-residence:
+residence: Mississippi
 status: Charged
 date: 2021-07-14
 charged: 2021-07-14
@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 54
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -31,5 +31,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.wapt.com/article/mississippi-man-arrested-for-assault-on-officers-during-jan-6-attack-on-capitol/37093859)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413551/download)

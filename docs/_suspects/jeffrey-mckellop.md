@@ -33,3 +33,4 @@ charges:
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20McKellop%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383896/download)
 - [Body Camera Evidence (Video)](https://twitter.com/alanfeuer/status/1417552650560749582)
+- [Body Camera Evidence (Multiple Videos)](https://twitter.com/ZoeTillman/status/1417544345964761097)
