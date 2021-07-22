@@ -2,7 +2,7 @@
 name: Nicholas Peretta
 lastName: Peretta
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
 date: 2021-06-23
 charged: 2021-06-23
