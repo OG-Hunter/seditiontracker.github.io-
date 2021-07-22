@@ -8,8 +8,9 @@ date: 2021-04-12
 charged: 2021-04-12
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 30
 occupation: Owner, Tree Removal Business
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://accesswdun.com/article/2021/5/1003147/jefferson-man-charged-in-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391811/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413556/download)

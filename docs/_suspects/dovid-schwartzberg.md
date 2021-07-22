@@ -8,8 +8,9 @@ date: 2021-04-16
 charged: 2021-04-16
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 19
 occupation: Unemployed
 affiliations:
@@ -33,3 +34,4 @@ charges:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388391/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388396/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/mattmiller757/status/1346944869588230144?s=20)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413471/download)
