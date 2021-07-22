@@ -27,7 +27,7 @@ title: Michael Brock charged on July 14, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 
