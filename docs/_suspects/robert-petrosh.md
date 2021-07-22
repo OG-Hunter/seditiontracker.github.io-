@@ -8,8 +8,9 @@ date: 2021-04-29
 charged: 2021-04-29
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 51
 occupation:
 affiliations:
@@ -31,3 +32,4 @@ charges:
 ---
 - [News Report](https://www.nj.com/news/2021/05/grandmother-helped-tip-off-fbi-about-nj-man-charged-with-being-at-capitol-riot-feds-say.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Petrosh%20Statement%20of%20Facts.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413451/download)
