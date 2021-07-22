@@ -3,11 +3,11 @@ name: Andrew Bennett
 lastName: Bennett
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2021-01-26
 charged: 2021-01-26
 indicted:
-convicted: 
+convicted: 2021-07-22
 sentenced: 
 dismissed: 
 age: 22
