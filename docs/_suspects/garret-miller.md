@@ -47,4 +47,3 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1359541/download)
 - [Ammended Complaint](https://www.justice.gov/opa/page/file/1359601/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1367301/download)
-- [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Garret%20Miller%20Government%20Opposition%20to%20Defendants%20Motion%20for%20Discovery%20and%20for%20an%20Evidentiary%20Hearing.pdf)
