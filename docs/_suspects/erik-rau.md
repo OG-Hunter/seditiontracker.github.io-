@@ -30,7 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/central-ohio-resident-arrested-in-jan-6-breach-of-u-s-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412526/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412531/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415121/download)

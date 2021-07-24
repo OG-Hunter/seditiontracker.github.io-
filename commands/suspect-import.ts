@@ -267,7 +267,8 @@ const getLinks = (element: HTMLElement, prefix = "", lastName?:string) => {
 }
 
 const linkType = (description: string, lastName?: string) => {
-    description = description.replace("&nbsp;", " ");
+    description = unescape(description)
+    description = description.replace(/&#39;/g, "'")
 
     switch(true) {
       case /Plea Agreement/.test(description):
@@ -349,7 +350,9 @@ const linkType = (description: string, lastName?: string) => {
       case /Motion to Revoke Pretrial Release/.test(description):
         return "Motion to Revoke Pretrial Release"
       case /Governments Opposition to Defendants Motion to Modify Conditions of Release/.test(description):
-        return "Governments Opposition to Modifying Conditions of Release"
+        return "Government's Opposition to Modifying Conditions of Release"
+      case /\.*Opposition to Defendant's Motion for Discovery/.test(description):
+        return "Government's Opposition to Defendent's Motion for Discovery"
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"
