@@ -2,7 +2,7 @@
 name: Andrew Taake
 lastName: Taake
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2021-07-21
 charged: 2021-07-21
@@ -12,7 +12,7 @@ sentenced:
 dismissed:
 deceased:
 age:
-occupation:
+occupation: Owner, Hi-Flow Houston
 affiliations:
 jurisdiction: Federal
 image: /images/preview/andrew-taake.jpg
@@ -31,5 +31,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.newsweek.com/capitol-rioter-andrew-taakes-boasts-dating-app-bumble-lead-arrest-1612804)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1415156/download)
