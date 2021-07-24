@@ -3,11 +3,11 @@ name: Derek Jancart
 lastName: Jancart
 aka:
 residence: Ohio
-status: Charged
+status: Convicted
 date: 2021-02-22
 charged: 2021-02-22
 indicted:
-convicted: 
+convicted: 2021-07-23
 sentenced:
 dismissed: 
 deceased:
