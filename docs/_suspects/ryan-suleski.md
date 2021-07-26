@@ -3,13 +3,14 @@ name: Ryan Suleski
 lastName: Suleski
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-03-05
 charged: 2021-03-05
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-05-26
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 37
 occupation:
 affiliations:
@@ -29,6 +30,8 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report (Twitter)](https://twitter.com/ryanjreilly/status/1377307092478873601)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ryan%20Seth%20Suleski%20Statement%20of%20Facts.pdf)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415001/download)

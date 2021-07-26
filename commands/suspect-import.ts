@@ -353,6 +353,8 @@ const linkType = (description: string, lastName?: string) => {
         return "Government's Opposition to Modifying Conditions of Release"
       case /\.*Opposition to Defendant's Motion for Discovery/.test(description):
         return "Government's Opposition to Defendent's Motion for Discovery"
+      case /\.*Judgement\.*/.test(description):
+        return "Judgement"
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"

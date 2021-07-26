@@ -8,8 +8,9 @@ date: 2021-04-20
 charged: 2021-04-20
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 56
 occupation:
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388356/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415206/download)

@@ -8,8 +8,9 @@ date: 2021-02-23
 charged: 2021-02-23
 indicted:
 convicted: 
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age:
 occupation: Nurse
 affiliations:
@@ -32,3 +33,4 @@ charges:
 - [News Report](https://www.kentucky.com/news/local/crime/article249457150.html)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1364284639385378825)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lori%20Vinson%20and%20Thomas%20Vinson%20Statement%20of%20Facts.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415381/download)
