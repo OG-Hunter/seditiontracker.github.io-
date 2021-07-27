@@ -8,8 +8,9 @@ date: 2021-02-24
 charged: 2021-02-24
 indicted:
 convicted: 2021-07-19
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 52
 occupation:
 affiliations:
@@ -33,3 +34,4 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dona%20Sue%20Bissey%20and%20Anna%20Morgan-Lloyd%20Statement%20of%20Facts.pdf)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378451/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415956/download)
