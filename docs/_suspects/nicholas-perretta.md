@@ -1,6 +1,6 @@
 ---
-name: Nicholas Peretta
-lastName: Peretta
+name: Nicholas Perretta
+lastName: Perretta
 aka:
 residence: Pennsylvania
 status: Charged
@@ -23,7 +23,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Nicholas Peretta charged on June 23, 2021
+title: Nicholas Perretta charged on June 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
