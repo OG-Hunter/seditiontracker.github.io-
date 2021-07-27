@@ -161,6 +161,9 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "GALLAGHER, Thomas"
     }
 
+    if (name == "PERETTA, Nicholas") {
+      name = "PERRETTA, Nicholas"
+    }
     const nameChunks = name.split(",")
 
     const lastName = toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '').replace(/\w+/g, capitalize).trim();
