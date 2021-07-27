@@ -3,11 +3,11 @@ name: Lori Vinson
 lastName: Vinson
 aka:
 residence: Kentucky
-status: Charged
+status: Convicted
 date: 2021-02-23
 charged: 2021-02-23
 indicted:
-convicted: 
+convicted: 2021-07-27
 sentenced:
 dismissed: 
 deceased:
