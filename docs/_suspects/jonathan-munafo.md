@@ -3,13 +3,14 @@ name: Jonathan Munafo
 lastName: Munafo
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2021-04-23
 charged: 2021-04-23
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-04-28
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 34
 occupation:
 affiliations:
@@ -29,7 +30,9 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.orlandosentinel.com/news/breaking-news/os-ne-jonathan-munafo-us-capitol-riot-20210427-cmz7ovdhejeefm2unzdns4aqzy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389816/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/new-york-man-arrested-assaulting-law-enforcement-during-jan-6-capitol-breach)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415441/download)

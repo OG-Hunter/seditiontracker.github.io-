@@ -8,8 +8,9 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2021-04-16
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 52
 occupation: Metal Guitarist (Iced Earth)
 affiliations: Oath Keepers
@@ -42,3 +43,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356006/download)
 - [Guilty Plea (News)](https://www.washingtonpost.com/local/legal-issues/guilty-plea-capitol-riot/2021/04/16/f7d5d420-9eb6-11eb-9d05-ae06f4529ece_story.html)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jon%20Ryan%20Schaffer%20Plea%20Agreement.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1416881/download)
