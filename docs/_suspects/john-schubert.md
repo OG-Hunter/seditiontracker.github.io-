@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 71
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -31,5 +31,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/who-are-amy-and-john-schubert-couple-charged-over-january-6-capitol-riot/ar-AAMCq1m)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Amy%20Schubert%20and%20John%20Schubert%20Jr%20Statement%20of%20Facts.pdf)
