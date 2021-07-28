@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I fought for this country, I fought for this country, what the fuck are you doing, I fought for this country, I fought for this country, I’m a military fucking police, I’m a military police'
 title: James Davis charged on July 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
