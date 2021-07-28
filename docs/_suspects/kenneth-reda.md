@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 54
 occupation: Physical Education Teacher, Viera High School
 affiliations:
@@ -29,6 +30,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.floridatoday.com/story/news/2021/07/06/viera-high-p-e-teacher-arrested-connection-jan-6-capital-riot/7881247002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408996/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412846/download)
