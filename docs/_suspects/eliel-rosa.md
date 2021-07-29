@@ -3,11 +3,11 @@ name: Eliel Rosa
 lastName: Rosa
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
-convicted: 
+convicted: 2021-07-29
 sentenced: 
 dismissed: 
 age: 53
