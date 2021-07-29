@@ -27,7 +27,7 @@ title: Daniel Christmann charged on July 16, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 charges:
 ---
 - [News Report](https://www.nytimes.com/2021/07/28/nyregion/capitol-riot-brooklyn-plumber.html)
