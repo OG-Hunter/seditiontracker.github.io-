@@ -2,7 +2,7 @@
 name: James Davis
 lastName: Davis
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2021-07-22
 charged: 2021-07-22
@@ -30,7 +30,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach-0)
 - [Self Incrimination (Video)](https://www.facebook.com/willistonTrendingTopicsNewsRadioLive/videos/838622173374753/)
