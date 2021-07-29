@@ -3,11 +3,11 @@ name: Jack Griffith
 lastName: Griffith
 aka: Juan Bibiano
 residence: Tennessee
-status: Indicted
+status: Convicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-03-10
-convicted: 
+convicted: 2021-07-29
 sentenced: 
 dismissed: 
 age: 25
