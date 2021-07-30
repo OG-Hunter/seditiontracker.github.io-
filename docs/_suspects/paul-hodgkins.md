@@ -8,8 +8,8 @@ date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
 convicted: 2021-06-02
-sentenced:
-dismissed: 
+sentenced: 2021-07-19
+dismissed:
 deceased:
 age: 38
 occupation:
@@ -30,6 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
+
 - [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Allard%20Hodgkins%20Statement%20of%20Facts.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)

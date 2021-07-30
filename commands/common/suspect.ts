@@ -65,6 +65,10 @@ export const getSuspectByFile = (filename:string) => {
     suspect.indicted = data.match(/indicted: (.*)/)[1].trim();
   }
 
+  if (data.match(/sentenced: (.*)/)) {
+    suspect.sentenced = data.match(/sentenced: (.*)/)[1].trim();
+  }
+
   if (data.match(/deceased: (.*)/)) {
     suspect.deceased = data.match(/deceased: (.*)/)[1].trim();
   }
