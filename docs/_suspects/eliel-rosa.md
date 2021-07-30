@@ -8,8 +8,9 @@ date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
 convicted: 2021-07-29
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 53
 occupation:
 affiliations:
@@ -45,3 +46,4 @@ charges:
 - [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)
 - [Complaint](https://www.justice.gov/opa/page/file/1353431/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366061/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419001/download)

@@ -8,8 +8,9 @@ date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-03-10
 convicted: 2021-07-29
-sentenced: 
+sentenced:
 dismissed: 
+deceased:
 age: 25
 occupation:
 affiliations:
@@ -40,3 +41,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/file/1355781/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356476/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bledsoe%20Torrens%20Reed%20Griffith%20Indictment.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419006/download)
