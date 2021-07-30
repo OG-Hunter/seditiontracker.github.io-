@@ -11,12 +11,12 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 41
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/nicholas-kennedy.jpg
-suspect: nicholas-kennedy.jpg
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
@@ -31,5 +31,5 @@ published: false
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.stltoday.com/news/local/crime-and-courts/sikeston-man-faces-charges-in-capitol-riot-feds-say/article_aeda28bb-fed3-5cd3-8281-9ba9dd8db859.html)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Kennedy%20Indictment.pdf)
