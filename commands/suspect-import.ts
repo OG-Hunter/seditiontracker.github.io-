@@ -179,7 +179,8 @@ const importDoj = async (nameSet: Set<string>) => {
     const dateString = dateMatch ? dateMatch[0] : "";
     const links = getLinks(<HTMLElement>cells[3], "https://www.justice.gov");
 
-    const caseNumber = cells[0].text.trim()
+    const caseNumberText = cells[0].text.trim()
+    const caseNumber = /(\d:\d{2}-\D\D-\d{1,3})/.test(caseNumberText) ? RegExp.$1 : undefined
 
     addData({
       nameSet,

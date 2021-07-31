@@ -12,7 +12,11 @@ layout: default
   <h1>{{ page.name }}</h1>
   {% if page.aka %} AKA: <small>{{ page.aka }}</small>
   <br />
-  {% endif %} {% if page.residence %} Residence: <small>{{ page.residence }}</small>
+  {% endif %}
+  {% if page.caseNumber %} Case Number: <small>{{ page.caseNumber }}</small>
+  <br />
+  {% endif %}
+  {% if page.residence %} Residence: <small>{{ page.residence }}</small>
   <br />
   {% endif %} {% if page.age %} Age: <small>{{ page.age }}</small>
   <br />

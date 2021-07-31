@@ -82,6 +82,10 @@ export const getSuspectByFile = (filename:string) => {
   suspect.title = data.match(/title: (.*)/)[1];
   suspect.jurisdiction = data.match(/jurisdiction: (.*)/)[1];
 
+  if (data.match(/caseNumber: (.*)/)) {
+    suspect.caseNumber = RegExp.$1
+  }
+
   if (data.match(/residence: (.*)/)) {
     suspect.residence = RegExp.$1;
   }
