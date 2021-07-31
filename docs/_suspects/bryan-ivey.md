@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-267
 ---
 - [News Report](https://www.newschannel5.com/news/crossville-man-arrested-on-charges-relating-to-january-6-capitol-riots)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378876/download)

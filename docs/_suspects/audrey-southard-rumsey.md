@@ -28,9 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-387
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/florida-woman-assaulted-u-s-capitol-sergeant-with-a-flagpole-and-threatened-nancy-pelosi-on-jan-6th-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401016/download)
 - [Courthouse (Video)](https://twitter.com/nycsouthpaw/status/1400276104544493572)

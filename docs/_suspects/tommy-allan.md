@@ -28,22 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-64
 ---
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)

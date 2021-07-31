@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-289
 ---
 - [News Report](https://www.fox13news.com/news/lakeland-woman-charged-with-being-at-u-s-capitol-attack)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378976/download)

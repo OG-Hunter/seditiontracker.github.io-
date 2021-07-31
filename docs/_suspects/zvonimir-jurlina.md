@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 31
 occupation:
 affiliations:
@@ -27,9 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-502
 ---
-
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)
 - [Incriminating Evidence (VIDEO)](https://youtu.be/ZrDckH2Td68?t=190)

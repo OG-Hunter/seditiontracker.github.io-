@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-361
 ---
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)

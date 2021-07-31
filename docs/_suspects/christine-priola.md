@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 49
 occupation: School Therapist
 affiliations:
@@ -27,13 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-mj-53
 ---
 - [News Report: Arrest](https://www.cleveland.com/crime/2021/01/former-cleveland-schools-therapist-arrested-on-federal-charges-involving-attack-at-us-capitol.html)
 - [News Report: FBI Raid](https://www.cleveland.com/metro/2021/01/fbi-searches-former-cleveland-schools-employees-house-after-accusations-that-she-participated-in-us-capitol-riot.html)

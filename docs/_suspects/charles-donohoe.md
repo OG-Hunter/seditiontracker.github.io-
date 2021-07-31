@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations: Proud Boys
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-175
 ---
 - [News Report](https://greensboro.com/news/local/crime-and-courts/winston-salem-proud-boys-leader-charged-in-jan-6-capitol-riot-charles-donohoe-was-arrested/article_ab06b989-7bcf-5ce7-a060-d530e7949112.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download)

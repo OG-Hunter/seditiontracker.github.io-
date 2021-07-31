@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-201
 ---
 - [News Report](https://www.ky3.com/2021/02/12/fbi-arrests-2-for-springfield-wanted-in-capitol-riot-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Quick%20Complaint.pdf)

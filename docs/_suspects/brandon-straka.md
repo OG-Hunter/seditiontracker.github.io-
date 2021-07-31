@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 43
 occupation: Hair Stylist (Former)
 affiliations:
@@ -27,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
+caseNumber: 1:21-mj-134
 ---
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
 - [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)

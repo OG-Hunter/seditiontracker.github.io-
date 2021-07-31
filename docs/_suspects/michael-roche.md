@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-359
 ---
 - [News Story](https://www.tennessean.com/story/news/crime/2021/04/13/murfreesboro-man-michael-roche-arrested-u-s-capitol-riot-case/7205782002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386731/download)

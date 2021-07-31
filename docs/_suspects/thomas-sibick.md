@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-291
 ---
 - [News Report](https://buffalonews.com/news/local/buffalo-man-charged-in-attack-on-capitol-officer-says-he-buried-cops-badge-in-backyard/article_3c9f8f5e-8398-11eb-87ca-9f337774ebb3.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379346/download)

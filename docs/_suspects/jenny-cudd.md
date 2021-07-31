@@ -28,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Aiding and abetting (2 counts)
-   code: 18 USC 2
-   link: https://www.law.cornell.edu/uscode/text/18/2
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-68
 ---
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)

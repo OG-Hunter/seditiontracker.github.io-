@@ -10,6 +10,7 @@ indicted: 2021-03-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 57
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-177
 ---
 - [News Report](https://www.thedailybeast.com/daniel-egtvedt-rioter-who-boasted-of-gop-ties-was-an-absolute-nightmare-for-capitol-cops-doj-alleges)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Dean%20Egtvedt%20Criminal%20Complaint.pdf)

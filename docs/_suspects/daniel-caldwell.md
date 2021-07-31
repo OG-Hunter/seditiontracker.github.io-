@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-181
 ---
 - [News Report](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)

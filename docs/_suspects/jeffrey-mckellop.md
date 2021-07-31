@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-268
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9378829/Former-Special-Forces-soldier-charged-assaulting-police-flag-pole-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378931/download)

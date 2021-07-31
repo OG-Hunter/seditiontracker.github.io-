@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 22
 occupation:
 affiliations:
@@ -27,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-mj-143
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)

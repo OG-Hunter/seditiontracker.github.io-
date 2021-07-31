@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-307
 ---
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)

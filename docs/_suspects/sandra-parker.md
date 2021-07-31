@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-28
 ---
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/02/19/capitol-arrests-warren-county-couple-charged-jan-6-insurrection/4500408001/)
 - [Complaint](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)

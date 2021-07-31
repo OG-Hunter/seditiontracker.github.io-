@@ -28,22 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
+caseNumber: 1:21-cr-154
 ---
 - [News Report](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)

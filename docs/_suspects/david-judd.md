@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-40
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/03/26/dallas-fbi-arrests-its-20th-alleged-rioter-for-storming-of-the-capitol-during-uprising/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380666/download)

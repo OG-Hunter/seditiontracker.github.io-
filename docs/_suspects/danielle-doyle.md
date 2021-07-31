@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-324
 ---
 - [News Report](https://oklahoman.com/article/5683329/former-oklahoma-city-thunder-worker-charged-in-us-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378601/download)

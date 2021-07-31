@@ -10,6 +10,7 @@ indicted: 2021-06-16
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-40
 ---
 - [News Report](https://www.msn.com/en-us/news/us/virginia-man-assaulted-police-with-baton-poles-in-capitol-tunnel-doj-says/ar-AALp292)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download)

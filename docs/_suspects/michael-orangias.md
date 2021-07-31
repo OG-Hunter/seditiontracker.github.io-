@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-265
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/fbi-arrests-man-in-louisville-in-connection-with-jan-6-attack-on-us-capitol/ar-BB1eJyPL)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393711/download)

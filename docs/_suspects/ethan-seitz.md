@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-279
 ---
 - [News Report](https://www.richlandsource.com/crawford_source/bucyrus-man-who-posted-on-facebook-charged-in-jan-6-capitol-assault/article_82a3bc50-8c30-11eb-a7b8-837ae2e13500.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381451/download)

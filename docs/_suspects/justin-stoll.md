@@ -28,13 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Transmitting a threat in interstate commerce
-   code: 18 USC 875
-   link: https://www.law.cornell.edu/uscode/text/18/875
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
+caseNumber: 1:21-mj-30
 ---
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371536/download)

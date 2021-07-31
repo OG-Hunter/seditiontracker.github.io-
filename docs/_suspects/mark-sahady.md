@@ -28,13 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-134
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)

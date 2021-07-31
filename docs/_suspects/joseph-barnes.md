@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-192
 ---
 - [News Report](https://www.kxan.com/news/local/austin/fbi-arrests-austin-real-estate-agent-accused-of-participating-in-u-s-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378426/download)

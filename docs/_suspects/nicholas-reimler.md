@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-239
 ---
 - [News Report](https://www.kmov.com/news/jefferson-county-man-charged-after-allegedly-participating-in-capitol-riot/article_d0b8e372-72e3-11eb-ad68-3ba6336f4130.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379161/download)

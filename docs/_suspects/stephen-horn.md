@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 23
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-301
 ---
 - [News Report](https://www.cbs17.com/news/local-news/wake-county-news/it-was-important-to-document-the-event-wake-forest-man-spotted-in-ny-times-during-capitol-insurrection-turns-himself-in/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385726/download)

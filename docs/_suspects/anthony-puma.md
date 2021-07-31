@@ -28,9 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-454
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/05/27/anthony-puma-charged-breaking-into-capitol-during-jan-6-riot/7467940002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399291/download)

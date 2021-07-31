@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-282
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/grayson-sherrill-capitol-rioter-seen-in-keep-america-great-top-gets-turned-in-by-his-own-family/ar-BB1e9zm3)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379336/download)

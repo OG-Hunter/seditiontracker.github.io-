@@ -28,13 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
+caseNumber: 1:21-cr-191
 ---
 - [News Report](https://www.lubbockonline.com/story/news/crime/2021/02/04/lubbock-man-accused-participating-capitol-riots/4399609001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371576/download)

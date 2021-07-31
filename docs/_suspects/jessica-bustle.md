@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-238
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/anti-vaxxer-jessica-bustle-and-husband-joshua-bustle-are-both-busted-for-breaching-u-s-capitol-building-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413661/download)

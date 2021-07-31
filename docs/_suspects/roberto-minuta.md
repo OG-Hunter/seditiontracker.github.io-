@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-28
 ---
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374966/download)

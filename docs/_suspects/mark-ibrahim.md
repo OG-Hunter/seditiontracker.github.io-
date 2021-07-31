@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-516
 ---
 - [News Report](https://www.cbsnews.com/news/mark-ibrahim-dea-agent-arrested-capitol-riot-gun-badge/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413286/download)

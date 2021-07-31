@@ -28,9 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-455
 ---
-
 - [News Story](https://www.oregonlive.com/crime/2021/04/feds-arrest-62-year-old-hillsboro-man-accused-of-assaulting-officer-outside-us-capitol-on-jan-6.html)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1389616/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389826/download)

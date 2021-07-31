@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-160
 ---
 - [News Report](https://www.wral.com/kansas-man-linked-to-proud-boys-arrested-in-capitol-riot/19540752/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)

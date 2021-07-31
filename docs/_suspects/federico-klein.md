@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-236
 ---
 - [News Report](https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374456/download)

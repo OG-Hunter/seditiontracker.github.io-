@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-148
 ---
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)

@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-482
 ---
 - [News Story](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408341/download)

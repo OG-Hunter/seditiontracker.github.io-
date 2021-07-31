@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 31
 occupation: Business Owner ("Adult Model Management Company")
 affiliations:
@@ -27,22 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-90
 ---
 - [News Report](https://www.8newsnow.com/i-team/i-team-special-reports/i-team-las-vegas-nevada-man-accused-of-taking-part-in-capitol-riot-called-president-trump-his-idol-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362391/download)

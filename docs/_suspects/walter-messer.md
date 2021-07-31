@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-541
 ---
 - [News Report](https://www.daytondailynews.com/crime/fbi-arrests-englewood-man-piqua-woman-in-us-capitol-siege/5F6DZFU6YVGDHIQECDLII7IOSY/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417576/download)

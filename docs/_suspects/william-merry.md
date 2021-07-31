@@ -28,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Theft of government property
-   code: 18 USC 641
-   link: https://www.law.cornell.edu/uscode/text/18/641
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-mj-173
 ---
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365726/download)

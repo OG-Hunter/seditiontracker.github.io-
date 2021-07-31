@@ -28,16 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Destruction of government property
-   code: 18 USC 1361
-   link: https://www.law.cornell.edu/uscode/text/18/1361
+caseNumber: 1:21-cr-287
 ---
 - [News Report](https://www.delawareonline.com/story/news/2021/01/14/delaware-father-son-arrested-involvement-capitol-riot-kevin-seefried-confederate-flag/4160104001/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-delaware-men-charged-federal-court-following-events-united-states-capitol)

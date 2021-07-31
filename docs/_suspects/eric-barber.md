@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-228
 ---
 - [News Report](https://www.msn.com/en-us/news/us/west-virginia-man-charged-with-stealing-cspan-equipment-during-capitol-riots/ar-BB1efFsk)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378386/download)

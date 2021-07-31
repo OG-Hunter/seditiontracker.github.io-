@@ -10,6 +10,7 @@ indicted: 2021-01-11
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 70
 occupation:
 affiliations:
@@ -27,10 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Possession of an unregistered firearm
-   code: 26 USC 5861
-   link: https://www.law.cornell.edu/uscode/text/26/5861
+caseNumber: 1:21-cr-4
 ---
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

@@ -28,13 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-125
 ---
 - [News Report](https://www.berkshireeagle.com/news/local/i-love-our-country-north-adams-man-explains-why-he-documented-riot-from-inside-capitol/article_357939b6-67c1-11eb-a153-878373b1ff53.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371451/download)

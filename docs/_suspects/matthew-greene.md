@@ -10,6 +10,7 @@ indicted: 2021-04-20
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations: Proud Boys
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-52
 ---
 - [News Report](https://spectrumlocalnews.com/nys/central-ny/public-safety/2021/04/21/syracuse--proud-boy--charged-in-jan--6-capitol-riot)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388681/download)

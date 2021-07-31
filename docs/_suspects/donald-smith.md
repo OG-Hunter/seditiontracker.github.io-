@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-548
 ---
 - [News Report](https://phillynews.fyi/30742/maga-rioter-bragged-that-breaking-into-pelosis-office-was-best-day-of-his-life-to-coworkers-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419026/download)

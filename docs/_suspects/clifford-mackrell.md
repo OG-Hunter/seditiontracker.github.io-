@@ -10,6 +10,7 @@ indicted: 2021-04-02
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 20
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-276
 ---
 - [News Report](https://www.cleveland.com/nation/2021/03/lorain-man-attacked-capitol-police-officer-during-jan-6-riots-following-stop-the-steal-rally-feds-say.html)
 - [Complaint](https://ewscripps.brightspotcdn.com/0c/73/be8c633047959a5a832099395123/clifford-mackrell.pdf)

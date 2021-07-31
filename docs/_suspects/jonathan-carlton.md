@@ -10,6 +10,7 @@ indicted: 2021-03-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 45
 occupation: State Corrections Officer
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-247
 ---
 - [News Report](https://www.jacksonville.com/story/news/courts/2021/03/11/corrections-officer-faces-judge-jacksonville-over-capitol-riot/4650980001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378516/download)

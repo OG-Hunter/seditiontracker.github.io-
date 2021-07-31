@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-70
 ---
 - [News Report](https://www.nbcmiami.com/news/local/south-florida-man-who-discussed-fbi-probe-on-social-media-arrested-in-u-s-capitol-breach/2366073/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357291/download)

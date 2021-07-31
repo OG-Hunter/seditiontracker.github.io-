@@ -10,6 +10,7 @@ indicted: 2021-03-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 42
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-257
 ---
 - [News Report](https://www.tennessean.com/story/news/crime/2021/03/08/tennessee-man-ronnie-b-presley-arrested-capitol-riot-investigation/4629102001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1375166/download)

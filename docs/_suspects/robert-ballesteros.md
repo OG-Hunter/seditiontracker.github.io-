@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-132
 ---
 - [News Report](https://www.lohud.com/story/news/crime/2021/03/17/mahopac-man-charged-capitol-riot/4730583001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378371/download)

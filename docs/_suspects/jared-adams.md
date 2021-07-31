@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-212
 ---
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/03/09/plain-city-man-latest-ohioans-arrested-jan-6-capitol-riot/6923674002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378331/download)

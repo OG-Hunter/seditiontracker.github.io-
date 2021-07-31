@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 37
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-320
 ---
 - [News Report](https://www.metrotimes.com/news-hits/archives/2021/04/12/up-man-arrested-for-allegedly-participating-in-deadly-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385571/download)

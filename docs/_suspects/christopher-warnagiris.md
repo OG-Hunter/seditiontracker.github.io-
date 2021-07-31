@@ -28,9 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-382
 ---
-
 - [News Report](https://www.newsweek.com/christopher-warnagiris-active-duty-marine-based-quantico-arrested-assaulting-officer-capitol-1591329)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/active-duty-us-marine-corps-officer-arrested-assault-federal-law-enforcement-officer)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1393941/download)

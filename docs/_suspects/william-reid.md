@@ -10,6 +10,7 @@ indicted: 2021-04-23
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 36
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-316
 ---
 - [News Report](https://www.nbcmiami.com/news/local/davie-man-arrested-in-capitol-riot-faces-cyberstalking-charge-in-south-florida/2420522/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1382556/download)

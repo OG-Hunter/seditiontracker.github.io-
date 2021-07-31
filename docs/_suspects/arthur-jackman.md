@@ -10,6 +10,7 @@ indicted: 2021-05-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-378
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/03/30/capitol-riot-suspect-in-custody-in-orlando/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1381341/download)

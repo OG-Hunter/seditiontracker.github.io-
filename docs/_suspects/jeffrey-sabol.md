@@ -28,10 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
+caseNumber: 1:21-cr-35
 ---
 - [News Report](https://www.cnbc.com/2021/01/22/capitol-riots-man-admits-dragging-cop-to-be-beaten-by-flag-pole.html)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1352658310269382656?s=20)

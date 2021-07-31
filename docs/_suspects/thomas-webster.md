@@ -10,6 +10,7 @@ indicted: 2021-03-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 54
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-208
 ---
 - [News Report](https://www.nytimes.com/2021/02/23/nyregion/nypd-officer-arrested-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)

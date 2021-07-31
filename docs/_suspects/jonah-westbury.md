@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-341
 ---
 - [News Report](https://kstp.com/news/26-year-old-minnesota-man-arrested-in-connection-with-us-capitol-attack/6069768/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385911/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 35
 occupation:
 affiliations: Proud Boys
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-175
 ---
 - [News Report](https://www.bozemandailychronicle.com/ap_news/philly-proud-boys-president-charged-in-capitol-riot/article_d9524b45-6f2a-57ac-9720-dd7bdd5093fe.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download)

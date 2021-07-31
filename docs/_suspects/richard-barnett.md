@@ -28,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Theft of government property
-   code: 18 USC 641
-   link: https://www.law.cornell.edu/uscode/text/18/641
+caseNumber: 1:21-cr-38
 ---
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)

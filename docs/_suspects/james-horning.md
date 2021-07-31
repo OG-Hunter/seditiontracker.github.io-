@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-275
 ---
 - [News Report](https://sciotovalleyguardian.com/2021/01/10/fbi-tipped-to-local-man-who-was-involved-in-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378696/download)

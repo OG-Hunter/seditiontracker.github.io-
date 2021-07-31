@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-313
 ---
 - [News Story](https://news.yahoo.com/rioter-filmed-bashing-capitol-cops-223359036.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385531/download)

@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-491
 ---
 - [News Story](https://www.msn.com/en-us/news/crime/la-county-employee-charged-for-allegedly-breaching-capitol/ar-AALyJCO)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412491/download)

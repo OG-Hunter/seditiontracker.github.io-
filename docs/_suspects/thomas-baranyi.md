@@ -10,6 +10,7 @@ indicted: 2021-02-02
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 28
 occupation: Peace Corps
 affiliations:
@@ -27,13 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-62
 ---
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)

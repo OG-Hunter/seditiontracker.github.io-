@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 20
 occupation:
 affiliations:
@@ -27,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Obstruction of State or local law enforcement
-   code: 18 USC 1511
-   link: https://www.law.cornell.edu/uscode/text/18/1511
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-395
 ---
 - [News Report](https://www.nytimes.com/2021/01/18/us/riley-june-williams-emmanuel-jackson.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357096/download)

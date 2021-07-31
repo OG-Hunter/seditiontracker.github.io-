@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 20
 occupation:
 affiliations:
@@ -27,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Theft of government property
-   code: 18 USC 641
-   link: https://www.law.cornell.edu/uscode/text/18/641
+caseNumber: 1:21-mj-73
 ---
 - [News Report](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357301/download)

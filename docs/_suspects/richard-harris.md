@@ -10,6 +10,7 @@ indicted: 2021-03-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-001
 ---
 - [News Report](https://www.nbcmiami.com/news/local/man-arrested-in-south-florida-in-connection-with-jan-6-u-s-capitol-breach/2417430/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381176/download)

@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-350
 ---
 - [News Report](https://www.wric.com/news/crime/man-arrested-in-sandston-for-entering-u-s-capitol-building-during-jan-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378461/download)

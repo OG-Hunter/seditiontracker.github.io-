@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-278
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/03/16/brevard-county-man-joins-hundreds-charged-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378686/download)

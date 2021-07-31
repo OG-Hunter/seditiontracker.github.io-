@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-197
 ---
 - [News Report](https://www.wfmz.com/news/area/lehighvalley/paperwork-video-shows-lehigh-county-man-was-at-u-s-capitol-during-riot/article_540d8556-7dee-11eb-845a-c3b80faa77ff.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393611/download)

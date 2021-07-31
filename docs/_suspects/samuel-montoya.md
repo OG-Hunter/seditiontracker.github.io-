@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-336
 ---
 - [News Report](https://www.alternet.org/2021/04/samuel-christopher-montoya/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386666/download)

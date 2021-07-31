@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-291
 ---
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1387521/download)

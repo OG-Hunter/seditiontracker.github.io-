@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-445
 ---
 - [News Report](https://www.sfgate.com/politics/article/California-man-wore-shirt-job-logo-manager-FBI-15982541.php)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378681/download)

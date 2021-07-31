@@ -33,6 +33,7 @@ export interface Suspect {
   title?: string
   jurisdiction?: string
   residence?: string
+  caseNumber?: string
 }
 
 export const getSuspectByFile = (filename:string) => {
@@ -180,14 +181,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`author: ${"seditiontrack"}`)
   lines.push(`layout: ${"suspect"}`)
   lines.push(`published: ${suspect.published.toString()}`)
-  lines.push("charges:");
-  if (suspect.charges) {
-    for (const [code, charge] of Object.entries(suspect.charges)) {
-      lines.push(` - name: ${charge.name}`)
-      lines.push(`   code: ${charge.code}`)
-      lines.push(`   link: ${charge.link}`)
-    }
-  }
+  lines.push(`caseNumber: ${suspect.caseNumber}`)
   lines.push('---')
 
   for (const [type, url] of Object.entries(suspect.links)) {

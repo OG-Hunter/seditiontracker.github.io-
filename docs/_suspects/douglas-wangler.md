@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-365
 ---
 - [News Report](https://www.wcia.com/news/two-central-illinois-men-charged-in-january-6-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)

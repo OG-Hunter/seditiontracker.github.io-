@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-475
 ---
 - [News Report](https://abcnews.go.com/Politics/wireStory/california-man-charged-raiding-capitol-posing-press-78775394)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410621/download)

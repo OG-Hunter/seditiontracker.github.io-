@@ -10,6 +10,7 @@ indicted: 2021-03-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-186
 ---
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-blair-capitol-search-warrant-20210202-x4uzotfxhng5ddglhnl5npeonu-story.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Blair%20Criminal%20Complaint.pdf)

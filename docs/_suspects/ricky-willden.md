@@ -10,6 +10,7 @@ indicted: 2021-06-23
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 39
 occupation:
 affiliations: Proud Boys
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-423
 ---
 - [News Report](https://sacramento.cbslocal.com/2021/06/30/ricky-christopher-willden-oakhurst-capitol-riot-arrest/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407976/download)

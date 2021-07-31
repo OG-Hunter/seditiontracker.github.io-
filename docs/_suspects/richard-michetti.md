@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-232
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-pennsylvania-man-charged-capitol-ex-girlfriend-fbi-20210224-ykcigqstwvdvnaric6chlxrqxy-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371461/download)

@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-226
 ---
 - [News Report](https://nypost.com/2021/02/26/feds-bust-ny-capitol-rioter-who-photographed-congressional-documents/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379041/download)

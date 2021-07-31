@@ -28,8 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-534
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-andrew-taakes-boasts-dating-app-bumble-lead-arrest-1612804)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1415156/download)

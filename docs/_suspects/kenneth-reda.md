@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-452
 ---
 - [News Report](https://www.floridatoday.com/story/news/2021/07/06/viera-high-p-e-teacher-arrested-connection-jan-6-capital-riot/7881247002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408996/download)

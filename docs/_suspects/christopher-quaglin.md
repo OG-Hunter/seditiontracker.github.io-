@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-40
 ---
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)

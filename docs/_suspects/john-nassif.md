@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-410
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/05/10/winter-springs-man-charged-in-capitol-riot-after-tipsters-alerted-fbi-to-his-facebook-posts/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1392876/download)

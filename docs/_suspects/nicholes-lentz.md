@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-206
 ---
 - [News Report](https://www.miamiherald.com/article249418810.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Criminal%20Complaint.pdf)

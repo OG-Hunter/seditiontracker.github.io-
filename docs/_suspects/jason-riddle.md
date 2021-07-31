@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-304
 ---
 - [News Report](https://www.thedailybeast.com/wine-drinking-rioter-jason-riddle-sold-stolen-senate-doc-for-dollar40-feds)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371501/download)

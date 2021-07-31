@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-217
 ---
 - [News Report](https://whyy.org/articles/fbi-says-luzerne-county-woman-filmed-inside-capitol-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378871/download)

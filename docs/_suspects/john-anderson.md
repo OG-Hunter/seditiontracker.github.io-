@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-215
 ---
 - [News Report](https://www.actionnewsjax.com/news/local/st-johns-county/local-man-faces-federal-judge-charged-connection-capitol-riots/VSL45JRAKREZJN3KB4T5QIR6SE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378341/download)

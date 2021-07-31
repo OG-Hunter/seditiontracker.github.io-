@@ -28,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-178
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/02/04/peter-schwartz-us-capitol-riots-arrest-uniontown-kentucky/stories/202102040169)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364696/download)

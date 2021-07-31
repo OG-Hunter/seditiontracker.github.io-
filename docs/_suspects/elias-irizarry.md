@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-282
 ---
 - [News Report](https://abcnews4.com/news/local/citadel-cadet-charged-in-capitol-riot-probe-bonds-out-of-jail-1st-court-date-set)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386301/download)

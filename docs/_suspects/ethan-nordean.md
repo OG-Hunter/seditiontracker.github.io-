@@ -28,22 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Destruction of government property
-   code: 18 USC 1361
-   link: https://www.law.cornell.edu/uscode/text/18/1361
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Aiding and abetting (2 counts)
-   code: 18 USC 2
-   link: https://www.law.cornell.edu/uscode/text/18/2
+caseNumber: 1:21-cr-175
 ---
 - [News Report](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)

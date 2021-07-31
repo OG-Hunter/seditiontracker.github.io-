@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-499
 ---
 - [News Story](https://twitter.com/MacFarlaneNews/status/1412898245353869319)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)

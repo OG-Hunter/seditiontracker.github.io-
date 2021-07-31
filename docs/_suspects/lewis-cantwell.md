@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 35
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-89
 ---
 - [News Report](https://www.smokymountainnews.com/news/item/30846-sylva-man-arrested-in-connection-with-capitol-riots)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lewis%20Easton%20Cantwell%20Indictment.pdf)

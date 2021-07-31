@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-317
 ---
 - [News Story](https://www.khou.com/article/news/nation-world/details-houston-residents-arrested-capitol-riots/285-0fb5c466-4f23-4131-a53f-5b3a6fd508c6)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390346/download)

@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-355
 ---
 - [News Report](https://www.kentucky.com/news/local/crime/article249457150.html)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1364284639385378825)

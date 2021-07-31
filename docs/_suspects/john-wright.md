@@ -10,6 +10,7 @@ indicted: 2021-05-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 54
 occupation: Owner, Motor-Coach Business
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-341
 ---
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)

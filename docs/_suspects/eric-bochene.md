@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 49
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-418
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/upstate-ny-man-charged-with-being-inside-capitol-on-jan-6/3056832/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394206/download)

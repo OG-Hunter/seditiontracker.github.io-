@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-375
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/prosecutors-file-charges-against-man-who-called-the-fbi-to-say-he-was-there-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385896/download)

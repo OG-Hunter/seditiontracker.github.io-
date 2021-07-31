@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-248
 ---
 - [News Report](https://www.ktoo.org/2021/03/16/anchorage-man-arrested-charged-with-participating-in-us-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393656/download)

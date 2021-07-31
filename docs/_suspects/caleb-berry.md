@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-460
 ---
 - [News Story](https://www.rawstory.com/caleb-berry/)
 - [Information](/filings/caleb-berry-information.pdf)

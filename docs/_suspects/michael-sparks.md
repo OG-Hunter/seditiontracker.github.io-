@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-87
 ---
 - [News Report](https://www.whas11.com/article/news/kentucky/elizabethtown-kentucky-capitol-riot-charges/417-5c05ad24-1375-4a90-a628-20196a598e61)
 - [Complaint](https://www.justice.gov/opa/page/file/1357386/download)

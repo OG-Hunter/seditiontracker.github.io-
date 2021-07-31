@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-28
 ---
 - [News Report](https://www.floridatoday.com/story/news/politics/2021/03/11/brevard-man-arrested-and-charged-conspiracy-capitol-riot/4653749001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)

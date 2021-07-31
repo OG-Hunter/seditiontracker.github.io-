@@ -28,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-86
 ---
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/jjabJi3k3h0KAkxYDoWY)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol)

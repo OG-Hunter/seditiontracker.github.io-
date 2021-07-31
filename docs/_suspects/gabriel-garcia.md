@@ -10,6 +10,7 @@ indicted: 2021-02-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys
@@ -27,13 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-129
 ---
 - [News Report](https://www.miamiherald.com/news/local/crime/article248608940.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356776/download)

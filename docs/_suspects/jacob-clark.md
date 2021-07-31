@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 32
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-279
 ---
 - [News Story](https://denver.cbslocal.com/2021/04/23/jacob-clark-colorado-us-capitol-riot-arrest-federal-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391106/download)

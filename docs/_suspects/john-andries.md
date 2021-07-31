@@ -28,13 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-93
 ---
 - [News Report](https://smnewsnet.com/archives/487309/piney-point-man-arrested-for-involvement-with-capitol-siege-on-january-6th/)
 - [Complaint](https://beta.documentcloud.org/documents/20475087-2-8-21-us-v-john-andries-information)

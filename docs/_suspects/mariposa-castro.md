@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation: Owner, Yoga Studio
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-299
 ---
 - [News Report](https://www.ktvu.com/news/gilroy-woman-charged-in-capitol-riot)
 - [Self Incrimination (VIDEO)](https://twitter.com/henrykleeKTVU/status/1360386497577275394)

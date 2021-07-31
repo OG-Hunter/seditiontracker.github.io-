@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-370
 ---
 - [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387456/download)

@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-128
 ---
 - [News Report](https://cdapress.com/news/2021/feb/13/sandpoint-man-implicated-capitol-insurrection-cda/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379106/download)

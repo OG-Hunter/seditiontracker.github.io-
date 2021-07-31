@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-453
 ---
 - [News Report](https://www.al.com/news/2021/06/woman-wanted-to-find-me-a-proud-boy-at-us-capitol-but-gets-arrested-in-alabama-for-jan-6-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401761/download)

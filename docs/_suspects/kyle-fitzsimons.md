@@ -28,31 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Knowingly Entering or Remaining in Any Restricted Building or Grounds without Lawful Authority
-   code: 18 USC 1752 (a)(4)
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent Entry and Disorderly Conduct on Capitol Grounds
-   code: 40 USC 5104 (e)(2)(F)
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Assault on a Federal Officer
-   code: 18 USC 111 (a)(1)
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Certain Acts During a Civil Disorder
-   code: 18 USC 231 (a)(3)
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-158
 ---
 - [News Report](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365566/download)

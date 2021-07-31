@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 57
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-381
 ---
 - [News Report](https://www.gatesvillemessenger.com/news/gatesville-man-arrested-taking-part-jan-6-mob)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400881/download)

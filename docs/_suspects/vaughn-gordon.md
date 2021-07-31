@@ -10,6 +10,7 @@ indicted: 2021-02-09
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 50
 occupation:
 affiliations:
@@ -27,13 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-99
 ---
 - [News Report](https://www.theadvocate.com/acadiana/news/article_489d5514-56b3-11eb-bbbb-2b9a6a6e6984.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354986/download)

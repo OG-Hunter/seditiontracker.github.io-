@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-334
 ---
 - [News Report](https://www.thedailybeast.com/pennsylvania-rioter-dale-shalvey-charged-after-going-through-senate-papers-during-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379321/download)

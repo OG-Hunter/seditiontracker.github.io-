@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-266
 ---
 - [News Report](https://www.springfieldnewssun.com/crime/2-more-area-residents-charged-in-us-capitol-riot/N6YW6VWHSFA67OMQO5TNR7GFUE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378966/download)

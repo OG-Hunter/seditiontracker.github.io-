@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-437
 ---
 - [News Story](https://www.huffpost.com/entry/mark-grods-oath-keeper-capitol-attack-trump_n_60dc7417e4b058eea49d79ad)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408091/download)

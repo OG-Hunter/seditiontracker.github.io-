@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 53
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-226
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/boise-woman-arrested-accused-of-crimes-related-to-us-capitol-riot/ar-BB1ef7i4)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379351/download)

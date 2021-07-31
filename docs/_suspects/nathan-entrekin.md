@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-526
 ---
 - [News Report](https://www.huffpost.com/entry/roman-gladiator-costume-capitol-riot-trump-fbi_n_60f08b8ae4b022142cf67b8b)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Criminal%20Complaint.pdf)

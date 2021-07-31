@@ -81,7 +81,7 @@ const importUSA = async (nameSet: Set<string>) => {
       }
     }
 
-    addData(nameSet, firstName, lastName, null, {}, residence, age);
+    addData({nameSet, firstName, lastName, residence, age});
   }
 }
 
@@ -122,7 +122,7 @@ const importGw = async (nameSet: Set<string>) => {
       }
 
       const links = getLinks(entry, "", lastName)
-      addData(nameSet, firstName, lastName, null, links, residence)
+      addData({nameSet, firstName, lastName, links, residence})
     }
   }
 }
@@ -179,7 +179,16 @@ const importDoj = async (nameSet: Set<string>) => {
     const dateString = dateMatch ? dateMatch[0] : "";
     const links = getLinks(<HTMLElement>cells[3], "https://www.justice.gov");
 
-    addData(nameSet, firstName, lastName, dateString, links);
+    const caseNumber = cells[0].text.trim()
+
+    addData({
+      nameSet,
+      firstName,
+      lastName,
+      dateString,
+      links,
+      caseNumber
+    })
   }
 }
 
@@ -367,12 +376,23 @@ const linkType = (description: string, lastName?: string) => {
     }
 }
 
-const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, residence?: string, age?: string) => {
+interface suspectData {
+  nameSet: Set<string>,
+  firstName: string,
+  lastName: string,
+  dateString: string,
+  links: string,
+  caseNumber?: string,
+  residence?: string
+  age?: string
+}
+const addData = (suspectData) => {
+  const { firstName, lastName, nameSet, residence, age, caseNumber, links} = suspectData
   const nameToCheck = dasherizeName(firstName, lastName);
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
-    newSuspect(firstName, lastName, dateString, links, residence);
+    newSuspect(suspectData);
     return;
   }
 
@@ -388,6 +408,12 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   if (isEmpty(suspect.age) && !isEmpty(age)) {
     console.log(`${suspect.name}: Age ${age}`)
     suspect.age = age
+    updateSuspect(suspect)
+  }
+
+  if (isEmpty(suspect.caseNumber) && !isEmpty(caseNumber)) {
+    console.log(`${suspect.name}: Case Number ${caseNumber}`)
+    suspect.caseNumber = caseNumber
     updateSuspect(suspect)
   }
 
@@ -431,7 +457,9 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
   // TODO - replace non DOJ links
 }
 
-const newSuspect = (firstName, lastName, dateString, links, residence?: string, age?: string) => {
+const newSuspect = (suspectData) => {
+  const { firstName, lastName, residence, age, links, caseNumber, dateString} = suspectData
+
   const suspect:Suspect = {
     name: `${firstName} ${lastName}`,
     lastName,
@@ -443,7 +471,8 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
     image: `/images/preview/${dasherizeName(firstName, lastName)}.jpg`,
     suspect: `${dasherizeName(firstName, lastName)}.jpg`,
     title: `${firstName} ${lastName} charged on [longDate]`,
-    published: false
+    published: false,
+    caseNumber,
   }
 
   if (dateString) {

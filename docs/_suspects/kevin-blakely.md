@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-356
 ---
 - [News Report](https://www.nbcdfw.com/news/local/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/2584604/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380351/download)

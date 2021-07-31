@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-245
 ---
 - [News Report](https://queenseagle.com/all/queens-gop-district-leader-arrested-for-role-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371396/download)

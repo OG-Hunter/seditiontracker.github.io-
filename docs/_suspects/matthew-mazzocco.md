@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-07-02
 sentenced:
 dismissed:
+deceased:
 age: 37
 occupation: 'Mortgage Loan Ninja'
 affiliations:
@@ -27,15 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-54
 ---
-
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)

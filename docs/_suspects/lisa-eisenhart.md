@@ -28,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Conspiracy
-   code: 18 USC 371
-   link: https://www.law.cornell.edu/uscode/text/18/371
- - name: Civil disorder
-   code: 18 USC 231
-   link: https://www.law.cornell.edu/uscode/text/18/231
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
+caseNumber: 1:21-cr-118
 ---
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)

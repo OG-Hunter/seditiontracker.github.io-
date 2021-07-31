@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-278
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/03/18/us-capitol-riot-leads-charges-against-two-more-michigan-men/4746118001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379311/download)

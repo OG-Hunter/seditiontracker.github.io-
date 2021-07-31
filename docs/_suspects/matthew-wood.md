@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-223
 ---
 - [News Report](https://www.charlotteobserver.com/news/politics-government/article249797823.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379546/download)

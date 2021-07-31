@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 61
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-386
 ---
 - [News Report](https://www.msn.com/en-us/news/us/61-year-old-westminster-man-arrested-in-connection-with-jan-6-capitol-riots/ar-BB1fZg2s)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389316/download)

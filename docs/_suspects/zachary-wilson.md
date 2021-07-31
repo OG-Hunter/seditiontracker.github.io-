@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 31
 occupation:
 affiliations:
@@ -27,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-mj-229
 ---
 - [News Report](https://www.komu.com/news/state/two-missouri-men-arrested-for-alleged-involvement-in-capitol-riots/article_d19e425a-72fc-11eb-a3bc-5f2e15451854.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20John%20Wilson%20Statement%20of%20Facts.pdf)

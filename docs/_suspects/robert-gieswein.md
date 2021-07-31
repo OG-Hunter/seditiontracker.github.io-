@@ -10,6 +10,7 @@ indicted: 2021-01-27
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters
@@ -27,19 +28,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
- - name: Assaulting, resisting, or impeding certain officers or employees
-   code: 18 USC 111
-   link: https://www.law.cornell.edu/uscode/text/18/111
- - name: Destruction of government property
-   code: 18 USC 1361
-   link: https://www.law.cornell.edu/uscode/text/18/1361
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
+caseNumber: 1:21-cr-24
 ---
 - [News Report](https://www.denverpost.com/2021/01/18/colorado-us-capitol-riot-robert-gieswein/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)

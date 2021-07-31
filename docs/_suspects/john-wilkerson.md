@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-302
 ---
 - [News Report](https://www.thechesapeaketoday.com/2021/04/18/capitol-riot-john-wilkerson-iv-charged-with-being-part-of-capitol-mob/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385566/download)

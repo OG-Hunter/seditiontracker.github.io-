@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber: 1:21-cr-294
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/03/26/Crawford-County-man-indicted-in-jan-6-Capitol-riot-jeremy-vorous/stories/202103260127)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384416/download)

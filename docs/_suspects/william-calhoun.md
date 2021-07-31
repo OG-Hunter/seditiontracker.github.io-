@@ -10,6 +10,7 @@ indicted: 2021-02-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 57
 occupation:
 affiliations:
@@ -27,16 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
- - name: Unlawful entry on restricted building or grounds
-   code: 18 USC 1752
-   link: https://www.law.cornell.edu/uscode/text/18/1752
- - name: Violent entry or disorderly conduct on Capitol grounds
-   code: 40 USC 5104
-   link: https://www.law.cornell.edu/uscode/text/40/5104
- - name: Obstruction of an official proceeding
-   code: 18 USC 1512
-   link: https://www.law.cornell.edu/uscode/text/18/1512
+caseNumber: 1:21-cr-116
 ---
 - [News Report](https://www.11alive.com/article/news/crime/trials/mccall-calhoun-probable-cause-dc-riots/85-b805cef5-82f0-4b22-aa63-d9ca62d6472d)
 - [Complaint](https://www.justice.gov/opa/page/file/1356041/download)
