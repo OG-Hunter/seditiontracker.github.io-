@@ -40,6 +40,10 @@ const doVerify = () => {
       exitWithError(`Missing convicted date for ${suspect.name}`);
     }
 
+    if (suspect.status == "Sentenced" && !suspect.sentenced) {
+      exitWithError(`Missing sentenced date for ${suspect.name}`);
+    }
+
     if (!suspect.charged) {
       suspect.charged = suspect.date
       updateSuspect(suspect)

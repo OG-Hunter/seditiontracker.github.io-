@@ -412,8 +412,17 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
       if (type == "Indictment") {
         suspect.status = "Indicted"
-        const previewImage = suspect.image.replace("/images/preview/", "")
-        execSync(`yarn suspect preview -f ${previewImage} -s ${suspect.status}`)
+        updatePreview(suspect)
+      }
+
+      if (type == "Judgement") {
+        suspect.status = "Sentenced"
+        updatePreview(suspect)
+      }
+
+      if (type == "Plea Agreement") {
+        suspect.status = "Convicted"
+        updatePreview(suspect)
       }
     }
     updateSuspect(suspect)
@@ -449,6 +458,11 @@ const newSuspect = (firstName, lastName, dateString, links, residence?: string, 
 
 const dasherizeName = (firstName:string, lastName:string) => {
   return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
+}
+
+const updatePreview = (suspect:Suspect) => {
+  const previewImage = suspect.image.replace("/images/preview/", "")
+  execSync(`yarn suspect preview -f ${previewImage} -s ${suspect.status}`)
 }
 
 importSuspects();
