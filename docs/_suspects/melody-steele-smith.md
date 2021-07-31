@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 57
 occupation:
 affiliations:
@@ -40,5 +41,5 @@ charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/gloucester-woman-arrested-after-photos-show-her-inside-us-capitol-during-riot/ar-BB1dzAz3)
 - [Complaint](https://www.justice.gov/file/1360206/download)
-- [Statement of Facts](https://www.justice.gov/file/1360206/download)
-- [Indictment](https://assets.documentcloud.org/documents/20471979/steele-smith.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/file/1360206/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366136/download)

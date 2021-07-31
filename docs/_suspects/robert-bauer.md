@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-06-28
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -36,7 +37,7 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-capitol-riot-arrests-bauer/417-51b5098f-25b0-41f7-898b-37616e64dc5d)
-- [Complaint](https://assets.documentcloud.org/documents/20456227/1-14-21-us-v-robert-bauer-complaint-statement.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1355726/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371586/download)
 - [Plea Agreement](https://s3.documentcloud.org/documents/20974837/6-28-21-robert-bauer-plea-agreement.pdf)

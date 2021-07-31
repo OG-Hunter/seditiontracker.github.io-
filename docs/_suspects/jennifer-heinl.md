@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.wpxi.com/news/top-stories/ross-township-woman-arrested-connection-with-violence-us-capitol/5C7LELQGNRFCFIJAB6E4N7AHJA/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Heinl%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378666/download)

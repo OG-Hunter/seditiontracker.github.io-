@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.wric.com/news/crime/man-arrested-in-sandston-for-entering-u-s-capitol-building-during-jan-6-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Antionne%20Brodnax%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378461/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394471/download)

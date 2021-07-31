@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.springfieldnewssun.com/crime/2-more-area-residents-charged-in-us-capitol-riot/N6YW6VWHSFA67OMQO5TNR7GFUE/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephanie%20Miller%20and%20Brandon%20Miller%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378966/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383071/download)

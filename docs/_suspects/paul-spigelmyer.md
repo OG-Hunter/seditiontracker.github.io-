@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -36,6 +37,6 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.abc27.com/news/top-stories/three-mifflin-county-residents-charged-in-u-s-capitol-riot/)
-- [Statement of Facts](https://www.courtlistener.com/recap/gov.uscourts.dcd.227241/gov.uscourts.dcd.227241.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371321/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377831/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377831/download)

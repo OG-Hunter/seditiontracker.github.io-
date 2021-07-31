@@ -10,6 +10,7 @@ indicted: 2021-04-09
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 49
 occupation:
 affiliations: Proud Boys
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.naplesnews.com/story/news/2021/03/13/christopher-worrell-arrested-naples-ties-proud-boys-capitol-riot-suspected/4682025001/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Worrell%20Statement%20of%20Facts.pdf)
-- [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.229958/gov.uscourts.dcd.229958.31.0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379556/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387156/download)

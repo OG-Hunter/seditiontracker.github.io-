@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -37,5 +38,5 @@ charges:
 ---
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
 - [Complaint](https://www.justice.gov/file/1360781/download)
-- [Statement of Facts](https://www.justice.gov/file/1360781/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360781/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377736/download)

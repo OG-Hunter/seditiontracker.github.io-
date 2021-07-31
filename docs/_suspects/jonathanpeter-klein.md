@@ -10,6 +10,7 @@ indicted: 2021-03-23
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 21
 occupation:
 affiliations: Proud Boys
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.oregonlive.com/crime/2021/03/2-oregon-brothers-arrested-on-federal-charges-stemming-from-alleged-role-in-us-capitol-riot.html?outputType=amp&__twitter_impression=true)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathanpeter%20Allen%20Klein%20and%20Matthew%20Leland%20Klein%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382871/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-brothers-including-self-identified-proud-boy-charged-and-ordered-detained-crimes)

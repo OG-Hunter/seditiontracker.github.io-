@@ -10,6 +10,7 @@ indicted: 2021-03-12
 convicted: 
 sentenced:
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations: Oath Keepers
@@ -31,12 +32,9 @@ charges:
 ---
 - [News Report](https://www.floridatoday.com/story/news/politics/2021/03/11/brevard-man-arrested-and-charged-conspiracy-capitol-riot/4653749001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378526/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377991/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410241/download)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Government%20Opposition%20to%20Motion%20for%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
 - [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Detention%20Hearing%20Transcript.pdf)
 - [Defense Motion for Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Defense%20Motion%20For%20Reconsideration%20of%20Conditions%20of%20Release.pdf)
-- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415007585795776512)
-- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415008197119782912)
-- [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415009303640084482)
 - [Evidence (Video)](https://twitter.com/ryanjreilly/status/1415010654637985795)

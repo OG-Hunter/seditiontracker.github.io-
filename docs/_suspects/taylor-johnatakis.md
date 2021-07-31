@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 37
 occupation:
 affiliations:
@@ -45,4 +46,4 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366951/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)

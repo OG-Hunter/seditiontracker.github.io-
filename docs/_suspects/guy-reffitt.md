@@ -10,6 +10,7 @@ indicted: 2021-01-27
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force
@@ -41,4 +42,4 @@ charges:
 - [News Report](https://nypost.com/2021/01/18/rioter-guy-reffitt-threatened-to-shoot-kids-if-they-talked-to-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356111/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364771/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405211/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.timesfreepress.com/news/local/story/2021/feb/23/chattanooga-area-man-accused-participating-capitol-riot-january-6-arrested/542166/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Padilla%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371481/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379316/download)

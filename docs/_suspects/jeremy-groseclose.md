@@ -10,6 +10,7 @@ indicted: 2021-04-21
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.wsls.com/news/local/2021/02/26/fbi-arrests-montgomery-county-man-it-believes-took-part-in-us-capitol-riots/)
-- [Complaint](https://www.wric.com/wp-content/uploads/sites/74/2021/02/GROSECLOSE-CRIMINAL-COMPLAINT74908.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Groseclose%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378661/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378656/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389116/download)

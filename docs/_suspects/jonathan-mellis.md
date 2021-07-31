@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 34
 occupation:
 affiliations:
@@ -45,5 +46,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/16/capitol-raider-boasted-facebook-proudly-storming-c/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Gennaro%20Mellis%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371456/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377796/download)

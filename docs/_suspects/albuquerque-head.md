@@ -10,6 +10,7 @@ indicted: 2021-04-09
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sibick%20Head%20Young%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1387521/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation: Veteran, U.S. Marine Corps
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9360743/Two-men-charged-Capitol-riot-posted-video-claiming-crashed-White-House.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffery%20Shane%20Witcher%20and%20Richard%20Franklin%20Barnard%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)

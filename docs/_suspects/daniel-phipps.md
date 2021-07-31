@@ -10,6 +10,7 @@ indicted: 2021-04-23
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 48
 occupation:
 affiliations:
@@ -39,4 +40,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1360726/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360726/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371656/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389891/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392991/download)

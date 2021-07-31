@@ -10,6 +10,7 @@ indicted: 2021-01-11
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -43,7 +44,7 @@ charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351941/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364486/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Chansley%20Detention%20Memo.pdf)
 - [Indictment](https://www.justice.gov/opa/page/file/1352916/download)
 - [Detention Hearing](https://www.news10.com/top-stories/federal-judge-refuses-to-release-man-wearing-horns-and-face-paint-from-custody-after-capitol-riot/)

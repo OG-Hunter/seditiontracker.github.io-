@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation: Fishing charter captain
 affiliations:
@@ -38,4 +39,4 @@ charges:
 - [News Report](https://www.wtvr.com/news/local-news/jacob-giles-turns-himself-in-to-fbi-for-alleged-role-in-capitol-attack)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356971/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356976/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Hiles%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377746/download)

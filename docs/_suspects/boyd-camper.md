@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 54
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.ypradio.org/government-politics/2021-03-14/fifth-montanan-faces-charges-over-capitol-insurrection)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378506/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394541/download)

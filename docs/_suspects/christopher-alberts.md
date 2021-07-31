@@ -10,6 +10,7 @@ indicted: 2021-01-27
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -39,4 +40,4 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351681/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351686/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364751/download)
+- [Indictment](https://www.justice.gov/opa/case-multi-defendant/file/1394581/download)

@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 23
 occupation:
 affiliations:
@@ -53,4 +54,4 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBIWFO/status/1351978524140331008?s=20)
 - [DC Police Wanted Post (Twitter)](https://twitter.com/DCPoliceDept/status/1350239956460036096?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357246/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20and%20Stevens%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)

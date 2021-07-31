@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 36
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/fbi-arrests-man-in-louisville-in-connection-with-jan-6-attack-on-us-capitol/ar-BB1eJyPL)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Orangias%20Statement%20of%20Facts_Redacted.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393711/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393706/download)

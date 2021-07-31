@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 39
 occupation: Lawn Care
 affiliations:
@@ -31,5 +32,5 @@ charges:
 ---
 - [News Story](https://www.chicagotribune.com/news/criminal-justice/ct-thomas-adams-springfield-capitol-attack-charges-20210414-55cygahhs5dk7btt2qhhmtig4q-story.html)
 - [Self Incrimination (Interview)](https://www.insider.com/men-who-broke-into-the-capitol-describe-a-carnival-atmosphere-2021-1)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Adams%20Jr%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389216/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389221/download)

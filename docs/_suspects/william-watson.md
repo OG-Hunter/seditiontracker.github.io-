@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 23
 occupation:
 affiliations:
@@ -39,4 +40,4 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.wate.com/news/auburn-man-in-federal-custody-following-u-s-capitol-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Wright%20Watson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371561/download)

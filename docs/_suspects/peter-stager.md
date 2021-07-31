@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -37,4 +38,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1354981/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355506/download)
 - [Booking (Video)](https://www.thv11.com/video/news/crime/peter-stager-booking-video/91-fc5a4b9c-0c85-4f3c-8974-04b77409c8cc)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sabol%20Stager%20Lopatic%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413436/download)

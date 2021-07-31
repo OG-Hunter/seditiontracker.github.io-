@@ -10,6 +10,7 @@ indicted: 2021-02-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 22
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.wral.com/kansas-man-linked-to-proud-boys-arrested-in-capitol-riot/19540752/)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20490013/ashlock.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colon%20Kuehne%20F%20Konold%20C%20Konold%20Chrestman%20Ashlock%20Indictment.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

@@ -10,6 +10,7 @@ indicted: 2021-02-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations: Proud Boys
@@ -46,5 +47,5 @@ charges:
 ---
 - [News Report](https://www.washingtonpost.com/local/legal-issues/kansas-city-proud-boys-charged-capitol-riots/2021/02/11/389d47b6-6c73-11eb-9ead-673168d5b874_story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colon%20Kuehne%20F%20Konold%20C%20Konold%20Criminal%20Complaint.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colon%20Kuehne%20F%20Konold%20C%20Konold%20Chrestman%20Ashlock%20Indictment.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

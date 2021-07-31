@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 28
 occupation: U.S. Marines (Former)
 affiliations:
@@ -37,5 +38,5 @@ charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/politics/fbi-new-jersey-man-took-video-selfie-inside-capitol-detailed-his-location-during-siege/ar-BB1d746o)
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hector%20Vargas%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371546/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377976/download)

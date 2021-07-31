@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 53
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.newsbreak.com/colorado/colorado-springs/news/2166074234842/ohios-terry-lynn-lindsey-yet-to-be-arrested-after-entering-us-capitol-with-colorado-springs-glenn-wes-lee-croy)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371331/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)

@@ -393,7 +393,15 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
 
   // pick up any new links
   for (const [type, url] of Object.entries(links)) {
-    if (!suspect.links[type]) {
+    if (suspect.links[type]) {
+      // link already exists but there may be a "better" one from DOJ
+      if (/^https:\/\/www.justice.gov/.test(<string>url) && suspect.links[type] != url) {
+        console.log(`${suspect.name}: ${type}`);
+        suspect.links[type] = <string>url
+      } else {
+        continue
+      }
+    } else {
       // make sure there is not a similar link already
       if (type == "Complaint" && suspect.links["Statement of Facts"]) {
         continue;
@@ -407,9 +415,8 @@ const addData = (nameSet:Set<string>, firstName, lastName, dateString, links, re
         const previewImage = suspect.image.replace("/images/preview/", "")
         execSync(`yarn suspect preview -f ${previewImage} -s ${suspect.status}`)
       }
-
-      updateSuspect(suspect)
     }
+    updateSuspect(suspect)
   }
 
   // TODO - replace non DOJ links

@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 34
 occupation:
 affiliations: Proud Boys, Murder the Media
@@ -49,7 +50,7 @@ charges:
 ---
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)
-- [Complaint](https://www.justice.gov/opa/page/file/1353341/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1353336/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353341/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1364371/download)

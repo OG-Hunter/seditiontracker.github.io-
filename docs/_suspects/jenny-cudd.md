@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 36
 occupation:
 affiliations:
@@ -43,6 +44,6 @@ charges:
 ---
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
-- [Statement of Facts](https://www.scribd.com/document/490745903/Jenny-Cudd-and-Eliel-Rosa-Statement-of-Facts)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1353436/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1353431/download)
-- [Indictment](https://assets.documentcloud.org/documents/20471878/2-3-21-jenny-cudd-eliel-rosa-indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366061/download)

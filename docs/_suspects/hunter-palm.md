@@ -30,7 +30,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.9news.com/article/news/crime/colorado-resident-hunter-palm-capitol-riot-charges/73-ce910300-7d95-4c50-b4a1-125303239381)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Palm%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394516/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413576/download)

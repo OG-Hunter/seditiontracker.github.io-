@@ -31,7 +31,7 @@ published: true
 charges:
 ---
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385926/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389886/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410506/download)

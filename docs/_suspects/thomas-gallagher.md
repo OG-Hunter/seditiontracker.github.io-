@@ -39,6 +39,6 @@ charges:
 - [News Report](https://boston.cbslocal.com/2021/01/14/thomas-gallagher-bridgewater-new-hampshire-charged-arrested-us-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
-- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412691/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412696/download)

@@ -10,6 +10,7 @@ indicted: 2021-02-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -32,5 +33,5 @@ charges:
 - [News Report](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)
 - [FBI Raid (Video)](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)
 - [FBI Statement (Twitter)](https://twitter.com/FBINewark/status/1357776205827694593?s=20)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Rahm%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379116/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379126/download)

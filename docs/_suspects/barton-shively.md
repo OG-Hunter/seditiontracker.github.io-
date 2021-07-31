@@ -10,6 +10,7 @@ indicted: 2021-02-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 53
 occupation: U.S. Marines (Former)
 affiliations:
@@ -45,4 +46,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357011/download)
 - [FBI Raid](https://www.pennlive.com/news/2021/01/central-pa-man-laid-hands-on-police-officers-during-capitol-riot-prosecutor.html)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Barton%20Wade%20Shively%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377801/download)

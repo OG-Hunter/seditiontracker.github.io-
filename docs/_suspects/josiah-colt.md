@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 2021-07-14
 sentenced: 
 dismissed: 
+deceased:
 age: 34
 occupation:
 affiliations:
@@ -47,4 +48,4 @@ charges:
 - [Self Incrimination Pt. 2](https://www.facebook.com/watch/?v=2810471175876452)
 - [Complaint](https://www.justice.gov/opa/page/file/1355476/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355481/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Josiah%20Colt%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366041/download)

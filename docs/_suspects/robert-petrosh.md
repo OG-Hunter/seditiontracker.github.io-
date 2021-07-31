@@ -31,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.nj.com/news/2021/05/grandmother-helped-tip-off-fbi-about-nj-man-charged-with-being-at-capitol-riot-feds-say.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Petrosh%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392101/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413451/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 25
 occupation: DJ
 affiliations:
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Greg%20Rubenacker%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371506/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377751/download)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation:
 affiliations:
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/18/1512
 ---
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Justin%20Stoll%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371536/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBICincinnati/status/1350161035492290565?s=20)

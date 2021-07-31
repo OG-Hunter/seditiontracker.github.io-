@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-06-14
 sentenced: 
 dismissed: 
+deceased:
 age: 36
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/anti-vaxxer-jessica-bustle-and-husband-joshua-bustle-are-both-busted-for-breaching-u-s-capitol-building-on-jan-6/)
-- [Statement of Facts](https://www.scribd.com/document/498371241/Bustle-Statement-of-Facts?secret_password=dLy9FK4sxcc6rBK5zQGk#from_embed)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413661/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380176/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404756/download)

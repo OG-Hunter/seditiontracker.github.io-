@@ -30,7 +30,6 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Roberto%20Minuta%20Criminal%20Complaint%20and%20Affidavit_Redacted.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410751/download)

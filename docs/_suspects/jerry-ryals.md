@@ -10,6 +10,7 @@ indicted: 2021-03-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://kfor.com/news/2-more-oklahomans-charged-in-u-s-capitol-insurrection/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Griffith%20and%20Jerry%20Ryals%20Statement%20of%20Facts_Redacted.pdf)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381701/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378856/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381756/download)

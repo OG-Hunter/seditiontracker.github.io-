@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 22
 occupation:
 affiliations:
@@ -42,5 +43,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/18/1512
 ---
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/18/957979421/fbi-seeking-woman-who-may-have-stolen-speaker-pelosis-laptop)
-- [Statement of Facts](https://www.courtlistener.com/recap/gov.uscourts.dcd.226160/gov.uscourts.dcd.226160.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357051/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357056/download)

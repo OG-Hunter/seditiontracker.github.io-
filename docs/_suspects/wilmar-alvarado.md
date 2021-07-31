@@ -10,6 +10,7 @@ indicted: 2021-02-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 37
 occupation:
 affiliations:
@@ -46,7 +47,7 @@ charges:
 ---
 - [News Report](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371266/download)
 - [Courtroom Steps (VIDEO)](https://www.facebook.com/ABC13MiyaShay/videos/1084488068690371/)
 - [Self Incrimination (VIDEO)](https://www.fox26houston.com/news/houston-man-describes-capitol-chaos-during-protest-in-dc)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377651/download)

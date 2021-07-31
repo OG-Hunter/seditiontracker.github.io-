@@ -32,7 +32,7 @@ charges:
 ---
 - [News Report](https://www.indystar.com/story/news/crime/2021/02/25/fbi-arrests-indiana-women-capitol-riot-charges-aftermath/6822567002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dona%20Sue%20Bissey%20and%20Anna%20Morgan-Lloyd%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410846/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379006/download)
 - [Memorandum in Aid of Sentencing](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Government%20Memorandum%20in%20Aid%20of%20Sentencing.pdf)
 - [Defense Memorandum in Support of Probationary Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Defense%20Memorandum%20in%20Support%20of%20Probationary%20Sentence.pdf)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 69
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Story](https://www.msn.com/en-us/news/crime/la-county-employee-charged-for-allegedly-breaching-capitol/ar-AALyJCO)
-- [Statement of Facts](https://s3.documentcloud.org/documents/20974126/lois-lynn-mcnicoll.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412491/download)

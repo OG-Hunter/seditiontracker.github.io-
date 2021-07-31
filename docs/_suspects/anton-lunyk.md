@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.brooklynpaper.com/midwood-man-arrested-for-alleged-participation-in-capitol-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anton%20Lunyk%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393986/download)

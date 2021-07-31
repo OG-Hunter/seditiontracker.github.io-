@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-06-22
 sentenced: 
 dismissed: 
+deceased:
 age: 28
 occupation:
 affiliations:
@@ -30,7 +31,7 @@ published: true
 charges:
 ---
 - [News Report](https://www.newschannel5.com/news/crossville-man-arrested-on-charges-relating-to-january-6-capitol-riots)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Wayne%20Ivey%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378876/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383061/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405631/download)

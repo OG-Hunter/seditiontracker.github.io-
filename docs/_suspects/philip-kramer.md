@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://winningcaseamerica.com/index.php/2021/05/19/california-man-accused-of-being-involved-in-jan-6-capitol-siege-says-he-did-nothing-wrong/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Kramer%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393626/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations: Proud Boys
@@ -47,6 +48,6 @@ charges:
 - [News Report](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/member-proud-boys-charged-obstructing-official-proceeding-other-charges-related-jan-6)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415116/download)
 - [Government Response to Alleged Violation of Due Process](/filings/nordean-government-response.pdf)
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Government%20Opposition%20to%20Defendants%20Motion%20to%20Lift%20Stay%20on%20Release%20Order.pdf)

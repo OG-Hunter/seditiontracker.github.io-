@@ -10,6 +10,7 @@ indicted: 2021-03-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -30,7 +31,7 @@ published: true
 charges:
 ---
 - [News Report](https://nypost.com/2021/02/26/feds-bust-ny-capitol-rioter-who-photographed-congressional-documents/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Patrick%20Moynihan%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379041/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1365060189255311367)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379046/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379051/download)

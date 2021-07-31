@@ -10,6 +10,7 @@ indicted: 2021-01-11
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -43,10 +44,7 @@ charges:
 ---
 - [News Report](https://www.desmoinesregister.com/story/news/2021/01/09/fbi-arrests-des-moines-man-who-us-capitol-riot-booked-into-polk-county-jail-washington-dc/6607953002/)
 - [Self Incrimination](https://heavy.com/news/doug-jensen/)
-- [Indictment](https://www.justice.gov/opa/page/file/1353381/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417006/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1353386/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353376/download)
-- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414811289885581313)
-- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414812435320561666)
-- [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414814099821760513)
 - [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1414816114018762754)

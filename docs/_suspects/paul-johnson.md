@@ -10,6 +10,7 @@ indicted: 2021-04-30
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 35
 occupation:
 affiliations:
@@ -30,9 +31,9 @@ published: true
 charges:
 ---
 - [News Story](https://www.wusa9.com/article/news/national/capitol-riots/virginia-man-charged-in-capitol-riot-assault-that-gave-officer-concussion-paul-russell-johnson-lanexa/65-fa9f1175-7df1-44cf-949f-832027907a81)
-- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1386831/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386856/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assaulting-us-capitol-police-officer-jan-6-capitol-breach)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20615289/paul-russell-johnson.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386861/download)
 - [Incriminating Evidence (VIDEO)](https://www.instagram.com/p/CJugaFfnFD7/)
 - [Incriminating Interview (VIDEO)](https://youtu.be/ObVMGPGHRe8?t=5855)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390826/download)

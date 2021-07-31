@@ -30,8 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.nbcnews.com/news/us-news/alabama-man-ties-oath-keepers-militia-arrested-connection-capitol-riot-n1260499)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378886/download)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Govt%20Opposition%20to%20Defendants%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410391/download)

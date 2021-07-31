@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -42,6 +43,6 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/18/111
 ---
 - [News Report](https://www.knoe.com/2021/01/17/la-man-and-cousin-arrested-following-capitol-riot/)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1355876/download)
-- [Complaint](https://www.justice.gov/opa/page/file/1355881/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366036/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1358936/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1358931/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385141/download)

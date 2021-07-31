@@ -10,6 +10,7 @@ indicted: 2021-04-28
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.thedailybeast.com/luke-coffee-fledgling-actor-from-texas-bashed-a-cop-during-capitol-riot-prosecutors-allege)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Coffee%20Statement%20of%20Facts_0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378546/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404986/download)

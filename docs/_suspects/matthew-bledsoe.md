@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -38,4 +39,4 @@ charges:
 - [News Report](https://www.wkrn.com/news/local-news/2nd-tennessee-resident-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355126/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355121/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bledsoe%20Torrens%20Reed%20Griffith%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377936/download)

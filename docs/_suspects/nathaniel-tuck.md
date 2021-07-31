@@ -30,6 +30,5 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Story](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
-- [Indictment](/filings/jackman-indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)

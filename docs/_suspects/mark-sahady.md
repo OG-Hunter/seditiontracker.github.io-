@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)
@@ -38,6 +39,6 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIBoston/status/1351560718915612672?s=20)
-- [Complaint](https://www.justice.gov/opa/page/file/1357026/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1357031/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357026/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377776/download)

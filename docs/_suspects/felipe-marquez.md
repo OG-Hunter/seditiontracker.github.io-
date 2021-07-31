@@ -10,6 +10,7 @@ indicted: 2021-02-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 25
 occupation:
 affiliations:
@@ -36,6 +37,6 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.sun-sentinel.com/news/fl-ne-south-florida-arrest-capitol-break-in-20210119-6u2wlop4tfayxmcglbstn3id54-story.html)
-- [Statement of Facts](https://www.scribd.com/document/491301441/Man-from-Coral-Springs-charged-in-Capitol-riot)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371446/download)
 - [News Interview (VIDEO)](https://miami.cbslocal.com/2021/01/20/felipe-marquez-storm-capitol-rosa-parks-martin-luther-king-moment/)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Felipe%20Marquez%20Indictment.pdf)

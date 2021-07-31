@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military
@@ -43,7 +44,7 @@ charges:
 ---
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
-- [Complaint](https://big.assets.huffingtonpost.com/athena/files/2021/01/13/5fff56a5c5b6c77d85ec811b.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)
 - [Self Incrimination](https://www.thedailybeast.com/jacob-fracker-bragged-he-pissed-in-nancy-pelosis-toilet-during-capitol-riot-feds-say)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353461/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364781/download)

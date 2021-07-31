@@ -10,6 +10,7 @@ indicted: 2021-05-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations: Oath Keepers
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/05/31/grand-jury-indicts-kissimmee-man-for-alleged-role-in-capitol-riot/)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410391/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation:
 affiliations:
@@ -41,5 +42,5 @@ charges:
 - [News Report](https://www.wsoctv.com/news/local/fbi-makes-first-arrest-nc-resident-involved-us-capitol-riot/C4KA2XRFZRHYZKUU2VT65O54UU/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356986/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356981/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377981/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414596/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377986/download)

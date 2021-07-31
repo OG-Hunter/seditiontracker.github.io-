@@ -10,6 +10,7 @@ indicted: 2021-02-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 52
 occupation: General Manager, Car Dealership
 affiliations: Oath Keepers
@@ -31,6 +32,6 @@ charges:
 ---
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369071/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410751/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)

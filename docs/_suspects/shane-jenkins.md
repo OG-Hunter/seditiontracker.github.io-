@@ -10,6 +10,7 @@ indicted: 2021-03-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 43
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.keranews.org/news/2021-03-08/houston-man-arrested-after-wielding-hatchet-at-u-s-capitol-insurrection-fbi-says)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Shane%20Jenkins%20Criminal%20Complaint%20and%20Arrest%20Warrant_Redacted.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378906/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378901/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380746/download)

@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 37
 occupation:
 affiliations:
@@ -38,4 +39,4 @@ charges:
 - [News Report](https://www.msn.com/en-us/news/crime/nc-woman-turns-self-over-to-fbi-for-alleged-role-in-us-capitol-riot-a-month-after-husbands-arrest/ar-BB1dvNB2?ocid=st)
 - [Complaint](https://www.scribd.com/document/493601649/j-Spencer-FBI-document)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371521/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377981/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413611/download)

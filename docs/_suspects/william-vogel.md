@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/dutchess-man-charged-for-taking-part-in-capitol-riot-fbi/ar-BB1d9jwd)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20463469/williamvogel.pdf)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360591/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360591/download)

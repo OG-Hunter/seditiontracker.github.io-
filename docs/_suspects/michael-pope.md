@@ -10,6 +10,7 @@ indicted: 2021-02-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 32
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://cdapress.com/news/2021/feb/13/sandpoint-man-implicated-capitol-insurrection-cda/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Pope%20and%20William%20Pope%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379106/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379096/download)

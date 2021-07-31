@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Story](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Shawn%20Witzemann%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Shawn%20Witzemann%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385356/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393031/download)

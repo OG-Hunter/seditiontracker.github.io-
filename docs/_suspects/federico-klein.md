@@ -10,6 +10,7 @@ indicted: 2021-03-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 42
 occupation: Former State Department Aide
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Federico%20Klein%20Statement%20of%20Facts_Redacted.pdf)
-- [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.229085/gov.uscourts.dcd.229085.12.0_1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374456/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378366/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1410678122752708614)

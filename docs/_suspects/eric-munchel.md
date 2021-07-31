@@ -10,6 +10,7 @@ indicted: 2021-02-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -43,7 +44,7 @@ charges:
 ---
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1352221/download)
-- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352226/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1355811/download)
+- [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1355806/download)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1367291/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408361/download)

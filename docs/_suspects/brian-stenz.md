@@ -31,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414606/download)

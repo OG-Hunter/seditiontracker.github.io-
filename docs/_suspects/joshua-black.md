@@ -10,6 +10,7 @@ indicted: 2021-02-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 44
 occupation: Business Owner (Lawn Service)
 affiliations:
@@ -38,4 +39,4 @@ charges:
 - [News Report](https://www.wbrc.com/2021/01/14/leeds-man-charged-capitol-riot-identified-by-blood-his-cheek/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354806/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354811/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Matthew%20Black%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377666/download)

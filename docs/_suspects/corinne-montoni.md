@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 31
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.fox13news.com/news/lakeland-woman-charged-with-being-at-u-s-capitol-attack)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Corinne%20Lee%20Montoni%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378976/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378971/download)

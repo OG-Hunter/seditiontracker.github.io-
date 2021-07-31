@@ -10,6 +10,7 @@ indicted: 2021-03-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 28
 occupation:
 affiliations:
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/gallatin-man-arrested-on-charges-related-to-capitol-riots/ar-BB1djcvS)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Chase%20Torrens%20Statement%20of%20Facts.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bledsoe%20Torrens%20Reed%20Griffith%20Indictment.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371541/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377936/download)

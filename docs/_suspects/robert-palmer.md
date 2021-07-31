@@ -10,6 +10,7 @@ indicted: 2021-04-28
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 53
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Palmer%20Complaint_Redacted.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393431/download)

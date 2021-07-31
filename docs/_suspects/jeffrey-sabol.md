@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 51
 occupation: Geologist
 affiliations:
@@ -37,4 +38,4 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)
 - [Complaint](https://www.justice.gov/opa/page/file/1360836/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360836/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sabol%20Stager%20Lopatic%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413436/download)

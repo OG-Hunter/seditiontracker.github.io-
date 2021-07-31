@@ -10,6 +10,7 @@ indicted: 2021-03-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 61
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.actionnewsjax.com/news/local/st-johns-county/local-man-faces-federal-judge-charged-connection-capitol-riots/VSL45JRAKREZJN3KB4T5QIR6SE/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Anderson%20Statement%20of%20Facts_Redacted.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378341/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378351/download)

@@ -30,9 +30,8 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://oklahoman.com/article/5683329/former-oklahoma-city-thunder-worker-charged-in-us-capitol-breach)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Danielle%20Nicole%20Doyle%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378606/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378601/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412411/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392951/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412406/download)

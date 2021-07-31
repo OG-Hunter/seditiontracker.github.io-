@@ -10,6 +10,7 @@ indicted: 2021-05-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 38
 occupation:
 affiliations: Proud Boys
@@ -31,4 +32,4 @@ charges:
 ---
 - [News Story](https://www.wtsp.com/amp/article/news/regional/florida/florida-proud-boys-member-capitol-insurrection/67-26ab6a33-bad0-4f9a-b790-3ccbc113d596)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381166/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Arthur%20Jackman%20and%20Paul%20Rae%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412826/download)

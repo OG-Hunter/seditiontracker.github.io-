@@ -10,6 +10,7 @@ indicted: 2021-03-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 42
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/02/12/maryland-man-elias-costianes-arrested-in-connection-to-capitol-riots-latest/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Elias%20Costianes%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378586/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378596/download)

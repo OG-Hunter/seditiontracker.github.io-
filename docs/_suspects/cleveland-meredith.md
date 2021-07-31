@@ -10,6 +10,7 @@ indicted: 2021-02-26
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 53
 occupation: Business Owner
 affiliations:
@@ -36,4 +37,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353311/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Meredith%20Detention%20Memorandum.pdf)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371346/download)
+- [Indictment](https://www.justice.gov/opa/case-multi-defendant/file/1405611/download)

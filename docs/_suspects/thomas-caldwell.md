@@ -10,6 +10,7 @@ indicted: 2021-01-27
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military
@@ -45,6 +46,6 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1356331/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/three-individuals-affiliated-oath-keepers-indicted-federal-court-conspiracy-obstruct)
-- [Indictment](https://www.justice.gov/file/1361066/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378526/download)
 - [Self Incrimination (Video)](https://www.youtube.com/watch?t=148&v=L5hksM_R59M&feature=youtu.be)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Caldwell%20Goverment%20Release%20Opposition%20Memo.pdf)

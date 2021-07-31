@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://nypost.com/2021/01/26/accused-capitol-rioter-idd-after-getting-kicked-off-plane/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Lolos%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371436/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380261/download)

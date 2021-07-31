@@ -29,18 +29,17 @@ author: seditiontrack
 layout: suspect
 published: true
 charges:
-  - name: Unlawful entry on restricted building or grounds
-    code: 18 USC 1752
-    link: https://www.law.cornell.edu/uscode/text/18/1752
-  - name: Violent entry or disorderly conduct on Capitol grounds
-    code: 40 USC 5104
-    link: https://www.law.cornell.edu/uscode/text/40/5104
+ - name: Unlawful entry on restricted building or grounds
+   code: 18 USC 1752
+   link: https://www.law.cornell.edu/uscode/text/18/1752
+ - name: Violent entry or disorderly conduct on Capitol grounds
+   code: 40 USC 5104
+   link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
-
 - [News Report](https://wjno.iheart.com/featured/florida-news/content/2021-01-08-accused-florida-dc-rioter-has-no-regrets/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
-- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Judgement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417956/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417961/download)

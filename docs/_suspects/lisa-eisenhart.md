@@ -10,6 +10,7 @@ indicted: 2021-02-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 56
 occupation:
 affiliations:
@@ -44,6 +45,6 @@ charges:
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)
-- [Complaint](https://www.justice.gov/file/1355806/download)
-- [Statement of Facts](https://www.justice.gov/file/1355811/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1367291/download)
+- [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1355806/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1355811/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408361/download)

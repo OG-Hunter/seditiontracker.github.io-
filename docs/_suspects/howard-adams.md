@@ -10,6 +10,7 @@ indicted: 2021-05-14
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 57
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/03/10/another-central-florida-man-arrested-in-capitol-riot/#//)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Adams%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378311/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404186/download)

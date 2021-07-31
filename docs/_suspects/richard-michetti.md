@@ -10,6 +10,7 @@ indicted: 2021-03-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-pennsylvania-man-charged-capitol-ex-girlfriend-fbi-20210224-ykcigqstwvdvnaric6chlxrqxy-story.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Michetti%20Statement%20of%20Facts.pdf)
-- [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.229091/gov.uscourts.dcd.229091.7.0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371461/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378296/download)

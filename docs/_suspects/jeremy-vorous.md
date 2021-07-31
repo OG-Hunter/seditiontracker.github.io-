@@ -10,6 +10,7 @@ indicted: 2021-04-09
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 43
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/03/26/Crawford-County-man-indicted-in-jan-6-Capitol-riot-jeremy-vorous/stories/202103260127)
-- [Statement of Facts](https://WICU.images.worldnow.com/library/966595a5-a5d9-4c1d-805c-2148161f3dfe.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384416/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393026/download)

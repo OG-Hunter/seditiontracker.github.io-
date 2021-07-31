@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -39,5 +40,5 @@ charges:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353226/download)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353221/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365231/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365231/download)

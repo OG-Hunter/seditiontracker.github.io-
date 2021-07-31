@@ -10,6 +10,7 @@ indicted: 2021-04-21
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Story](https://news.yahoo.com/rioter-filmed-bashing-capitol-cops-223359036.html)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20601199/andrew-jackson-morgan-jr.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385531/download)
 - [Self-Incrimination (Video)](https://www.youtube.com/watch?v=baV5XGmNteA)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389886/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410831/download)

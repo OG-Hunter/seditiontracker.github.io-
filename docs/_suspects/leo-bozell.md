@@ -10,6 +10,7 @@ indicted: 2021-03-01
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://talkingpointsmemo.com/news/conservative-royalty-william-f-buckleys-great-nephew-charged-with-storming-capitol)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leo%20Brent%20Bozell%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371296/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377676/download)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/2584604/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Sam%20Blakely%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380356/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394051/download)

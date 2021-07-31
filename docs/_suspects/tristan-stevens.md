@@ -10,6 +10,7 @@ indicted: 2021-03-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 25
 occupation:
 affiliations:
@@ -44,5 +45,5 @@ charges:
 - [News Report](https://www.pnj.com/story/news/2021/02/25/tristan-stevens-pensacola-capitol-riot-arrested-clashed-police-affidavit/6817792002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)
 - [Complaint](https://beta.documentcloud.org/documents/20474032-stevens)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tristan%20Chandler%20Stevens%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20and%20Stevens%20Indictment.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371531/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415016/download)

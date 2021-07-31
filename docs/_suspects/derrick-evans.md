@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced:
 dismissed: 
+deceased:
 age: 35
 occupation: West Viriginia Delegate
 affiliations:
@@ -37,7 +38,7 @@ charges:
 ---
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1355511/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
 - [Perp Walk (VIDEO)](https://www.youtube.com/watch?v=gYauxtRX3P4)
 - [More Perp Walk(VIDEO)](https://wtov9.com/news/local/west-virgina-delegate-wont-resign-after-videoing-himself-storming-the-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355511/download)

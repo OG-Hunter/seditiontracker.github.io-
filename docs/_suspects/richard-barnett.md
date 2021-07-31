@@ -10,6 +10,7 @@ indicted: 2021-01-29
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 60
 occupation:
 affiliations:
@@ -46,4 +47,4 @@ charges:
 - [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353231/download)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353191/download)
-- [Indictment](https://www.justice.gov/file/1364156/download)
+- [Indictment](https://www.justice.gov/opa/page/file/1364156/download)

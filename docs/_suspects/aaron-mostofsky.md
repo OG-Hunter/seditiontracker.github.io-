@@ -10,6 +10,7 @@ indicted: 2021-02-19
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 34
 occupation:
 affiliations:
@@ -40,9 +41,9 @@ charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1355521/download)
 - [Self Incrimination (VIDEO)](https://nypost.com/2021/01/12/aaron-mostofsky-son-of-brooklyn-judge-spotted-at-capitol-riot-is-arrested/)
 - [FBI Raid (VIDEO)](https://twitter.com/NYScanner/status/1349008081477394435?s=20)
 - [Court Appearance](https://www.the-sun.com/news/2127486/judge-son-stormed-capitol-fur-cries-court-prison/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410851/download)

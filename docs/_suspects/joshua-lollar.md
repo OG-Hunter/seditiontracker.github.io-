@@ -10,6 +10,7 @@ indicted: 2021-02-24
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military
@@ -39,6 +40,6 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
-- [Complaint](https://www.justice.gov/opa/page/file/1355471/download)
+- [Complaint](https://www.justice.gov/opa/page/file/1355466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355471/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377771/download)

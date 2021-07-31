@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 44
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://sciotovalleyguardian.com/2021/01/10/fbi-tipped-to-local-man-who-was-involved-in-capitol-siege/)
-- [Statement of Facts](https://www.courtlistener.com/recap/gov.uscourts.dcd.227966/gov.uscourts.dcd.227966.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378696/download)

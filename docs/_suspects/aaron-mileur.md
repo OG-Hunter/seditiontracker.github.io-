@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.ktoo.org/2021/03/16/anchorage-man-arrested-charged-with-participating-in-us-capitol-siege/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20James%20Mileur%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393656/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393661/download)

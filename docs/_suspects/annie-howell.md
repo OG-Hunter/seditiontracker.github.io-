@@ -10,6 +10,7 @@ indicted: 2021-03-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 30
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://whyy.org/articles/fbi-says-luzerne-county-woman-filmed-inside-capitol-on-jan-6/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Annie%20Howell%20Statement%20of%20Facts_Redacted.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378871/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378861/download)

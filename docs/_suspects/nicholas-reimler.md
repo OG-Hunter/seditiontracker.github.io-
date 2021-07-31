@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 28
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.kmov.com/news/jefferson-county-man-charged-after-allegedly-participating-in-capitol-riot/article_d0b8e372-72e3-11eb-ad68-3ba6336f4130.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Burton%20Reimler%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379161/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380291/download)

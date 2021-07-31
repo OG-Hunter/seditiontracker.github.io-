@@ -10,6 +10,7 @@ indicted: 2021-02-11
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 38
 occupation: Olympic Swimmer (Retired)
 affiliations:
@@ -44,4 +45,4 @@ charges:
 - [News Report](https://kdvr.com/news/local/former-olympic-swimmer-klete-keller-on-7-charges-tied-to-storming-the-us-capitol/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354311/download)
-- [Indictment](https://kdvr.com/wp-content/uploads/sites/11/2021/02/klete-keller-indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371636/download)

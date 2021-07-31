@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -39,4 +40,4 @@ charges:
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355771/download)
-- [Complaint](https://www.justice.gov/file/1355776/download)
+- [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1355776/download)

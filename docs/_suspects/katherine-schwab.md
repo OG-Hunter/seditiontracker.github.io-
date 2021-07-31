@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 32
 occupation: Real Estate Agent
 affiliations:
@@ -37,4 +38,4 @@ charges:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364681/download)
-- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379276/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413461/download)

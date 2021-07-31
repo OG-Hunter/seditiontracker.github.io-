@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -31,5 +32,5 @@ charges:
 ---
 - [News Report](https://www.ky3.com/2021/02/12/fbi-arrests-2-for-springfield-wanted-in-capitol-riot-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Quick%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371491/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372096/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)

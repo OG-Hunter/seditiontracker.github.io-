@@ -31,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derek%20Jancart%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380676/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415111/download)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
-- [Statement of Facts](https://www.wavy.com/wp-content/uploads/sites/3/2021/03/189111128511.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/03/09/plain-city-man-latest-ohioans-arrested-jan-6-capitol-riot/6923674002/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jared%20Adams%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378326/download)

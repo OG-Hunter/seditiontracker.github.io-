@@ -10,6 +10,7 @@ indicted: 2021-03-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 49
 occupation: Equipment Engineering Technician
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Ray%20Caldwell%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378486/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378496/download)

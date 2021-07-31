@@ -10,6 +10,7 @@ indicted: 2021-03-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 26
 occupation: Sanitation Worker
 affiliations:
@@ -38,5 +39,5 @@ charges:
 - [News Report](https://www.huffpost.com/entry/high-school-varsity-jacket-us-capitol-riot_n_600f365ac5b634dc37378746?63x8)
 - [Complaint](https://www.justice.gov/opa/page/file/1361271/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361271/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Gundersen%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409511/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377726/download)

@@ -38,6 +38,6 @@ charges:
 ---
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-capitol-riot-arrests-bauer/417-51b5098f-25b0-41f7-898b-37616e64dc5d)
 - [Complaint](https://www.justice.gov/opa/page/file/1355726/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1355721/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371586/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410286/download)

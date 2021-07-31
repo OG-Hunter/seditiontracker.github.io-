@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation:
 affiliations:
@@ -30,6 +31,6 @@ published: true
 charges:
 ---
 - [News Report](https://denver.cbslocal.com/2021/02/17/glenn-wes-lee-croy-capitol-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Croy%20Arrest%20Warrant%20and%20Croy%20and%20Lindsey%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371331/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)

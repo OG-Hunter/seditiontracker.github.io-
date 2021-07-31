@@ -10,6 +10,7 @@ indicted: 2021-02-17
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -36,5 +37,5 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.berkshireeagle.com/news/local/i-love-our-country-north-adams-man-explains-why-he-documented-riot-from-inside-capitol/article_357939b6-67c1-11eb-a153-878373b1ff53.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20McCreary%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371451/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCreary%20Indictment.pdf)

@@ -10,6 +10,7 @@ indicted: 2021-02-03
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 40
 occupation:
 affiliations: Proud Boys(?) (Chicago)
@@ -36,6 +37,6 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report: Arrest](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
-- [Complaint](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22233841/Lyons_complaint__DCD_.pdf)
+- [Complaint](https://www.justice.gov/opa/page/file/1353401/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353451/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366106/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410511/download)

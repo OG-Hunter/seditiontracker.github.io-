@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 62
 occupation:
 affiliations:
@@ -39,4 +40,4 @@ charges:
    link: https://www.law.cornell.edu/uscode/text/40/5104
 ---
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Merry%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365726/download)

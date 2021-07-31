@@ -10,6 +10,7 @@ indicted: 2021-02-10
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 18
 occupation:
 affiliations:
@@ -46,6 +47,6 @@ charges:
 ---
 - [News Report](https://www.ajc.com/news/metro-atlanta-teen-charged-in-us-capitol-attack/U7EPRZANXVBFPB7KRW7EQ3VRIE/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)
-- [Statement of Facts](https://assets.documentcloud.org/documents/20475133/bruno_cua.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bruno%20Joseph%20Cua%20Indictment.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365571/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386276/download)
 - [Closed Circuit Evidence (Video)](https://twitter.com/ryanjreilly/status/1412461018622697477)

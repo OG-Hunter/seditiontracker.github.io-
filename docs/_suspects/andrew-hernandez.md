@@ -30,8 +30,7 @@ layout: suspect
 published: true
 charges:
 ---
-
 - [News Report](https://www.sfgate.com/politics/article/California-man-wore-shirt-job-logo-manager-FBI-15982541.php)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Alan%20Hernandez%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378681/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378676/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410316/download)

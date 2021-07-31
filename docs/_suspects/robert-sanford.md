@@ -10,6 +10,7 @@ indicted: 2021-02-05
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 55
 occupation: Fire Fighter (Retired)
 affiliations:
@@ -46,4 +47,4 @@ charges:
 - [Video of Incident](https://twitter.com/DavidBegnaud/status/1349055784089370624?s=20)
 - [Complaint](https://www.justice.gov/opa/page/file/1353921/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353926/download)
-- [Indictment](https://www.courtlistener.com/recap/gov.uscourts.dcd.227169/gov.uscourts.dcd.227169.4.0_1.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366126/download)

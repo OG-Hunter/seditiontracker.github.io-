@@ -10,6 +10,7 @@ indicted: 2021-02-02
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 52
 occupation: Real Estate (Former)
 affiliations:
@@ -46,6 +47,6 @@ charges:
 ---
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)
-- [Statement of Facts](https://www.justice.gov/file/1360801/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366031/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1360801/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404251/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tommy%20Frederick%20Allan%20Information.pdf)

@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 41
 occupation: Former Councilman
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/west-virginia-man-charged-with-stealing-cspan-equipment-during-capitol-riots/ar-BB1efFsk)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Barber%20Criminal%20Complaint%20and%20Affidavit_Redacted.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378386/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378381/download)

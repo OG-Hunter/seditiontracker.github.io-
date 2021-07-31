@@ -10,6 +10,7 @@ indicted: 2021-04-02
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -30,5 +31,5 @@ published: true
 charges:
 ---
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Francisco%20Cordon%20and%20Sean%20Carlo%20Cordon%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378576/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384341/download)

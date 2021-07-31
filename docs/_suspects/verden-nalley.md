@@ -10,6 +10,7 @@ indicted: 2021-02-12
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 49
 occupation:
 affiliations:
@@ -30,4 +31,4 @@ published: true
 charges:
 ---
 - [News Report](https://www.wfmynews2.com/article/news/crime/man-from-buford-arrested-in-connection-to-capitol-riots/85-df3e85f9-6889-46fd-bd92-bd558eb8f5b7)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Calhoun%20and%20Nalley%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372146/download)

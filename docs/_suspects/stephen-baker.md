@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)
@@ -37,5 +38,5 @@ charges:
 ---
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
-- [Statement of Facts](https://www.justice.gov/file/1362776/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384336/download)
