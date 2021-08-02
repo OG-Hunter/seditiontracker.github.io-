@@ -3,13 +3,13 @@ name: Daniel Scott
 lastName: Scott
 aka: Milkshake
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-05-20
 charged: 2021-05-20
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-05-25
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 28
 occupation:
@@ -30,5 +30,7 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-411
 ---
+
 - [News Report](https://www.washingtonpost.com/local/legal-issues/proudboy-screaming-lets-take-capitol-arrested/2021/05/20/ccae5e00-b9a7-11eb-a6b1-81296da0339b_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395876/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Lyons%20Scott%20Indictment.pdf)
