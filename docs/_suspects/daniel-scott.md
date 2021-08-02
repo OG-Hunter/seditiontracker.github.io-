@@ -6,7 +6,7 @@ residence: Florida
 status: Indicted
 date: 2021-05-20
 charged: 2021-05-20
-indicted: 2021-05-25
+indicted: 2021-07-30
 convicted:
 sentenced:
 dismissed:
