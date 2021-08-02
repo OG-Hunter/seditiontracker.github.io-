@@ -5,7 +5,7 @@ import axios from 'axios'
 import { HTMLElement, parse } from 'node-html-parser';
 import { capitalize, isEmpty, toLower } from 'lodash';
 import moment from 'moment';
-import { getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
+import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 const { execSync } = require('child_process')
 
 const cmd = new Command();
@@ -484,10 +484,6 @@ const newSuspect = (suspectData) => {
 
   console.log(`${suspect.name}`);
   updateSuspect(suspect)
-}
-
-const dasherizeName = (firstName:string, lastName:string) => {
-  return `${firstName} ${lastName}`.replace(/\s/g, "-").toLowerCase();
 }
 
 const updatePreview = (suspect:Suspect) => {

@@ -192,16 +192,21 @@ export const updateSuspect = (suspect: Suspect) => {
     lines.push(`- [${type}](${url})`)
   }
 
-  writeLines(`docs/_suspects/${dasherizeName(suspect.name)}.md`, lines)
+  if (suspect.name.includes("Malley")) {
+    console.log(suspect.name)
+  }
+
+  writeLines(`docs/_suspects/${dasherizeName(suspect.name, '')}.md`, lines)
 }
 
 export const getSuspect = (firstName: string, lastName: string) => {
-  const dashedName = dasherizeName(`${firstName} ${lastName}`).replace("'", '')
+  const dashedName = dasherizeName(firstName, lastName).replace("'", '')
   return getSuspectByFile(`${dashedName}.md`)
 }
 
-const dasherizeName = (name: string) => {
-  return name.replace(/\s/g, "-").toLowerCase();
+export const dasherizeName = (firstName: string, lastName?: string) => {
+  const name = lastName ? `${firstName} ${lastName}` : firstName
+  return name.replace(/\s/g, "-").replace(/'/g, "").toLowerCase();
 }
 
 const getLinks = (data: string) => {
