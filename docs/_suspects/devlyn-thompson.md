@@ -31,5 +31,4 @@ published: false
 caseNumber:
 ---
 
-- [News Report]()
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Devlyn%20Thompson%20Criminal%20Information.pdf)
