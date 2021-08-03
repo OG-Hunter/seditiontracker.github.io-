@@ -27,7 +27,7 @@ title: Devlyn Thompson charged on July 11, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 ---
 
