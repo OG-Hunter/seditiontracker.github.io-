@@ -1,7 +1,7 @@
 ---
 name: Jacob Wiedrich
 lastName: Wiedrich
-aka:
+aka: Jacob Weed
 residence: Utah
 status: Charged
 date: 2021-07-21
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'We ride for Trump, we die for Trump!'
 title: Jacob Wiedrich charged on July 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -31,5 +31,5 @@ published: false
 caseNumber:
 ---
 
-- [News Report]()
+- [News Report](https://www.sltrib.com/news/2021/08/02/two-more-utahns-arrested/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Wiedrich%20Statement%20of%20Facts.pdf)

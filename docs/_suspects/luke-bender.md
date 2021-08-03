@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Today was something special if you were there. It was great to be apart of it.'
 title: Luke Bender charged on July 26, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -31,5 +31,4 @@ published: false
 caseNumber:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf)
