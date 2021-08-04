@@ -15,8 +15,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/isaac-yoder.jpg
-suspect: isaac-yoder.jpg
+image: /images/preview/isaac-yoder.png
+suspect: isaac-yoder.png
 booking:
 courtroom:
 courthouse:
@@ -27,9 +27,9 @@ title: Isaac Yoder charged on July 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 ---
 
-- [News Report]()
+- [News Report](https://www.thedailybeast.com/feds-charge-isaac-yoder-missouri-man-who-stormed-capitol-in-george-washington-costume)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Samuel%20Yoder%20Criminal%20Complaint.pdf)
