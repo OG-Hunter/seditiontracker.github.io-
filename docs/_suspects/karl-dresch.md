@@ -3,11 +3,11 @@ name: Karl Dresch
 lastName: Dresch
 aka:
 residence: Michigan
-status: Indicted
+status: Convicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-03
-convicted: 
+convicted: 2021-08-04
 sentenced: 
 dismissed: 
 deceased:

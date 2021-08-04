@@ -7,9 +7,9 @@ status: Indicted
 date: 2021-03-30
 charged: 2021-03-30
 indicted: 2021-05-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 30
 occupation:
@@ -30,8 +30,10 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-378
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/03/30/capitol-riot-suspect-in-custody-in-orlando/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1381341/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1381346/download)
 - [Courthouse [Video]](https://twitter.com/DianthaSol/status/1377391331740368899)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Arthur%20Jackman%20and%20Paul%20Rae%20Indictment.pdf)
+- [Notice of Discovery](https://www.documentcloud.org/documents/21033864-210803-jackman-notice-of-discovery)
