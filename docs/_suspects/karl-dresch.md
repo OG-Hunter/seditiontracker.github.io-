@@ -3,12 +3,12 @@ name: Karl Dresch
 lastName: Dresch
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-03
 convicted: 2021-08-04
-sentenced: 
+sentenced: 2021-08-04
 dismissed: 
 deceased:
 age: 40
