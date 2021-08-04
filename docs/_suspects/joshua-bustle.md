@@ -3,12 +3,12 @@ name: Joshua Bustle
 lastName: Bustle
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-03-04
 charged: 2021-03-04
 indicted:
 convicted: 2021-06-14
-sentenced: 
+sentenced: 2021-08-04
 dismissed: 
 deceased:
 age: 34

@@ -3,11 +3,11 @@ name: John Lolos
 lastName: Lolos
 aka:
 residence:
-status: Charged
+status: Convicted
 date: 2021-01-09
 charged: 2021-01-09
 indicted:
-convicted: 
+convicted: 2021-08-04
 sentenced: 
 dismissed: 
 deceased:
