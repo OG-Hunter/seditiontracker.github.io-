@@ -3,11 +3,11 @@ name: Boyd Camper
 lastName: Camper
 aka:
 residence: Montana
-status: Charged
+status: Convicted
 date: 2021-03-11
 charged: 2021-03-11
 indicted:
-convicted: 
+convicted: 2021-08-05
 sentenced: 
 dismissed: 
 deceased:
