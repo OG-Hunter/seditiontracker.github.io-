@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Oh yeah. We broke the glass door. Watch the video. I’m with People’s Rights. Ammon Bundy.'
 title: Pamela Hemphill charged on August 2, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -31,5 +31,5 @@ published: false
 caseNumber:
 ---
 
-- [News Report]()
+- [News Report](https://www.idahostatesman.com/news/local/crime/article253237378.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Statement%20of%20Facts.pdf)
