@@ -31,5 +31,6 @@ published: true
 caseNumber: 1:21-cr-243
 ---
 - [News Report](https://nypost.com/2021/01/26/accused-capitol-rioter-idd-after-getting-kicked-off-plane/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371436/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421931/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380261/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421926/download)

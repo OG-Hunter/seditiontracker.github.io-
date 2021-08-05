@@ -352,6 +352,7 @@ const linkType = (description: string, lastName?: string) => {
         return "Government Opposition to Reconsideration of Release"
       case /Memorandum in Aid of Sentencing/.test(description):
       case /.*Government Sentencing Memorandum.*/.test(description):
+      case /.*Sentencing Memo.*/.test(description):
         return "Memorandum in Aid of Sentencing"
       case /Defense Memorandum in Support of Probationary Sentence/.test(description):
         return "Defense Memorandum in Support of Probationary Sentence"
@@ -443,13 +444,13 @@ const addData = (suspectData) => {
         updatePreview(suspect)
       }
 
-      if (type == "Judgement") {
-        suspect.status = "Sentenced"
+      if (type == "Plea Agreement" && suspect.status != "Sentenced") {
+        suspect.status = "Convicted"
         updatePreview(suspect)
       }
 
-      if (type == "Plea Agreement") {
-        suspect.status = "Convicted"
+      if (type == "Judgement") {
+        suspect.status = "Sentenced"
         updatePreview(suspect)
       }
     }
