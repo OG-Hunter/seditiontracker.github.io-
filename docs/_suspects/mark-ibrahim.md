@@ -3,10 +3,10 @@ name: Mark Ibrahim
 lastName: Ibrahim
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-07-06
 charged: 2021-07-06
-indicted:
+indicted: 2021-07-28
 convicted:
 sentenced:
 dismissed:
@@ -30,5 +30,7 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-516
 ---
+
 - [News Report](https://www.cbsnews.com/news/mark-ibrahim-dea-agent-arrested-capitol-riot-gun-badge/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413286/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422231/download)

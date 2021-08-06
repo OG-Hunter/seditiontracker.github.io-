@@ -432,7 +432,7 @@ const addData = (suspectData) => {
     if (suspect.links[type]) {
       // link already exists but there may be a "better" one from DOJ
       if (/^https:\/\/www.justice.gov/.test(<string>url) && suspect.links[type] != url) {
-        console.log(`${suspect.name}: ${type}`);
+        console.log(`${suspect.name}: ${type} (Updated Link)`);
         suspect.links[type] = <string>url
       } else {
         continue
