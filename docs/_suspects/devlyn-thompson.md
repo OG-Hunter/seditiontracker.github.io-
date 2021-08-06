@@ -2,7 +2,7 @@
 name: Devlyn Thompson
 lastName: Thompson
 aka:
-residence:
+residence: Washington
 status: Convicted
 date: 2021-07-11
 charged: 2021-07-11
@@ -28,7 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-461
 ---
 
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Devlyn%20Thompson%20Criminal%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/press-release/file/1422296/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1422286/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/press-release/file/1422291/download)
+- [News Report](https://chicago.suntimes.com/2021/8/6/22613274/gym-owner-pleads-guilty-assaulting-officer-capitol-jan-6-riot)
