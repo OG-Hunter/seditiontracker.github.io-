@@ -3,13 +3,14 @@ name: Daniel Gray
 lastName: Gray
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-05-17
 charged: 2021-05-17
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-07-28
+convicted:
+sentenced:
+dismissed:
+deceased:
 age: 41
 occupation:
 affiliations:
@@ -27,7 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber:
 ---
+
 - [News Report](https://www.news4jax.com/news/local/2021/05/19/neptune-beach-man-involved-in-altercation-that-led-to-officer-getting-hurt-during-jan-6-capitol-riot-court-documents-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1395251/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421286/download)
