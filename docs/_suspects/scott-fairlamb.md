@@ -3,11 +3,11 @@ name: Scott Fairlamb
 lastName: Fairlamb
 aka:
 residence: New Jersey
-status: Indicted
+status: Convicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-12
-convicted:
+convicted: 2021-08-06
 sentenced:
 dismissed:
 deceased:

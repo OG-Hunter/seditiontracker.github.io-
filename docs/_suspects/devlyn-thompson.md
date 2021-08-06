@@ -3,11 +3,11 @@ name: Devlyn Thompson
 lastName: Thompson
 aka:
 residence:
-status: Charged
+status: Convicted
 date: 2021-07-11
 charged: 2021-07-11
 indicted:
-convicted:
+convicted: 2021-08-06
 sentenced:
 dismissed:
 deceased:
