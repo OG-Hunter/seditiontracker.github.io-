@@ -35,3 +35,4 @@ caseNumber: 1:21-cr-461
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1422286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/press-release/file/1422291/download)
 - [News Report](https://chicago.suntimes.com/2021/8/6/22613274/gym-owner-pleads-guilty-assaulting-officer-capitol-jan-6-riot)
+- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-and-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)

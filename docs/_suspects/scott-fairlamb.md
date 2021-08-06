@@ -30,9 +30,11 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-120
 ---
+
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359221/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359221/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385116/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1413913408198483972?s=20)
+- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-and-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
