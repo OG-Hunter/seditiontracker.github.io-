@@ -33,3 +33,4 @@ caseNumber: 1:21-cr-106
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371626/download)
+- [Supplement to Government's Opposition to Defendant's Motion for Conditional Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jerod%20Wade%20Hughes%20Supplement%20to%20Government%20Opposition%20to%20Defense%20Motion%20for%20Conditional%20Release.pdf)

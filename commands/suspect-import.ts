@@ -337,9 +337,11 @@ const linkType = (description: string, lastName?: string) => {
         return "Motion for Pretrial Detention"
       case /Defense Motion for Modification of Bond/.test(description):
       case /Defendants Motion to Modify Bond Conditions/.test(description):
+      case /Defense Motion to Modify Conditions of Release/.test(description):
         return "Defense Motion for Modification of Bond"
       case /Defense Motion for Release/.test(description):
       case /Defendants Motion to Revoke Order of Detention/.test(description):
+      case /Defense Motion to Amend Order of Detention/.test(description):
         return "Defense Motion for Release"
       case /Government Opposition/.test(description):
       case /Response to Defendants Motion for Bond/.test(description):
@@ -350,6 +352,8 @@ const linkType = (description: string, lastName?: string) => {
       case /Opposition to Defendants Motion for Revocation of Detention Order/.test(description):
       case /Governments Opposition to Defendants Motion to Revoke Order of Detention/.test(description):
         return "Government Opposition to Reconsideration of Release"
+      case /Supplement to Government's Opposition to Defendant's Motion for Conditional Release/.test(description):
+        return "Supplement to Government's Opposition to Defendant's Motion for Conditional Release"
       case /Memorandum in Aid of Sentencing/.test(description):
       case /.*Government Sentencing Memorandum.*/.test(description):
       case /.*Sentencing Memo.*/.test(description):
@@ -369,7 +373,10 @@ const linkType = (description: string, lastName?: string) => {
       case /\.*Opposition to Defendant's Motion for Discovery/.test(description):
         return "Government's Opposition to Defendent's Motion for Discovery"
       case /\.*Judgement\.*/.test(description):
+      case /Judgment/.test(description):
         return "Judgement"
+      case /Defendant's Motion for a Bill of Particulars/.test(description):
+        return "Defendant's Motion for a Bill of Particulars"
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"

@@ -38,3 +38,4 @@ caseNumber: 1:21-cr-138
 - [Court Appearance](https://www.the-sun.com/news/2127486/judge-son-stormed-capitol-fur-cries-court-prison/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410851/download)
+- [Defendant's Motion for a Bill of Particulars](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Motion%20for%20a%20Bill%20of%20Particulars.pdf)

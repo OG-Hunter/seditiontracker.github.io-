@@ -33,3 +33,4 @@ caseNumber: 1:21-cr-106
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371626/download)
+- [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Calvin%20Hughes%20Defense%20Motion%20to%20Amend%20Order%20of%20Detention.pdf)

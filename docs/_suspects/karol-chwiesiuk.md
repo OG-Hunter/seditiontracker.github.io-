@@ -10,6 +10,7 @@ indicted:
 convicted: 
 sentenced: 
 dismissed: 
+deceased:
 age:
 occupation: Police Officer
 affiliations:
@@ -27,7 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
+caseNumber:
 ---
 - [News Report](https://chicago.cbslocal.com/2021/06/11/cpd-officer-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)
+- [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Motion%20to%20Mofidy%20Conditions%20of%20Release.pdf)
