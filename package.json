@@ -1,15 +1,13 @@
 {
   "license": "UNLICENSED",
   "scripts": {
-    "charges": "node -r ts-node/register commands/charges.ts",
     "docker:build": "docker build . -t seditiontrack:latest",
     "docker:pull": "docker pull seditiontrack:latest",
     "docker:shell": "docker run -v=$PWD/docs:/site -it seditiontrack:latest /bin/bash",
     "jekyll": "docker run -v=$PWD/docs:/site -p 4000:4000 -it seditiontrack:latest",
     "suspect": "node -r ts-node/register commands/suspect.ts"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/inquirer": "^7.3.1",
     "@types/node": "^14.14.20",
