@@ -7,9 +7,9 @@ status: Charged
 date: 2021-06-22
 charged: 2021-06-22
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 35
 occupation:
 affiliations:
@@ -21,13 +21,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "I got to manhandl[e] 5 cops and live to tell"
+quote: 'I got to manhandl[e] 5 cops and live to tell'
 title: Brian Bingham arrested on June 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.courierpostonline.com/story/news/2021/06/23/brian-bingham-capitol-riot-insurrection-pennsville/5330587001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405791/download)

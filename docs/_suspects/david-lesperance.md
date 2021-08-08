@@ -7,9 +7,9 @@ status: Charged
 date: 2021-06-24
 charged: 2021-06-24
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age: 69
 occupation:
@@ -28,8 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Story](https://www.msn.com/en-us/news/crime/central-florida-man-arrested-in-connection-with-january-6-capitol-riot/ar-AALpHS2)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1406091/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418066/download)

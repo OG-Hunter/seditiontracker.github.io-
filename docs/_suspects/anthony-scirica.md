@@ -7,9 +7,9 @@ status: Charged
 date: 2021-06-14
 charged: 2021-06-14
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age:
 occupation:
@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.newsweek.com/capitol-rioter-anthony-scirica-charged-after-friend-snapchats-about-him-tv-1601370)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405461/download)

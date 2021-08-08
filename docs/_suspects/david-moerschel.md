@@ -27,7 +27,6 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
 
 - [News Report](https://www.washingtonpost.com/local/legal-issues/oathkeeper-arrested-david-moerschel/2021/07/02/0f54d5aa-db5d-11eb-9bbb-37c30dcf9363_story.html)

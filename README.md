@@ -33,11 +33,3 @@ yarn jekyll
 ```
 yarn suspect import
 ```
-
-### Import new charges
-
-Download the latest charges using [this Google Sheet](https://docs.google.com/spreadsheets/d/18NzncPJ-5oaYrDfq_VnjaSTLyY_vKaoSTgc6lznl9GU/edit?pli=1#gid=0). Use the "Arrested" tab and download as Microsoft Excel
-
-```
-y charges import -f ~/Downloads/"Capitol Suspects Database.xlsx"
-```

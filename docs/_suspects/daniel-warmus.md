@@ -7,9 +7,9 @@ status: Charged
 date: 2021-05-17
 charged: 2021-05-17
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age:
 occupation:
@@ -28,8 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.wivb.com/news/fbi-arrests-alden-man-for-alleged-participation-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1395081/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1395086/download)

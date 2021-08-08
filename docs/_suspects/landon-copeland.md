@@ -7,9 +7,9 @@ status: Charged
 date: 2021-04-29
 charged: 2021-04-29
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 33
 occupation:
 affiliations:
@@ -27,8 +27,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.ksl.com/article/50156952/southern-utah-man-charged-with-attacking-officers-during-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390646/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390651/download)

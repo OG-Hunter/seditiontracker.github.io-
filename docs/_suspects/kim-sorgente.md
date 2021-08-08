@@ -7,9 +7,9 @@ status: Charged
 date: 2021-03-22
 charged: 2021-03-22
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 50
 occupation:
 affiliations:
@@ -27,6 +27,6 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Story](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)

@@ -7,9 +7,9 @@ status: Charged
 date: 2021-04-28
 charged: 2021-04-28
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age:
 occupation:
@@ -28,7 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392641/download)

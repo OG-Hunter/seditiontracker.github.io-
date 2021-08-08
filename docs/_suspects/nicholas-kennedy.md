@@ -28,7 +28,6 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
 
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/sikeston-man-faces-charges-in-capitol-riot-feds-say/article_aeda28bb-fed3-5cd3-8281-9ba9dd8db859.html)

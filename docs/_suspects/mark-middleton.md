@@ -28,7 +28,6 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
 
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)

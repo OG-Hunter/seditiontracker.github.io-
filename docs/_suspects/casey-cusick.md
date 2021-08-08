@@ -7,9 +7,9 @@ status: Charged
 date: 2021-06-21
 charged: 2021-06-21
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 35
 occupation: Pastor
 affiliations:
@@ -27,7 +27,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-arrest-melbourne-church-members-20210624-uxuok4bodvgu3iuuppfqiugrn4-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405936/download)

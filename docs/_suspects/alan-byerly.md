@@ -28,8 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409211/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/capitolhunters/status/1412810756236595201)

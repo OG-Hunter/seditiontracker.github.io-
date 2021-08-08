@@ -7,9 +7,9 @@ status: Charged
 date: 2021-06-10
 charged: 2021-06-10
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 42
 occupation:
 affiliations:
@@ -27,8 +27,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://minnesota.cbslocal.com/2021/06/11/minneapolis-man-brian-mock-accused-of-assaulting-officer-in-jan-6-u-s-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403426/download)
 - [Bodycam Evidence (Video)](https://twitter.com/alanfeuer/status/1407784550986563584)

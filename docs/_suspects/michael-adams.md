@@ -7,9 +7,9 @@ status: Charged
 date: 2021-04-20
 charged: 2021-04-20
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age:
 occupation:
 affiliations:
@@ -27,7 +27,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.yahoo.com/entertainment/active-duty-marine-charged-fighting-191450996.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Adams%20Statement%20of%20Facts.pdf)

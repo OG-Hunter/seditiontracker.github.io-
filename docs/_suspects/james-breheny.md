@@ -7,9 +7,9 @@ status: Charged
 date: 2021-05-18
 charged: 2021-05-18
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 61
 occupation:
 affiliations: Oath Keepers
@@ -21,13 +21,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "I breached the Capital [sic] door!"
+quote: 'I breached the Capital [sic] door!'
 title: James Breheny charged on May 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.cbsnews.com/news/oath-keeper-james-breheny-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395881/download)

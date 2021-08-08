@@ -7,9 +7,9 @@ status: Charged
 date: 2021-03-11
 charged: 2021-03-11
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age: 49
 occupation:
 affiliations:
@@ -27,6 +27,6 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.lagunabeachindy.com/man-arrested-during-fbi-raid-of-laguna-beach-home/)

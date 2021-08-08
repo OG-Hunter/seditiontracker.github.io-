@@ -16,7 +16,6 @@ export interface Suspect {
   name?: string
   lastName?: string
   links?: { [type:string]: string }
-  charges?: {[code:string]: Charge }
   age?: string
   image?: string
   suspect?: string
@@ -76,7 +75,6 @@ export const getSuspectByFile = (filename:string) => {
 
   suspect.name = data.match(/name: (.*)/)[1];
   suspect.links = getLinks(data.split("---")[2].trim());
-  suspect.charges = getCharges(data);
   suspect.lastName = suspect.name.split(" ").slice(1).join(" ");
   suspect.description = data.match(/description: (.*)/)[1];
   suspect.title = data.match(/title: (.*)/)[1];
@@ -139,17 +137,6 @@ export const getSuspectByFile = (filename:string) => {
   }
 
   return suspect
-}
-
-const getCharges = (data: string) => {
-  const charges: {[code:string]: Charge } = {}
-  const content = fm(data)
-  if (content.attributes["charges"]) {
-    for (const charge of content.attributes["charges"]) {
-      charges[charge.code] = charge
-    }
-  }
-  return charges;
 }
 
 export const updateSuspect = (suspect: Suspect) => {

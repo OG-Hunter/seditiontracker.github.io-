@@ -7,9 +7,9 @@ status: Charged
 date: 2021-05-25
 charged: 2021-05-25
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 age:
 occupation:
 affiliations:
@@ -27,8 +27,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Story](https://www.wthr.com/article/news/crime/man-arrested-in-vincennes-in-connection-to-capitol-riot-indiana-charge-jonathan-ace-sanders/531-80108d8a-080c-4dba-8471-e5d2ffa17ef2)
 - [Complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.231183/gov.uscourts.dcd.231183.6.0.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398246/download)

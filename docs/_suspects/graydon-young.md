@@ -8,8 +8,8 @@ date: 2021-02-15
 charged: 2021-02-15
 indicted:
 convicted: 2021-06-23
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 age: 54
 occupation:
 affiliations: Oath Keepers
@@ -27,8 +27,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369071/download)

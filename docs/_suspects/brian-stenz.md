@@ -7,9 +7,9 @@ status: Charged
 date: 2021-04-28
 charged: 2021-04-28
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age: 51
 occupation:
@@ -28,8 +28,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-charges:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)
