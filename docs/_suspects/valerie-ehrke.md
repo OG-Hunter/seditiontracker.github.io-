@@ -28,6 +28,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
 
 - [News Report](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)

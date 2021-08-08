@@ -27,6 +27,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+charges:
+  - code: '18 USC § 371'
+    title: 'Conspiracy to commit an offense against the United States'
+    url: 'https://www.law.cornell.edu/uscode/text/18/371'
+    felony: true
+  - code: '18 USC § 1512(c)(2)'
+    title: 'Obstruction of Congress'
+    url: 'https://www.law.cornell.edu/uscode/text/18/1512'
+    felony: true
 ---
 
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)

@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-461
+charges:
+  - code: '18 USC § 111(a)(1) and (b)'
+    title: 'Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)'
+    url: 'https://www.law.cornell.edu/uscode/text/18/111'
+    felony: true
 ---
 
 - [Information](https://www.justice.gov/usao-dc/press-release/file/1422296/download)

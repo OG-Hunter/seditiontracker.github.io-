@@ -9,7 +9,7 @@ charged: 2021-02-22
 indicted:
 convicted: 2021-07-23
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age: 39
 occupation:
@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-148
+charges:
+  - code: '18 USC § 5104(e)(2)(D)'
+    title: 'Disorderly Conduct in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
+
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380676/download)

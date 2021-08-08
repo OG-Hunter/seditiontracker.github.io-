@@ -9,7 +9,7 @@ charged: 2021-04-26
 indicted:
 convicted: 2021-07-15
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age:
 occupation:
@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-360
+charges:
+  - code: '18 USC § 5104(e)(2)(D)'
+    title: 'Disorderly Conduct in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
+
 - [News Report](https://www.thedailybeast.com/active-duty-marine-christopher-warnagiris-charged-for-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412371/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412381/download)

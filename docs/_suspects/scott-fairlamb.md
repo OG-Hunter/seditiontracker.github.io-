@@ -29,6 +29,15 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-120
+charges:
+  - code: '18 USC § 1512(c)(2)'
+    title: 'Obstruction of an official proceeding'
+    url: 'https://www.law.cornell.edu/uscode/text/18/1512'
+    felony: true
+  - code: '18 USC § 111(a)(1)'
+    title: 'Assaulting, resisting, or impeding certain officers or employees'
+    url: 'https://www.law.cornell.edu/uscode/text/18/111'
+    felony: true
 ---
 
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
@@ -37,4 +46,4 @@ caseNumber: 1:21-cr-120
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359221/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385116/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1413913408198483972?s=20)
-- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-and-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
+- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-anyd-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)

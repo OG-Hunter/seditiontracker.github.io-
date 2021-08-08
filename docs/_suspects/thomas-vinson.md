@@ -9,7 +9,7 @@ charged: 2021-02-23
 indicted:
 convicted: 2021-07-27
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 age:
 occupation:
@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-355
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
+
 - [News Report](https://www.kentucky.com/news/local/crime/article249457150.)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1364284639385378825)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418041/download)

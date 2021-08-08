@@ -1,7 +1,13 @@
 import { readFile, writeLines } from "./file";
-import { Charge } from "./charge";
-import { defaultsDeep, isEmpty} from 'lodash';
-import fm from 'front-matter';
+import { isEmpty} from 'lodash';
+import YAML from 'yaml'
+
+export interface Charge {
+  code: string
+  title: string
+  url: string
+  felony: boolean
+}
 
 export interface Suspect {
   published: boolean
@@ -33,6 +39,7 @@ export interface Suspect {
   jurisdiction?: string
   residence?: string
   caseNumber?: string
+  charges?: Charge[]
 }
 
 export const getSuspectByFile = (filename:string) => {
@@ -136,6 +143,7 @@ export const getSuspectByFile = (filename:string) => {
     suspect.quote= RegExp.$1;
   }
 
+  suspect.charges = getCharges(data.split("---")[1].trim())
   return suspect
 }
 
@@ -173,6 +181,13 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`layout: ${"suspect"}`)
   lines.push(`published: ${suspect.published.toString()}`)
   lines.push(`caseNumber: ${suspect.caseNumber}`)
+  lines.push(`charges:`)
+  for (const {code, title, url, felony} of Object.values(suspect.charges)) {
+    lines.push(`- code: ${code}`)
+    lines.push(`  title: ${title}`)
+    lines.push(`  url: ${url}`)
+    lines.push(`  felony: ${felony}`)
+  }
   lines.push('---')
 
   for (const [type, url] of Object.entries(suspect.links)) {
@@ -233,4 +248,9 @@ export const convertDojName = (name: string) => {
   const firstName = names[1].split(" ")[0].toLowerCase()
 
   return dasherizeName(`${firstName} ${lastName}`)
+}
+
+const getCharges = (data: string) => {
+  const result= YAML.parse(data)
+  return result.charges || []
 }

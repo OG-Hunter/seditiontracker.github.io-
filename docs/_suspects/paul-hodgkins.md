@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-188
+charges:
+  - code: '18 USC § 1512(c)(2)'
+    title: 'Obstruction of Congress'
+    url: 'https://www.law.cornell.edu/uscode/text/18/1512'
+    felony: true
 ---
+
 - [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415531/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)
