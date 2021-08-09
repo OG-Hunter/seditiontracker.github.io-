@@ -17,8 +17,8 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/daniel-gray.jpg
 suspect: daniel-gray.jpg
-booking:
-courtroom:
+booking: daniel-gray.jpg
+courtroom: daniel-gray.jpg
 courthouse:
 raid:
 perpwalk:
