@@ -182,11 +182,13 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`published: ${suspect.published.toString()}`)
   lines.push(`caseNumber: ${suspect.caseNumber}`)
   lines.push(`charges:`)
-  for (const {code, title, url, felony} of Object.values(suspect.charges)) {
-    lines.push(`- code: ${code}`)
-    lines.push(`  title: ${title}`)
-    lines.push(`  url: ${url}`)
-    lines.push(`  felony: ${felony}`)
+  if (suspect.charges) {
+    for (const {code, title, url, felony} of Object.values(suspect.charges)) {
+      lines.push(`- code: ${code}`)
+      lines.push(`  title: ${title}`)
+      lines.push(`  url: ${url}`)
+      lines.push(`  felony: ${felony}`)
+    }
   }
   lines.push('---')
 
