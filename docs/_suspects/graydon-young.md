@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-06-23
 sentenced:
 dismissed:
+deceased:
 age: 54
 occupation:
 affiliations: Oath Keepers
@@ -27,20 +28,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber: 1:21-cr-28
 charges:
-  - code: '18 USC § 371'
-    title: 'Conspiracy to commit an offense against the United States'
-    url: 'https://www.law.cornell.edu/uscode/text/18/371'
-    felony: true
-  - code: '18 USC § 1512(c)(2)'
-    title: 'Obstruction of Congress'
-    url: 'https://www.law.cornell.edu/uscode/text/18/1512'
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of Congress
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 ---
-
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369071/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378526/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Graydon%20Young%20Plea%20Agreement.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405771/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405766/download)
