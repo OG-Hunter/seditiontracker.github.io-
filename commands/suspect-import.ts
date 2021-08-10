@@ -447,7 +447,7 @@ const addData = (suspectData) => {
       console.log(`${suspect.name}: ${type}`);
       suspect.links[type] = <string>url
 
-      if (type == "Indictment") {
+      if (type == "Indictment" && suspect.status != "Sentenced" && suspect.status != "Convicted") {
         suspect.status = "Indicted"
         updatePreview(suspect)
       }
