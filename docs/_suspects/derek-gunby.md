@@ -2,7 +2,7 @@
 name: Derek Gunby
 lastName: Gunby
 aka:
-residence:
+residence: South Carolina
 status: Charged
 date: 2021-06-29
 charged: 2021-06-29
@@ -31,7 +31,6 @@ published: false
 caseNumber: 1:21-mj-508
 charges:
 ---
-
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423096/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423101/download)
