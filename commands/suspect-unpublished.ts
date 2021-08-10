@@ -2,7 +2,6 @@ import { Command } from "commander";
 import { info } from "./common/console";
 import fs from "fs";
 import { readFile, writeFile } from "./common/file";
-import { write } from "xlsx/types";
 
 const cmd = new Command('unpublished').option('--publish', 'publish all unpublished suspects');
 cmd.parse(process.argv);
