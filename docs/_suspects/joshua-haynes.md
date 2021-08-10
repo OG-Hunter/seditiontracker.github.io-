@@ -12,7 +12,7 @@ sentenced:
 dismissed:
 age: 39
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/joshua-haynes.jpg
 suspect: joshua-haynes.jpg
