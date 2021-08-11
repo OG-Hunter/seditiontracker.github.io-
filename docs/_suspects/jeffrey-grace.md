@@ -29,7 +29,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-296
+videos:
+charges:
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)
+- [Government's Motion to Modify Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Grace%20Government%20Motion%20to%20Modify%20Pretrial%20Conditions%20of%20Release.pdf)

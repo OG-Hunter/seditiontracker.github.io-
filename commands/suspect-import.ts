@@ -284,9 +284,23 @@ const linkType = (description: string, lastName?: string) => {
     description = description.replace(/&#39;/g, "'")
 
     switch(true) {
+      case /Detention Order/.test(description):
+        return "Detention Order"
       case /Plea Agreement/.test(description):
       case /Grods Plea/.test(description):
         return "Plea Agreement"
+      case /Government's Motion to Continue/.test(description):
+        return "Government motion to Continue"
+      case /Defense Opposition to Government's Motion to Continue/.test(description):
+        return "Defense Opposition to Continue"
+      case /Government Reply to Opposition to Motion to Continue/.test(description):
+        return "Government's reploy to Defense Opposition to Continue"
+      case /Government's Motion to Modify Conditions of Release/.test(description):
+        return "Government's Motion to Modify Conditions of Release"
+      case /Defendant's Reply to Government's Memorandum in Opposition to Bond Review Motion/.test(description):
+        return "Defendant's Reply to Government's Opposition to Modifying Conditions of Release"
+      case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
+        return "Defendant's Notice of Government's Violation of Due Process Protections Act"
       case /Affidavit/.test(description):
       case /Affidavit in Support of Criminal Complaint/.test(description):
       case /Affadavit/.test(description):
@@ -339,6 +353,7 @@ const linkType = (description: string, lastName?: string) => {
       case /Defense Motion for Modification of Bond/.test(description):
       case /Defendants Motion to Modify Bond Conditions/.test(description):
       case /Defense Motion to Modify Conditions of Release/.test(description):
+      case /Defendant's Motion for Bond Review/.test(description):
         return "Defense Motion for Modification of Bond"
       case /Defense Motion for Release/.test(description):
       case /Defendants Motion to Revoke Order of Detention/.test(description):
@@ -370,6 +385,7 @@ const linkType = (description: string, lastName?: string) => {
       case /Motion to Revoke Pretrial Release/.test(description):
         return "Motion to Revoke Pretrial Release"
       case /Governments Opposition to Defendants Motion to Modify Conditions of Release/.test(description):
+      case /Government's Memorandum in Opposition to Defendant's Bond Review Motion/.test(description):
         return "Government's Opposition to Modifying Conditions of Release"
       case /\.*Opposition to Defendant's Motion for Discovery/.test(description):
         return "Government's Opposition to Defendent's Motion for Discovery"

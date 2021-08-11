@@ -45,3 +45,6 @@ charges:
 - [Incriminating Evidence (VIDEO)](https://twitter.com/Cleavon_MD/status/1352172510603689991?s=20)
 - [Indictment](https://www.justice.gov/opa/page/file/1361206/download)
 - [Body Camera Evidence (VIDEO)](https://twitter.com/ryanjreilly/status/1425070641011695618)
+- [Government motion to Continue](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Gieswein%20Defense%20Opposition%20to%20Government%20Motion%20to%20Exclude%20Time%20Under%20the%20Speedy%20Trial%20Act.pdf)
+- [Government's reploy to Defense Opposition to Continue](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Gieswein%20Government%20Reply%20to%20Opposition%20to%20Motion%20to%20Continue%20and%20to%20Exclude%20Time%20Under%20the%20Speedy%20Trial%20Act.pdf)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Gieswein%20Government%20Opposition%20to%20Motion%20for%20Hearing%20and%20Revocation%20of%20Detention%20Order.pdf)
