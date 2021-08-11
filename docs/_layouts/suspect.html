@@ -35,7 +35,12 @@ layout: default
   {% if page.charges %}
     <ul>
     {% for charge in page.charges %}
-      <li><a href="{{charge.url}}">{{charge.code}}</a> {{charge.title}}</li>
+      <li>
+        <a href="{{charge.url}}">{{charge.code}}</a> {{charge.title}}
+        {% if charge.felony %}
+        <span class="felony"> (felony)</span>
+        {% endif %}
+      </li>
     {% endfor %}
     </ul>
   {% endif %}
