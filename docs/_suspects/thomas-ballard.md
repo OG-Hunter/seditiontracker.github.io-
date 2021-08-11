@@ -27,7 +27,7 @@ title: Thomas Ballard charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:21-mj-529
 charges:
 ---
