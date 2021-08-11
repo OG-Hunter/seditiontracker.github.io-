@@ -16,7 +16,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/joshua-haynes.jpg
 suspect: joshua-haynes.jpg
-booking:
+booking: joshua-haynes.jpg
 courtroom:
 courthouse:
 raid:
