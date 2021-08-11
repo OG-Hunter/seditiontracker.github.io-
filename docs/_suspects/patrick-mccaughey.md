@@ -29,6 +29,16 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-40
+videos:
+- title: Exhibit 1.mp4 (0:03:57)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/9a9444c0ce2c013960702cde48001122.mp4
+- title: Exhibit 3.mp4 (0:00:28)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b4e4ed60ce2c013960702cde48001122.mp4
+- title: Exhibit 2.mp4 (0:00:21)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b8429ab0ce2c013960702cde48001122.mp4
+- title: Exhibit 4.mp4 (0:00:24)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b9b87ee0ce2c013960702cde48001122.mp4
+charges:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/connecticut-man-charged-assaulting-officer-during-us-capitol-breach)
 - [News Report](https://www.cnbc.com/2021/01/20/connecticut-man-arrested-for-crushin.html)

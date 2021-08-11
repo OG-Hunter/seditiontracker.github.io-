@@ -29,6 +29,16 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-268
+videos:
+- title: Exhibit 1.mp4 (0:00:39)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a207b780ce2a013960702cde48001122.mp4
+- title: Exhibit 3.mp4 (0:00:38)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a6c97ab0ce2a013960702cde48001122.mp4
+- title: Exhibit 2.mp4 (0:00:34)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ac165950ce2a013960702cde48001122.mp4
+- title: Exhibit 4.mp4 (0:00:25)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b08e5cf0ce2a013960702cde48001122.mp4
+charges:
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9378829/Former-Special-Forces-soldier-charged-assaulting-police-flag-pole-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378931/download)

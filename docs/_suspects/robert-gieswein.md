@@ -29,6 +29,16 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-24
+videos:
+- title: Video Exhibit 1 - U.S. v. Gieswein.mp4 (0:04:54)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/9f184490dc1b01392a3b2cde48001122.mp4
+- title: Video Exhibit 3 - U.S. v. Gieswein.mp4 (0:02:04)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8e367cc0dc1b01392a3b2cde48001122.mp4
+- title: Video Exhibit 2 - U.S. v. Gieswein.mp4 (0:01:36)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cf8e8f10dc1b01392a3b2cde48001122.mp4
+- title: Video Exhibit 4 - U.S. v. Gieswein.mp4 (0:01:52)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/81e8c230dc1b01392a3b2cde48001122.mp4
+charges:
 ---
 - [News Report](https://www.denverpost.com/2021/01/18/colorado-us-capitol-riot-robert-gieswein/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)

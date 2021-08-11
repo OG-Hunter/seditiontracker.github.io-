@@ -29,6 +29,16 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-177
+videos:
+- title: Egtvedt - BWC and CCTV of Incident.mp4 (0:08:43)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/487ec340ce2a013960702cde48001122.mp4
+- title: Egtvedt - Interviews.mp4 (0:02:11)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/359f6a10ce2a013960702cde48001122.mp4
+- title: Egtvedt - Capitol Entry.mp4 (0:00:27)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/34772630ce2a013960702cde48001122.mp4
+- title: Egtvedt - Late Afternoon BWC.mp4 (0:01:50)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/3d127cc0ce2a013960702cde48001122.mp4
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/daniel-egtvedt-rioter-who-boasted-of-gop-ties-was-an-absolute-nightmare-for-capitol-cops-doj-alleges)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Dean%20Egtvedt%20Criminal%20Complaint.pdf)

@@ -29,6 +29,15 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-286
+videos:
+  - url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/51d50c60ce28013960702cde48001122.mp4
+    title: Defense Exhibit A.mp4 (0:51:59)
+  - url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/df9b1190ce29013960702cde48001122.mp4
+    title: Government Exhibit 3 - Rotunda doors.mp4 (0:02:56)
+  - url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/0b75f050ce2a013960702cde48001122.mp4
+    title: Government Exhibit 2.mp4 (0:05:17)
+  - url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/f741d9a0ce29013960702cde48001122.mp4
+    title: Government Exhibit 4 - Rotunda doors.mp4 (0:02:37)
 ---
 
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-riot-grady-owens-denied-release-20210402-6c6ehq5imva3dhaud6hujkjgoy-story.html)

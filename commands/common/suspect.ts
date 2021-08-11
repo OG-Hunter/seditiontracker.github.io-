@@ -243,6 +243,17 @@ export const getSuspectsByCase = (caseNumber: string) => {
   return suspects
 }
 
+export const getSuspects = () => {
+  const suspectFiles = fs.readdirSync('./docs/_suspects');
+  const suspects:Suspect[] = []
+
+  for (const suspectFile of suspectFiles) {
+    suspects.push(getSuspectByFile(suspectFile))
+  }
+
+  return suspects
+}
+
 export const getVideoUrls = () => {
   const urls = new Set()
   const suspectFiles = fs.readdirSync('./docs/_suspects');
