@@ -10,6 +10,7 @@ indicted: 2021-05-26
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
@@ -27,7 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/oath-keeper-jonathan-walden-brought-82-pound-german-shepherd-warrior-to-capitol-riots)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)

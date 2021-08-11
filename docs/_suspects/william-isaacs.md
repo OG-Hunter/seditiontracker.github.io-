@@ -29,6 +29,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-28
+videos:
+charges:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/05/31/grand-jury-indicts-kissimmee-man-for-alleged-role-in-capitol-riot/)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410391/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)

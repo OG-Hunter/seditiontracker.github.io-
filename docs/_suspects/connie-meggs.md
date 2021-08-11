@@ -29,9 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-28
+videos:
+charges:
 ---
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410241/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)

@@ -38,7 +38,7 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356101/download)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/three-individuals-affiliated-oath-keepers-indicted-federal-court-conspiracy-obstruct)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415481/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [Military Service](https://www.buzzfeednews.com/article/jessicagarrison/oath-keeper-transgender-jail-jessica-watkins)
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jessica%20Marie%20Watkins%20Defense%20Motion%20for%20Release%20to%20Home%20Confinement.pdf)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jessica%20Watkins%20Governments%20Opposition%20to%20Defendants%20Motion%20to%20Reconsider%20Detention.pdf)

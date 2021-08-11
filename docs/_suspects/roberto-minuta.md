@@ -29,7 +29,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-28
+videos:
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374966/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410751/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
