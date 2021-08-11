@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 66
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I was one of those idiots scaling the wall ;)'
 title: Clifford Meteer charged on August 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -32,5 +32,5 @@ caseNumber: 1:21-mj-553
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.wbir.com/article/news/local/feds-knoxville-man-illegally-entered-us-capitol-during-jan-6-riot-carrying-stop-the-steal-sign/51-dd6de1e7-b014-4348-a1e1-89dc6e3c31e8)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423161/download)

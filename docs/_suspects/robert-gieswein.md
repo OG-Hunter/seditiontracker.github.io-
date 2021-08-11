@@ -44,3 +44,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360831/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/Cleavon_MD/status/1352172510603689991?s=20)
 - [Indictment](https://www.justice.gov/opa/page/file/1361206/download)
+- [Body Camera Evidence (VIDEO)](https://twitter.com/ryanjreilly/status/1425070641011695618)

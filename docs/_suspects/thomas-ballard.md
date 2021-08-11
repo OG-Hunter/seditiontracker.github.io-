@@ -1,7 +1,7 @@
 ---
 name: Thomas Ballard
 lastName: Ballard
-aka:
+aka: CliffCares
 residence: Texas
 status: Charged
 date: 2021-06-29
@@ -11,8 +11,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
-occupation:
+age: 35
+occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:
 jurisdiction: Federal
 image: /images/preview/thomas-ballard.jpg
@@ -31,5 +31,5 @@ published: false
 caseNumber: 1:21-mj-529
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.dallasnews.com/news/crime/2021/08/10/fort-worth-mechanic-assaulted-capitol-police-with-baton-and-table-during-jan-6-riot-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423131/download)
