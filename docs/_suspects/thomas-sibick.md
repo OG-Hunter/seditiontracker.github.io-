@@ -7,9 +7,9 @@ status: Indicted
 date: 2021-03-12
 charged: 2021-03-12
 indicted: 2021-04-09
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 35
 occupation:
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Just got tear-gassed, but we’re going, baby, we’re going!"
+quote: 'Just got tear-gassed, but we’re going, baby, we’re going!'
 title: Thomas Sibick arrested on March 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

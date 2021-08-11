@@ -27,6 +27,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber: 1:21-cr-291
 ---
 
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/04/16/kyle-james-young-charged-with-assaulting-washington-dc-police-officer-capitol-riot-attack/7262650002/)

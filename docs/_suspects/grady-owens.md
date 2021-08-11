@@ -10,6 +10,7 @@ indicted: 2021-04-07
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 21
 occupation:
 affiliations:
@@ -27,6 +28,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber: 1:21-cr-286
 ---
 
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-riot-grady-owens-denied-release-20210402-6c6ehq5imva3dhaud6hujkjgoy-story.html)

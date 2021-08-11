@@ -7,9 +7,9 @@ status: Indicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 51
 occupation: Geologist
@@ -29,7 +29,18 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-35
+videos:
+  - title: EX 2 - A.W. BWC Clip.mp4 (0:01:06)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ca43d920ce2c013960702cde48001122.mp4
+  - title: EX 3 - Storyful Video.mp4 (0:01:41)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d2152e60ce2c013960702cde48001122.mp4
+  - title: EX 5A - C.M. BWC Clip.mp4 (0:01:13)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/db70be80ce2c013960702cde48001122.mp4
+  - title: Ex. 6 - D.P. BWC Clip.mp4 (0:00:20)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d8d50ea0ce2c013960702cde48001122.mp4
+charges:
 ---
+
 - [News Report](https://www.cnbc.com/2021/01/22/capitol-riots-man-admits-dragging-cop-to-be-beaten-by-flag-pole.html)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1352658310269382656?s=20)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)

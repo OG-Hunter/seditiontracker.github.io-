@@ -5,7 +5,8 @@
     "docker:pull": "docker pull seditiontrack:latest",
     "docker:shell": "docker run -v=$PWD/docs:/site -it seditiontrack:latest /bin/bash",
     "jekyll": "docker run -v=$PWD/docs:/site -p 4000:4000 -it seditiontrack:latest",
-    "suspect": "node -r ts-node/register commands/suspect.ts"
+    "suspect": "node -r ts-node/register commands/suspect.ts",
+    "video": "node -r ts-node/register commands/video.ts"
   },
   "dependencies": {},
   "devDependencies": {

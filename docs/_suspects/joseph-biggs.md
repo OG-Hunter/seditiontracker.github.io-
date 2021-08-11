@@ -7,9 +7,9 @@ status: Indicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 37
 occupation:
@@ -29,7 +29,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-175
+videos:
+charges:
 ---
+
 - [News Report](https://www.thedailybeast.com/joseph-biggs-proud-boys-leader-arrested-for-storming-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357251/download)
 - [Court Appearance (VIDEO)](https://www.youtube.com/watch?v=G9hkJRbSptI)

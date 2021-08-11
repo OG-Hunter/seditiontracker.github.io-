@@ -27,6 +27,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber: 1:21-mj-469
 ---
 
 - [News Report](https://minnesota.cbslocal.com/2021/06/11/minneapolis-man-brian-mock-accused-of-assaulting-officer-in-jan-6-u-s-capitol-attack/)

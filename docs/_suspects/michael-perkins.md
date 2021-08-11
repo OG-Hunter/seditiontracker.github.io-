@@ -28,8 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-499
+caseNumber: 1:21-cr-447
 ---
+
 - [News Story](https://www.wfla.com/news/polk-county/polk-county-emt-among-arrests-linked-to-jan-6-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)

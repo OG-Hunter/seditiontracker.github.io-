@@ -1,12 +1,18 @@
 import { readFile, writeLines } from "./file";
 import { isEmpty} from 'lodash';
 import YAML from 'yaml'
+import fs from "fs";
 
 export interface Charge {
   code: string
   title: string
   url: string
   felony: boolean
+}
+
+export interface Video {
+  url: string
+  title: string
 }
 
 export interface Suspect {
@@ -40,6 +46,7 @@ export interface Suspect {
   residence?: string
   caseNumber?: string
   charges?: Charge[]
+  videos?: Video[]
 }
 
 export const getSuspectByFile = (filename:string) => {
@@ -144,6 +151,8 @@ export const getSuspectByFile = (filename:string) => {
   }
 
   suspect.charges = getCharges(data.split("---")[1].trim())
+  suspect.videos = getVideos(data.split("---")[1].trim())
+
   return suspect
 }
 
@@ -181,6 +190,13 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`layout: ${"suspect"}`)
   lines.push(`published: ${suspect.published.toString()}`)
   lines.push(`caseNumber: ${suspect.caseNumber}`)
+  lines.push(`videos:`)
+  if (suspect.videos) {
+    for (const {title, url} of Object.values(suspect.videos)) {
+      lines.push(`- title: ${title}`)
+      lines.push(`  url: ${url}`)
+    }
+  }
   lines.push(`charges:`)
   if (suspect.charges) {
     for (const {code, title, url, felony} of Object.values(suspect.charges)) {
@@ -211,6 +227,32 @@ export const getSuspect = (firstName: string, lastName: string) => {
 export const dasherizeName = (firstName: string, lastName?: string) => {
   const name = lastName ? `${firstName} ${lastName}` : firstName
   return name.replace(/\s/g, "-").replace(/'/g, "").toLowerCase();
+}
+
+export const getSuspectsByCase = (caseNumber: string) => {
+  const suspectFiles = fs.readdirSync('./docs/_suspects');
+  const suspects = []
+
+  for (const suspectFile of suspectFiles) {
+    const suspect = getSuspectByFile(suspectFile)
+    if (suspect.caseNumber == caseNumber) {
+      suspects.push(suspect)
+    }
+  }
+
+  return suspects
+}
+
+export const getVideoUrls = () => {
+  const urls = new Set()
+  const suspectFiles = fs.readdirSync('./docs/_suspects');
+  for (const suspectFile of suspectFiles) {
+    const suspect = getSuspectByFile(suspectFile)
+    for (const video of suspect.videos) {
+      urls.add(video.url)
+    }
+  }
+  return urls
 }
 
 const getLinks = (data: string) => {
@@ -250,6 +292,11 @@ export const convertDojName = (name: string) => {
   const firstName = names[1].split(" ")[0].toLowerCase()
 
   return dasherizeName(`${firstName} ${lastName}`)
+}
+
+const getVideos = (data: string) => {
+  const result= YAML.parse(data)
+  return result.videos || []
 }
 
 const getCharges = (data: string) => {
