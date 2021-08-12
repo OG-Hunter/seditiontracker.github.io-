@@ -2,7 +2,7 @@
 name: Steven Cappuccio
 lastName: Cappuccio
 aka: '#StripesGuy'
-residence:
+residence: Texas
 status: Indicted
 date: 2021-08-12
 charged: 2021-08-12
@@ -11,9 +11,9 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 52
 occupation:
-affiliations:
+affiliations: Formery U.S. Army
 jurisdiction: Federal
 image: /images/preview/steven-cappuccio.png
 suspect: steven-cappuccio.png
