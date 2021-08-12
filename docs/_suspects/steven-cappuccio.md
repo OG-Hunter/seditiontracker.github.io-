@@ -1,8 +1,8 @@
 ---
-name: David Mehaffie
-lastName: Mehaffie
-aka: '#TunnelCommander'
-residence: Ohio
+name: Steven Cappuccio
+lastName: Cappuccio
+aka: '#StripesGuy'
+residence:
 status: Indicted
 date: 2021-08-12
 charged: 2021-08-12
@@ -15,15 +15,15 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/david-mehaffie.jpg
-suspect: david-mehaffie.jpg
+image: /images/preview/steven-cappuccio.png
+suspect: steven-cappuccio.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: David Mehaffie charged on August 12, 2021
+title: Steven Cappuccio charged on August 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -33,5 +33,4 @@ videos:
 charges:
 ---
 
-- [News Report](https://www.huffpost.com/entry/fbi-arrests-tunnel-commander-anti-abortion-capitol-riot_n_61152eb9e4b07c1403123f7e)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Fourth%20Superseding%20Indictment.pdf)
