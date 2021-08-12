@@ -2,7 +2,7 @@
 name: Michael Carico
 lastName: Carico
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2021-07-22
 charged: 2021-07-22
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Hey Nancy, go fuck yourself.'
 title: Michael Carico charged on July 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.businessinsider.com/capitol-riot-suspect-navy-hat-camo-shirt-never-actually-served-2021-8?op=1)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423741/download)
