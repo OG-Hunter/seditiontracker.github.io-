@@ -29,6 +29,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-529
+videos:
+charges:
 ---
 - [News Report](https://www.nytimes.com/2021/07/28/nyregion/capitol-riot-brooklyn-plumber.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417601/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424581/download)
