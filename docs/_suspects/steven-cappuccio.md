@@ -32,5 +32,4 @@ caseNumber: 1:21-cr-40
 videos:
 charges:
 ---
-
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Fourth%20Superseding%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)
