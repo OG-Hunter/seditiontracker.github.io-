@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 72
 occupation: Pastor
 affiliations:
@@ -27,7 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2021/06/24/florida-pastors-arrested-in-connection-with-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405931/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424616/download)

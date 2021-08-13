@@ -29,7 +29,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-131
+videos:
+charges:
 ---
 - [News Report](https://tulsaworld.com/news/local/oklahoma-man-faces-charges-in-connection-with-capitol-riot/article_1afe3f28-5d08-11eb-ad02-77c1bc298fa5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359591/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359591/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424651/download)
