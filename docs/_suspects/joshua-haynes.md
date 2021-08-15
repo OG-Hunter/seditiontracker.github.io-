@@ -18,7 +18,7 @@ image: /images/preview/joshua-haynes.jpg
 suspect: joshua-haynes.jpg
 booking: joshua-haynes.jpg
 courtroom:
-courthouse:
+courthouse: joshua-haynes.jpg
 raid:
 perpwalk:
 quote: 'We attacked the CNN reporters and the fake news and destroyed tens of thousands of dollars of their video and television equipment here‘s a picture behind me of the pile we made out of it.'
