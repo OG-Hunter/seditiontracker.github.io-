@@ -18,7 +18,7 @@ jurisdiction: Federal
 image: /images/preview/paul-hodgkins.png
 suspect: paul-hodgkins.png
 booking:
-courtroom:
+courtroom: paul-hodgkins.jpg
 courthouse:
 raid:
 perpwalk:
