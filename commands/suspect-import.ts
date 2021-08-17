@@ -465,7 +465,9 @@ const addData = (suspectData) => {
 
       if (type == "Indictment" && suspect.status != "Sentenced" && suspect.status != "Convicted") {
         suspect.status = "Indicted"
-        updatePreview(suspect)
+        if (suspect.published) {
+          updatePreview(suspect)
+        }
       }
 
       if (type == "Plea Agreement" && suspect.status != "Sentenced") {
