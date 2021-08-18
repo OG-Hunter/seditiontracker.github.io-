@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/brian-ulrich.png
 suspect: brian-ulrich.png
-booking:
+booking: brian-ulrich.jpg
 courtroom:
 courthouse:
 raid:
