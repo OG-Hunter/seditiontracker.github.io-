@@ -3,13 +3,13 @@ name: Leonard Gruppo
 lastName: Gruppo
 aka:
 residence: Texas
-status: Charged
+status: Convicted
 date: 2021-06-01
 charged: 2021-06-01
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-08-18
+sentenced:
+dismissed:
 deceased:
 age:
 occupation: Physician's Assistant
@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-391
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
+
 - [News Report](https://www.everythinglubbock.com/news/local-news/new-info-released-about-clovis-man-arrested-in-connection-to-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401796/download)
