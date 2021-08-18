@@ -1,7 +1,7 @@
 ---
 name: Logan Barnhart
 lastName: Barnhart
-aka:
+aka: CatSweat
 residence: Michigan
 status: Charged
 date: 2021-08-04
@@ -11,8 +11,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
-occupation:
+age: 40
+occupation: Machine Operator, Barnhart & Son Inc.
 affiliations:
 jurisdiction: Federal
 image: /images/preview/logan-barnhart.jpg
@@ -35,3 +35,4 @@ charges:
 
 - [News Report](https://www.huffpost.com/entry/logan-barnhart-trump-capitol-attack-fbi-arrest_n_6086e1b3e4b02e74d21d4a28?ztc)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1425176/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-and-tennessee-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

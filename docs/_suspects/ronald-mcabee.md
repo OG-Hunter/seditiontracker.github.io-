@@ -1,6 +1,6 @@
 ---
-name: Ronald Mcabee
-lastName: Mcabee
+name: Ronald McAbee
+lastName: McAbee
 aka:
 residence: Tennessee
 status: Charged
@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -23,7 +23,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Ronald Mcabee charged on August 4, 2021
+title: Ronald McAbee charged on August 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -33,5 +33,6 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.tennessean.com/story/news/politics/2021/08/17/tennessee-man-ronald-colton-mcabee-arrested-us-capitol-officer-assault/8172152002/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1425176/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-and-tennessee-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
