@@ -3,7 +3,7 @@ name: Logan Barnhart
 lastName: Barnhart
 aka: CatSweat
 residence: Michigan
-status: Charged
+status: Indicted
 date: 2021-08-04
 charged: 2021-08-04
 indicted: 2021-08-04
