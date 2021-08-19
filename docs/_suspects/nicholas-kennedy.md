@@ -1,7 +1,7 @@
 ---
 name: Nicholas Kennedy
 lastName: Kennedy
-aka:
+aka: Squatch
 residence: Missouri
 status: Charged
 date: 2021-07-23
@@ -13,10 +13,10 @@ dismissed:
 deceased:
 age: 41
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/nicholas-kennedy.png
+suspect: nicholas-kennedy.png
 booking:
 courtroom:
 courthouse:
