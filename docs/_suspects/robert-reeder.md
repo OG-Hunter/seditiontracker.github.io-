@@ -19,7 +19,7 @@ image: /images/preview/robert-reeder.png
 suspect: robert-reeder.png
 booking:
 courtroom:
-courthouse:
+courthouse: robert-reeder.jpg
 raid:
 perpwalk:
 quote: 'I got gassed several times inside the Capitol, many times outside the Capitol. Got shot with pepper balls. It was fucking nuts. We had to do...ah...battle with the Police inside.'
