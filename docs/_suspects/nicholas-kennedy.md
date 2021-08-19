@@ -3,7 +3,7 @@ name: Nicholas Kennedy
 lastName: Kennedy
 aka: Squatch
 residence: Missouri
-status: Charged
+status: Indicted
 date: 2021-07-23
 charged: 2021-07-23
 indicted: 2021-07-23
