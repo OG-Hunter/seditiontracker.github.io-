@@ -12,7 +12,7 @@ sentenced:
 dismissed:
 deceased:
 age:
-occupation:
+occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired
 jurisdiction: Federal
 image: /images/preview/joseph-irwin.jpg
