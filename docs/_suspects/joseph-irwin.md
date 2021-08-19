@@ -13,7 +13,7 @@ dismissed:
 deceased:
 age:
 occupation:
-affiliations:
+affiliations: Former Sheriff's Deputy; U.S. Army, Retired
 jurisdiction: Federal
 image: /images/preview/joseph-irwin.jpg
 suspect: joseph-irwin.jpg
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.wave3.com/2021/08/17/former-hardin-county-sheriff-deputy-arrested-connection-with-us-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Irwin%20Statement%20of%20Facts.pdf)

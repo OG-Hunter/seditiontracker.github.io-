@@ -1,7 +1,7 @@
 ---
 name: Deborah Lee
 lastName: Lee
-aka:
+aka: Debbie Lee
 residence: Pennsylvania
 status: Charged
 date: 2021-08-05
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'ITS [sic] OUR HOUSE. FUCK NANCY AND THE DEMOCRATS. WE HAVE EVERY RIGHT TO OCCUPY OUR CAPITAL!! [sic]'
 title: Deborah Lee charged on August 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,4 @@ videos:
 charges:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Deborah%20Lee%20Statement%20of%20Facts.pdf)
