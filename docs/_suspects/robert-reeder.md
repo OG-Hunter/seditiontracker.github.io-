@@ -41,3 +41,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424661/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377946/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405716/download)
+- [Courthouse Appearance (VIDEO)](https://twitter.com/EricFlackTV/status/1428072179439218693)
