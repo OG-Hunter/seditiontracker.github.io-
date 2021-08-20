@@ -40,4 +40,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413661/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380176/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404756/download)
-- [Memorandum in Aid of Sentencing](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jessica%20Bustle%20Government%20Sentencing%20Memorandum.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jessica%20Bustle%20Government%20Sentencing%20Memorandum.pdf)

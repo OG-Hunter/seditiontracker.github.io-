@@ -40,6 +40,6 @@ charges:
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410846/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379006/download)
-- [Memorandum in Aid of Sentencing](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Government%20Memorandum%20in%20Aid%20of%20Sentencing.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Government%20Memorandum%20in%20Aid%20of%20Sentencing.pdf)
 - [Defense Memorandum in Support of Probationary Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Defense%20Memorandum%20in%20Support%20of%20Probationary%20Sentence.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410841/download)
