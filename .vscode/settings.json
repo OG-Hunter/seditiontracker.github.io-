@@ -38,14 +38,11 @@
   "editor.renderControlCharacters": false,
   "eslint.lintTask.options": "--fix",
   "eslint.codeAction.showDocumentation": {
-
     "enable": true
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.options": {
-
-  },
+  "eslint.options": {},
   "javascript.updateImportsOnFileMove.enabled": "always"
 }

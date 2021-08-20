@@ -121,7 +121,9 @@ const importGw = async (nameSet: Set<string>) => {
         continue;
       }
 
-      const links = getLinks(entry, "", lastName)
+      const ulTag = entry.nextElementSibling
+
+      const links = getLinks(ulTag, "", lastName)
       addData({nameSet, firstName, lastName, links, residence})
     }
   }
@@ -284,23 +286,15 @@ const linkType = (description: string, lastName?: string) => {
     description = description.replace(/&#39;/g, "'")
 
     switch(true) {
+      // standard documents
       case /Detention Order/.test(description):
+      case /Order of Detention/.test(description):
         return "Detention Order"
+
       case /Plea Agreement/.test(description):
       case /Grods Plea/.test(description):
         return "Plea Agreement"
-      case /Government's Motion to Continue/.test(description):
-        return "Government motion to Continue"
-      case /Defense Opposition to Government's Motion to Continue/.test(description):
-        return "Defense Opposition to Continue"
-      case /Government Reply to Opposition to Motion to Continue/.test(description):
-        return "Government's reploy to Defense Opposition to Continue"
-      case /Government's Motion to Modify Conditions of Release/.test(description):
-        return "Government's Motion to Modify Conditions of Release"
-      case /Defendant's Reply to Government's Memorandum in Opposition to Bond Review Motion/.test(description):
-        return "Defendant's Reply to Government's Opposition to Modifying Conditions of Release"
-      case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
-        return "Defendant's Notice of Government's Violation of Due Process Protections Act"
+
       case /Affidavit/.test(description):
       case /Affidavit in Support of Criminal Complaint/.test(description):
       case /Affadavit/.test(description):
@@ -315,88 +309,177 @@ const linkType = (description: string, lastName?: string) => {
       case /Statement of Offense/.test(description):
       case /Factual Profile/.test(description):
         return "Statement of Facts"
+
       case /Indictment/.test(description):
       case /indictment/.test(description):
       case /caldwell_et_al.*/.test(description):
         return "Indictment"
+
       case /Ammended Complaint/.test(description):
         return "Ammended Complaint"
+
       case /Complaint/.test(description):
       case /complaint/.test(description):
         return "Complaint"
-      case /Charged/.test(description):
-      case /Indicted/.test(description):
-      case /Arrested/.test(description):
-        return "DOJ Press Release"
+
       case /Government Detention Exhibits/.test(description):
         return "Detention Exhibits"
+
       case /Detention Exhibit (\d)/.test(description):
         return `Detention Exhibit ${RegExp.$1}`;
-      case /Detention Memo/.test(description):
-      case /Government Detention Memorandum/.test(description):
-      case /Memorandum in Support of Pretrial Detention/.test(description):
-        return "Detention Memo"
+
       case /Arrest Warrant/.test(description):
         return "Arrest Warrant"
+
       case /Ammended Statement of Facts/.test(description):
         return "Ammended Statement of Facts"
-      case /^S$/.test(description):
-      case /^tatement of Facts/.test(description):
-        // ignore messed up GW links
-        return null;
+
       case /Information/.test(description):
       case /information/.test(description):
         return "Information"
+
+      case /Memorandum in Aid of Sentencing/.test(description):
+      case /.*Government Sentencing Memorandum.*/.test(description):
+      case /.*Sentencing Memo.*/.test(description):
+        return "Sentencing Memo"
+
+      case /Detention Hearing Transcript/.test(description):
+      case /Preliminary Hearing and Detention Transcript/.test(description):
+        return "Detention Hearing Transcript"
+
+      case /Arraignment and Status Conference Hearing Transcript/.test(description):
+        return "Arraignment and Status Conference Hearing Transcript"
+
+      case /\.*Judgement\.*/.test(description):
+      case /Judgment/.test(description):
+        return "Judgement"
+
+      case /Order Denying Defendant's Motion for Conditional Release/.test(description):
+        return "Order Denying Bond"
+
+      // government motions
+      case /Government's Motion to Continue/.test(description):
+        return "Government motion to Continue"
+
+      case /Government's Motion to Modify Conditions of Release/.test(description):
+        return "Government's Motion to Modify Conditions of Release"
+
+      case /Detention Memo/.test(description):
+      case /Government Detention Memorandum/.test(description):
+      case /Memorandum in Support of Pretrial Detention/.test(description):
+      case /Government's Motion and Memorandum for Pretrial Detention/.test(description):
+      case /Government's Brief in Support of Detention/.test(description):
+      case /Government Memorandum in Support of Detention/.test(description):
       case /Motion for Pretrial Detention/.test(description):
       case /Memorandum in Support of Pre-Trial Detention/.test(description):
-        return "Motion for Pretrial Detention"
-      case /Defense Motion for Modification of Bond/.test(description):
-      case /Defendants Motion to Modify Bond Conditions/.test(description):
-      case /Defense Motion to Modify Conditions of Release/.test(description):
-      case /Defendant's Motion for Bond Review/.test(description):
-        return "Defense Motion for Modification of Bond"
-      case /Defense Motion for Release/.test(description):
-      case /Defendants Motion to Revoke Order of Detention/.test(description):
-      case /Defense Motion to Amend Order of Detention/.test(description):
-        return "Defense Motion for Release"
-      case /Government Opposition/.test(description):
+        return "Detention Memo"
+
+      case /Government Motion for Emergency Appeal of Release Order/.test(description):
+        return 'Government Motion for Emergency Appeal of Release Order'
+
+      // government response
+      case /Government Reply to Opposition to Motion to Continue/.test(description):
+        return "Government's reploy to Defense Opposition to Continue"
+
       case /Response to Defendants Motion for Bond/.test(description):
+      case /Opposition to Motion to Set Bond and Conditions of Release/.test(description):
+      case /Government Opposition to Motion for Conditional Release/.test(description):
         return "Government Opposition to Release"
-      case /Motion for Reconsideration of Detention/.test(description):
+
       case /Opposition to Defendants Motion to Reconsider/.test(description):
       case /Governments Opposition to Defendants Motion for Reconsideration/.test(description):
       case /Opposition to Defendants Motion for Revocation of Detention Order/.test(description):
       case /Governments Opposition to Defendants Motion to Revoke Order of Detention/.test(description):
+      case /Government's Opposition to Defendant's Motion for Reconsideration of Detention/.test(description):
+      case /Government's Omnibus Opposition to Defendants' Motions for Release from Custody/.test(description):
+      case /Government Opposition to Motion for Reconsideration of Motion for Conditional Release/.test(description):
         return "Government Opposition to Reconsideration of Release"
+
       case /Supplement to Government's Opposition to Defendant's Motion for Conditional Release/.test(description):
         return "Supplement to Government's Opposition to Defendant's Motion for Conditional Release"
-      case /Memorandum in Aid of Sentencing/.test(description):
-      case /.*Government Sentencing Memorandum.*/.test(description):
-      case /.*Sentencing Memo.*/.test(description):
-        return "Memorandum in Aid of Sentencing"
-      case /Defense Memorandum in Support of Probationary Sentence/.test(description):
-        return "Defense Memorandum in Support of Probationary Sentence"
-      case /Defense Motion for Reconsideration of Conditions of Release/.test(description):
-        return "Defense Motion for Reconsideration of Release"
-      case /Detention Hearing Transcript/.test(description):
-      case /Preliminary Hearing and Detention Transcript/.test(description):
-        return "Detention Hearing Transcript"
+
       case /Government Motion to Revoke Release Order/.test(description):
       case /Motion to Revoke Pretrial Release/.test(description):
+      case /Government's Motion for Revocation of Order of Release/.test(description):
         return "Motion to Revoke Pretrial Release"
+
       case /Governments Opposition to Defendants Motion to Modify Conditions of Release/.test(description):
       case /Government's Memorandum in Opposition to Defendant's Bond Review Motion/.test(description):
+      case /Government Response to Motion to Modify Conditions of Release/.test(description):
+      case /Government's Opposition to Motion for Modification of Conditions of Release/.test(description):
+      case /Government Opposition to Motion for Modification of Bond/.test(description):
+      case /Government Opposition to Motion for Review of Bond Decision/.test(description):
+      case /Government Opposition to Motion for Reconsideration of Conditions of Release/.test(description):
         return "Government's Opposition to Modifying Conditions of Release"
+
       case /\.*Opposition to Defendant's Motion for Discovery/.test(description):
         return "Government's Opposition to Defendent's Motion for Discovery"
-      case /\.*Judgement\.*/.test(description):
-      case /Judgment/.test(description):
-        return "Judgement"
+
+      case /Government Opposition to Defendants Motion to Lift Stay on Release Order/.test(description):
+        return "Government Opposition to to Lift Stay on Release Order"
+
+      // defense motions
+      case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
+        return "Defendant's Notice of Government's Violation of Due Process Protections Act"
+
+      case /Defense Motion for Modification of Bond/.test(description):
+      case /Defendants Motion to Modify Bond Conditions/.test(description):
+      case /Defense Motion to Modify Conditions of Release/.test(description):
+      case /Defendant's Motion for Bond Review/.test(description):
+      case /Defense Motion for Modification of Conditions of Release/.test(description):
+        return "Defense Motion for Modification of Bond"
+
+      case /Defense Motion for Release/.test(description):
+      case /Defendants Motion to Revoke Order of Detention/.test(description):
+      case /Defense Motion to Amend Order of Detention/.test(description):
+      case /Defendant's Memorandum in Support of Pretrial Release/.test(description):
+          return "Defense Motion for Release"
+
+      case /Defense Memorandum in Support of Probationary Sentence/.test(description):
+        return "Defense Memorandum in Support of Probationary Sentence"
+
+      case /Defense Motion for Reconsideration of Conditions of Release/.test(description):
+      case /Defense Motion for Reconsideration of Bond/.test(description):
+      case /Motion to Reopen Detention Hearing and for Release on Conditions/.test(description):
+        return "Defense Motion for Reconsideration of Release"
+
       case /Defendant's Motion for a Bill of Particulars/.test(description):
         return "Defendant's Motion for a Bill of Particulars"
+
+      // defense response
+      case /Defense Opposition to Government's Motion to Continue/.test(description):
+        return "Defense Opposition to Continue"
+
+      case /Defendant's Reply to Government's Memorandum in Opposition to Bond Review Motion/.test(description):
+      case /Reply to Government's Opposition to Motion for Modifications of Conditions of Release/.test(description):
+        return "Defendant's Reply to Government's Opposition to Modifying Conditions of Release"
+
+      case /Defense Reply to Opposition to Motion for Release from Custody/.test(description):
+      case /Defense Reply to Opposition to Motion for Conditional Release/.test(description):
+        return "Defense Reply to Opposition to Motion for Release from Custody"
+
+      case /Defense Response to Motion for Appeal of Release Order/.test(description):
+        return "Defense Response to Motion for Appeal of Release Order"
+
+      case /Defense Response to Motion for Revocation of Order of Release/.test(description):
+        return "Defense Response to Motion for Revocation of Order of Release"
+
+      // press release
+      case /Charged/.test(description):
+      case /Indicted/.test(description):
+      case /Arrested/.test(description):
+        return "DOJ Press Release"
+
+      // misc
+      case /^S$/.test(description):
+      case /^tatement of Facts/.test(description):
+        // ignore messed up GW links
+        return null;
+
       case /Bustle*/.test(description):
       case /grods\.pdf/.test(description):
         return "DOJ Press Release"
+
       default:
         warning(`unknown link type for ${lastName}: ${description}`)
         return "DOJ Press Release"
