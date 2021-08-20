@@ -47,3 +47,5 @@ charges:
 - [DC Police Wanted Post (Twitter)](https://twitter.com/DCPoliceDept/status/1350239956460036096?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357246/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
+- [Defense Motion for Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Patrick%20Edward%20McCaughey%20III%20Motion%20to%20Reopen%20Detention%20Hearing%20and%20for%20Release%20on%20Conditions.pdf)
+- [Arraignment and Status Conference Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Arraignment%20Hearing%20Status%20and%20Conference%20Transcript.pdf)

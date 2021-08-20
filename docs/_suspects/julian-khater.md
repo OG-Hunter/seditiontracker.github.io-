@@ -29,7 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-222
+videos:
+charges:
 ---
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)
+- [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20Defense%20Memorandum%20in%20Support%20of%20Pretrial%20Release.pdf)
+- [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20and%20George%20Pierre%20Tanios%20Government%20Omnibus%20Opposition%20to%20Motions%20for%20Release%20from%20Custody.pdf)

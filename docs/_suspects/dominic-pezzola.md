@@ -29,6 +29,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-52
+videos:
+charges:
 ---
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)
@@ -38,3 +40,4 @@ caseNumber: 1:21-cr-52
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412796/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dominic%20Pezzola%20Defense%20Motion%20for%20Modification%20of%20Bond%20to%20Place%20Defendant%20on%20Conditional%20Release%20Pending%20Trial.pdf)
 - [Spaz is a Former Marine](https://www.vice.com/en/article/v7mpaj/the-proud-boy-who-smashed-a-us-capitol-window-is-a-former-marine)
+- [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dominic%20Pezzola%20Government%E2%80%99s%20Opposition%20to%20Defendant%E2%80%99s%20Motion%20for%20Modification%20of%20Bond%20to%20Place%20the%20Defendant%20on%20Conditional%20Release%20Pending%20Trial.pdf)

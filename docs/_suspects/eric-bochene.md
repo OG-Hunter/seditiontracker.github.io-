@@ -29,7 +29,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-418
+videos:
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/upstate-ny-man-charged-with-being-inside-capitol-on-jan-6/3056832/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394211/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Bochene%20Information.pdf)

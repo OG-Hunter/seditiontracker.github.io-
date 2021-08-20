@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 33
 occupation:
 affiliations:
@@ -27,9 +28,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.ksl.com/article/50156952/southern-utah-man-charged-with-attacking-officers-during-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390646/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390651/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-arrested-assaulting-law-enforcement-during-jan-6-capitol-breach)
+- [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Landon%20Copeland%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

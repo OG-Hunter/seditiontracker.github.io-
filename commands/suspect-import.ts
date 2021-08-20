@@ -350,12 +350,17 @@ const linkType = (description: string, lastName?: string) => {
       case /Arraignment and Status Conference Hearing Transcript/.test(description):
         return "Arraignment and Status Conference Hearing Transcript"
 
-      case /\.*Judgement\.*/.test(description):
-      case /Judgment/.test(description):
+      case description == "Judgement":
+      case description == "Judgment":
+      case /.* Judgement/.test(description):
         return "Judgement"
 
       case /Order Denying Defendant's Motion for Conditional Release/.test(description):
         return "Order Denying Bond"
+
+      case /Court of Appeals/.test(description):
+      case /Appeals Court/.test(description):
+        return "Appeals Court Ruling"
 
       // government motions
       case /Government's Motion to Continue/.test(description):

@@ -40,3 +40,7 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379346/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sibick%20Head%20Young%20Indictment.pdf)
 - [Bodycam Evidence (Video)](https://twitter.com/ryanjreilly/status/1412463847622025223)
+- [Government Motion for Emergency Appeal of Release Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sibick%20Government%20Appeal%20of%20Release%20Order.pdf)
+- [Defense Response to Motion for Appeal of Release Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Sibick%20Defense%20Response%20to%20Motion%20for%20Appeal%20of%20Release%20Order.pdf)
+- [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Sibick%20Government%20Memorandum%20in%20Support%20of%20Detention.pdf)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Sibick%20Order%20of%20Detention.pdf)

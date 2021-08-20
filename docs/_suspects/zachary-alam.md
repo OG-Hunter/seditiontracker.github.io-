@@ -29,9 +29,12 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-190
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/rioter-charged-for-giving-capitol-cop-a-concussion-feds)
 - [Complaint](https://www.justice.gov/opa/page/file/1362956/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362956/download)
 - [FBI Statement (TWitter)](https://twitter.com/FBIPhiladelphia/status/1356375582196592643)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377631/download)
+- [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Alam%20Government%20Opposition%20to%20Motion%20to%20Set%20Bond%20and%20Conditions%20of%20Release.pdf)

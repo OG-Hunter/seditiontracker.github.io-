@@ -29,6 +29,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-117
+videos:
+charges:
 ---
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356246/download)
@@ -38,3 +40,4 @@ caseNumber: 1:21-cr-117
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alex%20Harkrider%20Governments%20Opposition%20to%20Defendants%20Motion%20to%20Revoke%20Order%20of%20Detention.pdf)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alex%20Harkrider%20Defendants%20Motion%20to%20Modify%20Bail%20Conditions.pdf)
 - [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alex%20Harkrider%20Governments%20Opposition%20to%20Defendants%20Motion%20to%20Modify%20Release%20Conditions.pdf)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alex%20Harkrider%20Governments%20Opposition%20to%20Defendants%20Motion%20to%20Revoke%20Order%20of%20Detention.pdf)

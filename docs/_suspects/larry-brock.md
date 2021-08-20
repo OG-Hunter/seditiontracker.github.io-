@@ -29,6 +29,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-140
+videos:
+charges:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
@@ -38,3 +40,5 @@ caseNumber: 1:21-cr-140
 - [Detention Exhibits](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Government%20Detention%20Exhibits.pdf)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377686/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1416921/download)
+- [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Defense%20Motion%20to%20Modify%20Conditions%20of%20Release.pdf)
+- [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Government%20Response%20to%20Motion%20to%20Modify%20Conditions%20of%20Release.pdf)
