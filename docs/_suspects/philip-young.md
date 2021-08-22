@@ -1,7 +1,7 @@
 ---
 name: Philip Young
 lastName: Young
-aka:
+aka: FashNSlash
 residence: New Jersey
 status: Charged
 date: 2021-07-28
@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 59
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.courierpostonline.com/story/news/2021/08/21/philip-young-sewell-capital-riot-insurrection-suspect/8229587002/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Young%20Statement%20of%20Facts.pdf)
