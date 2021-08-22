@@ -61,3 +61,4 @@ charges:
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20and%20George%20Pierre%20Tanios%20Government%20Omnibus%20Opposition%20to%20Motions%20for%20Release%20from%20Custody.pdf)
 - [Defense Reply to Opposition to Motion for Release from Custody](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Pierre%20Tanios%20Defense%20Reply%20to%20Opposition%20to%20Motion%20for%20Release%20from%20Custody.pdf)
 - [Appeals Court Ruling](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Pierre%20Tanios%20Appeals%20Court%20Judgment%20on%20Pretrial%20Release.pdf)
+- [Jail Release (Video)](https://twitter.com/EricFlackTV/status/1428845957488291840)
