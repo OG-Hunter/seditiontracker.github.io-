@@ -3,11 +3,11 @@ name: Rasha Abual-Ragheb
 lastName: Abual-Ragheb
 aka:
 residence: New Jersey
-status: Indicted
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-28
-convicted: 
+convicted: 2021-08-23
 sentenced: 
 dismissed: 
 deceased:
