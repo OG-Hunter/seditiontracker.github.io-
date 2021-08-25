@@ -4,8 +4,8 @@ lastName: Santillan
 aka:
 residence: 
 status: Charged
-date:
-charged:
+date: 2021-08-10
+charged: 2021-08-10
 indicted:
 convicted:
 sentenced:
@@ -22,8 +22,8 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
-title: Blas Santillan charged on [longDate]
+quote: 'It seems like you’re that weak, because I’m the only one that was willing to do something! I’m the only one that was willing to kick that door! Who else is willing to storm in there? No one!'
+title: Blas Santillan charged on August 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -32,5 +32,5 @@ caseNumber:
 videos:
 charges:
 ---
-- [News Report]()
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blas%20Santillan%20Criminal%20Complaint.pdf)
+
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blas%20Santillan%20Criminal%20Complaint.pdf)
