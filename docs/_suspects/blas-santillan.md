@@ -2,7 +2,7 @@
 name: Blas Santillan
 lastName: Santillan
 aka:
-residence: 
+residence: Georgia
 status: Charged
 date: 2021-08-10
 charged: 2021-08-10
@@ -32,5 +32,4 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blas%20Santillan%20Criminal%20Complaint.pdf)
