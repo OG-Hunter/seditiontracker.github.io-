@@ -17,7 +17,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/blas-santillan.jpg
 suspect: blas-santillan.jpg
-booking:
+booking: blas-santillan.jpg
 courtroom:
 courthouse:
 raid:
