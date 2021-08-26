@@ -102,7 +102,13 @@ const importGw = async (nameSet: Set<string>) => {
         continue
       }
 
-      let nameText = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font")).innerText
+      const nameTag = (entry.querySelector("strong") || entry.querySelector("em") || entry.querySelector("font"))
+
+      if (!nameTag) {
+        continue
+      }
+
+      let nameText = nameTag.innerText
 
       if (nameText.match(/.*Malley.*/)) {
         nameText = "O'Malley, Timothy"
