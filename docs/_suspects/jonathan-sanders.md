@@ -3,11 +3,11 @@ name: Jonathan Sanders
 lastName: Sanders
 aka: Jonathan Ace Sanders Sr.
 residence: Indiana
-status: Charged
+status: Convicted
 date: 2021-05-25
 charged: 2021-05-25
 indicted:
-convicted:
+convicted: 2021-08-26
 sentenced:
 dismissed:
 age:
