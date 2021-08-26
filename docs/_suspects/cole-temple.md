@@ -34,3 +34,4 @@ charges:
 ---
 - [News Story](https://www.13abc.com/2021/08/20/swanton-residents-charged-jan-6-riot-us-capitol/)
 - [Affidavit](https://www.scribd.com/document/520951756/Wilson-Affidavit#from_embed)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jodi%20Wilson%20and%20Cole%20Temple%20Affidavit.pdf)

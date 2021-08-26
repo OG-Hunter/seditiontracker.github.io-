@@ -29,9 +29,12 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-188
+videos:
+charges:
 ---
 
 - [News Report](https://www.buckscountycouriertimes.com/story/news/2021/02/01/bristol-man-charged-assaulting-officer-during-insurrection/4338235001/)
 - [Complaint](https://www.justice.gov/file/1362781/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362781/download)
-- [Indictment](https://www.documentcloud.org/documents/21049602-210826-samsel-indictment)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1427996/download)
+- [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-indicted-assault-law-enforcement-during-jan-6-capitol-breach)
