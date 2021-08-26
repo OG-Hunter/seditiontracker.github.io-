@@ -10,6 +10,7 @@ indicted:
 convicted: 2021-08-26
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,7 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Story](https://www.wthr.com/article/news/crime/man-arrested-in-vincennes-in-connection-to-capitol-riot-indiana-charge-jonathan-ace-sanders/531-80108d8a-080c-4dba-8471-e5d2ffa17ef2)
 - [Complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.231183/gov.uscourts.dcd.231183.6.0.pdf)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Ace%20Sanders%20Statement%20of%20Facts.pdf)

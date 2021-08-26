@@ -3,13 +3,13 @@ name: Ryan Samsel
 lastName: Samsel
 aka:
 residence: Pennsylvania&nbsp;
-status: Charged
+status: Indicted
 date: 2021-01-30
 charged: 2021-01-30
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-08-25
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 37
 occupation:
@@ -30,6 +30,8 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-188
 ---
+
 - [News Report](https://www.buckscountycouriertimes.com/story/news/2021/02/01/bristol-man-charged-assaulting-officer-during-insurrection/4338235001/)
 - [Complaint](https://www.justice.gov/file/1362781/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362781/download)
+- [Indictment](https://www.documentcloud.org/documents/21049602-210826-samsel-indictment)
