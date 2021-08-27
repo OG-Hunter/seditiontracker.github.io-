@@ -4,8 +4,8 @@ lastName: Hayah
 aka:
 residence:
 status: Charged
-date:
-charged:
+date: 2021-08-25
+charged: 2021-08-25
 indicted:
 convicted:
 sentenced:
@@ -23,7 +23,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Uliyahu Hayah charged on [longDate]
+title: Uliyahu Hayah charged on August 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -32,5 +32,6 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428281/download)

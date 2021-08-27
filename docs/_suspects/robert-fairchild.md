@@ -4,8 +4,8 @@ lastName: Fairchild
 aka:
 residence:
 status: Charged
-date:
-charged:
+date: 2021-08-24
+charged: 2021-08-24
 indicted:
 convicted:
 sentenced:
@@ -23,7 +23,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Robert Fairchild charged on [longDate]
+title: Robert Fairchild charged on August 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -32,5 +32,6 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report]()
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)

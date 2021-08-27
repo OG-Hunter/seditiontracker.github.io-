@@ -44,6 +44,12 @@ export const Charges: Charge[] = [
     felony: true
   },
   {
+    code: "18 USC § 1752(a)(1)",
+    title: "Entering a restricted building or grounds",
+    url: "https://www.law.cornell.edu/uscode/text/18/1752",
+    felony: false
+  },
+  {
     code: "18 USC § 1752(a)(1), (b)(1)(A)",
     title: "Entering a restricted building or grounds with a dangerous or deadly weapon",
     url: "https://www.law.cornell.edu/uscode/text/18/1752",
