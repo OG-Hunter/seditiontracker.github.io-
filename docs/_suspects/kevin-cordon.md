@@ -3,11 +3,11 @@ name: Kevin Cordon
 lastName: Cordon
 aka:
 residence: California
-status: Indicted
+status: Convicted
 date: 2021-03-09
 charged: 2021-03-09
 indicted: 2021-04-02
-convicted: 
+convicted: 2021-08-27
 sentenced: 
 dismissed: 
 deceased:

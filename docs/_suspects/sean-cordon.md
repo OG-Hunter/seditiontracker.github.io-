@@ -3,11 +3,11 @@ name: Sean Cordon
 lastName: Cordon
 aka:
 residence: California
-status: Charged
+status: Convicted
 date: 2021-03-09
 charged: 2021-03-09
 indicted:
-convicted: 
+convicted: 2021-08-27
 sentenced: 
 dismissed: 
 deceased:
