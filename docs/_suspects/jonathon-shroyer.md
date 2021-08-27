@@ -28,10 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-572
 videos:
 charges:
 ---
-
 - [News Report](https://www.washingtontimes.com/news/2021/aug/21/owen-shroyer-infowars-host-charged-with-entering-r/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathon%20Owen%20Shroyer%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428181/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428176/download)

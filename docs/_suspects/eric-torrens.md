@@ -3,13 +3,13 @@ name: Eric Torrens
 lastName: Torrens
 aka:
 residence: Tennessee
-status: Indicted
+status: Convicted
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-08-19
+sentenced:
+dismissed:
 deceased:
 age: 28
 occupation:
@@ -29,7 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-204
+videos:
+charges:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/gallatin-man-arrested-on-charges-related-to-capitol-riots/ar-BB1djcvS)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371541/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428211/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377936/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428206/download)
