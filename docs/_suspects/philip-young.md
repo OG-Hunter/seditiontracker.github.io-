@@ -28,10 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-547
 videos:
 charges:
 ---
-
 - [News Report](https://www.courierpostonline.com/story/news/2021/08/21/philip-young-sewell-capital-riot-insurrection-suspect/8229587002/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Young%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428506/download)

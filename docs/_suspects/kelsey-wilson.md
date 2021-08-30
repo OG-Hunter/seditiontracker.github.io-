@@ -28,9 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-543
 videos:
 charges:
 ---
 - [News Story](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kelsey%20Wilson%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428536/download)

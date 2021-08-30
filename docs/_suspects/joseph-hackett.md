@@ -28,11 +28,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-28
 videos:
 charges:
 ---
 - [News Report](https://www.mysuncoast.com/2021/05/31/sarasota-man-facing-changes-jan-capitol-riot/)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Hackett%20Motion%20to%20Revoke%20Detention%20Order.pdf)
 - [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Hackett%20Government%20Opposition%20to%20Motion%20for%20Reconsideration%20of%20Conditions%20of%20Release.pdf)

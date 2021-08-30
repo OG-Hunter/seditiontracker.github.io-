@@ -1,5 +1,5 @@
 ---
-name: Benjamen Burlew
+name: Benjamin Burlew
 lastName: Burlew
 aka:
 residence: Oklahoma
@@ -23,12 +23,12 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Benjamen Burlew arrested on August 19, 2021
+title: Benjamin Burlew arrested on August 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-501
 videos:
 charges:
 ---
