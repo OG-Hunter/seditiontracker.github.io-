@@ -3,13 +3,13 @@ name: Jordan Stotts
 lastName: Stotts
 aka:
 residence: Minnesota
-status: Charged
+status: Convicted
 date: 2021-03-16
 charged: 2021-03-16
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-07-28
+sentenced:
+dismissed:
 deceased:
 age: 31
 occupation:
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-272
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
 - [News Report](https://www.startribune.com/prosecutors-charge-minnesota-man-in-capitol-siege/600036333/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377866/download)

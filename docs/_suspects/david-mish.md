@@ -8,8 +8,8 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-08-30
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 age: 42
 occupation:
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-112
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
 - [News Report](https://www.jsonline.com/story/news/local/2021/01/15/david-charles-mish-west-allis-wisconsin-charged-capitol-riot/4186655001/gs)
 - [Complaint](https://www.justice.gov/opa/page/file/1355491/download)
