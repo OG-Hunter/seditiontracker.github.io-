@@ -114,6 +114,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "O'Malley, Timothy"
       }
 
+      if (nameText.match(/Hayah\. Uliyahu/)) {
+        nameText = "Hayah, Uliyahu"
+      }
+
       const [lastName, rest] = nameText.split(",").map( (chunk:string) => chunk.trim().replace("&nbsp;", "").replace(" IV", "").replace(" Jr.", "").replace(" Sr.", "").replace(" III", "").replace(" II", ""));
 
       const firstName = rest.split(" ")[0];

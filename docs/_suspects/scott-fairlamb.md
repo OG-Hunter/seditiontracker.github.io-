@@ -55,3 +55,4 @@ charges:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385116/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1413913408198483972?s=20)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-anyd-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Plea%20Agreement.pdf)

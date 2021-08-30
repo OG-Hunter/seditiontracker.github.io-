@@ -29,13 +29,14 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-269
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383086/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383756/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Carlo%20Cordon%20Plea%20Agreement.pdf)

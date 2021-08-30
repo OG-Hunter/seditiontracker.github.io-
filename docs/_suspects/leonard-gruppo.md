@@ -29,13 +29,15 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-391
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://www.everythinglubbock.com/news/local-news/new-info-released-about-clovis-man-arrested-in-connection-to-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401796/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Gruppo%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Gruppo%20Plea%20Agreement.pdf)
