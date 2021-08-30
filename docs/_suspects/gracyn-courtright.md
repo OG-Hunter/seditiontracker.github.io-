@@ -3,13 +3,13 @@ name: Gracyn Courtright
 lastName: Courtright
 aka:
 residence: West Virginia
-status: Indicted
+status: Convicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-02-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-08-30
+sentenced:
+dismissed:
 deceased:
 age: 23
 occupation:
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-72
+charges:
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 ---
 - [News Report](https://www.thedailybeast.com/latest-round-of-capitol-riot-arrests-outed-themselves-on-social-media)
 - [Complaint](https://www.courtlistener.com/recap/gov.uscourts.dcd.226140/gov.uscourts.dcd.226140.1.1.pdf?fbclid=IwAR3-9Irq5mTP7Byu1S7TYTAzPr0yHYf1q9x5jEu_9EcltQfOaBb7DsjvJHI)
