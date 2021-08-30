@@ -3,11 +3,11 @@ name: David Mish
 lastName: Mish
 aka:
 residence: Wisconsin
-status: Charged
+status: Convicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted:
-convicted: 
+convicted: 2021-08-30
 sentenced: 
 dismissed: 
 deceased:

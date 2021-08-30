@@ -38,6 +38,6 @@ charges:
 ---
 - [News Report](https://www.everythinglubbock.com/news/local-news/new-info-released-about-clovis-man-arrested-in-connection-to-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401791/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401796/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428581/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Gruppo%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Gruppo%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428586/download)
