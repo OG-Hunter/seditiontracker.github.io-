@@ -2,7 +2,7 @@
 name: Robert Fairchild
 lastName: Fairchild
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2021-08-24
 charged: 2021-08-24
@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 40
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.orlandosentinel.com/news/crime/os-ne-orlando-robert-fairchild--20210828-6yj67m4mlfapnefejh5yr3sjga-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)
