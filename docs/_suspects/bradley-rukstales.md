@@ -3,13 +3,13 @@ name: Bradley Rukstales
 lastName: Rukstales
 aka: Brad Rukstales
 residence: Illinois
-status: Indicted
+status: Convicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-15
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-08-31
+sentenced:
+dismissed:
 deceased:
 age: 52
 occupation: CEO
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-41
+charges:
+  - code: '18 USC § 5104(e)(2)(G)'
+    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
+    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
+    felony: false
 ---
 - [News Report: Federal Charges](https://chicago.suntimes.com/news/2021/1/7/22219260/federal-charges-mob-riot-capitol-leffingwell-alberts-bradley-rukstales-david-fitzgerald)
 - [News Report: DC Arrest (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)

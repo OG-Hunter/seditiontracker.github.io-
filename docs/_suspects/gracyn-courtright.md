@@ -40,3 +40,4 @@ charges:
 - [Self Incrimination](https://twitter.com/GarrettWKYT/status/1350966875136667654?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360196/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366056/download)
+- [News Report (Guilty Plea)](https://www.huffpost.com/entry/gracyn-courtright-capitol-riot-trump-january-6_n_612d0448e4b0f562f3e0f947)
