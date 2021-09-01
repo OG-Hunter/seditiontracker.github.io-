@@ -1,6 +1,6 @@
 ---
-name: Antonio Farrigno
-lastName: Farrigno
+name: Antonio Ferrigno
+lastName: Ferrigno
 aka:
 residence: New York
 status: Charged
