@@ -29,6 +29,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-72
+videos:
 charges:
 - code: 18 USC § 1752(a)(1)
   title: Entering a restricted building or grounds
@@ -41,3 +42,5 @@ charges:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360196/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366056/download)
 - [News Report (Guilty Plea)](https://www.huffpost.com/entry/gracyn-courtright-capitol-riot-trump-january-6_n_612d0448e4b0f562f3e0f947)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gracyn%20Courtright%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gracyn%20Courtright%20Plea%20Agreement.pdf)

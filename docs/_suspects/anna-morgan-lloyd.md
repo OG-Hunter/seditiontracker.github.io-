@@ -29,13 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-164
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://www.indystar.com/story/news/crime/2021/02/25/fbi-arrests-indiana-women-capitol-riot-charges-aftermath/6822567002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410846/download)
@@ -43,3 +43,4 @@ charges:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Government%20Memorandum%20in%20Aid%20of%20Sentencing.pdf)
 - [Defense Memorandum in Support of Probationary Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Defense%20Memorandum%20in%20Support%20of%20Probationary%20Sentence.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410841/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Judgment.pdf)
