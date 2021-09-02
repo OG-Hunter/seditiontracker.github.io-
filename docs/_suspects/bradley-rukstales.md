@@ -29,11 +29,12 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-41
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
 - [News Report: Federal Charges](https://chicago.suntimes.com/news/2021/1/7/22219260/federal-charges-mob-riot-capitol-leffingwell-alberts-bradley-rukstales-david-fitzgerald)
 - [News Report: DC Arrest (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
@@ -41,6 +42,7 @@ charges:
 - [Self Incrimination (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
-- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Fichett%20et%20al%20Information_0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430161/download)
