@@ -114,6 +114,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "O'Malley, Timothy"
       }
 
+      if (nameText.match(/.*Brien.*/)) {
+        nameText = "O'Brien, Kelly"
+      }
+
       if (nameText.match(/Hayah\. Uliyahu/)) {
         nameText = "Hayah, Uliyahu"
       }

@@ -37,6 +37,6 @@ charges:
   felony: false
 ---
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378576/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428566/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384341/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Francisco%20Cordon%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428561/download)
