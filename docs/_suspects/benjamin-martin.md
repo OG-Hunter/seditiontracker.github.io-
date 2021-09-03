@@ -27,7 +27,7 @@ title: Benjamin Martin charged on August 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:21-mj-555
 videos:
 charges:
