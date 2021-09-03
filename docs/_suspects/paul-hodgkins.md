@@ -31,7 +31,7 @@ published: true
 caseNumber: 1:21-cr-188
 charges:
   - code: '18 USC § 1512(c)(2)'
-    title: 'Obstruction of Congress'
+    title: 'Obstruction of an Official Proceding'
     url: 'https://www.law.cornell.edu/uscode/text/18/1512'
     felony: true
 ---

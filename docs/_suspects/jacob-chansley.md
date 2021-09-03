@@ -3,13 +3,13 @@ name: Jacob Chansley
 lastName: Chansley
 aka: Jake Angeli, Q Shaman
 residence: Arizona
-status: Indicted
+status: Convicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-01-11
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-09-03
+sentenced:
+dismissed:
 deceased:
 age: 33
 occupation:
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-3
+charges:
+  - code: '18 USC § 1512(c)(2)'
+    title: 'Obstruction of an Official Proceding'
+    url: 'https://www.law.cornell.edu/uscode/text/18/1512'
+    felony: true
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)
