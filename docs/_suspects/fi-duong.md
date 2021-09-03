@@ -6,7 +6,7 @@ residence: Virginia
 status: Charged
 date: 2021-06-30
 charged: 2021-06-30
-indicted:
+indicted: 2021-08-25
 convicted:
 sentenced:
 dismissed:
@@ -32,3 +32,4 @@ published: true
 
 - [News Report](https://www.washingtonpost.com/local/legal-issues/capitol-riot-bible-study-group-militia/2021/07/06/e5e6cd26-de82-11eb-ae31-6b7c5c34f0d6_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409611/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234965/gov.uscourts.dcd.234965.11.0.pdf)
