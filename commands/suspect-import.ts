@@ -381,6 +381,9 @@ const linkType = (description: string, lastName?: string) => {
       case /Appeals Court/.test(description):
         return "Appeals Court Ruling"
 
+      case /Memorandum Opinion Granting Governments Motion to Revoke Release Order/.test(description):
+        return "Order Revoking Bond"
+
       // government motions
       case /Government's Motion to Continue/.test(description):
         return "Government motion to Continue"
@@ -399,6 +402,7 @@ const linkType = (description: string, lastName?: string) => {
         return "Detention Memo"
 
       case /Government Motion for Emergency Appeal of Release Order/.test(description):
+      case /Governments Motion for Emergency Stay and for Review and Appeal of Release Order/.test(description):
         return 'Government Motion for Emergency Appeal of Release Order'
 
       // government response
@@ -483,6 +487,7 @@ const linkType = (description: string, lastName?: string) => {
         return "Defense Reply to Opposition to Motion for Release from Custody"
 
       case /Defense Response to Motion for Appeal of Release Order/.test(description):
+      case /Defense Opposition to Governments Bail Appeal/.test(description):
         return "Defense Response to Motion for Appeal of Release Order"
 
       case /Defense Response to Motion for Revocation of Order of Release/.test(description):
