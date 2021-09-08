@@ -28,8 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber: 1:21-cr-354
+videos:
+charges:
 ---
-
 - [News Story](https://www.chicagotribune.com/news/criminal-justice/ct-thomas-adams-springfield-capitol-attack-charges-20210414-55cygahhs5dk7btt2qhhmtig4q-story.html)
 - [Self Incrimination (Interview)](https://www.insider.com/men-who-broke-into-the-capitol-describe-a-carnival-atmosphere-2021-1)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389216/download)
