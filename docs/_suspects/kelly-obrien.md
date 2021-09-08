@@ -28,9 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-561
 videos:
 charges:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-lehigh-woman-charged-capitol-20210820-gsmk4wiaxrb63gtobzny7ujvcq-story.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kelly%20O%27Brien%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431181/download)

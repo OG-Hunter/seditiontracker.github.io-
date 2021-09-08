@@ -185,8 +185,8 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "PERRETTA, Nicholas"
     }
 
-    if (name.match(/;Brien/)) {
-      name = "O'BRIEN, Kelley"
+    if (name.match(/.*;BRIEN, Kelley/)) {
+      name = "O'BRIEN, Kelly"
     }
 
     const nameChunks = name.split(",")
