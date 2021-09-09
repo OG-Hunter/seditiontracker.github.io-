@@ -28,12 +28,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-28
 videos:
 charges:
 ---
 - [News Report](https://www.palmbeachpost.com/story/news/2021/06/01/marine-wellington-arrested-capitol-riots/7469247002/)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1401076/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Dolan%20Continued%20Detention%20Hearing%20Transcript.pdf)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Dolan%20Order%20Denying%20Governments%20Ore%20Tenus%20Motion%20for%20Pretrial%20Detention.pdf)
 - [Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Dolan%20Government%20Motion%20For%20Revocation%20of%20Order%20of%20Release.pdf)
