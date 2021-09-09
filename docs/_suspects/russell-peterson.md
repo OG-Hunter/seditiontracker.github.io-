@@ -29,6 +29,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-309
+videos:
 charges:
 - code: 18 USC § 5104(e)(2)(G)
   title: Parading, Demonstrating or Picketing in a Capitol Building
@@ -36,5 +37,6 @@ charges:
   felony: false
 ---
 - [News Report](https://triblive.com/local/regional/beaver-county-man-charged-in-connection-with-capitol-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1367016/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431461/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388656/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431466/download)

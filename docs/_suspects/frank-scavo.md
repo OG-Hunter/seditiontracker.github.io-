@@ -39,4 +39,5 @@ charges:
 - [News Report](https://www.timesleader.com/news/1137275/scavo-was-pushed-into-capitol-lawyer-says)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380551/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380711/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380716/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431446/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431441/download)
