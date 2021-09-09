@@ -3,13 +3,13 @@ name: Virginia Spencer
 lastName: Spencer
 aka: Jenny Spencer
 residence: North Carolina
-status: Indicted
+status: Convicted
 date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-09-09
+sentenced:
+dismissed:
 deceased:
 age: 37
 occupation:
@@ -29,6 +29,11 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-147
+charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/nc-woman-turns-self-over-to-fbi-for-alleged-role-in-us-capitol-riot-a-month-after-husbands-arrest/ar-BB1dvNB2?ocid=st)
 - [Complaint](https://www.scribd.com/document/493601649/j-Spencer-FBI-document)
