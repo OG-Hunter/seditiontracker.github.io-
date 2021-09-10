@@ -29,6 +29,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-147
+videos:
 charges:
 - code: 18 USC § 5104(e)(2)(G)
   title: Parading, Demonstrating or Picketing in a Capitol Building
@@ -37,5 +38,6 @@ charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/nc-woman-turns-self-over-to-fbi-for-alleged-role-in-us-capitol-riot-a-month-after-husbands-arrest/ar-BB1dvNB2?ocid=st)
 - [Complaint](https://www.scribd.com/document/493601649/j-Spencer-FBI-document)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371521/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432041/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413611/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432036/download)
