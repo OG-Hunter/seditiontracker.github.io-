@@ -7,9 +7,9 @@ status: Convicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-02-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-09-10
+sentenced:
+dismissed:
 deceased:
 age: 53
 occupation: Business Owner
@@ -31,7 +31,12 @@ published: true
 caseNumber: 1:21-cr-159
 videos:
 charges:
+  - code: 18 USC § 875(c)
+    title: Interstate Communication of Threats
+    url: https://www.law.cornell.edu/uscode/text/18/875
+    felony: true
 ---
+
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432141/download)

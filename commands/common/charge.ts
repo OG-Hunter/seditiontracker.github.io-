@@ -54,6 +54,12 @@ export const Charges: Charge[] = [
     title: "Entering a restricted building or grounds with a dangerous or deadly weapon",
     url: "https://www.law.cornell.edu/uscode/text/18/1752",
     felony: true
+  },
+  {
+    code: "18 USC § 875(c)",
+    title: "Interstate Communication of Threats",
+    url: "https://www.law.cornell.edu/uscode/text/18/875",
+    felony: true
   }
 ]
 
