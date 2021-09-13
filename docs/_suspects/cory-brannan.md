@@ -12,8 +12,8 @@ sentenced:
 dismissed:
 deceased:
 age:
-occupation:
-affiliations: Three Percenter
+occupation: Former Sheriff's Deputy
+affiliations: Three Percenters
 jurisdiction: Federal
 image: /images/preview/cory-brannan.jpg
 suspect: cory-brannan.jpg
@@ -32,5 +32,5 @@ caseNumber:
 videos:
 charges:
 ---
-- [News Report]()
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cory%20Ray%20Brannan%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
+- [News Story](https://www.dailymail.co.uk/news/article-9975643/Texas-deputy-sheriff-county-jailer-facing-charges-role-January-6-Capitol-riot.html)
+- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235395/gov.uscourts.dcd.235395.1.1.pdf)
