@@ -29,6 +29,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-155
+videos:
 charges:
 - code: 18 USC § 5104(e)(2)(G)
   title: Parading, Demonstrating or Picketing in a Capitol Building
@@ -36,6 +37,7 @@ charges:
   felony: false
 ---
 - [News Report](https://www.wtvr.com/news/local-news/jacob-giles-turns-himself-in-to-fbi-for-alleged-role-in-capitol-attack)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1356971/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432011/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356976/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377746/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432006/download)
