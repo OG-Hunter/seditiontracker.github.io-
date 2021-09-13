@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Y’all on the same we are, aren’t you? You’re not going to respond? You’re not on the same team?'
 title: James Lollis charged on September 3, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -32,5 +32,5 @@ caseNumber:
 videos:
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.foxcarolina.com/news/fbi-upstate-man-arrested-for-taking-part-in-riot-at-u-s-capitol-building/article_2eec20da-10eb-11ec-855b-f7b78801b6b8.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Lollis%20Jr%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
