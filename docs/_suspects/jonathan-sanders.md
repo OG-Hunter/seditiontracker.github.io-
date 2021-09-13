@@ -36,3 +36,4 @@ charges:
 - [Complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.231183/gov.uscourts.dcd.231183.6.0.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430346/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430341/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430346/download)

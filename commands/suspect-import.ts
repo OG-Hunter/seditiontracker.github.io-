@@ -316,7 +316,7 @@ const linkType = (description: string, lastName?: string) => {
         return "Detention Order"
 
       case /Plea Agreement/.test(description):
-      case /Grods Plea/.test(description):
+      case /.* Plea/.test(description):
         return "Plea Agreement"
 
       case /Affidavit/.test(description):

@@ -41,4 +41,4 @@ charges:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380181/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404766/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Bustle%20Government%20Sentencing%20Memorandum.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Bustle%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404766/download)

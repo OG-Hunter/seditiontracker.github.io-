@@ -3,7 +3,7 @@ name: Cleveland Meredith
 lastName: Meredith
 aka:
 residence: Colorado
-status: Indicted
+status: Convicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-02-26
@@ -29,9 +29,12 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-159
+videos:
+charges:
 ---
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1353311/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432141/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Meredith%20Detention%20Memorandum.pdf)
 - [Indictment](https://www.justice.gov/opa/case-multi-defendant/file/1405611/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432146/download)
