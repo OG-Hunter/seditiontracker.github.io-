@@ -15,8 +15,8 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/marshall-neefe.jpg
+suspect: marshall-neefe.jpg
 booking:
 courtroom:
 courthouse:
