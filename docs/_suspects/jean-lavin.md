@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 56
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Don’t allow 7 states of cheaters to hijack our election!'
 title: Jean Lavin charged on September 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf)
