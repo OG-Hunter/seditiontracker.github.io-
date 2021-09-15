@@ -27,7 +27,7 @@ title: Marshall Neefe charged on September 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:21-cr-567
 videos:
 charges:
