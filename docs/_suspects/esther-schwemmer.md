@@ -10,6 +10,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,7 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Story](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Parks%20and%20Esther%20Schwemmer%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Esther%20Schwemmer%20Information.pdf)
