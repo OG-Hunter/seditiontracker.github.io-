@@ -15,8 +15,8 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/charles-smith.jpg
+suspect: charles-smith.jpg
 booking:
 courtroom:
 courthouse:
