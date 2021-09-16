@@ -40,4 +40,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415426/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432386/download)

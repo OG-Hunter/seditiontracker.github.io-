@@ -29,14 +29,15 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-98
+videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
 - [Complaint](https://www.justice.gov/file/1360781/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1360781/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433356/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377736/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433351/download)

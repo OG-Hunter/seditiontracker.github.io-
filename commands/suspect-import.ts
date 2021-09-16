@@ -317,6 +317,7 @@ const linkType = (description: string, lastName?: string) => {
 
       case /Plea Agreement/.test(description):
       case /.* Plea/.test(description):
+      case /.*plea_agreement/.test(description):
         return "Plea Agreement"
 
       case /Affidavit/.test(description):
@@ -417,6 +418,8 @@ const linkType = (description: string, lastName?: string) => {
       case /Response to Defendants Motion for Bond/.test(description):
       case /Opposition to Motion to Set Bond and Conditions of Release/.test(description):
       case /Government Opposition to Motion for Conditional Release/.test(description):
+      case /Government's Opposition to Defendant's Motion for Release/.test(description):
+      case /Government Opposition to Defendant's Motion for Conditional Release/.test(description):
         return "Government Opposition to Release"
 
       case /Opposition to Defendants Motion to Reconsider/.test(description):
@@ -466,6 +469,8 @@ const linkType = (description: string, lastName?: string) => {
       case /Defendants Motion to Revoke Order of Detention/.test(description):
       case /Defense Motion to Amend Order of Detention/.test(description):
       case /Defendant's Memorandum in Support of Pretrial Release/.test(description):
+      case /Defendant's Motion for Reconsideration of Detention/.test(description):
+      case /Defendant's Motion for Conditional Release Pending Trial/.test(description):
           return "Defense Motion for Release"
 
       case /Defense Memorandum in Support of Probationary Sentence/.test(description):
@@ -478,6 +483,10 @@ const linkType = (description: string, lastName?: string) => {
 
       case /Defendant's Motion for a Bill of Particulars/.test(description):
         return "Defendant's Motion for a Bill of Particulars"
+
+      case /Defendant's Motion to Dismiss or Exclude Evidence/.test(description):
+      case /Defendant's Motion to Suppress Statement/.test(description):
+        return "Defense Motion to Dismiss or Exclude Evidence"
 
       // defense response
       case /Defense Opposition to Government's Motion to Continue/.test(description):

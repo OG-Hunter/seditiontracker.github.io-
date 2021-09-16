@@ -37,7 +37,7 @@ charges:
   felony: false
 ---
 - [News Report](https://www.chicagotribune.com/news/criminal-justice/ct-us-capitol-breach-illinois-charges-wangler-harrison-20210517-jz7eahg2rfgahcwaoyzs27amkq-story.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432416/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20and%20Bruce%20Harrison%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bruce%20Harrison%20Plea%20Agreement.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413796/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432411/download)
