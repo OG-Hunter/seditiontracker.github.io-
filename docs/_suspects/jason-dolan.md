@@ -48,3 +48,4 @@ charges:
 - [Defense Response to Motion for Revocation of Order of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Dolan%20Defense%20Response%20to%20Motion%20for%20Revocation%20of%20Order%20of%20Release.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433071/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433076/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/florida-man-pleads-guilty-oath-keeper-affiliated-conspiracy-case-related-jan-6-capitol)
