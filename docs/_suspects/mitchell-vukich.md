@@ -31,6 +31,10 @@ published: true
 caseNumber: 1:21-mj-476
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 ---
 
 - [News Story](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)

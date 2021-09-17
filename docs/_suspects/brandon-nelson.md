@@ -31,6 +31,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 ---
 
 - [News Report](https://www.channel3000.com/dane-co-la-crosse-co-men-charged-for-entering-u-s-capitol-during-january-6th-riot/)
