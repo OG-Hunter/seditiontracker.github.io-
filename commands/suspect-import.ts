@@ -189,6 +189,14 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "O'BRIEN, Kelly"
     }
 
+    if (name == "HOSTSETTER, Alan") {
+      name = "HOSTETTER, Alan"
+    }
+
+    if (name == "KRZYWICKI, Carly") {
+      name = "KRZYWICKI, Carla"
+    }
+
     const nameChunks = name.split(",")
 
     const lastName = toLower(nameChunks[0]).replace('jr.', '').replace('sr.', '').replace('iii', '').replace(' ii', '').replace(' iv', '').replace('sr', '').replace(/\w+/g, capitalize).trim();

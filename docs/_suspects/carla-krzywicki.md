@@ -28,10 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-594
 videos:
 charges:
 ---
-
 - [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433371/download)
