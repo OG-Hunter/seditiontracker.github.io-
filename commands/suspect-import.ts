@@ -398,6 +398,9 @@ const linkType = (description: string, lastName?: string) => {
       case /Memorandum Opinion Granting Governments Motion to Revoke Release Order/.test(description):
         return "Order Revoking Bond"
 
+      case /Order Denying Defense Motion to Modify Conditions of Release/.test(description):
+        return "Order Denying Defense Motion to Modify Conditions of Release"
+
       // government motions
       case /Government's Motion to Continue/.test(description):
         return "Government motion to Continue"

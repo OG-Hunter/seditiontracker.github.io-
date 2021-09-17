@@ -36,3 +36,5 @@ caseNumber: 1:21-cr-129
 - [Complaint](https://www.justice.gov/opa/page/file/1356771/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377706/download)
 - [Media Interview](https://twitter.com/MIAagainstFash/status/1422591337782779911)
+- [Government's Opposition to Modifying Conditions of Release](/filings/gabriel-garcia-government-opposition.pdf)
+- [Order Denying Defense Motion to Modify Conditions of Release](/filings/gabriel-garcia-motion-denied.pdf)
