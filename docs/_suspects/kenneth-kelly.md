@@ -3,11 +3,11 @@ name: Kenneth Kelly
 lastName: Kelly
 aka:
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-04-21
 charged: 2021-04-21
 indicted:
-convicted:
+convicted: 2021-09-17
 sentenced:
 dismissed:
 age: 58
@@ -27,6 +27,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 ---
 
 - [News Report](https://www.clickorlando.com/news/local/2021/04/23/tip-from-family-member-leads-to-arrest-of-capitol-riot-suspect-in-marion-county-fbi-says/)
