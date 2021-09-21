@@ -28,10 +28,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 1:21-mj-602
 videos:
 charges:
 ---
-
 - [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Eckerman%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434391/download)

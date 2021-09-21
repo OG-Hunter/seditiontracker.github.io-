@@ -28,10 +28,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 1:21-mj-592
 videos:
 charges:
 ---
-
 - [News Report]()
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Buckler%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434576/download)
