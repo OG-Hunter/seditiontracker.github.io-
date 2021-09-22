@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -32,6 +32,6 @@ caseNumber: 1:21-mj-602
 videos:
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.newsweek.com/capitol-rioter-arrested-allegedly-pushing-officer-down-stairs-1631343)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Eckerman%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434391/download)

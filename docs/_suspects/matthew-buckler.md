@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'We in this bitch. We in this bitch.'
 title: Matthew Buckler charged on September 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -32,5 +32,5 @@ caseNumber: 1:21-mj-592
 videos:
 charges:
 ---
-- [News Report]()
+- [News Report](https://www.newsweek.com/alleged-capitol-rioter-caught-snapchat-maps-after-tipster-sent-screenshots-fbi-1631259)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434576/download)

@@ -1,7 +1,7 @@
 ---
 name: Dawn Frankowski
 lastName: Frankowski
-aka:
+aka: Dawn Maga
 residence: Illinois
 status: Charged
 date: 2021-09-13
@@ -11,7 +11,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-age:
+age: 53
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -33,5 +33,5 @@ videos:
 charges:
 ---
 
-- [News Report]()
+- [News Report](https://chicago.suntimes.com/crime/2021/9/21/22686870/like-going-shopping-mall-two-arrested-suburbs-alleged-role-us-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download)
