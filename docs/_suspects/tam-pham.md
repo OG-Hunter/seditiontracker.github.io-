@@ -43,3 +43,4 @@ charges:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434321/download)
 - [Courthouse Steps (VIDEO)](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tam-pham-at-us-capitol-safety-plan/9882345/)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434316/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tam%20Dinh%20Pham%20Information.pdf)
