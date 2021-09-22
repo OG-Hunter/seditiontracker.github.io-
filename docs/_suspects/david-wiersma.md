@@ -27,7 +27,7 @@ title: David Wiersma charged on September 13, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:21-mj-599
 videos:
 charges:
