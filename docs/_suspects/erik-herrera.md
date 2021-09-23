@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I don’t have a monopoly on press badges. They’re on Amazon for like $8 ... No special permission to buy.'
 title: Erik Herrera charged on August 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,4 @@ videos:
 charges:
 ---
 
-- [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf)
