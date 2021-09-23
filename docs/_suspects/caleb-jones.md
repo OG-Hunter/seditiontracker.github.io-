@@ -37,6 +37,6 @@ charges:
   felony: false
 ---
 - [News Report](https://www.nbc4i.com/news/local-news/columbus-man-23-charged-in-captiol-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381496/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435666/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418046/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caleb%20Jones%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435661/download)
