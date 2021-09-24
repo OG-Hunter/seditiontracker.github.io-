@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'God damn politicians, don’t fucking touch me.'
 title: David Ticas charged on September 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,4 @@ videos:
 charges:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Ticas%20Statement%20of%20Facts.pdf)
