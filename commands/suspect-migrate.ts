@@ -11,22 +11,23 @@ const doMigrate = () => {
 
   for (const filename of suspects) {
     const suspect = getSuspectByFile(filename);
+    const newLinks = {}
 
-    if (!suspect.convicted) {
-      suspect.convicted = ""
+    for (const [type, url] of Object.entries(suspect?.links)) {
+      let newType:string
+      if (type == "Complaint") {
+        if (suspect?.links["Statement of Facts"]) {
+          continue // duplicate - ignore
+        } else {
+          newType = "Statement of Facts"
+        }
+      }
+      newType ||= type
+      newLinks[newType] = url
     }
-
-    if (!suspect.sentenced) {
-      suspect.sentenced = ""
-    }
-
-    if (!suspect.dismissed) {
-      suspect.dismissed = ""
-    }
-
+    suspect.links = newLinks
     updateSuspect(suspect)
   }
-
 }
 
 doMigrate();
