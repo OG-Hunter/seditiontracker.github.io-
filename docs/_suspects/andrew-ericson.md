@@ -3,11 +3,11 @@ name: Andrew Ericson
 lastName: Ericson
 aka:
 residence: Oklahoma
-status: Charged
+status: Convicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
-convicted: 
+convicted: 2021-09-23
 sentenced: 
 dismissed: 
 deceased:
