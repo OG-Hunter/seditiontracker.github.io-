@@ -3,13 +3,13 @@ name: Anthony Mariotto
 lastName: Mariotto
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-08
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-09-24
+sentenced:
+dismissed:
 deceased:
 age:
 occupation:
@@ -29,7 +29,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-94
+charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 ---
+
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359631/download)
