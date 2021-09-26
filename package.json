@@ -37,7 +37,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn suspect verify"
+      "pre-commit": "yarn suspect verify",
+      "post-push": "yarn sheet publish"
     }
   }
 }
