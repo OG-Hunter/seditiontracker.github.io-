@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We didn’t come this far just to push back the cops.'
+quote: "We didn’t come this far just to push back the cops."
 title: Jonathan Pollock charged on July 7, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -30,6 +30,6 @@ layout: suspect
 published: true
 ---
 
-- [News Story](https://twitter.com/MacFarlaneNews/status/1412898239695790086)
+- [News Report](https://twitter.com/MacFarlaneNews/status/1412898239695790086)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pollock%20et%20al%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)

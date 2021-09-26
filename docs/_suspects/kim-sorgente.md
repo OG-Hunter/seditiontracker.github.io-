@@ -29,4 +29,4 @@ layout: suspect
 published: true
 ---
 
-- [News Story](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)
+- [News Report](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)

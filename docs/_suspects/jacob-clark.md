@@ -7,9 +7,9 @@ status: Charged
 date: 2021-04-21
 charged: 2021-04-21
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 32
 occupation:
@@ -30,6 +30,7 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-279
 ---
-- [News Story](https://denver.cbslocal.com/2021/04/23/jacob-clark-colorado-us-capitol-riot-arrest-federal-charges/)
+
+- [News Report](https://denver.cbslocal.com/2021/04/23/jacob-clark-colorado-us-capitol-riot-arrest-federal-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391106/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391111/download)

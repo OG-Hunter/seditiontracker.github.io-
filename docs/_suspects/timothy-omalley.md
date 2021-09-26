@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'WE SWARMED THE CAPITOL, THOUGH. HOT DAMN, LEADING THE CHARGE. GETTIN’ IT ON.'
+quote: "WE SWARMED THE CAPITOL, THOUGH. HOT DAMN, LEADING THE CHARGE. GETTIN’ IT ON."
 title: Timothy Omalley charged on June 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -30,5 +30,6 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-504
 ---
-- [News Story](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
+
+- [News Report](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408321/download)

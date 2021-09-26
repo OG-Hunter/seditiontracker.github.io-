@@ -32,5 +32,6 @@ caseNumber: 1:21-mj-543
 videos:
 charges:
 ---
-- [News Story](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)
+
+- [News Report](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428536/download)

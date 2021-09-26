@@ -21,7 +21,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'you are about to see, it’s going to be big'
+quote: "you are about to see, it’s going to be big"
 title: Marc Bru arrested on March 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -29,7 +29,7 @@ layout: suspect
 published: true
 ---
 
-- [News Story](https://www.oregonlive.com/crime/2021/03/man-arrested-in-vancouver-accused-of-storming-us-capitol-and-entering-senate-gallery-on-jan-6.html)
+- [News Report](https://www.oregonlive.com/crime/2021/03/man-arrested-in-vancouver-accused-of-storming-us-capitol-and-entering-senate-gallery-on-jan-6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382586/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382591/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394496/download)

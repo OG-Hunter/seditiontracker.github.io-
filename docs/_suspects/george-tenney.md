@@ -30,5 +30,5 @@ layout: suspect
 published: true
 ---
 
-- [News Story](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
+- [News Report](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412476/download)

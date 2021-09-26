@@ -22,7 +22,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'And next thing I know, I’m in the police being like pushed backwards like ping pong of sorts and the next thing I know I’m in the State Capitol.'
+quote: "And next thing I know, I’m in the police being like pushed backwards like ping pong of sorts and the next thing I know I’m in the State Capitol."
 title: Victoria White arrested on April 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,7 +33,7 @@ videos:
 charges:
 ---
 
-- [News Story](https://krocnews.com/rochester-woman-faces-6-federal-charges-connected-to-capitol-riot/)
+- [News Report](https://krocnews.com/rochester-woman-faces-6-federal-charges-connected-to-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385536/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385541/download)
 - [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=NUoBiRXZs5Q)

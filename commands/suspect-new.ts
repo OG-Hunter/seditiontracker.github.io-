@@ -1,57 +1,56 @@
 import { Command } from "commander";
-import inquirer from 'inquirer';
+import inquirer from "inquirer";
 import { updateSuspect } from "./common/suspect";
-
 
 const cmd = new Command();
 cmd.parse(process.argv);
 
-const newSuspect = async() => {
+const newSuspect = async () => {
   const questions = [
     {
-      type: 'input',
-      name: 'firstName',
-      message: "First Name"
+      type: "input",
+      name: "firstName",
+      message: "First Name",
     },
     {
-      type: 'input',
-      name: 'lastName',
-      message: "Last Name"
+      type: "input",
+      name: "lastName",
+      message: "Last Name",
     },
     {
-      type: 'number',
-      name: 'age',
-      message: "Age"
+      type: "number",
+      name: "age",
+      message: "Age",
     },
     {
       type: "input",
       name: "residence",
-      message: "Residence"
+      message: "Residence",
     },
     {
       type: "confirm",
       name: "arrested",
       message: "Arrested",
-      default: true
+      default: true,
     },
     {
       type: "input",
       name: "date",
-      message: "Date (MM-DD)"
+      message: "Date (MM-DD)",
     },
     {
       type: "input",
       name: "story",
-      message: "Link to News Story"
-    }
-  ]
+      message: "Link to News Report",
+    },
+  ];
 
-  const result = await inquirer.prompt(questions)
-  const name = `${result.firstName} ${result.lastName}`
-  const dashedName = `${result.firstName}-${result.lastName}`.toLowerCase()
+  const result = await inquirer.prompt(questions);
+  const name = `${result.firstName} ${result.lastName}`;
+  const dashedName = `${result.firstName}-${result.lastName}`.toLowerCase();
   const date = Date.parse(`2021-${result.date}T05:00`);
-  const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
+  const options = { year: "numeric", month: "long", day: "numeric" };
+  const dateFormat = new Intl.DateTimeFormat("en-US", options).format(date);
 
   updateSuspect({
     name,
@@ -64,11 +63,11 @@ const newSuspect = async() => {
     image: `/images/preview/${dashedName}.jpg`,
     suspect: `${dashedName}.jpg`,
     links: {
-      "News Story": result.story
+      "News Report": result.story,
     },
     title: `${name} charged on ${dateFormat}`,
-    published: result.arrested ? true : false
-  })
-}
+    published: result.arrested ? true : false,
+  });
+};
 
 newSuspect();

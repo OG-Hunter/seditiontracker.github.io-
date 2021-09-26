@@ -30,5 +30,6 @@ layout: suspect
 published: true
 caseNumber: 1:21-mj-505
 ---
-- [News Story](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
+
+- [News Report](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412476/download)

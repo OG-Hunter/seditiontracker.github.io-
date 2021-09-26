@@ -32,7 +32,8 @@ caseNumber: 1:21-cr-447
 videos:
 charges:
 ---
-- [News Story](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)
+
+- [News Report](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Christopher%20Doolin%20Defense%20Motion%20for%20Modification%20of%20Conditions%20of%20Release.pdf)

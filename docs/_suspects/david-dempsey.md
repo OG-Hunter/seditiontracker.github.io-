@@ -32,7 +32,8 @@ caseNumber: 1:21-mj-578
 videos:
 charges:
 ---
-- [News Story](https://theavtimes.com/2021/08/26/two-socal-men-arrested-for-assault-on-law-enforcement-at-capitol-riot/)
+
+- [News Report](https://theavtimes.com/2021/08/26/two-socal-men-arrested-for-assault-on-law-enforcement-at-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428151/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Indictment](https://www.documentcloud.org/documents/21059945-210909-dempsey-indictment)

@@ -7,9 +7,9 @@ status: Indicted
 date: 2021-04-12
 charged: 2021-04-12
 indicted: 2021-04-30
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 35
 occupation:
@@ -30,7 +30,8 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-332
 ---
-- [News Story](https://www.wusa9.com/article/news/national/capitol-riots/virginia-man-charged-in-capitol-riot-assault-that-gave-officer-concussion-paul-russell-johnson-lanexa/65-fa9f1175-7df1-44cf-949f-832027907a81)
+
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/virginia-man-charged-in-capitol-riot-assault-that-gave-officer-concussion-paul-russell-johnson-lanexa/65-fa9f1175-7df1-44cf-949f-832027907a81)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386856/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assaulting-us-capitol-police-officer-jan-6-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386861/download)

@@ -37,7 +37,7 @@ charges:
     felony: false
 ---
 
-- [News Story](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
+- [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433346/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433326/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433341/download)
