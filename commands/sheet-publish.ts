@@ -2,7 +2,7 @@ import { Command } from "commander";
 import { info, warning } from "./common/console";
 import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
-import { getSuspectByFile, updateSuspect } from "./common/suspect";
+import { dasherizeName, getSuspectByFile } from "./common/suspect";
 const { execSync } = require("child_process");
 
 require("dotenv").config();
@@ -29,13 +29,14 @@ const publishSheet = async () => {
   await sheet.clear();
 
   const ROW_HEADERS = [
+    "Image",
     "Last Name",
     "Full Name",
     "Status",
     "Residence",
     "Age",
     "Case Number",
-    "Charges (conviction only)",
+    "Sedition Track",
     "Charged",
     "Indicted",
     "Convicted",
@@ -48,6 +49,7 @@ const publishSheet = async () => {
     "Indictment",
     "Plea Agreement",
     "Judgement",
+    "Convicted Charges",
   ];
 
   await sheet.setHeaderRow(ROW_HEADERS);
@@ -80,13 +82,16 @@ const publishSheet = async () => {
       continue;
     }
 
-    rowData.push({
+    const suspectUrl = `https://seditiontracker.com/suspects/${dasherizeName(suspect.name)}`;
+
+    const suspectData = {
       "Last Name": suspect.lastName,
       "Full Name": suspect.name,
       Status: suspect.status,
       Residence: suspect.residence,
       Age: suspect.age,
       "Case Number": suspect.caseNumber,
+      "Sedition Track": suspectUrl,
       Charged: suspect.charged,
       Indicted: suspect.indicted,
       Convicted: suspect.convicted,
@@ -99,7 +104,21 @@ const publishSheet = async () => {
       Indictment: links["Indictment"] || "",
       "Plea Agreement": links["Plea Agreement"] || "",
       Judgement: links["Judgement"] || "",
-    });
+    };
+
+    if (suspect.charges?.length > 0) {
+      suspectData["Convicted Charges"] = suspect.charges
+        .map((c) => {
+          return `${c.code}: ${c.title}`;
+        })
+        .join("\n");
+    }
+
+    if (suspect.suspect && !/.*arrest.*/.test(suspect.suspect)) {
+      suspectData["Image"] = `=IMAGE("https://seditiontracker.com/images/cropped/${suspect.suspect}")`;
+    }
+
+    rowData.push(suspectData);
   }
 
   await sheet.addRows(rowData);
