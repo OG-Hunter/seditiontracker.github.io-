@@ -50,6 +50,7 @@ const publishSheet = async () => {
     "Plea Agreement",
     "Judgement",
     "Convicted Charges",
+    "Mug Shot",
   ];
 
   await sheet.setHeaderRow(ROW_HEADERS);
@@ -116,6 +117,10 @@ const publishSheet = async () => {
 
     if (suspect.suspect && !/.*arrest.*/.test(suspect.suspect)) {
       suspectData["Image"] = `=IMAGE("https://seditiontracker.com/images/cropped/${suspect.suspect}")`;
+    }
+
+    if (suspect.booking) {
+      suspectData["Mug Shot"] = `=IMAGE("https://seditiontracker.com/images/booking/${suspect.booking}")`;
     }
 
     rowData.push(suspectData);

@@ -17,7 +17,7 @@ affiliations: U.S. Army (Former)
 jurisdiction: Federal
 image: /images/preview/benjamen-burlew.jpg
 suspect: benjamen-burlew.jpg
-booking:
+booking: benjamin-burlew.jpg
 courtroom:
 courthouse:
 raid:
