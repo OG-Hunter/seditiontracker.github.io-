@@ -15,8 +15,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/darrell-youngers.jpg
+suspect: darrell-youngers.jpg
 booking:
 courtroom:
 courthouse:
