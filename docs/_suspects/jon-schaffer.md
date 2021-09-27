@@ -12,7 +12,7 @@ convicted: 2021-04-16
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-04-16
 sentencing:
 age: 52
 occupation: Metal Guitarist (Iced Earth)

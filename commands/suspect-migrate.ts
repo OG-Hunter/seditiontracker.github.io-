@@ -26,6 +26,15 @@ const doMigrate = () => {
     //   newLinks[newType] = url;
     // }
     // suspect.links = newLinks;
+
+    if (suspect.convicted && !suspect.plea_hearing) {
+      suspect.plea_hearing = suspect.convicted;
+    }
+
+    if (suspect.sentenced && !suspect.sentencing) {
+      suspect.sentencing = suspect.sentenced;
+    }
+
     updateSuspect(suspect);
   }
 };

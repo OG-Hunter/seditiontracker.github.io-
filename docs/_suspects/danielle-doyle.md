@@ -12,7 +12,7 @@ convicted: 2021-07-15
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-07-15
 sentencing:
 age:
 occupation:

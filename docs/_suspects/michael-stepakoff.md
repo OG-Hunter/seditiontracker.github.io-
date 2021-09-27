@@ -12,7 +12,7 @@ convicted: 2021-09-24
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-09-24
 sentencing:
 age: 55
 occupation: Messianic Rabbi

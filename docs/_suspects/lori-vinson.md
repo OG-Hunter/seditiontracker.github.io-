@@ -12,7 +12,7 @@ convicted: 2021-07-27
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-07-27
 sentencing:
 age:
 occupation: Nurse

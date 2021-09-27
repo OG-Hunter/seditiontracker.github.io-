@@ -12,7 +12,7 @@ convicted: 2021-08-26
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-08-26
 sentencing:
 age:
 occupation:
