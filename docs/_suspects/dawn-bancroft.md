@@ -1,16 +1,16 @@
 ---
 name: Dawn Bancroft
 lastName: Bancroft
-hashtag:
+hashtag: DawnBancroft
 aka:
 residence: Pennsylvania
 status: Charged
 date: 2021-01-29
 charged: 2021-01-29
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 59
 occupation: Business Owner (CrossFit)
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-271
 videos:
 charges:
 ---
+
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)

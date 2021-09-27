@@ -1,16 +1,16 @@
 ---
 name: Leo Bozell
 lastName: Bozell
-hashtag:
+hashtag: LeoBozell4
 aka: Zeek, Zeeker
 residence: Pennsylvania
 status: Indicted
 date: 2021-02-11
 charged: 2021-02-11
 indicted: 2021-03-01
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 41
 occupation:
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-216
 videos:
 charges:
 ---
+
 - [News Report](https://talkingpointsmemo.com/news/conservative-royalty-william-f-buckleys-great-nephew-charged-with-storming-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371296/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377676/download)

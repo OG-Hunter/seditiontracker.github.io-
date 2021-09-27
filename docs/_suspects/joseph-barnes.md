@@ -1,7 +1,7 @@
 ---
 name: Joseph Barnes
 lastName: Barnes
-hashtag:
+hashtag: JosephBarnes
 aka:
 residence: Texas
 status: Deceased
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'This is our house! This is our country! This is our country!'
+quote: "This is our house! This is our country! This is our country!"
 title: Joseph Barnes charged on February 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-192
 videos:
 charges:
 ---
+
 - [News Report](https://www.kxan.com/news/local/austin/fbi-arrests-austin-real-estate-agent-accused-of-participating-in-u-s-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378426/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378436/download)

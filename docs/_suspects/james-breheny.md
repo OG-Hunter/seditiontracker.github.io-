@@ -1,7 +1,7 @@
 ---
 name: James Breheny
 lastName: Breheny
-hashtag:
+hashtag: JamesBreheny
 aka: Seamus Evers
 residence: New York
 status: Charged
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I breached the Capital [sic] door!'
+quote: "I breached the Capital [sic] door!"
 title: James Breheny charged on May 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,6 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://www.cbsnews.com/news/oath-keeper-james-breheny-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395881/download)

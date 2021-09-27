@@ -1,7 +1,7 @@
 ---
 name: Jennifer Buteau
 lastName: Buteau
-hashtag:
+hashtag: JenniferButeau
 aka:
 residence: Florida
 status: Indicted
@@ -33,6 +33,7 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://www.ocala.com/story/news/crime/2021/06/24/ocala-husband-and-wife-charged-jan-6-u-s-capitol-attack/5336380001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405871/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jamie%20and%20Jennifer%20Buteau%20Indictment.pdf)

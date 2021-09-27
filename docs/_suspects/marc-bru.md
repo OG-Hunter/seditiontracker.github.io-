@@ -1,7 +1,7 @@
 ---
 name: Marc Bru
 lastName: Bru
-hashtag:
+hashtag: SwimGogglesPB
 aka:
 residence: Washington
 status: Indicted
@@ -33,6 +33,7 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://www.oregonlive.com/crime/2021/03/man-arrested-in-vancouver-accused-of-storming-us-capitol-and-entering-senate-gallery-on-jan-6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382586/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382591/download)

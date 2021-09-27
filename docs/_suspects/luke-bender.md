@@ -1,7 +1,7 @@
 ---
 name: Luke Bender
 lastName: Bender
-hashtag:
+hashtag: LukeBender
 aka:
 residence: Virginia
 status: Charged
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Today was something special if you were there. It was great to be apart of it.'
+quote: "Today was something special if you were there. It was great to be apart of it."
 title: Luke Bender charged on July 26, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,4 +33,5 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf)

@@ -1,16 +1,16 @@
 ---
 name: Eric Bochene
 lastName: Bochene
-hashtag:
+hashtag: EricBochene
 aka:
 residence: New York
 status: Charged
 date: 2021-04-26
 charged: 2021-04-26
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 49
 occupation:
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-418
 videos:
 charges:
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/upstate-ny-man-charged-with-being-inside-capitol-on-jan-6/3056832/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394211/download)

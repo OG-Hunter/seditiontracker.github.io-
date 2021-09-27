@@ -1,7 +1,7 @@
 ---
 name: Glenn Brooks
 lastName: Brooks
-hashtag:
+hashtag: GlennBrooks
 aka:
 residence: California
 status: Charged
@@ -33,4 +33,5 @@ caseNumber: 1:21-mj-544
 videos:
 charges:
 ---
+
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419021/download)

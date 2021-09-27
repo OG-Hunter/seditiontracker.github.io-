@@ -1,16 +1,16 @@
 ---
 name: Stephen Baker
 lastName: Baker
-hashtag:
+hashtag: StephenIgnoramus
 aka: Stephen Ignoramus
 residence: North Carolina
 status: Charged
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 32
 occupation: Music Teacher
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-273
 videos:
 charges:
 ---
+
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)

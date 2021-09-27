@@ -1,7 +1,7 @@
 ---
 name: Nicholas Brockhoff
 lastName: Brockhoff
-hashtag:
+hashtag: GreenHornHoodlum
 aka:
 residence: Kentucky
 status: Charged
@@ -33,5 +33,6 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-man-charges-jan-6-capitol-riot-nicholas-james-brockhoff-insurrection/417-242a7574-396c-492c-9479-35057a5994c2)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398871/download)

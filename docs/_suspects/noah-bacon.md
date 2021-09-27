@@ -1,7 +1,7 @@
 ---
 name: Noah Bacon
 lastName: Bacon
-hashtag:
+hashtag: HeartTInsider
 aka:
 residence: Massachusetts
 status: Charged
@@ -33,5 +33,6 @@ caseNumber: 1:21-mj-509
 videos:
 charges:
 ---
+
 - [News Report](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408331/download)

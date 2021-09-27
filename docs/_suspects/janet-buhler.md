@@ -1,7 +1,7 @@
 ---
 name: Janet Buhler
 lastName: Buhler
-hashtag:
+hashtag: JanetBuhler
 aka:
 residence: Utah
 status: Charged
@@ -33,5 +33,6 @@ caseNumber: 1:21-mj-546
 videos:
 charges:
 ---
+
 - [News Report](https://www.sltrib.com/news/2021/08/02/two-more-utahns-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421591/download)

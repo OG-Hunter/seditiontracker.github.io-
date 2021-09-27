@@ -1,16 +1,16 @@
 ---
 name: Damon Beckley
 lastName: Beckley
-hashtag:
+hashtag: DamonBeckley
 aka:
 residence: Kentucky
 status: Indicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-04-07
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 52
 occupation:
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-285
 videos:
 charges:
 ---
+
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
 - [Complaint](https://www.justice.gov/opa/file/1355856/download)
 - [Statement of Facts](https://www.justice.gov/opa/file/1355861/download)

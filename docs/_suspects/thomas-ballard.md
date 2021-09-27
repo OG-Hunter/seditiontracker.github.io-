@@ -1,7 +1,7 @@
 ---
 name: Thomas Ballard
 lastName: Ballard
-hashtag:
+hashtag: DJBrawnyBaton
 aka: CliffCares
 residence: Texas
 status: Charged
@@ -33,5 +33,6 @@ caseNumber: 1:21-mj-529
 videos:
 charges:
 ---
+
 - [News Report](https://www.dallasnews.com/news/crime/2021/08/10/fort-worth-mechanic-assaulted-capitol-police-with-baton-and-table-during-jan-6-riot-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423131/download)

@@ -1,16 +1,16 @@
 ---
 name: Craig Bingert
 lastName: Bingert
-hashtag:
+hashtag: CraigBingert
 aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 29
 occupation:
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Fuck the Police.'
+quote: "Fuck the Police."
 title: Craig Bingert charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-91
 videos:
 charges:
 ---
+
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356996/download)

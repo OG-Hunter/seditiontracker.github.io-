@@ -1,16 +1,16 @@
 ---
 name: Bryan Betancur
 lastName: Betancur
-hashtag:
+hashtag: BryanBetancur
 aka: Bryan Clooney, Maximo Clooney
 residence: Maryland
 status: Charged
 date: 2021-01-17
 charged: 2021-01-17
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 26
 occupation:
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-51
 videos:
 charges:
 ---
+
 - [News Report](https://baltimore.cbslocal.com/2021/01/18/maryland-man-bryan-betancur-arrested-after-gps-monitor-places-him-at-us-capitol-during-riots-prosecutors-say/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355926/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355921/download)

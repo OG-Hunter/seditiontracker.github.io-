@@ -1,7 +1,7 @@
 ---
 name: Larry Brock
 lastName: Brock
-hashtag:
+hashtag: LarryBrock
 aka:
 residence: Texas
 status: Indicted
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-140
 videos:
 charges:
 ---
+
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)

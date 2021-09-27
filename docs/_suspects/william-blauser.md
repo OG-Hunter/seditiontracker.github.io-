@@ -1,7 +1,7 @@
 ---
 name: William Blauser
 lastName: Blauser
-hashtag:
+hashtag: WilliamBlauser
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -33,6 +33,7 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://triblive.com/local/regional/fbi-charges-pair-from-mckean-county-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395356/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395401/download)

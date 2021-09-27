@@ -1,16 +1,16 @@
 ---
 name: Richard Barnard
 lastName: Barnard
-hashtag:
+hashtag: RichardBarnard
 aka:
 residence: Texas
 status: Indicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 55
 occupation: Veteran, U.S. Marine Corps
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-235
 videos:
 charges:
 ---
+
 - [News Report](https://www.dailymail.co.uk/news/article-9360743/Two-men-charged-Capitol-riot-posted-video-claiming-crashed-White-House.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)

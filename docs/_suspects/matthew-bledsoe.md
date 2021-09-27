@@ -1,16 +1,16 @@
 ---
 name: Matthew Bledsoe
 lastName: Bledsoe
-hashtag:
+hashtag: FreeAlexShirt
 aka:
 residence: Tennessee
 status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age:
 occupation:
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'This is our house. We pay for this shit. Where’s those pieces of shit at?'
+quote: "This is our house. We pay for this shit. Where’s those pieces of shit at?"
 title: Matthew Bledsoe charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -33,6 +33,7 @@ caseNumber: 1:21-cr-204
 videos:
 charges:
 ---
+
 - [News Report](https://www.wkrn.com/news/local-news/2nd-tennessee-resident-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355126/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355121/download)

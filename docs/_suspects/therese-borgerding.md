@@ -1,7 +1,7 @@
 ---
 name: Therese Borgerding
 lastName: Borgerding
-hashtag:
+hashtag: ThereseBorgerding
 aka:
 residence: Ohio
 status: Charged
@@ -23,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'YES I was inside the Capitol Building for a long time. You dont [sic] know The Truth what really happened'
+quote: "YES I was inside the Capitol Building for a long time. You dont [sic] know The Truth what really happened"
 title: Therese Borgerding charged on July 26, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,5 +33,6 @@ caseNumber: 1:21-mj-541
 videos:
 charges:
 ---
+
 - [News Report](https://www.daytondailynews.com/crime/fbi-arrests-englewood-man-piqua-woman-in-us-capitol-siege/5F6DZFU6YVGDHIQECDLII7IOSY/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417571/download)
