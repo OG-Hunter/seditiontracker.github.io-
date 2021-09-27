@@ -15,7 +15,7 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jeremy-sorvisto.png
+image: /images/preview/jeremy-sorvisto.jpg
 suspect: jeremy-sorvisto.jpg
 booking:
 courtroom:
