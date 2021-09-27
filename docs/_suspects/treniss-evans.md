@@ -1,16 +1,16 @@
 ---
 name: Treniss Evans
 lastName: Evans
-hashtag:
+hashtag: BullhornCanary
 aka:
 residence: Texas
 status: Indicted
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-17
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-225
 videos:
 charges:
 ---
+
 - [News Report](https://www.ksat.com/news/local/2021/03/09/san-antonio-area-man-charged-in-us-capitol-riot-allegedly-took-shots-of-whiskey-in-pelosis-office/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378611/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378616/download)

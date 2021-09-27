@@ -1,7 +1,7 @@
 ---
 name: Gabriel Garcia
 lastName: Garcia
-hashtag:
+hashtag: PBGarcia
 aka:
 residence: Florida
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Nancy come out and play!'
+quote: "Nancy come out and play!"
 title: Gabriel Garcia charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-129
 videos:
 charges:
 ---
+
 - [News Report](https://www.miamiherald.com/news/local/crime/article248608940.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356776/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356771/download)

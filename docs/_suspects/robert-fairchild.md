@@ -1,7 +1,7 @@
 ---
 name: Robert Fairchild
 lastName: Fairchild
-hashtag:
+hashtag: AllGreenGuy
 aka:
 residence: Florida
 status: Indicted
@@ -35,6 +35,7 @@ caseNumber:
 videos:
 charges:
 ---
+
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-orlando-robert-fairchild--20210828-6yj67m4mlfapnefejh5yr3sjga-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

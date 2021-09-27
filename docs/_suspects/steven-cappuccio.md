@@ -1,8 +1,8 @@
 ---
 name: Steven Cappuccio
 lastName: Cappuccio
-hashtag:
-aka: '#StripesGuy'
+hashtag: StripesGuy
+aka:
 residence: Texas
 status: Indicted
 date: 2021-08-12
@@ -35,4 +35,5 @@ caseNumber: 1:21-cr-40
 videos:
 charges:
 ---
+
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)
