@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 52
 occupation: General Manager, Car Dealership
 affiliations: Oath Keepers

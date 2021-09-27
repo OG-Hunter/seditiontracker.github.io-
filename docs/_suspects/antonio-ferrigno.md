@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 26
 occupation:
 affiliations:

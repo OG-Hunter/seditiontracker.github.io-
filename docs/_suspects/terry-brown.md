@@ -12,6 +12,8 @@ convicted: 2021-09-10
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 69
 occupation: Public Safety Code Enforcement Officer (Retired)
 affiliations:
@@ -32,12 +34,11 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://www.ldnews.com/story/news/2021/01/07/lebanon-county-arrested-during-capitol-siege-has-no-regrets-trump-supporters-election-washington/6588911002/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Owner, Hi-Flow Houston
 affiliations:

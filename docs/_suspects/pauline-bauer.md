@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/they-need-to-hang-pennsylvania-woman-arrested-in-capitol-riot-investigation/ar-BB1gV8Pd)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395396/download)

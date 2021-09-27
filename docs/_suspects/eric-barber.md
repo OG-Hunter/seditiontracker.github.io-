@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 41
 occupation: Former Councilman
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-228
 videos:
 charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/west-virginia-man-charged-with-stealing-cspan-equipment-during-capitol-riots/ar-BB1efFsk)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378386/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378381/download)

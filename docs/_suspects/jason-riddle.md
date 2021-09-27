@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government

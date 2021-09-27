@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 38
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-156
 videos:
 charges:
 ---
-
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360951/download)

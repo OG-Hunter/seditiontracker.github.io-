@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military

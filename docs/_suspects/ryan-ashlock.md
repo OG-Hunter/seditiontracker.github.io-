@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 22
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-160
 videos:
 charges:
 ---
-
 - [News Report](https://www.wral.com/kansas-man-linked-to-proud-boys-arrested-in-capitol-riot/19540752/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

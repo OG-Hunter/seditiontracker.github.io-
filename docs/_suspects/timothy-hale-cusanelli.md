@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
 affiliations: U.S. Military

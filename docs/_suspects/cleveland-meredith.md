@@ -12,6 +12,8 @@ convicted: 2021-09-10
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 53
 occupation: Business Owner
 affiliations:

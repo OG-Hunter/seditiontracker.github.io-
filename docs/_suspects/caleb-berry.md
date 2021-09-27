@@ -12,6 +12,8 @@ convicted: 2021-07-20
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 20
 occupation:
 affiliations: Oath Keepers
@@ -32,16 +34,15 @@ published: true
 caseNumber: 1:21-cr-460
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of Congress
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of Congress
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 ---
-
 - [News Report](https://www.rawstory.com/caleb-berry/)
 - [Information](/filings/caleb-berry-information.pdf)
 - [DOJ Statement (Twitter)](https://twitter.com/FBIWFO/status/1417871768736370693)

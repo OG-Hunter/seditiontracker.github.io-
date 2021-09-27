@@ -12,6 +12,8 @@ convicted: 2021-07-27
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation:
 affiliations:

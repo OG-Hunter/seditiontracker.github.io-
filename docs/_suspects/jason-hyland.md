@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 37
 occupation: Real Estate Agent
 affiliations:

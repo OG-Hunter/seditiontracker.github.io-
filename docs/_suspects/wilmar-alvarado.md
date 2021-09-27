@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 37
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-154
 videos:
 charges:
 ---
-
 - [News Report](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371266/download)

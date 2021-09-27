@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Special Agent, Drug Enforcement Administration
 affiliations:

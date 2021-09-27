@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased: 2021-09-21
+plea_hearing:
+sentencing:
 age: 61
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-215
 videos:
 charges:
 ---
-
 - [News Report](https://www.actionnewsjax.com/news/local/st-johns-county/local-man-faces-federal-judge-charged-connection-capitol-riots/VSL45JRAKREZJN3KB4T5QIR6SE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378341/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378351/download)

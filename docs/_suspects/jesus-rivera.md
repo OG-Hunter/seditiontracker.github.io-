@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776

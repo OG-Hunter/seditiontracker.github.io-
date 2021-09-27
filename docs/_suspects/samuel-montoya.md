@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
 affiliations:

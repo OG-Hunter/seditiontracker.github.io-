@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation:
 affiliations: New Jersey for Medical Freedom

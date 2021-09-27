@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force

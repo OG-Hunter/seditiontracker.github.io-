@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-273
 videos:
 charges:
 ---
-
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)

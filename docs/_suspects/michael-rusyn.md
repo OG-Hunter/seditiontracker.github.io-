@@ -12,6 +12,8 @@ convicted: 2021-09-14
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Volunteer Firefighter
 affiliations:

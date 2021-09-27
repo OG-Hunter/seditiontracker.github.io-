@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 29
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-121
 videos:
 charges:
 ---
-
 - [News Report](https://www.timesunion.com/news/article/No-weed-for-Glens-Falls-man-charged-in-attack-on-15903349.php)
 - [Complaint](https://www.justice.gov/opa/page/file/1361446/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361446/download)

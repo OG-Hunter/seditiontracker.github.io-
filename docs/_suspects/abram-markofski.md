@@ -12,6 +12,8 @@ convicted: 2021-09-01
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation:
 affiliations: National Guard

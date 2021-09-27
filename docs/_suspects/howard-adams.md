@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 57
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-358
 videos:
 charges:
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2021/03/10/another-central-florida-man-arrested-in-capitol-riot/#//)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378311/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404186/download)

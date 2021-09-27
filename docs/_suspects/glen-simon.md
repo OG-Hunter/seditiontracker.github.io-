@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 30
 occupation: Owner, Tree Removal Business
 affiliations:

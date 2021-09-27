@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys

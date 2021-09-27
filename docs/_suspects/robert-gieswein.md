@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters

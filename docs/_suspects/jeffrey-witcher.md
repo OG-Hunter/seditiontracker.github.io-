@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 58
 occupation: Veteran, U.S. Marine Corps
 affiliations:

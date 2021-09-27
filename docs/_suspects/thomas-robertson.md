@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 47
 occupation: Police Officer (Sergeant)
 affiliations: Rocky Mount Police Department

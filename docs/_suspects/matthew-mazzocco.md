@@ -12,6 +12,8 @@ convicted: 2021-07-02
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 37
 occupation: 'Mortgage Loan Ninja'
 affiliations:

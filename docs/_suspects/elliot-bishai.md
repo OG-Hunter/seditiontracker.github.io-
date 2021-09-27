@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 20
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-282
 videos:
 charges:
 ---
-
 - [News Report](https://www.thestate.com/news/local/crime/article249973884.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386291/download)

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 33
 occupation:
 affiliations: Oath Keepers, Proud Boys

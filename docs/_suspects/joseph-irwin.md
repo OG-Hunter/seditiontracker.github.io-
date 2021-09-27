@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired

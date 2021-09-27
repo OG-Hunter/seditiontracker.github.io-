@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military

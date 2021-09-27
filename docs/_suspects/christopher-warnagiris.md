@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 40
 occupation: Active Duty U.S. Marine Corps Officer
 affiliations:

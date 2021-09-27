@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 43
 occupation: Former Military (Marines)
 affiliations: Proud Boys, USMC, U.S. Military

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 49
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-418
 videos:
 charges:
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/upstate-ny-man-charged-with-being-inside-capitol-on-jan-6/3056832/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394211/download)

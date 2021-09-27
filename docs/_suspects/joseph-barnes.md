@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased: 2021-06-12
+plea_hearing:
+sentencing:
 age: 34
 occupation: Real Estate Agent
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-192
 videos:
 charges:
 ---
-
 - [News Report](https://www.kxan.com/news/local/austin/fbi-arrests-austin-real-estate-agent-accused-of-participating-in-u-s-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378426/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378436/download)

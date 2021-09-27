@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation:
 affiliations:
@@ -33,5 +35,4 @@ caseNumber: 1:21-mj-544
 videos:
 charges:
 ---
-
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419021/download)

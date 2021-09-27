@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military

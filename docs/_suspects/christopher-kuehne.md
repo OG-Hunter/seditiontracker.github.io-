@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Marine Scout Sniper (Former)
 affiliations: Proud Boys, military

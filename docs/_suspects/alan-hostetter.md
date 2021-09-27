@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 56
 occupation: Yoga Instructor, Former Police Chief
 affiliations: Three Percenters, American Phoenix Project

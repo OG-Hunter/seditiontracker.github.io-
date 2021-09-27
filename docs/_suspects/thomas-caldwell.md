@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 29
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-91
 videos:
 charges:
 ---
-
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356996/download)

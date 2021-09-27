@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 41
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-216
 videos:
 charges:
 ---
-
 - [News Report](https://talkingpointsmemo.com/news/conservative-royalty-william-f-buckleys-great-nephew-charged-with-storming-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371296/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377676/download)

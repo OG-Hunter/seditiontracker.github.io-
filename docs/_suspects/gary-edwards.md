@@ -12,6 +12,8 @@ convicted: 2021-09-27
 sentenced:
 dismissed:
 deceased:
+plea_hearing: 2021-09-27
+sentencing: 2021-12-20
 age: 68
 occupation:
 affiliations:
@@ -32,12 +34,11 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://6abc.com/capitol-riot-arrest-bucks-county-churchville-gary-edwards/10585377/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391671/download)

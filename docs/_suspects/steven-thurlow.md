@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 50
 occupation:
 affiliations: U.S. Army Veteran, Boogaloo Bois

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia

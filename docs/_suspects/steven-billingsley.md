@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 45
 occupation:
 affiliations:
@@ -33,6 +35,5 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://www.wtrf.com/jefferson-county/jefferson-county-man-charged-with-crimes-related-to-the-jan-6-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Steven%20Billingsley%20Statement%20of%20Facts.pdf)

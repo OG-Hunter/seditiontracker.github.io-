@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 55
 occupation: Veteran, U.S. Marine Corps
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-235
 videos:
 charges:
 ---
-
 - [News Report](https://www.dailymail.co.uk/news/article-9360743/Two-men-charged-Capitol-riot-posted-video-claiming-crashed-White-House.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)

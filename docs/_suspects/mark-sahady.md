@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)

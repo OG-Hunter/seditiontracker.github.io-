@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 54
 occupation: Owner, Motor-Coach Business
 affiliations:

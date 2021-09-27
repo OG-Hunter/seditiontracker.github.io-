@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 54
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:

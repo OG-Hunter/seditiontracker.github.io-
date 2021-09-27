@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 38
 occupation: Former U.S. Military (Army Ranger)
 affiliations: Oath Keepers, Ohio Regular Militia

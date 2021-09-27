@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 29
 occupation: Former Police Officer
 affiliations: Proud Boys

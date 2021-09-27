@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 52
 occupation: Real Estate (Former)
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-64
 videos:
 charges:
 ---
-
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1360801/download)

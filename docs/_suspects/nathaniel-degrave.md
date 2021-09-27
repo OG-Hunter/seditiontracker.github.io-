@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 31
 occupation: Business Owner ("Adult Model Management Company")
 affiliations:

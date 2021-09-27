@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 27
 occupation:
 affiliations: Three Percenters
@@ -33,7 +35,6 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://baytobaynews.com/stories/former-kent-county-resident-charged-in-us-capitol-riot,46025)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389341/download)
 - [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=hAkAAoI6_i8&t=160s)

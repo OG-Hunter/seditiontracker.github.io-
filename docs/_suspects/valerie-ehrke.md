@@ -12,6 +12,8 @@ convicted: 2021-06-30
 sentenced: 2021-09-17
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 53
 occupation: Home Designer
 affiliations:

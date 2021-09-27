@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 41
 occupation:
 affiliations: Oath Keepers

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 41
 occupation:
 affiliations: U.S. Army (Former)
@@ -33,7 +35,6 @@ caseNumber: 1:21-mj-501
 videos:
 charges:
 ---
-
 - [News Report](https://tulsaworld.com/news/local/crime-and-courts/oklahoma-man-accused-in-federal-court-of-misdemeanors-in-jan-6-breach-of-u-s/article_b4dbf328-01ff-11ec-8345-d311dcd33ce8.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1426786/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/oklahoma-man-arrested-assault-media-during-jan-6-capitol-breach)

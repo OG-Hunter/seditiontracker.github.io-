@@ -12,6 +12,8 @@ convicted: 2021-08-18
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Physician's Assistant
 affiliations:

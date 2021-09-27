@@ -12,6 +12,8 @@ convicted: 2021-06-30
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 54
 occupation:
 affiliations: Oath Keepers

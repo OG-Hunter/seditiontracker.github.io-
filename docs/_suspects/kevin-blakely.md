@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing: 2021-10-21
+sentencing:
 age: 55
 occupation:
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-356
 videos:
 charges:
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/2584604/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380356/download)

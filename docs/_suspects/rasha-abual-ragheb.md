@@ -12,6 +12,8 @@ convicted: 2021-08-23
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-43
 videos:
 charges:
 ---
-
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428526/download)

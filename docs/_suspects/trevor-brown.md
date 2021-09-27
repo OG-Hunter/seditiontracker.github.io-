@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age:
 occupation: Business Consultant at KCO Credit
 affiliations:
@@ -33,6 +35,5 @@ caseNumber: 1:21-mj-498
 videos:
 charges:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/07/02/feds-bust-michigan-man-u-s-capitol-siege-crackdown-continues/7839249002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408656/download)

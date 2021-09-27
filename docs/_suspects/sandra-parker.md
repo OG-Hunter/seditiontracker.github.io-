@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 62
 occupation:
 affiliations: Oath Keepers, Ohio Regular Militia

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+plea_hearing:
+sentencing:
 age: 44
 occupation: Business Owner (Lawn Service)
 affiliations:
@@ -33,7 +35,6 @@ caseNumber: 1:21-cr-127
 videos:
 charges:
 ---
-
 - [News Report](https://www.wbrc.com/2021/01/14/leeds-man-charged-capitol-riot-identified-by-blood-his-cheek/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354806/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354811/download)

@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 52
 occupation: Law Enforcement (former SWAT)
 affiliations: Oath Keepers

@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 36
 occupation: Business Owner (Tactical Citizen, LLC)
 affiliations:

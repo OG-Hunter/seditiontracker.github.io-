@@ -25,6 +25,8 @@ export interface Suspect {
   convicted?: string;
   dismissed?: string;
   deceased?: string;
+  plea_hearing?: string;
+  sentencing?: string;
   name?: string;
   lastName?: string;
   hashtag?: string;
@@ -86,6 +88,14 @@ export const getSuspectByFile = (filename: string) => {
 
   if (data.match(/deceased: (.*)/)) {
     suspect.deceased = data.match(/deceased: (.*)/)[1].trim();
+  }
+
+  if (data.match(/plea_hearing: (.*)/)) {
+    suspect.plea_hearing = RegExp.$1.trim();
+  }
+
+  if (data.match(/sentencing: (.*)/)) {
+    suspect.sentencing = RegExp.$1.trim();
   }
 
   suspect.name = data.match(/name: (.*)/)[1];
@@ -178,6 +188,8 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`sentenced: ${suspect.sentenced}`);
   lines.push(`dismissed: ${suspect.dismissed}`);
   lines.push(`deceased: ${suspect.deceased}`);
+  lines.push(`plea_hearing: ${suspect.plea_hearing}`);
+  lines.push(`sentencing: ${suspect.sentencing}`);
   lines.push(`age: ${suspect.age}`);
   lines.push(`occupation: ${suspect.occupation}`);
   lines.push(`affiliations: ${suspect.affiliations}`);

@@ -12,6 +12,8 @@ convicted:
 sentenced:
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 35
 occupation: West Viriginia Delegate
 affiliations:

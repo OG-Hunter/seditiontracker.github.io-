@@ -12,6 +12,8 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
+plea_hearing:
+sentencing:
 age: 40
 occupation:
 affiliations: Proud Boys(?) (Chicago)
