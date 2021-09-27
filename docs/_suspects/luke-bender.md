@@ -1,6 +1,7 @@
 ---
 name: Luke Bender
 lastName: Bender
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -29,6 +30,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber:
+videos:
+charges:
 ---
-
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf)

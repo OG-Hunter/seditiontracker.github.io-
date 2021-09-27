@@ -1,6 +1,7 @@
 ---
 name: Jacob Clark
 lastName: Clark
+hashtag:
 aka:
 residence: Colorado
 status: Charged
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-279
+videos:
+charges:
 ---
-
 - [News Report](https://denver.cbslocal.com/2021/04/23/jacob-clark-colorado-us-capitol-riot-arrest-federal-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391106/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391111/download)

@@ -1,15 +1,16 @@
 ---
 name: Stephen Ayres
 lastName: Ayres
+hashtag: StephenMichaelAyres
 aka:
 residence: Ohio
 status: Indicted
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-25
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 38
 occupation:
@@ -29,7 +30,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-156
+videos:
+charges:
 ---
+
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360951/download)

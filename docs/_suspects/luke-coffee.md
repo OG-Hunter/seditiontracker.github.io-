@@ -1,6 +1,7 @@
 ---
 name: Luke Coffee
 lastName: Coffee
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-236
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/luke-coffee-fledgling-actor-from-texas-bashed-a-cop-during-capitol-riot-prosecutors-allege)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378546/download)

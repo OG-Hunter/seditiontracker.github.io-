@@ -1,6 +1,7 @@
 ---
 name: Timothy Hale-Cusanelli
 lastName: Hale-Cusanelli
+hashtag:
 aka: Based Hermes
 residence: New Jersey
 status: Indicted

@@ -1,6 +1,7 @@
 ---
 name: Danielle Doyle
 lastName: Doyle
+hashtag:
 aka:
 residence: Oklahoma
 status: Convicted
@@ -29,13 +30,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-324
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://oklahoman.com/article/5683329/former-oklahoma-city-thunder-worker-charged-in-us-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378601/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412411/download)

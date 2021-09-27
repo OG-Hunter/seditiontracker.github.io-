@@ -1,6 +1,7 @@
 ---
 name: Thomas Munn
 lastName: Munn
+hashtag:
 aka: Tom Munn
 residence: Texas
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-521
+videos:
+charges:
 ---
 - [News Report](https://www.cnn.com/2021/07/13/politics/munn-family-texas-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download)

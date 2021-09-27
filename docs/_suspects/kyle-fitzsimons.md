@@ -1,6 +1,7 @@
 ---
 name: Kyle Fitzsimons
 lastName: Fitzsimons
+hashtag:
 aka:
 residence: Maine
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-158
+videos:
+charges:
 ---
 - [News Report](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365566/download)

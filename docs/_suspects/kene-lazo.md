@@ -1,6 +1,7 @@
 ---
 name: Kene Lazo
 lastName: Lazo
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-425
+videos:
+charges:
 ---
 - [News Report](https://news.abs-cbn.com/news/05/29/21/walis-tambo-man-arrested-virginia-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399516/download)

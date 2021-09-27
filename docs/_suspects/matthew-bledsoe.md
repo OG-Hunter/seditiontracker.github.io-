@@ -1,6 +1,7 @@
 ---
 name: Matthew Bledsoe
 lastName: Bledsoe
+hashtag:
 aka:
 residence: Tennessee
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-204
+videos:
+charges:
 ---
 - [News Report](https://www.wkrn.com/news/local-news/2nd-tennessee-resident-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355126/download)

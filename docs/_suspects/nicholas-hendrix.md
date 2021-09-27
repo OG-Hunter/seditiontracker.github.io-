@@ -1,6 +1,7 @@
 ---
 name: Nicholas Hendrix
 lastName: Hendrix
+hashtag:
 aka:
 residence: Maine
 status: Charged
@@ -32,7 +33,6 @@ caseNumber: 1:21-cr-426
 videos:
 charges:
 ---
-
 - [News Report](https://www.wmtw.com/article/second-mainer-arrested-accused-of-taking-part-in-capitol-riot/36559629)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404506/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Hendrix%20Information.pdf)

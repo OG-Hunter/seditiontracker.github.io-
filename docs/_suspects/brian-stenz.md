@@ -1,6 +1,7 @@
 ---
 name: Brian Stenz
 lastName: Stenz
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -28,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)

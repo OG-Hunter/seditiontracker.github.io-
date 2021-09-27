@@ -1,6 +1,7 @@
 ---
 name: Bradley Weeks
 lastName: Weeks
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-247
+videos:
+charges:
 ---
 - [News Report](https://www.firstcoastnews.com/article/news/crime/jacksonville-man-arrested-charged-in-deadly-capitol-riot/77-c247b5a6-100b-462c-a035-3c458106725d)
 - [FBI Statement](https://news.wjct.org/post/baker-county-man-arrested-charged-connection-siege-us-capitol)

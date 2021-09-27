@@ -1,6 +1,7 @@
 ---
 name: Deborah Sandoval
 lastName: Sandoval
+hashtag:
 aka:
 residence: Iowa
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-195
+videos:
+charges:
 ---
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/02/19/capitol-riot-arrests-iowa-mother-and-son-face-charges-jan-6-riot-deborah-sandoval-salvador-sandoval/4515346001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379251/download)

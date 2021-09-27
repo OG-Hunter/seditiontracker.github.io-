@@ -1,6 +1,7 @@
 ---
 name: Richard Barnard
 lastName: Barnard
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-235
+videos:
+charges:
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9360743/Two-men-charged-Capitol-riot-posted-video-claiming-crashed-White-House.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)

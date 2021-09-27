@@ -1,6 +1,7 @@
 ---
 name: Joseph Fischer
 lastName: Fischer
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-234
+videos:
+charges:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/02/21/officer-joseph-fischer-charged-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369301/download)

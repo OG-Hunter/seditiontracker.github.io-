@@ -1,6 +1,7 @@
 ---
 name: William Watson
 lastName: Watson
+hashtag:
 aka:
 residence: Alabama
 status: Indicted
@@ -32,7 +33,6 @@ caseNumber: 1:21-mj-97
 videos:
 charges:
 ---
-
 - [News Report](https://www.wate.com/news/auburn-man-in-federal-custody-following-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371561/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423471/download)

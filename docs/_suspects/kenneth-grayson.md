@@ -1,6 +1,7 @@
 ---
 name: Kenneth Grayson
 lastName: Grayson
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-224
+videos:
+charges:
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/26/Bridgeville-kenneth-grayson-charged-connection-Capitol-riot-insurrection/stories/202101260151)
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)

@@ -1,6 +1,7 @@
 ---
 name: Donald Smith
 lastName: Smith
+hashtag:
 aka:
 residence: New Jersey
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-548
+videos:
+charges:
 ---
 - [News Report](https://phillynews.fyi/30742/maga-rioter-bragged-that-breaking-into-pelosis-office-was-best-day-of-his-life-to-coworkers-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419026/download)

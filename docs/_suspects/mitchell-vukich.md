@@ -1,6 +1,7 @@
 ---
 name: Mitchell Vukich
 lastName: Vukich
+hashtag:
 aka:
 residence: Pennsylvania
 status: Convicted
@@ -31,12 +32,11 @@ published: true
 caseNumber: 1:21-mj-476
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433346/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433326/download)

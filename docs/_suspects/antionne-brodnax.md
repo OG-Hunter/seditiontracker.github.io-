@@ -1,15 +1,16 @@
 ---
 name: Antionne Brodnax
 lastName: Brodnax
+hashtag: IAmBugzieTheDon
 aka: Bugzie the Don
 residence: Virginia
 status: Charged
 date: 2021-02-02
 charged: 2021-02-02
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 38
 occupation:
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-350
+videos:
+charges:
 ---
 - [News Report](https://www.wric.com/news/crime/man-arrested-in-sandston-for-entering-u-s-capitol-building-during-jan-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378461/download)

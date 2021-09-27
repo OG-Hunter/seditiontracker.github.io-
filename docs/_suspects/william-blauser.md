@@ -1,6 +1,7 @@
 ---
 name: William Blauser
 lastName: Blauser
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -10,6 +11,7 @@ indicted: 2021-06-04
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://triblive.com/local/regional/fbi-charges-pair-from-mckean-county-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395356/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395401/download)

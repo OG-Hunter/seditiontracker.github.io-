@@ -1,6 +1,7 @@
 ---
 name: Joseph Irwin
 lastName: Irwin
+hashtag:
 aka:
 residence: Kentucky
 status: Charged

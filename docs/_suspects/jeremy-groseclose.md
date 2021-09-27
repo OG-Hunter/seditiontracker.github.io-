@@ -1,6 +1,7 @@
 ---
 name: Jeremy Groseclose
 lastName: Groseclose
+hashtag:
 aka:
 residence: Virginia
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-311
+videos:
+charges:
 ---
 - [News Report](https://www.wsls.com/news/local/2021/02/26/fbi-arrests-montgomery-county-man-it-believes-took-part-in-us-capitol-riots/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378661/download)

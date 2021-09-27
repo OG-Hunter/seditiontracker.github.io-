@@ -1,6 +1,7 @@
 ---
 name: Zvonimir Jurlina
 lastName: Jurlina
+hashtag:
 aka: Zykotik
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-502
+videos:
+charges:
 ---
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)

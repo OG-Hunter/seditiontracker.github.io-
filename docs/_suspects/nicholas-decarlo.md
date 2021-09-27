@@ -1,6 +1,7 @@
 ---
 name: Nicholas DeCarlo
 lastName: DeCarlo
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-73
+videos:
+charges:
 ---
 - [News Report](https://www.latimes.com/world-nation/story/2021-02-04/reporting-or-rioting-grand-jury-indicts-capitol-rioters-who-claim-theyre-journalists)
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)

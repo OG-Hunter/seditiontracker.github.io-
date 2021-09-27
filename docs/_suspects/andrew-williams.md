@@ -1,6 +1,7 @@
 ---
 name: Andrew Williams
 lastName: Williams
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-45
+videos:
+charges:
 ---
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

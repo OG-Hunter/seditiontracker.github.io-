@@ -1,6 +1,7 @@
 ---
 name: Greg Rubenacker
 lastName: Rubenacker
+hashtag:
 aka:
 residence: New York
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-193
+videos:
+charges:
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371506/download)

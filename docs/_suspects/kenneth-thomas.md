@@ -1,6 +1,7 @@
 ---
 name: Kenneth Thomas
 lastName: Thomas
+hashtag:
 aka: Pi Annon
 residence: Ohio
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-448
+videos:
+charges:
 ---
 - [News Report](https://pittsburgh.cbslocal.com/2021/05/27/ohio-man-charged-with-assaulting-officers-in-us-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398806/download)

@@ -1,6 +1,7 @@
 ---
 name: Edward Rodriguez
 lastName: Rodriguez
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -28,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/here-in-america-we-fight-back-formally-dressed-man-dubbed-suitmacer-charged-with-spraying-police-during-capitol-siege/ar-AALZYmU)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410871/download)
 - [Edgar macing police officers (Video)](https://twitter.com/1600PennPooch/status/1413630211774730242)

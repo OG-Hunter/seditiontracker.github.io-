@@ -1,6 +1,7 @@
 ---
 name: Jacob Lewis
 lastName: Lewis
+hashtag:
 aka:
 residence: California
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-100
+videos:
+charges:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)

@@ -1,6 +1,7 @@
 ---
 name: Garret Miller
 lastName: Miller
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-119
+videos:
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)

@@ -1,6 +1,7 @@
 ---
 name: Casey Cusick
 lastName: Cusick
+hashtag:
 aka:
 residence: Florida
 status: Charged

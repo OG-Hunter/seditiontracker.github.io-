@@ -1,6 +1,7 @@
 ---
 name: Patrick Montgomery
 lastName: Montgomery
+hashtag:
 aka:
 residence: Colorado
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-46
+videos:
+charges:
 ---
 - [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357711/download)

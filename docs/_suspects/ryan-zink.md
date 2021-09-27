@@ -1,6 +1,7 @@
 ---
 name: Ryan Zink
 lastName: Zink
+hashtag:
 aka: Ryan Scott Zink
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-191
+videos:
+charges:
 ---
 - [News Report](https://www.lubbockonline.com/story/news/crime/2021/02/04/lubbock-man-accused-participating-capitol-riots/4399609001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371576/download)

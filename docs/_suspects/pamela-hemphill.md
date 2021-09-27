@@ -1,6 +1,7 @@
 ---
 name: Pamela Hemphill
 lastName: Hemphill
+hashtag: IAmPamHemphill
 aka:
 residence: Idaho
 status: Charged
@@ -22,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Oh yeah. We broke the glass door. Watch the video. I’m with People’s Rights. Ammon Bundy.'
+quote: "Oh yeah. We broke the glass door. Watch the video. I’m with People’s Rights. Ammon Bundy."
 title: Pamela Hemphill charged on August 2, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

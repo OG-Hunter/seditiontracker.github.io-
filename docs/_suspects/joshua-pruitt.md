@@ -1,6 +1,7 @@
 ---
 name: Joshua Pruitt
 lastName: Pruitt
+hashtag:
 aka: JackedBeast
 residence: Washington, DC
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-23
+videos:
+charges:
 ---
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

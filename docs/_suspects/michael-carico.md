@@ -1,6 +1,7 @@
 ---
 name: Michael Carico
 lastName: Carico
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -32,6 +33,5 @@ caseNumber: 1:21-mj-537
 videos:
 charges:
 ---
-
 - [News Report](https://www.businessinsider.com/capitol-riot-suspect-navy-hat-camo-shirt-never-actually-served-2021-8?op=1)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423741/download)

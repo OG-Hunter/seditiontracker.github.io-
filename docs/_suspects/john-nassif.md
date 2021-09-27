@@ -1,6 +1,7 @@
 ---
 name: John Nassif
 lastName: Nassif
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-410
+videos:
+charges:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/05/10/winter-springs-man-charged-in-capitol-riot-after-tipsters-alerted-fbi-to-his-facebook-posts/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1392876/download)

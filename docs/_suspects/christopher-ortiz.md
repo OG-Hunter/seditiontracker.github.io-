@@ -1,6 +1,7 @@
 ---
 name: Christopher Ortiz
 lastName: Ortiz
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-158
+videos:
+charges:
 ---
 - [News Report](https://nypost.com/2021/01/27/instagram-dm-leads-to-capitol-rioters-arrest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361296/download)

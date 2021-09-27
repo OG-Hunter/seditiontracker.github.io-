@@ -1,6 +1,7 @@
 ---
 name: Michael Timbrook
 lastName: Timbrook
+hashtag:
 aka:
 residence: Tennessee
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-361
+videos:
+charges:
 ---
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)

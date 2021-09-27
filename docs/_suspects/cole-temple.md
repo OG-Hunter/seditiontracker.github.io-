@@ -1,6 +1,7 @@
 ---
 name: Cole Temple
 lastName: Temple
+hashtag:
 aka:
 residence: Ohio
 status: Charged
@@ -32,7 +33,6 @@ caseNumber: 1:21-mj-568
 videos:
 charges:
 ---
-
 - [News Report](https://www.13abc.com/2021/08/20/swanton-residents-charged-jan-6-riot-us-capitol/)
 - [Affidavit](https://www.scribd.com/document/520951756/Wilson-Affidavit#from_embed)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428571/download)

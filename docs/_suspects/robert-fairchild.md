@@ -1,6 +1,7 @@
 ---
 name: Robert Fairchild
 lastName: Fairchild
+hashtag:
 aka:
 residence: Florida
 status: Indicted

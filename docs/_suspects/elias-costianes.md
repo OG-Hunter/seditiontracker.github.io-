@@ -1,6 +1,7 @@
 ---
 name: Elias Costianes
 lastName: Costianes
+hashtag:
 aka:
 residence: Maryland
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-180
+videos:
+charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/02/12/maryland-man-elias-costianes-arrested-in-connection-to-capitol-riots-latest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378586/download)

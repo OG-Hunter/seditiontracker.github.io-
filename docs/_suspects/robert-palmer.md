@@ -1,6 +1,7 @@
 ---
 name: Robert Palmer
 lastName: Palmer
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-328
+videos:
+charges:
 ---
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)

@@ -1,6 +1,7 @@
 ---
 name: Mariposa Castro
 lastName: Castro
+hashtag:
 aka: Imelda Castro
 residence: California
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-299
+videos:
+charges:
 ---
 - [News Report](https://www.ktvu.com/news/gilroy-woman-charged-in-capitol-riot)
 - [Self Incrimination (VIDEO)](https://twitter.com/henrykleeKTVU/status/1360386497577275394)

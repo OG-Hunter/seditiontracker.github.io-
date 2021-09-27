@@ -1,6 +1,7 @@
 ---
 name: Carey Walden
 lastName: Walden
+hashtag:
 aka:
 residence: Missouri
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-004
+videos:
+charges:
 ---
 - [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)

@@ -1,6 +1,7 @@
 ---
 name: Daniel Caldwell
 lastName: Caldwell
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-181
+videos:
+charges:
 ---
 - [News Report](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)

@@ -1,6 +1,7 @@
 ---
 name: Nicholes Lentz
 lastName: Lentz
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-206
+videos:
+charges:
 ---
 - [News Report](https://www.miamiherald.com/article249418810.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Criminal%20Complaint.pdf)

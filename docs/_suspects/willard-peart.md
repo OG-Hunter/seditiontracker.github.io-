@@ -1,6 +1,7 @@
 ---
 name: Willard Peart
 lastName: Peart
+hashtag:
 aka:
 residence: Utah
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 45
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.abc4.com/news/local-news/southern-utah-man-arrested-after-admitting-to-entering-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389171/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389176/download)

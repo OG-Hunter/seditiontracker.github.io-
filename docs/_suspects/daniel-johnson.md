@@ -1,6 +1,7 @@
 ---
 name: Daniel Johnson
 lastName: Johnson
+hashtag:
 aka:
 residence: Minnesota
 status: Charged

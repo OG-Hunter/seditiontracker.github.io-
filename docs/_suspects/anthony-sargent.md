@@ -1,6 +1,7 @@
 ---
 name: Anthony Sargent
 lastName: Sargent
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -32,6 +33,5 @@ caseNumber: 1:21-mj-600
 videos:
 charges:
 ---
-
 - [News Report](https://twitter.com/ryanjreilly/status/1440346134887559178)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435886/download)

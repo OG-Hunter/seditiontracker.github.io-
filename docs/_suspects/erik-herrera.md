@@ -1,6 +1,7 @@
 ---
 name: Erik Herrera
 lastName: Herrera
+hashtag:
 aka:
 residence: California
 status: Charged
@@ -32,5 +33,4 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf)

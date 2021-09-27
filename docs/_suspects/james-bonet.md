@@ -1,6 +1,7 @@
 ---
 name: James Bonet
 lastName: Bonet
+hashtag:
 aka:
 residence: New&nbsp;York
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-121
+videos:
+charges:
 ---
 - [News Report](https://www.timesunion.com/news/article/No-weed-for-Glens-Falls-man-charged-in-attack-on-15903349.php)
 - [Complaint](https://www.justice.gov/opa/page/file/1361446/download)

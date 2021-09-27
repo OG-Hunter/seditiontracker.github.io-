@@ -1,6 +1,7 @@
 ---
 name: David Blair
 lastName: Blair
+hashtag:
 aka:
 residence: Maryland
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-186
+videos:
+charges:
 ---
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-blair-capitol-search-warrant-20210202-x4uzotfxhng5ddglhnl5npeonu-story.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Blair%20Criminal%20Complaint.pdf)

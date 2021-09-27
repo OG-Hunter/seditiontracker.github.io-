@@ -1,6 +1,7 @@
 ---
 name: Leo Bozell
 lastName: Bozell
+hashtag:
 aka: Zeek, Zeeker
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-216
+videos:
+charges:
 ---
 - [News Report](https://talkingpointsmemo.com/news/conservative-royalty-william-f-buckleys-great-nephew-charged-with-storming-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371296/download)

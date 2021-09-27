@@ -1,6 +1,7 @@
 ---
 name: John Strand
 lastName: Strand
+hashtag:
 aka:
 residence: California
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-85
+videos:
+charges:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)

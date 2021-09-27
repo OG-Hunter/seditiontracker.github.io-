@@ -1,6 +1,7 @@
 ---
 name: Victoria White
 lastName: White
+hashtag:
 aka:
 residence: Minnesota
 status: Indicted
@@ -32,7 +33,6 @@ caseNumber: 1:21-mj-356
 videos:
 charges:
 ---
-
 - [News Report](https://krocnews.com/rochester-woman-faces-6-federal-charges-connected-to-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385536/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385541/download)

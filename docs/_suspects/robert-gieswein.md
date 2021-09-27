@@ -1,6 +1,7 @@
 ---
 name: Robert Gieswein
 lastName: Gieswein
+hashtag:
 aka: Machine Gun Bobby
 residence: Colorado
 status: Indicted

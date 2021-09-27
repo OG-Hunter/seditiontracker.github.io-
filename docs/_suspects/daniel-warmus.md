@@ -1,6 +1,7 @@
 ---
 name: Daniel Warmus
 lastName: Warmus
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -28,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.wivb.com/news/fbi-arrests-alden-man-for-alleged-participation-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1395081/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1395086/download)

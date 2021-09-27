@@ -1,15 +1,16 @@
 ---
 name: Couy Griffin
 lastName: Griffin
+hashtag: CouyGriffin
 aka:
 residence: New Mexico
 status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-02-08
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 47
 occupation: County Commissioner
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-92
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (Image)](/images/after/couy-griffin.png)

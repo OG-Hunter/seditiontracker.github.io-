@@ -1,6 +1,7 @@
 ---
 name: Taylor Johnatakis
 lastName: Johnatakis
+hashtag:
 aka:
 residence: Washington
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-91
+videos:
+charges:
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)

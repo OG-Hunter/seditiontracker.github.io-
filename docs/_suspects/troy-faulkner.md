@@ -1,6 +1,7 @@
 ---
 name: Troy Faulkner
 lastName: Faulkner
+hashtag:
 aka:
 residence: Ohio
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-126
+videos:
+charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/genius-wore-jacket-with-his-companys-name-and-phone-number-on-it-while-storming-the-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371376/download)

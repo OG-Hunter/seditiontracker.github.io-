@@ -1,6 +1,7 @@
 ---
 name: Chase Allen
 lastName: Allen
+hashtag: BostonWhiteBeanAOM
 aka:
 residence: Massachusetts
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-482
+videos:
+charges:
 ---
 
 - [News Report](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)

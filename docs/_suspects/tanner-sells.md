@@ -1,6 +1,7 @@
 ---
 name: Tanner Sells
 lastName: Sells
+hashtag:
 aka:
 residence: Oklahoma
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 25
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.oklahoman.com/story/news/2021/05/17/fifth-oklahoman-charged-us-capitol-attack-jan-6/5137167001/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tanner%20Sells%20Statement%20of%20Facts.pdf)

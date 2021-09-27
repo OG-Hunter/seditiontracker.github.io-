@@ -1,6 +1,7 @@
 ---
 name: David Wiersma
 lastName: Wiersma
+hashtag:
 aka:
 residence: Illinois
 status: Charged
@@ -32,6 +33,5 @@ caseNumber: 1:21-mj-599
 videos:
 charges:
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2021/9/21/22686870/like-going-shopping-mall-two-arrested-suburbs-alleged-role-us-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download)

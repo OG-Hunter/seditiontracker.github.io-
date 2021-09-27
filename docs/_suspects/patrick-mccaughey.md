@@ -1,6 +1,7 @@
 ---
 name: Patrick McCaughey
 lastName: McCaughey
+hashtag:
 aka:
 residence: Connecticut
 status: Indicted

@@ -1,6 +1,7 @@
 ---
 name: Dawn Bancroft
 lastName: Bancroft
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-271
+videos:
+charges:
 ---
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)

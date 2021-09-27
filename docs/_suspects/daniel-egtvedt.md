@@ -1,6 +1,7 @@
 ---
 name: Daniel Egtvedt
 lastName: Egtvedt
+hashtag:
 aka:
 residence: Maryland
 status: Indicted

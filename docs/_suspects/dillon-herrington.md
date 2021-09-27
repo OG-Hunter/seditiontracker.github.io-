@@ -1,6 +1,7 @@
 ---
 name: Dillon Herrington
 lastName: Herrington
+hashtag:
 aka:
 residence: Alabama
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 29
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.waff.com/2021/06/08/court-documents-state-madison-man-nicknamed-magalumberjack-charged-with-assaulting-federal-officer-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402556/download)

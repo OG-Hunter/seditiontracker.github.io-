@@ -1,6 +1,7 @@
 ---
 name: Raechel Genco
 lastName: Genco
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-231
+videos:
+charges:
 ---
 - [News Report](http://levittownnow.com/2021/02/25/bristol-twp-woman-charged-as-part-of-capitol-insurrection-investigation/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raechel%20Genco%20Criminal%20Complaint.pdf)

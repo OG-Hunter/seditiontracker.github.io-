@@ -1,6 +1,7 @@
 ---
 name: William Pepe
 lastName: Pepe
+hashtag:
 aka:
 residence: New York
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-52
+videos:
+charges:
 ---
 - [News Report](https://www.foxnews.com/us/new-york-mta-metro-north-capitol-riots)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

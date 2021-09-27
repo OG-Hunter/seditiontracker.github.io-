@@ -1,6 +1,7 @@
 ---
 name: Benjamin Torre
 lastName: Torre
+hashtag:
 aka:
 residence: Georgia
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-143
+videos:
+charges:
 ---
 - [News Report](https://www.cbs46.com/news/dawsonville-23-year-old-arrested-in-connection-to-capitol-hill-violence/article_2ccc63f2-6b08-11eb-9aef-0f13cbd239eb.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365776/download)

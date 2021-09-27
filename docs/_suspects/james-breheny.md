@@ -1,6 +1,7 @@
 ---
 name: James Breheny
 lastName: Breheny
+hashtag:
 aka: Seamus Evers
 residence: New York
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 61
 occupation:
 affiliations: Oath Keepers
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.cbsnews.com/news/oath-keeper-james-breheny-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395881/download)

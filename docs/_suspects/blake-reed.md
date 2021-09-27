@@ -1,6 +1,7 @@
 ---
 name: Blake Reed
 lastName: Reed
+hashtag:
 aka:
 residence: Tennessee
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-204
+videos:
+charges:
 ---
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)

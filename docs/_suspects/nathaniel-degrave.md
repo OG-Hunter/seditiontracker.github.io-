@@ -1,6 +1,7 @@
 ---
 name: Nathaniel Degrave
 lastName: Degrave
+hashtag:
 aka:
 residence: Nevada
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-90
+videos:
+charges:
 ---
 - [News Report](https://www.8newsnow.com/i-team/i-team-special-reports/i-team-las-vegas-nevada-man-accused-of-taking-part-in-capitol-riot-called-president-trump-his-idol-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362391/download)

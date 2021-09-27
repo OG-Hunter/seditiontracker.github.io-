@@ -1,6 +1,7 @@
 ---
 name: Lisa Eisenhart
 lastName: Eisenhart
+hashtag:
 aka:
 residence: Georgia
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-118
+videos:
+charges:
 ---
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)

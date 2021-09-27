@@ -1,6 +1,7 @@
 ---
 name: Matthew Martin
 lastName: Martin
+hashtag:
 aka:
 residence: New Mexico
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-394
+videos:
+charges:
 ---
 - [News Report](https://www.santafenewmexican.com/news/local_news/santa-fe-man-charged-in-capitol-riot/article_a41068ac-a3af-11eb-a485-9bd760829606.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388941/download)

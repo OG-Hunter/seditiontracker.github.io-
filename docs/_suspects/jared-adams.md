@@ -1,15 +1,16 @@
 ---
 name: Jared Adams
 lastName: Adams
+hashtag: JaredHunterAdams
 aka:
 residence: Ohio
 status: Charged
 date: 2021-03-05
 charged: 2021-03-05
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 26
 occupation:
@@ -29,7 +30,10 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-212
+videos:
+charges:
 ---
+
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/03/09/plain-city-man-latest-ohioans-arrested-jan-6-capitol-riot/6923674002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378326/download)

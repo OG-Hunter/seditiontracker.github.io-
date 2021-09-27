@@ -1,6 +1,7 @@
 ---
 name: Brian McCreary
 lastName: McCreary
+hashtag:
 aka:
 residence: Massachusetts
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-125
+videos:
+charges:
 ---
 - [News Report](https://www.berkshireeagle.com/news/local/i-love-our-country-north-adams-man-explains-why-he-documented-riot-from-inside-capitol/article_357939b6-67c1-11eb-a153-878373b1ff53.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371451/download)

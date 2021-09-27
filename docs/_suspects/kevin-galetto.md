@@ -1,6 +1,7 @@
 ---
 name: Kevin Galetto
 lastName: Galetto
+hashtag:
 aka:
 residence: California
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-386
+videos:
+charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/61-year-old-westminster-man-arrested-in-connection-with-jan-6-capitol-riots/ar-BB1fZg2s)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389316/download)

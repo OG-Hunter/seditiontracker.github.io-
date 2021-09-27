@@ -1,6 +1,7 @@
 ---
 name: Walter Messer
 lastName: Messer
+hashtag:
 aka:
 residence: Ohio
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-541
+videos:
+charges:
 ---
 - [News Report](https://www.daytondailynews.com/crime/fbi-arrests-englewood-man-piqua-woman-in-us-capitol-siege/5F6DZFU6YVGDHIQECDLII7IOSY/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417576/download)

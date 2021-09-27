@@ -1,6 +1,7 @@
 ---
 name: Christopher Quaglin
 lastName: Quaglin
+hashtag:
 aka:
 residence: New Jersey
 status: Indicted

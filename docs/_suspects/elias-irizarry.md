@@ -1,6 +1,7 @@
 ---
 name: Elias Irizarry
 lastName: Irizarry
+hashtag:
 aka:
 residence: South Carolina
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-282
+videos:
+charges:
 ---
 - [News Report](https://abcnews4.com/news/local/citadel-cadet-charged-in-capitol-riot-probe-bonds-out-of-jail-1st-court-date-set)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386301/download)

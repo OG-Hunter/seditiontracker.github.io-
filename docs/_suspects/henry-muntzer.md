@@ -1,6 +1,7 @@
 ---
 name: Henry Muntzer
 lastName: Muntzer
+hashtag:
 aka:
 residence: Montana
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-105
+videos:
+charges:
 ---
 - [News Report](https://www.usnews.com/news/best-states/montana/articles/2021-01-21/montana-businessman-charged-in-us-capitol-breach)
 - [Complaint](https://www.justice.gov/opa/page/file/1357776/download)

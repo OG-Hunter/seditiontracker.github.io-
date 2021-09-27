@@ -1,6 +1,7 @@
 ---
 name: Vitali GossJankowski
 lastName: GossJankowski
+hashtag:
 aka:
 residence: Washington, DC
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-123
+videos:
+charges:
 ---
 - [News Report](https://dcist.com/story/21/01/19/gallaudet-student-charged-allegedly-trying-to-storm-us-capitol-with-taser/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356136/download)

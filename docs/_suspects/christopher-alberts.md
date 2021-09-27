@@ -1,6 +1,7 @@
 ---
 name: Christopher Alberts
 lastName: Alberts
+hashtag: ChristopherMichaelAlberts
 aka:
 residence: Maryland
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-26
+videos:
+charges:
 ---
 
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-marylanders-arrested-at-capitol-20210107-nd4fjzvmifdxflacbby4mxmyqu-story.html)

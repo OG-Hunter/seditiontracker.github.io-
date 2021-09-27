@@ -1,6 +1,7 @@
 ---
 name: Emanuel Jackson
 lastName: Jackson
+hashtag:
 aka:
 residence: Washington, DC
 status: Charged

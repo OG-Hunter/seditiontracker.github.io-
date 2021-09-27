@@ -1,6 +1,7 @@
 ---
 name: Joshua Haynes
 lastName: Haynes
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 39
 occupation:
 affiliations: Proud Boys
@@ -27,10 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
-- [Incriminating Evidence (VIDEO)](https://twitter.com/Journo_Christal/status/1346945835368501249)
-- [Incriminating Evidence (VIDEO)](https://youtu.be/ebh0o4BdKLs)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)

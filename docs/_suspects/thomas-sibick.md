@@ -1,6 +1,7 @@
 ---
 name: Thomas Sibick
 lastName: Sibick
+hashtag:
 aka:
 residence: New York
 status: Indicted

@@ -1,6 +1,7 @@
 ---
 name: Christopher Grider
 lastName: Grider
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-22
+videos:
+charges:
 ---
 - [News Report](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1358251/download)

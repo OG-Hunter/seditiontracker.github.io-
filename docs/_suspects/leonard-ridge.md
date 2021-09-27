@@ -1,6 +1,7 @@
 ---
 name: Leonard Ridge
 lastName: Ridge
+hashtag:
 aka: Pearce Ridge
 residence: Pennsylvania
 status: Indicted
@@ -32,7 +33,6 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://6abc.com/leonard-ridge-capitol-riot-bucks-county-pennsylvania-snapchat/10675548/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1396541/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Pearso%20Ridge%20IV%20Indictment.pdf)

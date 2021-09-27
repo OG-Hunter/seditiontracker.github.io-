@@ -1,6 +1,7 @@
 ---
 name: Jeffery Finley
 lastName: Finley
+hashtag:
 aka:
 residence: West Virginia
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-328
+videos:
+charges:
 ---
 - [News Report](https://www.usnews.com/news/best-states/west-virginia/articles/2021-04-06/wva-man-charged-with-entering-us-capitol-during-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393631/download)

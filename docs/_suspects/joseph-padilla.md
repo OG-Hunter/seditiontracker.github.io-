@@ -1,6 +1,7 @@
 ---
 name: Joseph Padilla
 lastName: Padilla
+hashtag:
 aka: Jose Padilla
 residence: Tennessee
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-214
+videos:
+charges:
 ---
 - [News Report](https://www.timesfreepress.com/news/local/story/2021/feb/23/chattanooga-area-man-accused-participating-capitol-riot-january-6-arrested/542166/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371481/download)

@@ -1,6 +1,7 @@
 ---
 name: Douglas Wangler
 lastName: Wangler
+hashtag:
 aka:
 residence: Illinois
 status: Convicted

@@ -1,6 +1,7 @@
 ---
 name: Riley Williams
 lastName: Williams
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-99
+videos:
+charges:
 ---
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/18/957979421/fbi-seeking-woman-who-may-have-stolen-speaker-pelosis-laptop)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357051/download)

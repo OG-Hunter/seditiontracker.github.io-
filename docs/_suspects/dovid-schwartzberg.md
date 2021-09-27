@@ -1,6 +1,7 @@
 ---
 name: Dovid Schwartzberg
 lastName: Schwartzberg
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-338
+videos:
+charges:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/19-year-old-brooklynite-accused-of-participating-in-u-s-capitol-siege/3009290/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388391/download)

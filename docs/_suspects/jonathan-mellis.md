@@ -1,6 +1,7 @@
 ---
 name: Jonathan Mellis
 lastName: Mellis
+hashtag:
 aka: Jon Gennaro
 residence: Virginia
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-206
+videos:
+charges:
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/16/capitol-raider-boasted-facebook-proudly-storming-c/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371456/download)

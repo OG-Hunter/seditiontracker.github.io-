@@ -1,6 +1,7 @@
 ---
 name: Michael Eckerman
 lastName: Eckerman
+hashtag:
 aka:
 residence: Kansas
 status: Charged

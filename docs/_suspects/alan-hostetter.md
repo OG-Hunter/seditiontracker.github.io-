@@ -1,6 +1,7 @@
 ---
 name: Alan Hostetter
 lastName: Hostetter
+hashtag: IamAlanHostetter
 aka:
 residence: California
 status: Indicted
@@ -22,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Some people at the highest levels need to be made an example of with an execution or two or three.'
+quote: "Some people at the highest levels need to be made an example of with an execution or two or three."
 title: Alan Hostetter charged on June 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

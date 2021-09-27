@@ -1,6 +1,7 @@
 ---
 name: James Little
 lastName: Little
+hashtag:
 aka:
 residence: North Carolina
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-315
+videos:
+charges:
 ---
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)

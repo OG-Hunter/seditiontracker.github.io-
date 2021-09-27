@@ -1,6 +1,7 @@
 ---
 name: Joshua Lollar
 lastName: Lollar
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-152
+videos:
+charges:
 ---
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355466/download)

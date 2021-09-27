@@ -1,6 +1,7 @@
 ---
 name: Mathew Capsel
 lastName: Capsel
+hashtag:
 aka: Mateo Q Capsel
 residence: Illinois
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 27
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://abc7chicago.com/capitol-riot-dc-riots-matthew-capsel-tik-tok/10079241/)
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)

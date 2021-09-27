@@ -1,6 +1,7 @@
 ---
 name: James Mels
 lastName: Mels
+hashtag:
 aka:
 residence: Michigan
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-184
+videos:
+charges:
 ---
 - [News Report](https://www.freep.com/story/news/local/michigan/macomb/2021/02/11/us-capitol-riot-james-mels-michigan/6721642002/)
 - [Statement of Facts](https://www.justice.gov/doj/case-multi-defendant/file/1366576/download)

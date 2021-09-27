@@ -1,6 +1,7 @@
 ---
 name: Robert Packer
 lastName: Packer
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-103
+videos:
+charges:
 ---
 - [News Report](https://www.cbsnews.com/news/camp-auschwitz-shirt-robert-packer-arrested-virginia/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

@@ -1,6 +1,7 @@
 ---
 name: Timothy O'Malley
 lastName: O'Malley
+hashtag:
 aka:
 residence: FLorida
 status: Charged
@@ -29,7 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-504
+videos:
+charges:
 ---
-
 - [News Report](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408321/download)

@@ -1,6 +1,7 @@
 ---
 name: Timothy Williams
 lastName: Williams
+hashtag:
 aka:
 residence: Colorado
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.cpr.org/2021/06/04/man-from-trinidad-allegedly-took-selfie-during-january-6-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401816/download)

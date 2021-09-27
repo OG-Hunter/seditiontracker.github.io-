@@ -1,6 +1,7 @@
 ---
 name: Hector Vargas Santos
 lastName: Vargas Santos
+hashtag:
 aka:
 residence: New Jersey
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-47
+videos:
+charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/politics/fbi-new-jersey-man-took-video-selfie-inside-capitol-detailed-his-location-during-siege/ar-BB1d746o)
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)

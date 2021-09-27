@@ -1,6 +1,7 @@
 ---
 name: Eric Bochene
 lastName: Bochene
+hashtag:
 aka:
 residence: New York
 status: Charged

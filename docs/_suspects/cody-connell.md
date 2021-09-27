@@ -1,6 +1,7 @@
 ---
 name: Cody Connell
 lastName: Connell
+hashtag:
 aka:
 residence: Louisiana
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-84
+videos:
+charges:
 ---
 - [News Report](https://www.knoe.com/2021/01/17/la-man-and-cousin-arrested-following-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358936/download)

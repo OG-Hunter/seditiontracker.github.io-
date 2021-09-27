@@ -1,6 +1,7 @@
 ---
 name: Anthony Griffith
 lastName: Griffith
+hashtag:
 aka:
 residence: Oklahoma
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-244
+videos:
+charges:
 ---
 - [News Report](https://tulsaworld.com/news/state-and-regional/crime-and-courts/two-fort-gibson-men-arrested-in-connection-with-u-s-capitol-riot/article_fbceb6d8-7d3b-11eb-8b67-eb689946da92.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378856/download)

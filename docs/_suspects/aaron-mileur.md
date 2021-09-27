@@ -1,6 +1,7 @@
 ---
 name: Aaron Mileur
 lastName: Mileur
+hashtag:
 aka:
 residence: Alaska
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-248
+videos:
+charges:
 ---
 - [News Report](https://www.ktoo.org/2021/03/16/anchorage-man-arrested-charged-with-participating-in-us-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393656/download)

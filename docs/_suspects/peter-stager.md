@@ -1,6 +1,7 @@
 ---
 name: Peter Stager
 lastName: Stager
+hashtag:
 aka:
 residence: Arkansas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-35
+videos:
+charges:
 ---
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)

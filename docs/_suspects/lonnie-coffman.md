@@ -1,6 +1,7 @@
 ---
 name: Lonnie Coffman
 lastName: Coffman
+hashtag:
 aka:
 residence: Alabama
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-4
+videos:
+charges:
 ---
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

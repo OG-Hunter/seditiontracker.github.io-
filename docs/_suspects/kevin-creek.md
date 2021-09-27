@@ -1,6 +1,7 @@
 ---
 name: Kevin Creek
 lastName: Creek
+hashtag:
 aka:
 residence: Georgia
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 46
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/georgia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

@@ -1,6 +1,7 @@
 ---
 name: Derek Gunby
 lastName: Gunby
+hashtag:
 aka:
 residence: South Carolina
 status: Charged
@@ -29,6 +30,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-508
+videos:
 charges:
 ---
 - [News Report](https://www.postandcourier.com/greenville/news/anderson-man-charged-in-january-us-capitol-riot-the-ninth-from-sc/article_09a31e3a-f9f0-11eb-8f24-7f6764675850.html#tncms-source=article-nav-prev)

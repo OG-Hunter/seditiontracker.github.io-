@@ -1,6 +1,7 @@
 ---
 name: Bryan Betancur
 lastName: Betancur
+hashtag:
 aka: Bryan Clooney, Maximo Clooney
 residence: Maryland
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-51
+videos:
+charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/01/18/maryland-man-bryan-betancur-arrested-after-gps-monitor-places-him-at-us-capitol-during-riots-prosecutors-say/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355926/download)

@@ -1,6 +1,7 @@
 ---
 name: Matthew Dasilva
 lastName: Dasilva
+hashtag:
 aka:
 residence: Texas
 status: Charged
@@ -29,5 +30,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-520
+videos:
+charges:
 ---
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413481/download)

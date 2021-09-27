@@ -1,6 +1,7 @@
 ---
 name: Mark Leffingwell
 lastName: Leffingwell
+hashtag:
 aka:
 residence: Washington
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-5
+videos:
+charges:
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/crime/ex-washington-national-guardsman-among-first-indicted-in-attack-on-u-s-capitol/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

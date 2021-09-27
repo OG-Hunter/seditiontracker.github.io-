@@ -1,6 +1,7 @@
 ---
 name: Amy Schubert
 lastName: Schubert
+hashtag:
 aka:
 residence: Illinois
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-497
+videos:
+charges:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2021/7/26/22594897/crest-hill-couple-latest-illinoisans-charged-breach-u-s-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417721/download)

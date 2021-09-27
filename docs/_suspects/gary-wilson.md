@@ -1,6 +1,7 @@
 ---
 name: Gary Wilson
 lastName: Wilson
+hashtag:
 aka:
 residence: Utah
 status: Charged

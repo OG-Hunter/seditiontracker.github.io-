@@ -1,6 +1,7 @@
 ---
 name: Thomas Adams
 lastName: Adams
+hashtag: ThomasAdams
 aka:
 residence: Illinois
 status: Charged

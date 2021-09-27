@@ -1,6 +1,7 @@
 ---
 name: Troy Sargent
 lastName: Sargent
+hashtag:
 aka:
 residence: Massachusetts
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-258
+videos:
+charges:
 ---
 - [News Report](https://www.masslive.com/springfield/2021/03/troy-sargent-arrested-after-fbi-says-pittsfield-man-participated-in-violence-at-us-capitol.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379266/download)

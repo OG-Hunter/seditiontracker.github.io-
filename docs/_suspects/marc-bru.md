@@ -1,6 +1,7 @@
 ---
 name: Marc Bru
 lastName: Bru
+hashtag:
 aka:
 residence: Washington
 status: Indicted
@@ -10,6 +11,7 @@ indicted: 2021-05-12
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 41
 occupation:
 affiliations: Proud Boys
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.oregonlive.com/crime/2021/03/man-arrested-in-vancouver-accused-of-storming-us-capitol-and-entering-senate-gallery-on-jan-6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382586/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382591/download)

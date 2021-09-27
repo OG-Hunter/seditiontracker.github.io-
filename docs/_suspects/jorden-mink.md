@@ -1,6 +1,7 @@
 ---
 name: Jorden Mink
 lastName: Mink
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -10,6 +11,7 @@ indicted: 2021-02-24
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 27
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357221/download)

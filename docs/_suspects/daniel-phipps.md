@@ -1,6 +1,7 @@
 ---
 name: Daniel Phipps
 lastName: Phipps
+hashtag:
 aka: Chaz McCurry
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-44
+videos:
+charges:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/01/27/garland-man-who-posted-photo-of-himself-inside-capitol-building-is-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360726/download)

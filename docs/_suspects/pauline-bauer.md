@@ -1,6 +1,7 @@
 ---
 name: Pauline Bauer
 lastName: Bauer
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -10,6 +11,7 @@ indicted: 2021-06-04
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/they-need-to-hang-pennsylvania-woman-arrested-in-capitol-riot-investigation/ar-BB1gV8Pd)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395396/download)

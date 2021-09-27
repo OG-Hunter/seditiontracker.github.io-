@@ -1,6 +1,7 @@
 ---
 name: Graydon Young
 lastName: Young
+hashtag:
 aka:
 residence: Florida
 status: Convicted
@@ -29,6 +30,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-28
+videos:
 charges:
 - code: 18 USC § 371
   title: Conspiracy to commit an offense against the United States

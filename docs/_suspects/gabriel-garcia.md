@@ -1,6 +1,7 @@
 ---
 name: Gabriel Garcia
 lastName: Garcia
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-129
+videos:
+charges:
 ---
-
 - [News Report](https://www.miamiherald.com/news/local/crime/article248608940.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356776/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356771/download)

@@ -1,15 +1,16 @@
 ---
 name: Tommy Allan
 lastName: Allan
+hashtag: TommyFrederickAllan
 aka:
 residence: California
 status: Indicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-02
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age: 52
 occupation: Real Estate (Former)
@@ -22,14 +23,17 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death.'
+quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 title: Tommy Allan charged on January 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-64
+videos:
+charges:
 ---
+
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1360801/download)

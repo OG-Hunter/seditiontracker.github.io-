@@ -1,6 +1,7 @@
 ---
 name: Brittiany Dillon
 lastName: Dillon
+hashtag:
 aka:
 residence: Maryland
 status: Convicted
@@ -29,6 +30,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-360
+videos:
 charges:
 - code: 18 USC § 5104(e)(2)(D)
   title: Disorderly Conduct in a Capitol Building

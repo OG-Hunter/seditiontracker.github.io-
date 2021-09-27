@@ -1,6 +1,7 @@
 ---
 name: Rachael Pert
 lastName: Pert
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-139
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)

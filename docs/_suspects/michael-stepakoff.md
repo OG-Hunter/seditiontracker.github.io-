@@ -1,6 +1,7 @@
 ---
 name: Michael Stepakoff
 lastName: Stepakoff
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-96
+videos:
+charges:
 ---
 - [News Report](https://www.wfla.com/news/pinellas-county/palm-harbor-rabbi-arrested-accused-of-storming-us-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362386/download)

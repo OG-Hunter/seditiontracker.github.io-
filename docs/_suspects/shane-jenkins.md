@@ -1,6 +1,7 @@
 ---
 name: Shane Jenkins
 lastName: Jenkins
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-245
+videos:
+charges:
 ---
 - [News Report](https://www.keranews.org/news/2021-03-08/houston-man-arrested-after-wielding-hatchet-at-u-s-capitol-insurrection-fbi-says)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378906/download)

@@ -1,6 +1,7 @@
 ---
 name: Bradley Bennett
 lastName: Bennett
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-312
+videos:
+charges:
 ---
 - [News Report](https://www.houstonpublicmedia.org/articles/news/criminal-justice/2021/03/30/394724/texas-lifestyle-coach-and-her-boyfriend-arrested-for-joining-capitol-insurrection-fbi-says/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386551/download)

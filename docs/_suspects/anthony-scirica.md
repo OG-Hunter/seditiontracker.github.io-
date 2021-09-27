@@ -1,6 +1,7 @@
 ---
 name: Anthony Scirica
 lastName: Scirica
+hashtag:
 aka:
 residence: North Carolina
 status: Charged
@@ -28,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-anthony-scirica-charged-after-friend-snapchats-about-him-tv-1601370)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405461/download)

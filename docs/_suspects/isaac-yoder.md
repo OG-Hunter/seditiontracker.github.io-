@@ -1,6 +1,7 @@
 ---
 name: Isaac Yoder
 lastName: Yoder
+hashtag:
 aka:
 residence: Missouri
 status: Charged
@@ -29,7 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/feds-charge-isaac-yoder-missouri-man-who-stormed-capitol-in-george-washington-costume)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Samuel%20Yoder%20Criminal%20Complaint.pdf)

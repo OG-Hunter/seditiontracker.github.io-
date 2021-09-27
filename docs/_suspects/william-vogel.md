@@ -1,6 +1,7 @@
 ---
 name: William Vogel
 lastName: Vogel
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-56
+videos:
+charges:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/dutchess-man-charged-for-taking-part-in-capitol-riot-fbi/ar-BB1d9jwd)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360591/download)

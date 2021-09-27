@@ -1,6 +1,7 @@
 ---
 name: Zachary Wilson
 lastName: Wilson
+hashtag:
 aka:
 residence: Missouri
 status: Charged

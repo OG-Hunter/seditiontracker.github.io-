@@ -1,6 +1,7 @@
 ---
 name: Brian Bingham
 lastName: Bingham
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 35
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.courierpostonline.com/story/news/2021/06/23/brian-bingham-capitol-riot-insurrection-pennsville/5330587001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405791/download)

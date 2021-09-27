@@ -1,6 +1,7 @@
 ---
 name: David Mehaffie
 lastName: Mehaffie
+hashtag:
 aka: '#TunnelCommander'
 residence: Ohio
 status: Indicted

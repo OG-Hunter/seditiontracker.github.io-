@@ -1,6 +1,7 @@
 ---
 name: Stephen Horn
 lastName: Horn
+hashtag:
 aka:
 residence: North Carolina
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-301
+videos:
+charges:
 ---
 - [News Report](https://www.cbs17.com/news/local-news/wake-county-news/it-was-important-to-document-the-event-wake-forest-man-spotted-in-ny-times-during-capitol-insurrection-turns-himself-in/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385726/download)

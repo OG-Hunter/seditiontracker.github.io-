@@ -1,6 +1,7 @@
 ---
 name: Dale Shalvey
 lastName: Shalvey
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-334
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/pennsylvania-rioter-dale-shalvey-charged-after-going-through-senate-papers-during-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379321/download)

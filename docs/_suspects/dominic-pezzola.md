@@ -1,6 +1,7 @@
 ---
 name: Dominic Pezzola
 lastName: Pezzola
+hashtag:
 aka: Spaz
 residence: New York
 status: Indicted

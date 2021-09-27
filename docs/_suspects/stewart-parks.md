@@ -1,6 +1,7 @@
 ---
 name: Stewart Parks
 lastName: Parks
+hashtag:
 aka:
 residence: Tennessee
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-411
+videos:
+charges:
 ---
 - [News Report](https://www.wsmv.com/news/two-middle-tennessee-residents-arrested-for-role-in-us-capitol-riot/article_8f4af518-c4c0-11eb-be8e-af86539b82fc.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401226/download)

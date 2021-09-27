@@ -1,6 +1,7 @@
 ---
 name: Stephen Baker
 lastName: Baker
+hashtag:
 aka: Stephen Ignoramus
 residence: North Carolina
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-273
+videos:
+charges:
 ---
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)

@@ -1,15 +1,16 @@
 ---
 name: Zachary Alam
 lastName: Alam
+hashtag: HelmetBoy
 aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-01-30
 charged: 2021-01-30
 indicted: 2021-03-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 age:
 occupation:
@@ -22,7 +23,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Fuck the blue!'
+quote: "Fuck the blue!"
 title: Zachary Alam charged on January 30th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -32,6 +33,7 @@ caseNumber: 1:21-cr-190
 videos:
 charges:
 ---
+
 - [News Report](https://www.thedailybeast.com/rioter-charged-for-giving-capitol-cop-a-concussion-feds)
 - [Complaint](https://www.justice.gov/opa/page/file/1362956/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362956/download)

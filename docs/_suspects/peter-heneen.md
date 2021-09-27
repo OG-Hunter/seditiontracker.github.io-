@@ -1,6 +1,7 @@
 ---
 name: Peter Heneen
 lastName: Heneen
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation: Sheriff's Deputy
 affiliations: Polk County Sheriff
@@ -27,6 +29,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.wmfe.org/polk-deputy-arrested-for-making-threats-against-capitol/172515)

@@ -1,6 +1,7 @@
 ---
 name: Gary Edwards
 lastName: Edwards
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 68
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://6abc.com/capitol-riot-arrest-bucks-county-churchville-gary-edwards/10585377/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391671/download)

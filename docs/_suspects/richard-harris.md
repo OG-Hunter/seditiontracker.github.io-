@@ -1,6 +1,7 @@
 ---
 name: Richard Harris
 lastName: Harris
+hashtag:
 aka:
 residence: Oregon
 status: Indicted

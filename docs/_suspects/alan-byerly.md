@@ -1,6 +1,7 @@
 ---
 name: Alan Byerly
 lastName: Byerly
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged

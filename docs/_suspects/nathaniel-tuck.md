@@ -1,6 +1,7 @@
 ---
 name: Nathaniel Tuck
 lastName: Tuck
+hashtag:
 aka: Nathan Tuck, Tito
 residence: Florida
 status: Indicted
@@ -29,7 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-378
+videos:
+charges:
 ---
-
 - [News Report](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)

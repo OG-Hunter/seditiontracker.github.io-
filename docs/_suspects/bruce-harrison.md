@@ -1,6 +1,7 @@
 ---
 name: Bruce Harrison
 lastName: Harrison
+hashtag:
 aka:
 residence: Illinois
 status: Convicted

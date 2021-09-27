@@ -1,6 +1,7 @@
 ---
 name: Vaughn Gordon
 lastName: Gordon
+hashtag:
 aka:
 residence: Louisiana
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-99
+videos:
+charges:
 ---
 - [News Report](https://www.theadvocate.com/acadiana/news/article_489d5514-56b3-11eb-bbbb-2b9a6a6e6984.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354986/download)

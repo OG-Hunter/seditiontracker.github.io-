@@ -1,6 +1,7 @@
 ---
 name: Christina Gerding
 lastName: Gerding
+hashtag:
 aka:
 residence: Illinois
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-131
+videos:
+charges:
 ---
 - [News Report](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
 - [Complaint](https://www.justice.gov/opa/page/file/1361586/download)

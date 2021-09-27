@@ -1,6 +1,7 @@
 ---
 name: Jordan Revlett
 lastName: Revlett
+hashtag:
 aka:
 residence: Kentucky
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-281
+videos:
+charges:
 ---
 - [News Report](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)

@@ -1,6 +1,7 @@
 ---
 name: Albert Ciarpelli
 lastName: Ciarpelli
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-38
+videos:
+charges:
 ---
 - [News Report](https://www.syracuse.com/crime/2021/01/syracuse-man-charged-in-dc-riots-called-time-inside-the-capitol-a-little-adventure.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353446/download)

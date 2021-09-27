@@ -1,6 +1,7 @@
 ---
 name: Samuel Lazar
 lastName: Lazar
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-533
+videos:
+charges:
 ---
-
 - [News Report](https://www.huffpost.com/entry/samuel-lazar-fbi-doug-mastriano-trump-capitol-attack-jan-6_n_60be410be4b099fb31ca9350)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415916/download)
 - [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1410291458930774024?s=20)

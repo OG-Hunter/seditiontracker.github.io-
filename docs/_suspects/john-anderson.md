@@ -1,6 +1,7 @@
 ---
 name: John Anderson
 lastName: Anderson
+hashtag: BaldGambino
 aka:
 residence: Florida
 status: Deceased
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-215
+videos:
+charges:
 ---
 
 - [News Report](https://www.actionnewsjax.com/news/local/st-johns-county/local-man-faces-federal-judge-charged-connection-capitol-riots/VSL45JRAKREZJN3KB4T5QIR6SE/)

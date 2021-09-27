@@ -1,6 +1,7 @@
 ---
 name: Oliver Sarko
 lastName: Sarko
+hashtag:
 aka:
 residence: Ohio
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-358
+videos:
+charges:
 ---
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Oliver%20Louis%20Sarko%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393736/download)

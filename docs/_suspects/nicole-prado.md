@@ -1,6 +1,7 @@
 ---
 name: Nicole Prado
 lastName: Prado
+hashtag:
 aka:
 residence: Maryland
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-403
+videos:
+charges:
 ---
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/meet-the-new-congresswoman-friends-instagram-post-leads-to-womans-capitol-riot-arrest-nicole-prado-trump-gaithersburg/65-f436d15e-6d06-462d-9a94-5ac2d9ea4e11)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404496/download)

@@ -1,6 +1,7 @@
 ---
 name: Dustin Thompson
 lastName: Thompson
+hashtag:
 aka:
 residence: Ohio
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-161
+videos:
+charges:
 ---
 - [News Report](https://www.fox19.com/2021/01/26/fbi-more-ohioans-charged-violent-us-capitol-protest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)

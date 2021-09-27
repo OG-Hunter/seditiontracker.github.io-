@@ -1,6 +1,7 @@
 ---
 name: Adam Honeycutt
 lastName: Honeycutt
+hashtag:
 aka: Bundy
 residence: Florida
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-216
+videos:
+charges:
 ---
 - [News Report](https://www.news4jax.com/news/local/2021/02/11/jacksonville-fbi-agents-arrest-man-on-charges-connected-to-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366581/download)

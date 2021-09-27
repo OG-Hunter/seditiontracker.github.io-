@@ -1,6 +1,7 @@
 ---
 name: Thomas Baranyi
 lastName: Baranyi
+hashtag:
 aka:
 residence: New Jersey
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-62
+videos:
+charges:
 ---
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)

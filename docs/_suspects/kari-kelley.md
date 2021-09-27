@@ -1,6 +1,7 @@
 ---
 name: Kari Kelley
 lastName: Kelley
+hashtag:
 aka:
 residence: Alabama
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 40
 occupation: Insurance Adjuster
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/alabama-woman-accused-of-climbing-through-capitol-window-during-dc-riot/ar-BB1dQ3au)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379286/download)
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)

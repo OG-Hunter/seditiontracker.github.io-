@@ -1,6 +1,7 @@
 ---
 name: Shawn Witzemann
 lastName: Witzemann
+hashtag:
 aka: krampusnatch
 residence: New Mexico
 status: Charged
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-314
+videos:
+charges:
 ---
-
 - [News Report](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385356/download)

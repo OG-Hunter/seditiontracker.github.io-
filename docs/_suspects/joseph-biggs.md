@@ -1,6 +1,7 @@
 ---
 name: Joseph Biggs
 lastName: Biggs
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -32,7 +33,6 @@ caseNumber: 1:21-cr-175
 videos:
 charges:
 ---
-
 - [News Report](https://www.thedailybeast.com/joseph-biggs-proud-boys-leader-arrested-for-storming-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357251/download)
 - [Court Appearance (VIDEO)](https://www.youtube.com/watch?v=G9hkJRbSptI)

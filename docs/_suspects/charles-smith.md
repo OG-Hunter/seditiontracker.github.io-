@@ -1,6 +1,7 @@
 ---
 name: Charles Smith
 lastName: Smith
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged

@@ -1,6 +1,7 @@
 ---
 name: William Norwood
 lastName: Norwood
+hashtag:
 aka: Robbie Norwood
 residence: South Carolina
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-233
+videos:
+charges:
 ---
 - [News Report](https://www.nbcnews.com/news/us-news/south-carolina-man-charged-capitol-riot-bragged-he-dressed-antifa-n1259298)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378266/download)

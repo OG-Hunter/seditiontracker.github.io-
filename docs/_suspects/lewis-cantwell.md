@@ -1,6 +1,7 @@
 ---
 name: Lewis Cantwell
 lastName: Cantwell
+hashtag:
 aka:
 residence: North Carolina
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-89
+videos:
+charges:
 ---
 - [News Report](https://www.smokymountainnews.com/news/item/30846-sylva-man-arrested-in-connection-with-capitol-riots)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lewis%20Easton%20Cantwell%20Indictment.pdf)

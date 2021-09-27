@@ -1,6 +1,7 @@
 ---
 name: Brandon Fellows
 lastName: Fellows
+hashtag:
 aka:
 residence: New York
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-83
+videos:
+charges:
 ---
 - [News Report](https://dailygazette.com/2021/01/17/feds-schenectady-man-charged-in-capital-insurrection/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355906/download)

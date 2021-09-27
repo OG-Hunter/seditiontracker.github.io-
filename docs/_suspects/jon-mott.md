@@ -1,6 +1,7 @@
 ---
 name: Jon Mott
 lastName: Mott
+hashtag:
 aka:
 residence: Arkansas
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 38
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.ktlo.com/2021/05/14/mott-charged-with-four-offenses-stemming-from-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394311/download)

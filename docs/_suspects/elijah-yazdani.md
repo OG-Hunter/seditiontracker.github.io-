@@ -1,6 +1,7 @@
 ---
 name: Elijah Yazdani
 lastName: Yazdani
+hashtag:
 aka:
 residence: Ohio
 status: Charged
@@ -28,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392641/download)

@@ -1,6 +1,7 @@
 ---
 name: Derek Kinnison
 lastName: Kinnison
+hashtag:
 aka:
 residence: California
 status: Indicted

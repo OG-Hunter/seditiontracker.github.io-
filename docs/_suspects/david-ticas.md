@@ -1,6 +1,7 @@
 ---
 name: David Ticas
 lastName: Ticas
+hashtag:
 aka:
 residence: California
 status: Charged
@@ -32,5 +33,4 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Ticas%20Statement%20of%20Facts.pdf)

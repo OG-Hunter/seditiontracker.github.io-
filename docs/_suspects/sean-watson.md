@@ -1,6 +1,7 @@
 ---
 name: Sean Watson
 lastName: Watson
+hashtag:
 aka:
 residence: Texas
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age:
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390656/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390661/download)

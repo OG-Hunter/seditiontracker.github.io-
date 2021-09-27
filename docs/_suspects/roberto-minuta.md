@@ -1,6 +1,7 @@
 ---
 name: Roberto Minuta
 lastName: Minuta
+hashtag:
 aka:
 residence: New Jersey
 status: Indicted

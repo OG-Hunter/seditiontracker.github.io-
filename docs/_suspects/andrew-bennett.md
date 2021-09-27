@@ -1,6 +1,7 @@
 ---
 name: Andrew Bennett
 lastName: Bennett
+hashtag:
 aka:
 residence: Maryland
 status: Convicted
@@ -29,13 +30,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-227
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://baltimore.cbslocal.com/2021/01/26/andrew-ryan-bennet-columbia-maryland-man-linked-us-capitol-riots/)
 - [Complaint](https://www.justice.gov/file/1360786/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414711/download)

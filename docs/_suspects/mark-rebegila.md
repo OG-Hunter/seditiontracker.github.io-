@@ -1,6 +1,7 @@
 ---
 name: Mark Rebegila
 lastName: Rebegila
+hashtag:
 aka:
 residence: Kansas
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-283
+videos:
+charges:
 ---
 - [News Report](https://www.kansas.com/news/local/crime/article249988189.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379146/download)

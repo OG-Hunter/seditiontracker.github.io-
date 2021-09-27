@@ -1,6 +1,7 @@
 ---
 name: Jason Riddle
 lastName: Riddle
+hashtag:
 aka:
 residence: New Hampshire
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-304
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/wine-drinking-rioter-jason-riddle-sold-stolen-senate-doc-for-dollar40-feds)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371501/download)

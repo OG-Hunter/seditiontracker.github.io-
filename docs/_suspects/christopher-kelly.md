@@ -1,6 +1,7 @@
 ---
 name: Christopher Kelly
 lastName: Kelly
+hashtag:
 aka:
 residence: New York
 status: Dismissed
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed: 2021-06-02
+deceased:
 age: 44
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.nydailynews.com/new-york/ny-retired-nypd-brother-capitol-riot-charges-20210121-qnobfub6n5d6vexmco7jhktxem-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362961/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362961/download)

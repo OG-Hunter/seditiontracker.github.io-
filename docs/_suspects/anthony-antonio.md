@@ -1,6 +1,7 @@
 ---
 name: Anthony Antonio
 lastName: Antonio
+hashtag: BlackGlove805
 aka:
 residence: Illinois
 status: Indicted

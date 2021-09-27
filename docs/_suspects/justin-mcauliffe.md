@@ -1,6 +1,7 @@
 ---
 name: Justin Mcauliffe
 lastName: Mcauliffe
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-135
+videos:
+charges:
 ---
 - [News Report](https://nypost.com/2021/01/28/cpa-justin-mcauliffe-busted-for-role-in-deadly-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)

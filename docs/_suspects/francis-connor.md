@@ -1,6 +1,7 @@
 ---
 name: Francis Connor
 lastName: Connor
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -32,6 +33,5 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://nypost.com/2021/08/31/two-more-brooklyn-men-charged-in-capitol-riot/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235042/gov.uscourts.dcd.235042.1.1.pdf)

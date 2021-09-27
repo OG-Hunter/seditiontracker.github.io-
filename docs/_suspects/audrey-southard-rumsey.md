@@ -1,6 +1,7 @@
 ---
 name: Audrey Southard Rumsey
 lastName: Southard Rumsey
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-387
+videos:
+charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/florida-woman-assaulted-u-s-capitol-sergeant-with-a-flagpole-and-threatened-nancy-pelosi-on-jan-6th-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401016/download)

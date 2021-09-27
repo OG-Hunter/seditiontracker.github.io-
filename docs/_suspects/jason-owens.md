@@ -1,6 +1,7 @@
 ---
 name: Jason Owens
 lastName: Owens
+hashtag:
 aka:
 residence: Texas
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-376
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/jason-owens-father-of-skateboard-wielding-insurrectionist-charged-in-capitol-riots-feds-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388791/download)

@@ -1,6 +1,7 @@
 ---
 name: Patricia Todisco
 lastName: Todisco
+hashtag:
 aka:
 residence: New Jersey
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-205
+videos:
+charges:
 ---
 - [News Report](https://philadelphia.cbslocal.com/2021/01/22/marissa-suarez-us-capitol-riots-five-arrests-new-jersey-marissa-suarez-correctional-police-officer/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)

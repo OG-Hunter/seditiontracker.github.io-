@@ -1,6 +1,7 @@
 ---
 name: Michael Perkins
 lastName: Perkins
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -30,13 +31,12 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-447
 videos:
-  - title: GX 4.mp4 (0:00:27)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/84aeac70ce2b013960702cde48001122.mp4
-  - title: GX 8.mp4 (0:00:09)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/891345a0ce2b013960702cde48001122.mp4
+- title: GX 4.mp4 (0:00:27)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/84aeac70ce2b013960702cde48001122.mp4
+- title: GX 8.mp4 (0:00:09)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/891345a0ce2b013960702cde48001122.mp4
 charges:
 ---
-
 - [News Report](https://www.wfla.com/news/polk-county/polk-county-emt-among-arrests-linked-to-jan-6-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)

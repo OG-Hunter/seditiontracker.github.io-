@@ -1,6 +1,7 @@
 ---
 name: Simone Gold
 lastName: Gold
+hashtag:
 aka:
 residence: California
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-85
+videos:
+charges:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Interview)](https://www.washingtonpost.com/investigations/simone-gold-capitol-riot-coronavirus/2021/01/12/d1d39e84-545f-11eb-a817-e5e7f8a406d6_story.html)

@@ -1,6 +1,7 @@
 ---
 name: Arthur Jackman
 lastName: Jackman
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-378
+videos:
+charges:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/03/30/capitol-riot-suspect-in-custody-in-orlando/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1381341/download)

@@ -1,6 +1,7 @@
 ---
 name: Traci Sunstrum
 lastName: Sunstrum
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 44
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://news.wbfo.org/post/four-more-local-suspects-charged-us-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395326/download)

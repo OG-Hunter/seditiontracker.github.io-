@@ -1,6 +1,7 @@
 ---
 name: Isaac Sturgeon
 lastName: Sturgeon
+hashtag:
 aka:
 residence: Montana
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-91
+videos:
+charges:
 ---
 - [News Report](https://bbcbreakingnews.com/capitol-rioter-isaac-sturgeon-is-arrested-by-fbi-at-jfk-after-being-deported-from-kenya/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Steve%20Sturgeon%20Affidavit%20in%20Support%20of%20Removal.pdf)

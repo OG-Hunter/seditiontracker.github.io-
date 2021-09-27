@@ -1,6 +1,7 @@
 ---
 name: Anthime Gionet
 lastName: Gionet
+hashtag:
 aka: Tom Gionet, Baked Alaska
 residence: Arizona
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-14
+videos:
+charges:
 ---
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)

@@ -1,6 +1,7 @@
 ---
 name: James Lollis
 lastName: Lollis
+hashtag:
 aka:
 residence: South Carolina
 status: Charged

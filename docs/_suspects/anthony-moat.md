@@ -1,6 +1,7 @@
 ---
 name: Anthony Moat
 lastName: Moat
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-375
+videos:
+charges:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/prosecutors-file-charges-against-man-who-called-the-fbi-to-say-he-was-there-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385896/download)

@@ -1,6 +1,7 @@
 ---
 name: Nicholas Languerand
 lastName: Languerand
+hashtag:
 aka:
 residence: South Carolina
 status: Indicted
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.wyff4.com/article/instagram-post-leads-to-little-river-mans-arrest-for-alleged-role-in-deadly-capitol-riots-horry-county/36136043)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388816/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388821/download)

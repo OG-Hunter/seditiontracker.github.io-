@@ -1,6 +1,7 @@
 ---
 name: George Tanios
 lastName: Tanios
+hashtag:
 aka: Sandwich Nazi
 residence: West Virginia
 status: Indicted

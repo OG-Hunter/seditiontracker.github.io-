@@ -1,6 +1,7 @@
 ---
 name: Russell Alford
 lastName: Alford
+hashtag: RussellAlford
 aka:
 residence: Alabama
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-263
+videos:
+charges:
 ---
 
 - [News Report](https://www.al.com/news/birmingham/2021/03/i-wondered-when-yall-were-going-to-show-up-7th-alabamian-arrested-in-us-capitol-riot.html)

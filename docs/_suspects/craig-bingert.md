@@ -1,6 +1,7 @@
 ---
 name: Craig Bingert
 lastName: Bingert
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-91
+videos:
+charges:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/capitol-ideas/mc-nws-pa-slatington-man-craig-bingert-arrest-capitol-riots-20210118-zit2jmr6wjarri4gegtaqq5ray-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356991/download)

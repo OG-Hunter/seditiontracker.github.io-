@@ -1,6 +1,7 @@
 ---
 name: Tara Stottlemyer
 lastName: Stottlemyer
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -32,5 +33,4 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dale%20Jeremiah%20Shalvey%20and%20Tara%20Aileen%20Stottlemyer%20Superseding%20Indictment.pdf)

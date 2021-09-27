@@ -1,6 +1,7 @@
 ---
 name: Robert Sanford
 lastName: Sanford
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-86
+videos:
+charges:
 ---
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/jjabJi3k3h0KAkxYDoWY)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol)

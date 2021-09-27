@@ -1,6 +1,7 @@
 ---
 name: Troy Smocks
 lastName: Smocks
+hashtag:
 aka: ColonelTPerez
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-198
+videos:
+charges:
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)

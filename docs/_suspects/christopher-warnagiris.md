@@ -1,6 +1,7 @@
 ---
 name: Christopher Warnagiris
 lastName: Warnagiris
+hashtag:
 aka:
 residence: Virginia
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-382
+videos:
+charges:
 ---
 - [News Report](https://www.newsweek.com/christopher-warnagiris-active-duty-marine-based-quantico-arrested-assaulting-officer-capitol-1591329)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/active-duty-us-marine-corps-officer-arrested-assault-federal-law-enforcement-officer)

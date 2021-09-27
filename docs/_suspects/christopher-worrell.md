@@ -1,6 +1,7 @@
 ---
 name: Christopher Worrell
 lastName: Worrell
+hashtag:
 aka:
 residence: Florida
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-292
+videos:
+charges:
 ---
 - [News Report](https://www.naplesnews.com/story/news/2021/03/13/christopher-worrell-arrested-naples-ties-proud-boys-capitol-riot-suspected/4682025001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379556/download)

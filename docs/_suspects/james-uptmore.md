@@ -1,6 +1,7 @@
 ---
 name: James Uptmore
 lastName: Uptmore
+hashtag:
 aka: Sonny Uptmore
 residence: Texas
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-149
+videos:
+charges:
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360731/download)

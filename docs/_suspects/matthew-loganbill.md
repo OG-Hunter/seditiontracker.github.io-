@@ -1,6 +1,7 @@
 ---
 name: Matthew Loganbill
 lastName: Loganbill
+hashtag:
 aka:
 residence: Missouri
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-311
+videos:
+charges:
 ---
 - [News Report](https://www.kshb.com/news/crime/missouri-firearms-store-owner-charged-in-connection-to-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380626/download)

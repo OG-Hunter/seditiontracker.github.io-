@@ -1,6 +1,7 @@
 ---
 name: Samuel Fisher
 lastName: Fisher
+hashtag:
 aka: Brad Holiday
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-142
+videos:
+charges:
 ---
 - [News Report](https://www.thedailybeast.com/samuel-fisher-conspiracy-addled-nyc-pickup-artist-arrested-in-capitol-riots)
 - [Perp Walk](https://worldnewsera.com/news/coronavirus/2-more-local-arrests-connected-to-insurrection-at-u-s-capitol/)

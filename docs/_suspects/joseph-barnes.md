@@ -1,6 +1,7 @@
 ---
 name: Joseph Barnes
 lastName: Barnes
+hashtag:
 aka:
 residence: Texas
 status: Deceased
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-192
+videos:
+charges:
 ---
 - [News Report](https://www.kxan.com/news/local/austin/fbi-arrests-austin-real-estate-agent-accused-of-participating-in-u-s-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378426/download)

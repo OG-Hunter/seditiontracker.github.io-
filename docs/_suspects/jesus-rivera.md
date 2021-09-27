@@ -1,6 +1,7 @@
 ---
 name: Jesus Rivera
 lastName: Rivera
+hashtag:
 aka: JD Rivera, Jesus Delmora Rivera
 residence: Florida
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-60
+videos:
+charges:
 ---
 - [News Report](https://www.pnj.com/story/news/2021/01/20/jesus-rivera-pensacola-man-arrested-capitol-siege-grew-agitated-over-summer/4235901001/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357281/download)

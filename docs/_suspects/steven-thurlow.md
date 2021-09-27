@@ -1,6 +1,7 @@
 ---
 name: Steven Thurlow
 lastName: Thurlow
+hashtag:
 aka: Stephanie Danielle Thurlow
 residence: Michigan
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-494
+videos:
+charges:
 ---
 - [News Report](https://www.macombdaily.com/2021/06/30/st-clair-shores-man-accused-of-participating-in-jan-6-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407971/download)

@@ -1,6 +1,7 @@
 ---
 name: Anthony Williams
 lastName: Williams
+hashtag:
 aka:
 residence: Michigan
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-377
+videos:
+charges:
 ---
 - [News Report](https://www.clickondetroit.com/news/defenders/2021/03/26/southgate-man-charged-in-connection-with-deadly-attack-on-us-capitol/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380641/download)

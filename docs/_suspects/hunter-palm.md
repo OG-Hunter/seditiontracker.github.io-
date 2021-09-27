@@ -1,6 +1,7 @@
 ---
 name: Hunter Palm
 lastName: Palm
+hashtag:
 aka:
 residence: Colorado
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-393
+videos:
+charges:
 ---
 - [News Report](https://www.9news.com/article/news/crime/colorado-resident-hunter-palm-capitol-riot-charges/73-ce910300-7d95-4c50-b4a1-125303239381)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394516/download)

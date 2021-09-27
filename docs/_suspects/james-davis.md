@@ -1,6 +1,7 @@
 ---
 name: James Davis
 lastName: Davis
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-536
+videos:
+charges:
 ---
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach-0)

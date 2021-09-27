@@ -1,6 +1,7 @@
 ---
 name: Kevin Loftus
 lastName: Loftus
+hashtag:
 aka:
 residence: Wisconsin
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-81
+videos:
+charges:
 ---
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

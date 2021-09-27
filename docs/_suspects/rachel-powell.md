@@ -1,6 +1,7 @@
 ---
 name: Rachel Powell
 lastName: Powell
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-179
+videos:
+charges:
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [FBI Search (VIDEO)](https://www.wpxi.com/news/top-stories/local-woman-wanted-role-violence-us-capitol-custody-source-say/CDOTG3JKHRGQXMZW4GOVFKOJHQ/)

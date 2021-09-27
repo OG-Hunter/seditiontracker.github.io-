@@ -1,6 +1,7 @@
 ---
 name: Daniel Goodwyn
 lastName: Goodwyn
+hashtag:
 aka:
 residence: California
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-153
+videos:
+charges:
 ---
 - [News Report](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)

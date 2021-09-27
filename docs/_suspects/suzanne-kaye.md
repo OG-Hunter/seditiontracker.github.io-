@@ -1,6 +1,7 @@
 ---
 name: Suzanne Kaye
 lastName: Kaye
+hashtag:
 aka:
 residence: Florida
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 59
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.clickorlando.com/news/florida/2021/02/20/feds-florida-woman-threatened-to-kill-agents-investigating-capitol-riot-tip/)
 - [Self Incrimination (Video)](https://www.publishedreporter.com/2021/02/22/feds-boca-raton-resident-who-threatened-to-kill-fbi-agents-charged-in-west-palm-beach-federal-court/)
 - [DOJ Press Release](https://www.justice.gov/usao-sdfl/pr/boca-raton-resident-who-threatened-kill-fbi-agents-charged-west-palm-beach-federal)

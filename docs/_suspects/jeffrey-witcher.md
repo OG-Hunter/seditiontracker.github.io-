@@ -1,6 +1,7 @@
 ---
 name: Jeffrey Witcher
 lastName: Witcher
+hashtag:
 aka:
 residence: Texas
 status: Indicted
@@ -10,6 +11,7 @@ indicted: 2021-03-19
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 58
 occupation: Veteran, U.S. Marine Corps
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/capitol-rioters-posted-video-claiming-they-crashed-the-white-house/ar-BB1ezT8G)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)

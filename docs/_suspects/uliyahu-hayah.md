@@ -1,6 +1,7 @@
 ---
 name: Uliyahu Hayah
 lastName: Hayah
+hashtag:
 aka:
 residence: Maryland
 status: Charged
@@ -32,7 +33,6 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://www.republicworld.com/world-news/us-news/us-capitol-breach-two-more-held-on-charges-of-assault-civil-disorder.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428281/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

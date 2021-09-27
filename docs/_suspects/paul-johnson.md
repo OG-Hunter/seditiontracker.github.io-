@@ -1,6 +1,7 @@
 ---
 name: Paul Johnson
 lastName: Johnson
+hashtag:
 aka:
 residence: Virginia
 status: Indicted
@@ -29,8 +30,9 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-332
+videos:
+charges:
 ---
-
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/virginia-man-charged-in-capitol-riot-assault-that-gave-officer-concussion-paul-russell-johnson-lanexa/65-fa9f1175-7df1-44cf-949f-832027907a81)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386856/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assaulting-us-capitol-police-officer-jan-6-capitol-breach)

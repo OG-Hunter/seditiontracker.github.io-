@@ -1,6 +1,7 @@
 ---
 name: Hunter Ehmke
 lastName: Ehmke
+hashtag:
 aka:
 residence: California
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-29
+videos:
+charges:
 ---
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)

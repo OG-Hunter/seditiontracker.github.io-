@@ -1,6 +1,7 @@
 ---
 name: Matthew Mazzocco
 lastName: Mazzocco
+hashtag:
 aka:
 residence: Texas
 status: Convicted
@@ -29,13 +30,13 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-54
+videos:
 charges:
-  - code: '18 USC § 5104(e)(2)(G)'
-    title: 'Parading, Demonstrating or Picketing in a Capitol Building'
-    url: 'https://www.law.cornell.edu/uscode/text/40/5104'
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 ---
-
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)

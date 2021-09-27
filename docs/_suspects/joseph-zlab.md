@@ -1,6 +1,7 @@
 ---
 name: Joseph Zlab
 lastName: Zlab
+hashtag:
 aka:
 residence: Washington
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-389
+videos:
+charges:
 ---
 - [News Report](https://www.theolympian.com/news/state/washington/article251432728.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394226/download)

@@ -1,6 +1,7 @@
 ---
 name: Matthew Perna
 lastName: Perna
+hashtag:
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-156
+videos:
+charges:
 ---
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/19/Western-Pennsylvania-charged-US-Capitol-riot-insurrection-matthew-perna-jorden-mink/stories/202101190125)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356831/download)

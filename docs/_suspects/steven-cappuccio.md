@@ -1,6 +1,7 @@
 ---
 name: Steven Cappuccio
 lastName: Cappuccio
+hashtag:
 aka: '#StripesGuy'
 residence: Texas
 status: Indicted

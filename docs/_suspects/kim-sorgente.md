@@ -1,6 +1,7 @@
 ---
 name: Kim Sorgente
 lastName: Sorgente
+hashtag:
 aka:
 residence: California
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 50
 occupation:
 affiliations:
@@ -27,6 +29,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)

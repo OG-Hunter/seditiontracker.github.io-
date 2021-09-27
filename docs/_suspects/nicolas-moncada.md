@@ -1,6 +1,7 @@
 ---
 name: Nicolas Moncada
 lastName: Moncada
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-mj-84
+videos:
+charges:
 ---
 - [News Report](https://nypost.com/2021/01/18/staten-island-man-arrested-for-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361471/download)

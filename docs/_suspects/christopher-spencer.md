@@ -1,6 +1,7 @@
 ---
 name: Christopher Spencer
 lastName: Spencer
+hashtag:
 aka:
 residence: North Carolina
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-147
+videos:
+charges:
 ---
 - [News Report](https://www.wsoctv.com/news/local/fbi-makes-first-arrest-nc-resident-involved-us-capitol-riot/C4KA2XRFZRHYZKUU2VT65O54UU/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356986/download)

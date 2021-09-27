@@ -1,6 +1,7 @@
 ---
 name: Stephanie Hazelton
 lastName: Hazelton
+hashtag:
 aka: Ayla Wolf
 residence: New Jersey
 status: Charged
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-30
+videos:
+charges:
 ---
 - [News Report](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-capitol-insurrection-medford-new-jersey-rioters-20210122.html?utm_source=t.co&cid=Philly.com+Twitter&utm_campaign=Philly.com+Twitter+Account&utm_medium=social)
 - [Incriminating Evidence (VIDEO)](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-ayla-wolf-south-jersey-us-capitol-riot-anti-vax-20210119.html)

@@ -1,6 +1,7 @@
 ---
 name: Nicholas Rodean
 lastName: Rodean
+hashtag:
 aka:
 residence: Maryland
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-57
+videos:
+charges:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/01/13/maryland-man-nicholas-rodean-who-went-into-us-capitol-during-riots-wearing-work-badge-arrested-on-federal-charges/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

@@ -1,6 +1,7 @@
 ---
 name: Stacie Hargis Getsinger
 lastName: Hargis Getsinger
+hashtag:
 aka:
 residence: South Carolina
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 43
 occupation:
 affiliations:
@@ -27,7 +29,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405456/download)

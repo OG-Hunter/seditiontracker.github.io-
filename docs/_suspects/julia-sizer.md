@@ -1,6 +1,7 @@
 ---
 name: Julia Sizer
 lastName: Sizer
+hashtag:
 aka:
 residence: Pennsylvania
 status: Charged
@@ -32,6 +33,5 @@ caseNumber:
 videos:
 charges:
 ---
-
 - [News Report](https://pittsburgh.cbslocal.com/2021/09/02/ellwood-city-woman-capitol-riot-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430506/download)

@@ -1,6 +1,7 @@
 ---
 name: Robert Chapman
 lastName: Chapman
+hashtag:
 aka: Robert Erick
 residence: New York
 status: Charged
@@ -10,6 +11,7 @@ indicted:
 convicted:
 sentenced:
 dismissed:
+deceased:
 age: 50
 occupation:
 affiliations:
@@ -27,8 +29,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
+caseNumber:
+videos:
+charges:
 ---
-
 - [News Report](https://www.cnn.com/2021/04/23/politics/bumble-capitol-riot-robert-chapman/index.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389161/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389166/download)

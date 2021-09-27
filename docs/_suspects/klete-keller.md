@@ -1,6 +1,7 @@
 ---
 name: Klete Keller
 lastName: Keller
+hashtag:
 aka:
 residence: Colorado
 status: Indicted
@@ -29,6 +30,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 1:21-cr-104
+videos:
+charges:
 ---
 - [News Report](https://kdvr.com/news/local/former-olympic-swimmer-klete-keller-on-7-charges-tied-to-storming-the-us-capitol/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)
