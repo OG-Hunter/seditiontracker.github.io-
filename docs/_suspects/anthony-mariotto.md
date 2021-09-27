@@ -39,5 +39,6 @@ charges:
 ---
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1359631/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436776/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365781/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436771/download)

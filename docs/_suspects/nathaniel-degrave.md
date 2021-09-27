@@ -36,4 +36,4 @@ charges:
 - [News Report](https://www.8newsnow.com/i-team/i-team-special-reports/i-team-las-vegas-nevada-man-accused-of-taking-part-in-capitol-riot-called-president-trump-his-idol-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362391/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362391/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365791/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436741/download)

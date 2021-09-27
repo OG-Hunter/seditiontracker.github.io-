@@ -37,4 +37,4 @@ charges:
 - [Complaint](https://www.justice.gov/opa/page/file/1362396/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362396/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/angelmercedes/status/1347959031080624128?s=20)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366141/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436741/download)
