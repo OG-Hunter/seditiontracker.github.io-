@@ -40,7 +40,7 @@ charges:
   felony: false
 sentence:
 ---
-- [News Article](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
+- [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
 - [Complaint](https://www.justice.gov/opa/page/file/1355911/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431476/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371681/download)

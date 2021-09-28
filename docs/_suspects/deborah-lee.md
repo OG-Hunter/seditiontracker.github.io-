@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.ydr.com/story/news/2021/02/01/pennsylvania-residents-among-those-arrested-u-s-capitol-insurrection/4331778001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431176/download)

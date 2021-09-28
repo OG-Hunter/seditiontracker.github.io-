@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.11alive.com/article/news/crime/georgia-man-arrested-blas-santillan-capitol-riots/85-30452bf1-b52b-4e1c-bc8d-f50609749e23)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428516/download)
