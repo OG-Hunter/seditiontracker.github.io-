@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-383
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nj.com/news/2021/01/nj-man-charged-with-taking-part-in-attack-at-us-capitol-posted-videos-from-inside-feds-say.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379521/download)

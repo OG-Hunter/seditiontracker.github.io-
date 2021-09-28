@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-190
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/rioter-charged-for-giving-capitol-cop-a-concussion-feds)
 - [Complaint](https://www.justice.gov/opa/page/file/1362956/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)

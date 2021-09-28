@@ -34,7 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://madison.com/wsj/news/local/crime-and-courts/janesville-man-charged-for-alleged-role-in-u-s-capitol-riot-in-january/article_a3fcd5eb-9eec-54b3-a206-fda42d1dade0.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389201/download)

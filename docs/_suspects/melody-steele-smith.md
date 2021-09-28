@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-77
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/gloucester-woman-arrested-after-photos-show-her-inside-us-capitol-during-riot/ar-BB1dzAz3)
 - [Complaint](https://www.justice.gov/file/1360206/download)

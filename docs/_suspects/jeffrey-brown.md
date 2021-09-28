@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://theavtimes.com/2021/08/26/two-socal-men-arrested-for-assault-on-law-enforcement-at-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428081/download)

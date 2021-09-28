@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/06/23/us-capitol-riot-attack-robert-reeder-harford-county-guilty-plea/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Criminal%20Complaint.pdf)

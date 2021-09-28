@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-97
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wate.com/news/auburn-man-in-federal-custody-following-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371561/download)

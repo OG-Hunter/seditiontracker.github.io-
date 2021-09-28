@@ -34,7 +34,7 @@ published: true
 caseNumber: 1:21-cr-378
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/proud-boys-police-indictment-florida/2021/07/16/1fdbe642-e5a4-11eb-8aa5-5662858b696e_story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)

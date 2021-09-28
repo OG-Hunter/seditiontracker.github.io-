@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-35
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.tennessean.com/story/news/politics/2021/08/17/tennessee-man-ronald-colton-mcabee-arrested-us-capitol-officer-assault/8172152002/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1425176/download)

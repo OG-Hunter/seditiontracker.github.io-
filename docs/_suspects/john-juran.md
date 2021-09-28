@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/feds-arrest-new-york-man-seen-wearing-trump-2020-cowboy-hat-during-u-s-capitol-breach/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395351/download)

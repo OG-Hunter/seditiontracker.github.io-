@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-392
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cnn.com/2021/06/10/politics/capitol-riot-three-percenters-conspiracy-case-doj/index.html)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)

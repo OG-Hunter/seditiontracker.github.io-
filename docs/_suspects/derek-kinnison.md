@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-392
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.desertsun.com/story/news/nation/california/2021/06/10/four-riverside-county-men-among-6-socal-residents-indicted-capitol-breach/7647401002/)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)

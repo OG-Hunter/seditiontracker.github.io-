@@ -38,6 +38,7 @@ charges:
   title: Entering a restricted building or grounds
   url: https://www.law.cornell.edu/uscode/text/18/1752
   felony: false
+sentence:
 ---
 - [News Report](https://www.sun-sentinel.com/news/fl-ne-south-florida-arrest-capitol-break-in-20210119-6u2wlop4tfayxmcglbstn3id54-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371446/download)

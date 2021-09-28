@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-38
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)

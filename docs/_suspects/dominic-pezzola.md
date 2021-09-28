@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-52
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)

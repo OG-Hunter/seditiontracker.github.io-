@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9945027/Two-Brooklyn-men-arrested-January-6-Capitol-riot-appeared-livestream-video.html)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235042/gov.uscourts.dcd.235042.1.1.pdf)

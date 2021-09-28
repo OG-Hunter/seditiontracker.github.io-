@@ -40,6 +40,7 @@ videos:
 - title: IMG_1398.MOV (0:00:20)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b7e70250ce2b013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.floridatoday.com/story/news/politics/2021/03/11/brevard-man-arrested-and-charged-conspiracy-capitol-riot/4653749001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)

@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/capitol-rioters-posted-video-claiming-they-crashed-the-white-house/ar-BB1ezT8G)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)

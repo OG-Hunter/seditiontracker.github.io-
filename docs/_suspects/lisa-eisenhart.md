@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-118
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.wsbtv.com/news/local/georgia-woman-arrested-after-being-caught-us-capitol-surveillance-video-with-zip-ties/JEYL42TAJFCX5LRZKYHGVY5F3U/)
 - [DOJ Twitter](https://twitter.com/USAO_MDTN/status/1350555131494989827?s=20)
 - [Detention Memo](https://www.courtlistener.com/recap/gov.uscourts.tnmd.85025/gov.uscourts.tnmd.85025.8.0.pdf)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-311
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.kshb.com/news/crime/missouri-firearms-store-owner-charged-in-connection-to-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380626/download)

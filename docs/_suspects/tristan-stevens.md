@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.pnj.com/story/news/2021/02/25/tristan-stevens-pensacola-capitol-riot-arrested-clashed-police-affidavit/6817792002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)

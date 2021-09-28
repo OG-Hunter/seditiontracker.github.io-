@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-116
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wfmynews2.com/article/news/crime/man-from-buford-arrested-in-connection-to-capitol-riots/85-df3e85f9-6889-46fd-bd92-bd558eb8f5b7)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372146/download)

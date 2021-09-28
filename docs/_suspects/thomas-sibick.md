@@ -38,6 +38,7 @@ videos:
 - title: Radio and Badge Robbery_Sibick.mp4 (0:00:47)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/900f42e0ce2c013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://buffalonews.com/news/local/buffalo-man-charged-in-attack-on-capitol-officer-says-he-buried-cops-badge-in-backyard/article_3c9f8f5e-8398-11eb-87ca-9f337774ebb3.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379346/download)

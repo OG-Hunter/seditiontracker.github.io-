@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
 - [Complaint](https://www.justice.gov/file/1360781/download)

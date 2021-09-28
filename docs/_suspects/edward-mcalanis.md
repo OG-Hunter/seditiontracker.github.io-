@@ -34,5 +34,6 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Statement%20of%20Facts.pdf)

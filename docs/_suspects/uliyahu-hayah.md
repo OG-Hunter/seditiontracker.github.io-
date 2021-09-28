@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.republicworld.com/world-news/us-news/us-capitol-breach-two-more-held-on-charges-of-assault-civil-disorder.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428281/download)

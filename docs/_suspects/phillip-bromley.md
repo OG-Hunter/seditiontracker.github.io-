@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-250
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.al.com/news/2021/02/alabama-medical-worker-arrested-in-dc-riot-witnessed-ashli-babbitts-fatal-shooting.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Phillip%20Andrew%20Bromley%20Criminal%20Complaint.pdf)

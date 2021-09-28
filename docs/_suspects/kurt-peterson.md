@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-427
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.whas11.com/article/news/crime/arrest-kurt-peterson-hodgenville-capitol-riot/417-10893ffb-00ba-4977-991a-3996fd089803)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412806/download)

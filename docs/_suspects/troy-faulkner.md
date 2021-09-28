@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-126
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/genius-wore-jacket-with-his-companys-name-and-phone-number-on-it-while-storming-the-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371376/download)
 - [Self Incrimination (Interview)](https://patch.com/ohio/columbus/s/hdvoa/ohio-man-joins-raid-u-s-capitol-i-shouldn-t-have-kicked-window)

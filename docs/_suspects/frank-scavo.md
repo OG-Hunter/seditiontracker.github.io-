@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.timesleader.com/news/1137275/scavo-was-pushed-into-capitol-lawyer-says)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380551/download)

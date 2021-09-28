@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-28
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.whio.com/news/local/2-arrested-by-feds-possibly-linked-riot-washington-dc/TBMLXSMEQ5HGDNQW4KCWJGAD6A)
 - [FBI Raid](https://www.whio.com/news/local/fbi-surrounds-champaign-county-apartment-connection-dc-riots-man-says/6XNF3MMRJBDYFFZXBHLICKY2OE/)

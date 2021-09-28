@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-151
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.fox43.com/article/news/local/central-pennsylvania-man-arrested-for-role-in-riot-at-us-capitol/521-578d8b83-fed6-4768-95a5-29526f1ebe90)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)

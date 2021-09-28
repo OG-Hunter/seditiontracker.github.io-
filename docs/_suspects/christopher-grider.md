@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-22
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)

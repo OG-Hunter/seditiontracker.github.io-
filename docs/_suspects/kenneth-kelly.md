@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/04/23/tip-from-family-member-leads-to-arrest-of-capitol-riot-suspect-in-marion-county-fbi-says/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Statement%20of%20Facts.pdf)

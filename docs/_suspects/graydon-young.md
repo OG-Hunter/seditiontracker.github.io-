@@ -42,6 +42,7 @@ charges:
   title: Obstruction of Congress
   url: https://www.law.cornell.edu/uscode/text/18/1512
   felony: true
+sentence:
 ---
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-374
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.fortmorgantimes.com/2021/04/28/logan-grover-colorado-capitol-riot-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390406/download)

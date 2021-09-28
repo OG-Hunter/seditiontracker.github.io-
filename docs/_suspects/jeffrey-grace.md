@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-296
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-118
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)

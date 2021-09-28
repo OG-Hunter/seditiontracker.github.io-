@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-93
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://smnewsnet.com/archives/487309/piney-point-man-arrested-for-involvement-with-capitol-siege-on-january-6th/)
 - [Complaint](https://beta.documentcloud.org/documents/20475087-2-8-21-us-v-john-andries-information)

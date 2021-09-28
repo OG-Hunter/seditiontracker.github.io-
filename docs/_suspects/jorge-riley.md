@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-69
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://nypost.com/2021/01/19/gop-activist-jorge-riley-arrested-in-capitol-hill-attack/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357041/download)

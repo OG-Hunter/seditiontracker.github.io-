@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-150
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)
 - [FBI Raid (Video)](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)

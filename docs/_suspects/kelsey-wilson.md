@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428536/download)

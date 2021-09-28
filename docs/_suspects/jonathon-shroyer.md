@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-572
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/aug/21/owen-shroyer-infowars-host-charged-with-entering-r/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428181/download)

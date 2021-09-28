@@ -36,6 +36,7 @@ videos:
 - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)

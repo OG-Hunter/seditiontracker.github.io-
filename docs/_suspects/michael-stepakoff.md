@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.wfla.com/news/pinellas-county/palm-harbor-rabbi-arrested-accused-of-storming-us-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362386/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.oregonlive.com/crime/2021/03/man-arrested-in-vancouver-accused-of-storming-us-capitol-and-entering-senate-gallery-on-jan-6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382586/download)

@@ -34,6 +34,6 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+sentence:
 ---
-
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)

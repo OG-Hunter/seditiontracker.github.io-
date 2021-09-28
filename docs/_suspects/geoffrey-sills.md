@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/virginia-man-assaulted-police-with-baton-poles-in-capitol-tunnel-doj-says/ar-AALp292)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download)

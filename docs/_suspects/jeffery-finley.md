@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-mj-328
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.usnews.com/news/best-states/west-virginia/articles/2021-04-06/wva-man-charged-with-entering-us-capitol-during-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393631/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393871/download)

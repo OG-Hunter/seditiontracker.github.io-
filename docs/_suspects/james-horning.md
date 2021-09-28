@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-275
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://sciotovalleyguardian.com/2021/01/10/fbi-tipped-to-local-man-who-was-involved-in-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378696/download)

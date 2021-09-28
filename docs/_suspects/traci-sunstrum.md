@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://news.wbfo.org/post/four-more-local-suspects-charged-us-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395326/download)

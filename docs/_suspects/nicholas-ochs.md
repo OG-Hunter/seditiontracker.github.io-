@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-73
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)

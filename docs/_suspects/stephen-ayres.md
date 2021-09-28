@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-156
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)

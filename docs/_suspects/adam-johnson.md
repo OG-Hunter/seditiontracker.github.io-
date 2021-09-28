@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-20
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/world/adam-johnson-spotted-with-pelosis-lectern-stormed-capitol-to-witness-history-e2-80-94lawyers/ar-BB1cH0ZJ)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-291
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1387521/download)

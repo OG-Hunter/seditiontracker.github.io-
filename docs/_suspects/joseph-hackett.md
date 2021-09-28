@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-28
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.mysuncoast.com/2021/05/31/sarasota-man-facing-changes-jan-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Hackett%20Motion%20to%20Revoke%20Detention%20Order.pdf)

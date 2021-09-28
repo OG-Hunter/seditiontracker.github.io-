@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-458
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.courant.com/news/connecticut/hc-news-crosby-capitol-riot-20210603-20210603-5alcjgmuafddvavo667mmm4epe-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401786/download)

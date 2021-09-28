@@ -40,6 +40,7 @@ videos:
 - title: Gov_t Exhibit B.MOV (0:00:05)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e7490c30ce2c013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.desmoinesregister.com/story/news/2021/01/09/fbi-arrests-des-moines-man-who-us-capitol-riot-booked-into-polk-county-jail-washington-dc/6607953002/)
 - [Self Incrimination](https://heavy.com/news/doug-jensen/)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-282
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/grayson-sherrill-capitol-rioter-seen-in-keep-america-great-top-gets-turned-in-by-his-own-family/ar-BB1e9zm3)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379336/download)

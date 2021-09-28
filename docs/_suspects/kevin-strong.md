@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-114
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/qanon-faa-employee-capitol-insurrection_n_600b2881c5b6d64153abaf3d)
 - [Complaint](https://www.justice.gov/opa/page/file/1359586/download)

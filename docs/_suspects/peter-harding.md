@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-33
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wgrz.com/article/news/local/cheektowaga-man-wanted-by-fbi-taken-into-custody/71-27ec6dc4-ca4c-429f-b0ae-742493622365)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354111/download)

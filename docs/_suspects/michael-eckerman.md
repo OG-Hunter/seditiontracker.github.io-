@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-602
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.newsweek.com/capitol-rioter-arrested-allegedly-pushing-officer-down-stairs-1631343)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Eckerman%20Criminal%20Complaint.pdf)

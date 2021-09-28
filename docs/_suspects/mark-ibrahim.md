@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-516
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cbsnews.com/news/mark-ibrahim-dea-agent-arrested-capitol-riot-gun-badge/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413286/download)

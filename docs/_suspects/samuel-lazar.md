@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-533
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/samuel-lazar-fbi-doug-mastriano-trump-capitol-attack-jan-6_n_60be410be4b099fb31ca9350)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415916/download)

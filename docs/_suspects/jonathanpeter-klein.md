@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-237
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.oregonlive.com/crime/2021/03/2-oregon-brothers-arrested-on-federal-charges-stemming-from-alleged-role-in-us-capitol-riot.html?outputType=amp&__twitter_impression=true)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382871/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtonpost.com/local/legal-issues/oathkeeper-arrested-david-moerschel/2021/07/02/0f54d5aa-db5d-11eb-9bbb-37c30dcf9363_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408901/download)

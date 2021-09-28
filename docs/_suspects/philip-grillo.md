@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-245
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://queenseagle.com/all/queens-gop-district-leader-arrested-for-role-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371396/download)

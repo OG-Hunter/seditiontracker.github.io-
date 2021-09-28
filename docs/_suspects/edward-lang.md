@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-53
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/hudson-valley-man-arrested-in-connection-with-capitol-riot-sources/2834919/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355871/download)

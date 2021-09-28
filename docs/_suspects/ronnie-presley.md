@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-257
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.tennessean.com/story/news/crime/2021/03/08/tennessee-man-ronnie-b-presley-arrested-capitol-riot-investigation/4629102001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1375166/download)

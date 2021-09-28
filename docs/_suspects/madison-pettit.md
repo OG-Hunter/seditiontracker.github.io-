@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-569
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.13abc.com/2021/08/20/swanton-residents-charged-jan-6-riot-us-capitol/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20and%20Gabriel%20Burress%20Criminal%20Complaint.pdf)

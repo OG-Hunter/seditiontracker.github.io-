@@ -66,6 +66,7 @@ videos:
 - title: Exhibit Q-Par 36.asf (0:02:32)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8feb62f0ce2c013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-274
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://wcti12.com/news/state-news/nc-man-arrested-and-charged-in-connection-with-the-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393721/download)

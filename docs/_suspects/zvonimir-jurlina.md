@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-502
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)

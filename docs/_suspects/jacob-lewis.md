@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-100
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)

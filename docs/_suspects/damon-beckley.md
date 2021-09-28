@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-285
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
 - [Complaint](https://www.justice.gov/opa/file/1355856/download)

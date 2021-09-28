@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-83
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://dailygazette.com/2021/01/17/feds-schenectady-man-charged-in-capital-insurrection/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355906/download)

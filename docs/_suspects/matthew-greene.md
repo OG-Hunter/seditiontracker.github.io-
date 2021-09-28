@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-52
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://spectrumlocalnews.com/nys/central-ny/public-safety/2021/04/21/syracuse--proud-boy--charged-in-jan--6-capitol-riot)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388681/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAlbany/status/1384996862026035205)

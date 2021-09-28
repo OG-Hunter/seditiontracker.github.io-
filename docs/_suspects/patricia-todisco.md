@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-205
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://philadelphia.cbslocal.com/2021/01/22/marissa-suarez-us-capitol-riots-five-arrests-new-jersey-marissa-suarez-correctional-police-officer/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)

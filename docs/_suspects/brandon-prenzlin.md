@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
 - [Statement of Facts](https://s3.documentcloud.org/documents/21068083/9-17-21-us-v-brandon-prenzlin-complaint-affidavit.pdf)

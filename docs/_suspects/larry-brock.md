@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-140
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)

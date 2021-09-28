@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wivb.com/news/fbi-arrests-alden-man-for-alleged-participation-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1395081/download)

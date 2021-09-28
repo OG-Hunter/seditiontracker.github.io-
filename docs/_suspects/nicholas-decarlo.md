@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-73
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.latimes.com/world-nation/story/2021-02-04/reporting-or-rioting-grand-jury-indicts-capitol-rioters-who-claim-theyre-journalists)
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)

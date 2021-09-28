@@ -34,5 +34,6 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wmfe.org/polk-deputy-arrested-for-making-threats-against-capitol/172515)

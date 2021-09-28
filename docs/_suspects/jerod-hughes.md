@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-106
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)

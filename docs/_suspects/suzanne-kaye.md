@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.clickorlando.com/news/florida/2021/02/20/feds-florida-woman-threatened-to-kill-agents-investigating-capitol-riot-tip/)
 - [Self Incrimination (Video)](https://www.publishedreporter.com/2021/02/22/feds-boca-raton-resident-who-threatened-to-kill-fbi-agents-charged-in-west-palm-beach-federal-court/)

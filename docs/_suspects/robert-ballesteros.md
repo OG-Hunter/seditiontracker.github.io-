@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-132
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.lohud.com/story/news/crime/2021/03/17/mahopac-man-charged-capitol-riot/4730583001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378371/download)

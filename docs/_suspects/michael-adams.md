@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.yahoo.com/entertainment/active-duty-marine-charged-fighting-191450996.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Adams%20Statement%20of%20Facts.pdf)

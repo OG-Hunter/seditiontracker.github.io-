@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-347
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nj.com/news/2021/05/grandmother-helped-tip-off-fbi-about-nj-man-charged-with-being-at-capitol-riot-feds-say.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392101/download)

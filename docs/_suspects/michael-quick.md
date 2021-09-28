@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-201
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.ky3.com/2021/02/12/fbi-arrests-2-for-springfield-wanted-in-capitol-riot-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Quick%20Complaint.pdf)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-447
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.tampabay.com/news/florida/2021/06/30/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

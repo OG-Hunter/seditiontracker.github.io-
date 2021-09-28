@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-491
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/la-county-employee-charged-for-allegedly-breaching-capitol/ar-AALyJCO)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412491/download)

@@ -34,8 +34,8 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/conspiracy-oath-keeper-arrest-capitol-riot/2021/01/19/fb84877a-5a4f-11eb-8bcf-3877871c819d_story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1356331/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)

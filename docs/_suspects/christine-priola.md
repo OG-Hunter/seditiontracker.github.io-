@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-53
 videos:
 charges:
+sentence:
 ---
 - [News Report: Arrest](https://www.cleveland.com/crime/2021/01/former-cleveland-schools-therapist-arrested-on-federal-charges-involving-attack-at-us-capitol.html)
 - [News Report: FBI Raid](https://www.cleveland.com/metro/2021/01/fbi-searches-former-cleveland-schools-employees-house-after-accusations-that-she-participated-in-us-capitol-riot.html)

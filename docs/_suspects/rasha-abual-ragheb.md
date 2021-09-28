@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-43
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)

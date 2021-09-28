@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-271
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)

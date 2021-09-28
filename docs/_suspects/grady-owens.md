@@ -42,6 +42,7 @@ videos:
 - title: Government Exhibit 4 - Rotunda doors.mp4 (0:02:37)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/f741d9a0ce29013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-riot-grady-owens-denied-release-20210402-6c6ehq5imva3dhaud6hujkjgoy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382531/download)

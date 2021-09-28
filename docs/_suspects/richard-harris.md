@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-001
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcmiami.com/news/local/man-arrested-in-south-florida-in-connection-with-jan-6-u-s-capitol-breach/2417430/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381176/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-281
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)

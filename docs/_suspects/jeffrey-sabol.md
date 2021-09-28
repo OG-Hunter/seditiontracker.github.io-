@@ -42,6 +42,7 @@ videos:
 - title: Ex. 6 - D.P. BWC Clip.mp4 (0:00:20)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d8d50ea0ce2c013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.cnbc.com/2021/01/22/capitol-riots-man-admits-dragging-cop-to-be-beaten-by-flag-pole.html)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1352658310269382656?s=20)

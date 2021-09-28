@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-363
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389181/download)

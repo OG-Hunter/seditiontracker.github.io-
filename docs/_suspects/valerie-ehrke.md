@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I took off when I felt pepper spray in my throat! Lol.'
+quote: "I took off when I felt pepper spray in my throat! Lol."
 title: Valerie Ehrke charged on January 19th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -38,6 +38,10 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
+  - 3 years probation
+  - 120 hours community service
+  - $500 restitution
 ---
 - [News Report](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)

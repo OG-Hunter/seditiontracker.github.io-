@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-154
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.houstonchronicle.com/news/houston-texas/crime/article/houston-man-arrested-fbi-capitol-riot-15908343.php)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Wilmar%20Alvarado%20Criminal%20Complaint%20and%20Affidavit.pdf)

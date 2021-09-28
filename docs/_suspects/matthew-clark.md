@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-218
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.abc27.com/news/top-stories/three-mifflin-county-residents-charged-in-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371321/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377831/download)

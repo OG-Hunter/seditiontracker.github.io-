@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/oath-keeper-jonathan-walden-brought-82-pound-german-shepherd-warrior-to-capitol-riots)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)

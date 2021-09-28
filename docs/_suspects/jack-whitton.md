@@ -46,6 +46,7 @@ videos:
 - title: Ex. 6 - Defendant Cell Phone Video.mov (0:00:48)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a0993630ce2a013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.ajc.com/news/georgia-man-arrested-for-assaulting-capitol-police-officer-in-jan-6-riot/TGTRBG5SEJEZ5AQQNI7ZIN6QUQ/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382756/download)

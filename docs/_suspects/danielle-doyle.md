@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://oklahoman.com/article/5683329/former-oklahoma-city-thunder-worker-charged-in-us-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378601/download)

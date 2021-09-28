@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/got-tear-gassed-but-okay-woman-charged-with-entering-u-s-capitol-building-through-broken-window-during-siege/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)

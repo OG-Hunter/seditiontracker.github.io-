@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-392
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/temecula-man-5-others-indicted-in-us-capitol-attack/ar-AAKVtDh)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)

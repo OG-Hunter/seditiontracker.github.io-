@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://baltimore.cbslocal.com/2021/01/26/andrew-ryan-bennet-columbia-maryland-man-linked-us-capitol-riots/)
 - [Complaint](https://www.justice.gov/file/1360786/download)

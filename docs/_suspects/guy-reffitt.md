@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-32
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://nypost.com/2021/01/18/rioter-guy-reffitt-threatened-to-shoot-kids-if-they-talked-to-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)

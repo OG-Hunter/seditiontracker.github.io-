@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-445
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.sfgate.com/politics/article/California-man-wore-shirt-job-logo-manager-FBI-15982541.php)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378681/download)

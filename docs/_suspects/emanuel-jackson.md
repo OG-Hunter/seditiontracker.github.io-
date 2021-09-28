@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-395
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nytimes.com/2021/01/18/us/riley-june-williams-emmanuel-jackson.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357096/download)

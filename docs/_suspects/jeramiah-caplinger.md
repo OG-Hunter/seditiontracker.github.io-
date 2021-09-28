@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)

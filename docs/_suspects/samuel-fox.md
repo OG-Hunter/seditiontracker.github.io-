@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Criminal%20Complaint.pdf)

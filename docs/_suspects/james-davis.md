@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-mj-536
 videos:
 charges:
+sentence:
 ---
-
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach-0)
 - [Self Incrimination (Video)](https://www.facebook.com/willistonTrendingTopicsNewsRadioLive/videos/838622173374753/)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-133
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://nypost.com/2021/01/23/retired-fdny-member-arrested-for-role-in-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371381/download)

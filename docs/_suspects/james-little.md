@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-315
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)

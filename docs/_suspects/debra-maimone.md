@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wpxi.com/news/top-stories/local-business-owners-charged-connection-with-violence-us-capitol/5E2CEWKFCVAZHLD5YPHS25DA3U/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392616/download)

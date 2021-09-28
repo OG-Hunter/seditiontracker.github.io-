@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)

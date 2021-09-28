@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-87
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.whas11.com/article/news/kentucky/elizabethtown-kentucky-capitol-riot-charges/417-5c05ad24-1375-4a90-a628-20196a598e61)
 - [Complaint](https://www.justice.gov/opa/page/file/1357386/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-50
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364681/download)

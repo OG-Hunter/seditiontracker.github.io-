@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://globegazette.com/community/mcpress/news/st-ansgar-man-and-his-son-arrested-for-alleged-involvement-in-january-u-s-capitol/article_b933ccd3-4b4f-5133-b737-78c3c0886510.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)

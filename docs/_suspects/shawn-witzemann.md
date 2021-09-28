@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-314
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)

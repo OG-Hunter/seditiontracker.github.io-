@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/fbi-capitol-attack-mick-chan_n_614b5077e4b077b735ee30f3)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mick%20Chan%20Criminal%20Complaint.pdf)

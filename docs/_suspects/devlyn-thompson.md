@@ -38,6 +38,7 @@ charges:
   title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
   url: https://www.law.cornell.edu/uscode/text/18/111
   felony: true
+sentence:
 ---
 - [Information](https://www.justice.gov/usao-dc/press-release/file/1422296/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1422286/download)

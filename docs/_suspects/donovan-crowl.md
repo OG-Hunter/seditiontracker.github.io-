@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtonpost.com/national-security/oath-keeper-three-percenter-arrests/2021/01/17/27e726f2-5847-11eb-a08b-f1381ef3d207_story.html)
 - [Self Incrimination](https://www.newyorker.com/news/news-desk/a-former-marine-stormed-the-capitol-as-part-of-a-far-right-militia)

@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.houstonpublicmedia.org/articles/news/criminal-justice/2021/05/26/399105/seventh-houston-area-resident-arrested-in-connection-to-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398256/download)

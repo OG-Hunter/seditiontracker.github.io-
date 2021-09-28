@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-397
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://abc7chicago.com/north-shore-man-charged-in-jan-6-breach-of-us-capitol/10762676/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402531/download)

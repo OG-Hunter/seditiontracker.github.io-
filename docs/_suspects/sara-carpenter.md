@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-305
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nydailynews.com/new-york/nyc-crime/ny-capitol-riots-former-nypd-police-officer-arrest-sara-carpenter-20210323-try3cc7m3bbhrlfrph5emanlqi-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393356/download)

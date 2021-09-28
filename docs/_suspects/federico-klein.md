@@ -38,6 +38,7 @@ videos:
 - title: Mastony.mp4 (0:05:02)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/02995b10ce2d013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374456/download)

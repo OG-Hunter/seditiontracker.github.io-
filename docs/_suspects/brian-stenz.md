@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)

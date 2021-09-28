@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://baytobaynews.com/stories/former-kent-county-resident-charged-in-us-capitol-riot,46025)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389341/download)
