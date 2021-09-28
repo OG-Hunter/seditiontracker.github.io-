@@ -39,52 +39,6 @@ const getNameSet = (): Set<string> => {
   return nameSet;
 };
 
-const importUSA = async (nameSet: Set<string>) => {
-  info("Importing suspects from USA Today site");
-
-  const html = await axios.get("https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/");
-  const root = parse(html.data);
-  const divs: HTMLElement[] = root.querySelectorAll(".character.svelte-1b6kbib.svelte-1b6kbib");
-
-  for (const div of divs) {
-    const nameText = div.querySelector("h4").innerText.replace("Jr.", "").replace(",", "").trim();
-    const names = nameText.split(" ");
-    const firstName = names[0];
-    const lastName = names.pop();
-
-    if (falsePositives("USA").has(lastName)) {
-      continue;
-    }
-
-    const lis: HTMLElement[] = div.querySelectorAll("ul li");
-
-    let age = "";
-    let date = "";
-    let residence = "";
-
-    for (const li of lis) {
-      const dateMatch = li.innerText.match(/Arrested or charged on: (.*)/);
-      const ageMatch = li.innerText.match(/Age: (\d{1,2})/);
-      const residenceMatch = li.innerText.match(/Home state: (.*)/);
-
-      if (ageMatch) {
-        age = ageMatch[1];
-      }
-
-      if (dateMatch) {
-        const dateString = dateMatch[1];
-        date = moment(dateString, "M, D, YYYY").format("MM/DD/YY");
-      }
-
-      if (residenceMatch) {
-        residence = residenceMatch[1];
-      }
-    }
-
-    addData({ nameSet, firstName, lastName, residence, age });
-  }
-};
-
 const importGw = async (nameSet: Set<string>) => {
   info("Importing suspects from GW site");
 
@@ -128,6 +82,10 @@ const importGw = async (nameSet: Set<string>) => {
 
       if (nameText.match(/Burlew, Benjamen/)) {
         nameText = "Burlew, Benjamin";
+      }
+
+      if (nameText.match(/Alvarado/)) {
+        nameText = "Alvarado, Wilmar";
       }
 
       const [lastName, rest] = nameText
