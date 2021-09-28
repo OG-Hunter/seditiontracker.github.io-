@@ -35,4 +35,5 @@ caseNumber:
 videos:
 charges:
 ---
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/high-school-classmate-turns-in-fairfax-county-man-accused-of-entering-senate-chamber-luke-wessley-bender-donald-trump-capitol-riot-january-6/65-2bce2ab0-c7b0-49ae-9848-243ee40fd3e8)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luke%20Wessley%20Bender%20Statement%20of%20Facts.pdf)

@@ -35,7 +35,7 @@ caseNumber: 1:21-cr-79
 videos:
 charges:
 ---
-- [News Report: Arrest](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
+- [News Report](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
 - [Complaint](https://www.justice.gov/opa/page/file/1353401/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353451/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410511/download)

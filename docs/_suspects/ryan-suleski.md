@@ -35,7 +35,7 @@ caseNumber: 1:21-cr-376
 videos:
 charges:
 ---
-- [News Report (Twitter)](https://twitter.com/ryanjreilly/status/1377307092478873601)
+- [News Report](https://twitter.com/ryanjreilly/status/1377307092478873601)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393766/download)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415001/download)

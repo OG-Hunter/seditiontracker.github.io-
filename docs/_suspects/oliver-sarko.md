@@ -35,5 +35,6 @@ caseNumber: 1:21-mj-358
 videos:
 charges:
 ---
+- [News Report](https://www.nbc4i.com/news/local-news/columbus/man-with-central-ohio-ties-accused-of-entering-capitol-on-jan-6/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Oliver%20Louis%20Sarko%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393736/download)

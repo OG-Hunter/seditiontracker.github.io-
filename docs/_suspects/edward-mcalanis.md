@@ -35,4 +35,5 @@ caseNumber:
 videos:
 charges:
 ---
+- [News Report](https://dailyvoice.com/pennsylvania/lancaster/news/pa-man-running-for-judge-of-elections-charged-by-fbi-for-role-in-capitol-riot/814669/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Statement%20of%20Facts.pdf)
