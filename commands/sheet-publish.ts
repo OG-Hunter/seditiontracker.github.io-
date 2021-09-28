@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import { info, warning } from "./common/console";
+import { info } from "./common/console";
 import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";

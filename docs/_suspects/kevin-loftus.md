@@ -8,11 +8,11 @@ status: Indicted
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-04
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-19
 sentencing:
 age: 52
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365401/download)
