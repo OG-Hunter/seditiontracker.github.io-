@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-70
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcmiami.com/news/local/south-florida-man-who-discussed-fbi-probe-on-social-media-arrested-in-u-s-capitol-breach/2366073/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357291/download)

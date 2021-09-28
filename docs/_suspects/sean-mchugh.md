@@ -58,6 +58,7 @@ videos:
 - title: Media12.mp4 (0:00:10)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c100a3d0ce2a013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.sacbee.com/news/local/crime/article251748888.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1399611/download)

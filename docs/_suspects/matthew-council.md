@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-207
 videos:
 charges:
+sentence:
 ---
 - [News Report](http://www.innercitypress.com/ddc1insurrectionbluescouncili012121.html)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)

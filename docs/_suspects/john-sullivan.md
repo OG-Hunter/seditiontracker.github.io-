@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-78
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://www.justice.gov/opa/page/file/1354776/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-313
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://news.yahoo.com/rioter-filmed-bashing-capitol-cops-223359036.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385531/download)

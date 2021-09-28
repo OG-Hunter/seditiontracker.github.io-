@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/jenna-ryan-texas-real-estate-agent-who-flew-to-dc-on-private-jet-arrested-in-capitol-riots)
 - [Self Incrimination](https://twitter.com/NewsJunkieBlu/status/1347634376142630915?s=20)

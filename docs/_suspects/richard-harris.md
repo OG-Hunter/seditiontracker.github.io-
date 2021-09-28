@@ -1,16 +1,16 @@
 ---
 name: Richard Harris
 lastName: Harris
-hashtag:
+hashtag: OregonFordLover
 aka:
 residence: Oregon
 status: Indicted
 date: 2021-03-05
 charged: 2021-03-05
 indicted: 2021-03-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -34,7 +34,9 @@ published: true
 caseNumber: 1:21-cr-001
 videos:
 charges:
+sentence:
 ---
+
 - [News Report](https://www.nbcmiami.com/news/local/man-arrested-in-south-florida-in-connection-with-jan-6-u-s-capitol-breach/2417430/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381176/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Detention%20Order.pdf)

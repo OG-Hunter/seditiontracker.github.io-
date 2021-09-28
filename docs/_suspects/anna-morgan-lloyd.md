@@ -25,7 +25,7 @@ courtroom:
 courthouse: anna-morgan-lloyd.jpg
 raid:
 perpwalk:
-quote: 'Best day ever. We stormed the capitol building me and Dona Bissey were in the first 50 people in.'
+quote: "Best day ever. We stormed the capitol building me and Dona Bissey were in the first 50 people in."
 title: Anna Morgan-Lloyd arrested on February 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,11 +34,16 @@ published: true
 caseNumber: 1:21-cr-164
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+sentence:
+  - 3 years probation
+  - 120 hours of community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.indystar.com/story/news/crime/2021/02/25/fbi-arrests-indiana-women-capitol-riot-charges-aftermath/6822567002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410846/download)

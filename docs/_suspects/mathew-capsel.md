@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://abc7chicago.com/capitol-riot-dc-riots-matthew-capsel-tik-tok/10079241/)
 - [Complaint](https://www.justice.gov/file/1360776/download)

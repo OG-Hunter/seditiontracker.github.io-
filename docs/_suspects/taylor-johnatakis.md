@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-91
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-276
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cleveland.com/nation/2021/03/lorain-man-attacked-capitol-police-officer-during-jan-6-riots-following-stop-the-steal-rally-feds-say.html)
 - [Complaint](https://ewscripps.brightspotcdn.com/0c/73/be8c633047959a5a832099395123/clifford-mackrell.pdf)

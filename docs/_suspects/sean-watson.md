@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390656/download)

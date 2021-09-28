@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-226
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/boise-woman-arrested-accused-of-crimes-related-to-us-capitol-riot/ar-BB1ef7i4)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379351/download)

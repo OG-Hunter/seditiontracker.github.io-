@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-508
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.postandcourier.com/greenville/news/anderson-man-charged-in-january-us-capitol-riot-the-ninth-from-sc/article_09a31e3a-f9f0-11eb-8f24-7f6764675850.html#tncms-source=article-nav-prev)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423096/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-290
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)

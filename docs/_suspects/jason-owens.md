@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-376
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/jason-owens-father-of-skateboard-wielding-insurrectionist-charged-in-capitol-riots-feds-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388791/download)

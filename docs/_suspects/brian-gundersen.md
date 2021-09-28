@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-137
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/high-school-varsity-jacket-us-capitol-riot_n_600f365ac5b634dc37378746?63x8)
 - [Complaint](https://www.justice.gov/opa/page/file/1361271/download)

@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428556/download)

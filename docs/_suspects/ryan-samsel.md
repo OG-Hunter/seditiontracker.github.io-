@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-188
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.buckscountycouriertimes.com/story/news/2021/02/01/bristol-man-charged-assaulting-officer-during-insurrection/4338235001/)
 - [Complaint](https://www.justice.gov/file/1362781/download)

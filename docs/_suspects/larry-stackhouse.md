@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nj.com/camden/2021/03/nj-man-charged-in-capitol-riot-identified-by-coworkers-had-called-out-that-day-feds-say.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379366/download)

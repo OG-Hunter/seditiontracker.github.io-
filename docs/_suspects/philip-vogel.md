@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-289
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://observer-reporter.com/news/localnews/former-houston-man-fianc-e-charged-in-capitol-insurrection/article_07ae2bca-88f7-11eb-9fa2-8bfe6a9097a8.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392601/download)

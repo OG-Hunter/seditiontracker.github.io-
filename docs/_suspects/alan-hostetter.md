@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-392
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/alan-hostetter-california-stop-the-steal-organizer-indicted-for-conspiracy)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)

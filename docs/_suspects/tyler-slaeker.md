@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.insider.com/capitol-rioter-arrested-after-mother-posted-his-pictures-on-facebook-2021-8)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Slaeker%20Affidavit%20in%20Support%20of%20Application%20for%20Arrest%20Warrant.pdf)

@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-247
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.jacksonville.com/story/news/courts/2021/03/11/corrections-officer-faces-judge-jacksonville-over-capitol-riot/4650980001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378516/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378521/download)

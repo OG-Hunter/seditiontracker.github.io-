@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-337
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

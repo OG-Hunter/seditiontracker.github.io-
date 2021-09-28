@@ -1,16 +1,16 @@
 ---
 name: Kenneth Harrelson
 lastName: Harrelson
-hashtag:
+hashtag: KnuckleGlovesOK
 aka:
 residence: Florida
 status: Indicted
 date: 2021-03-10
 charged: 2021-03-10
 indicted: 2021-03-12
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -33,14 +33,16 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-28
 videos:
-- title: IMG_1396.MOV (0:00:23)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ba319a10ce2b013960702cde48001122.mp4
-- title: IMG_1399.MOV (0:02:52)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a631ecd0ce2b013960702cde48001122.mp4
-- title: IMG_1398.MOV (0:00:20)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b7e70250ce2b013960702cde48001122.mp4
+  - title: IMG_1396.MOV (0:00:23)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ba319a10ce2b013960702cde48001122.mp4
+  - title: IMG_1399.MOV (0:02:52)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a631ecd0ce2b013960702cde48001122.mp4
+  - title: IMG_1398.MOV (0:00:20)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b7e70250ce2b013960702cde48001122.mp4
 charges:
+sentence:
 ---
+
 - [News Report](https://www.floridatoday.com/story/news/politics/2021/03/11/brevard-man-arrested-and-charged-conspiracy-capitol-riot/4653749001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377991/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-162
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.newsbreak.com/colorado/colorado-springs/news/2166074234842/ohios-terry-lynn-lindsey-yet-to-be-arrested-after-entering-us-capitol-with-colorado-springs-glenn-wes-lee-croy)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371331/download)

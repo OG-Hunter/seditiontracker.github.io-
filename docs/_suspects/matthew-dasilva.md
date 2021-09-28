@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-520
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2653886199/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413481/download)

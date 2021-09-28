@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-225
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.ksat.com/news/local/2021/03/09/san-antonio-area-man-charged-in-us-capitol-riot-allegedly-took-shots-of-whiskey-in-pelosis-office/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378611/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378616/download)

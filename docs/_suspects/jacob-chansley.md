@@ -38,6 +38,7 @@ charges:
   title: Obstruction of an Official Proceding
   url: https://www.law.cornell.edu/uscode/text/18/1512
   felony: true
+sentence:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)

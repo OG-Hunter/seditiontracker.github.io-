@@ -34,5 +34,6 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf)

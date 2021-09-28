@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtonpost.com/local/legal-issues/capitol-riot-bible-study-group-militia/2021/07/06/e5e6cd26-de82-11eb-ae31-6b7c5c34f0d6_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409611/download)

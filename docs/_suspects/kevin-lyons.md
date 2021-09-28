@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-79
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
 - [Complaint](https://www.justice.gov/opa/page/file/1353401/download)

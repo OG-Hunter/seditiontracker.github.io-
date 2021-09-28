@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-34
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)

@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.thechesapeaketoday.com/2021/04/18/capitol-riot-john-wilkerson-iv-charged-with-being-part-of-capitol-mob/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430236/download)

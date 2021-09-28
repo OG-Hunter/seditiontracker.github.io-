@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-349
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.firstcoastnews.com/article/news/local/man-makes-tuesday-appearance-in-jacksonville-on-charges-related-to-capitol-riots/77-c9c8a930-f2ec-45c6-b342-11addbdea146)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389956/download)

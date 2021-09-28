@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-592
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.newsweek.com/alleged-capitol-rioter-caught-snapchat-maps-after-tipster-sent-screenshots-fbi-1631259)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434576/download)

@@ -1,16 +1,16 @@
 ---
 name: Timothy Hale-Cusanelli
 lastName: Hale-Cusanelli
-hashtag:
+hashtag: TimHaleCusanelli
 aka: Based Hermes
 residence: New Jersey
 status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -34,7 +34,9 @@ published: true
 caseNumber: 1:21-cr-37
 videos:
 charges:
+sentence:
 ---
+
 - [News Report](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356061/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356066/download)

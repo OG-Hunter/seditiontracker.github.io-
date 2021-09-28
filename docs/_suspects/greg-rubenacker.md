@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-193
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371506/download)

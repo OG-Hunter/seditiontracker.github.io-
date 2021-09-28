@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import { info, warning } from "./common/console";
+import { info } from "./common/console";
 import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
@@ -50,6 +50,7 @@ const publishSheet = async () => {
     "Plea Agreement",
     "Judgement",
     "Convicted Charges",
+    "Sentence",
     "Mug Shot",
   ];
 
@@ -113,6 +114,10 @@ const publishSheet = async () => {
           return `${c.code}: ${c.title}`;
         })
         .join("\n");
+    }
+
+    if (suspect.sentence?.length > 0) {
+      suspectData["Sentence"] = suspect.sentence.join("\n");
     }
 
     if (suspect.suspect && !/.*arrest.*/.test(suspect.suspect)) {

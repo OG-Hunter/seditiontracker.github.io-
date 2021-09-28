@@ -49,6 +49,7 @@ export interface Suspect {
   residence?: string;
   caseNumber?: string;
   charges?: Charge[];
+  sentence?: string[];
   videos?: Video[];
 }
 
@@ -167,6 +168,7 @@ export const getSuspectByFile = (filename: string) => {
 
   suspect.charges = getCharges(data.split("---")[1].trim());
   suspect.videos = getVideos(data.split("---")[1].trim());
+  suspect.sentence = getSentence(data.split("---")[1].trim());
 
   return suspect;
 };
@@ -217,13 +219,19 @@ export const updateSuspect = (suspect: Suspect) => {
       lines.push(`  url: ${url}`);
     }
   }
-  lines.push(`charges:`);
+  lines.push("charges:");
   if (suspect.charges) {
     for (const { code, title, url, felony } of Object.values(suspect.charges)) {
       lines.push(`- code: ${code}`);
       lines.push(`  title: ${title}`);
       lines.push(`  url: ${url}`);
       lines.push(`  felony: ${felony}`);
+    }
+  }
+  lines.push("sentence:");
+  if (suspect.sentence) {
+    for (const line of suspect.sentence) {
+      lines.push(`  - ${line}`);
     }
   }
   lines.push("---");
@@ -338,4 +346,9 @@ const getVideos = (data: string) => {
 const getCharges = (data: string) => {
   const result = YAML.parse(data);
   return result.charges || [];
+};
+
+const getSentence = (data: string) => {
+  const result = YAML.parse(data);
+  return result.sentence || [];
 };

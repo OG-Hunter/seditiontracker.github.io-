@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://6abc.com/leonard-ridge-capitol-riot-bucks-county-pennsylvania-snapchat/10675548/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1396541/download)

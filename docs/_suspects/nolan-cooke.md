@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-143
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)

@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.wnep.com/article/news/local/lackawanna-county/olyphant-man-charged-for-role-in-capitol-riot/523-ca785ac4-a026-400e-9517-7efebb9c0d6a)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385906/download)

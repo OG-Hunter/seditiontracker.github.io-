@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.kaaltv.com/austin-minnesota-news/austin-man-arrested-in-connection-to-capitol-riots-in-january/6137943/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)

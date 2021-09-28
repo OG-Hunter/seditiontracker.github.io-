@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nj.com/atlantic/2021/04/father-and-son-from-nj-were-at-capitol-riot-together-feds-say.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Rahm%20III%20Statement%20of%20Facts.pdf)

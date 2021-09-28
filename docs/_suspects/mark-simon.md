@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.ocregister.com/2021/01/28/fbi-arrests-huntington-beach-man-for-suspected-involvement-in-u-s-capitol-siege/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361286/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-440
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-arrest-melbourne-church-members-20210624-uxuok4bodvgu3iuuppfqiugrn4-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405936/download)

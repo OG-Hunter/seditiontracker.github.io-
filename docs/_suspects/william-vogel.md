@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-56
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/dutchess-man-charged-for-taking-part-in-capitol-riot-fbi/ar-BB1d9jwd)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360591/download)

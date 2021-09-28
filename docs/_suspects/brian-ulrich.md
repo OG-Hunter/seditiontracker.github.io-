@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nytimes.com/interactive/2021/02/14/us/roger-stone-capitol-riot.html)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caldwell%20et%20al%20Fifth%20Superseding%20Indictment.pdf)

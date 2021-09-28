@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-354
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.chicagotribune.com/news/criminal-justice/ct-thomas-adams-springfield-capitol-attack-charges-20210414-55cygahhs5dk7btt2qhhmtig4q-story.html)
 - [Self Incrimination (Interview)](https://www.insider.com/men-who-broke-into-the-capitol-describe-a-carnival-atmosphere-2021-1)

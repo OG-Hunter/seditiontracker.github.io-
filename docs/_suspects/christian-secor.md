@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-157
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/02/17/fbi-arrests-costa-mesa-man-christian-secor-charged-in-us-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)

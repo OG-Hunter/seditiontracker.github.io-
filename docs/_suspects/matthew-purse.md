@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-475
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://abcnews.go.com/Politics/wireStory/california-man-charged-raiding-capitol-posing-press-78775394)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410621/download)

@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.kentucky.com/news/local/crime/article249457150.)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1364284639385378825)

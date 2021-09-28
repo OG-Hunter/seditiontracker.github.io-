@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-567
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432686/download)

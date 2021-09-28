@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-316
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcmiami.com/news/local/davie-man-arrested-in-capitol-riot-faces-cyberstalking-charge-in-south-florida/2420522/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1382556/download)

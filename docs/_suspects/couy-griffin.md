@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-92
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (Image)](/images/after/couy-griffin.png)

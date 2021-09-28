@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-73
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357301/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-117
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356241/download)

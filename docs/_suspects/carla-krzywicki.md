@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-594
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433371/download)

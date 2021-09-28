@@ -38,6 +38,7 @@ charges:
   title: Obstruction of Congress
   url: https://www.law.cornell.edu/uscode/text/18/1512
   felony: true
+sentence:
 ---
 - [News Report](https://wgntv.com/news/josiah-colt-man-seen-hanging-from-senate-balcony-turns-himself-in/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)

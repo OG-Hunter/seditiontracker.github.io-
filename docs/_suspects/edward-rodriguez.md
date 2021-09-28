@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/here-in-america-we-fight-back-formally-dressed-man-dubbed-suitmacer-charged-with-spraying-police-during-capitol-siege/ar-AALZYmU)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410871/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-30
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371536/download)

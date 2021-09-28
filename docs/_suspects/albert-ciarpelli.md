@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-38
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.syracuse.com/crime/2021/01/syracuse-man-charged-in-dc-riots-called-time-inside-the-capitol-a-little-adventure.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353446/download)

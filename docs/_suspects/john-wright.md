@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-341
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)

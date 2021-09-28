@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-341
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://kstp.com/news/26-year-old-minnesota-man-arrested-in-connection-with-us-capitol-attack/6069768/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385911/download)

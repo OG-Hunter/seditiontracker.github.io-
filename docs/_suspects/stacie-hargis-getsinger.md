@@ -1,7 +1,7 @@
 ---
 name: Stacie Hargis Getsinger
 lastName: Hargis Getsinger
-hashtag:
+hashtag: StacieGetsinger
 aka:
 residence: South Carolina
 status: Charged
@@ -34,6 +34,8 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
+
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405456/download)

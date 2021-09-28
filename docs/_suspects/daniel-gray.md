@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.news4jax.com/news/local/2021/05/19/neptune-beach-man-involved-in-altercation-that-led-to-officer-getting-hurt-during-jan-6-capitol-riot-court-documents-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1395251/download)

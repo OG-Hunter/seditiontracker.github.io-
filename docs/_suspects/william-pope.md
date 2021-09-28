@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-128
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.komu.com/news/midmissourinews/update-kansas-man-arrested-in-relation-to-u-s-capitol-riot-two-missouri-men-also/article_a3e6bfa4-6d66-11eb-a9e0-f36f0598f077.html)
 - [Self Incrimination (Media)](https://www.cjonline.com/story/news/local/2021/01/11/former-topeka-city-council-candidate-inside-u-s-capitol-jan-6/6627946002/)

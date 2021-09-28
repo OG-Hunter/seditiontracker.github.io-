@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-104
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://kdvr.com/news/local/former-olympic-swimmer-klete-keller-on-7-charges-tied-to-storming-the-us-capitol/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)

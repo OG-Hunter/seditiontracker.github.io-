@@ -4,16 +4,16 @@ lastName: Kostolsky
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-02-23
 charged: 2021-02-23
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-09-28
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-09-28
+sentencing: 2021-12-21
 age: 32
 occupation:
 affiliations:
@@ -34,6 +34,12 @@ published: true
 caseNumber: 1:21-cr-197
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+sentence:
 ---
+
 - [News Report](https://www.wfmz.com/news/area/lehighvalley/paperwork-video-shows-lehigh-county-man-was-at-u-s-capitol-during-riot/article_540d8556-7dee-11eb-845a-c3b80faa77ff.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393611/download)

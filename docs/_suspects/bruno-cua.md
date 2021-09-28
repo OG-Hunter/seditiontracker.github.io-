@@ -36,6 +36,7 @@ videos:
 - title: Detention Ex 4 Cua.mp4 (0:00:41)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.ajc.com/news/metro-atlanta-teen-charged-in-us-capitol-attack/U7EPRZANXVBFPB7KRW7EQ3VRIE/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)

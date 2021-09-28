@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-28
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/02/19/capitol-arrests-warren-county-couple-charged-jan-6-insurrection/4500408001/)
 - [Complaint](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)

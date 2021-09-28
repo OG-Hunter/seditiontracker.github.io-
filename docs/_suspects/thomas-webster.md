@@ -36,6 +36,7 @@ videos:
 - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.nytimes.com/2021/02/23/nyregion/nypd-officer-arrested-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)

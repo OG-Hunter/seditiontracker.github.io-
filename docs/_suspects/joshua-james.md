@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-28
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcnews.com/news/us-news/alabama-man-ties-oath-keepers-militia-arrested-connection-capitol-riot-n1260499)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378886/download)

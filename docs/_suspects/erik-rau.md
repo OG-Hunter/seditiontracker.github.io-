@@ -38,6 +38,7 @@ charges:
   title: Disorderly Conduct in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/central-ohio-resident-arrested-in-jan-6-breach-of-u-s-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415126/download)

@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tamp-pham-at-us-capitol-safety-plan/9655587/)
 - [Houston Police Statement (Twitter)](https://twitter.com/ArtAcevedo/status/1349759930832662528?s=20)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-346
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://accesswdun.com/article/2021/5/1003147/jefferson-man-charged-in-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391806/download)

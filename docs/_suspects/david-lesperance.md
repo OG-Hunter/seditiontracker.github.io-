@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/central-florida-man-arrested-in-connection-with-january-6-capitol-riot/ar-AALpHS2)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1406091/download)

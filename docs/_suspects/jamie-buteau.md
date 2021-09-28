@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.ocala.com/story/news/crime/2021/06/24/ocala-husband-and-wife-charged-jan-6-u-s-capitol-attack/5336380001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405871/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-484
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.azcentral.com/story/news/local/phoenix/2021/05/19/micajah-jackson-arizona-faces-federal-charges-us-capitol-riot/5164968001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395286/download)

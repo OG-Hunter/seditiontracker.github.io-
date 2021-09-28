@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-161
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.fox19.com/2021/01/26/fbi-more-ohioans-charged-violent-us-capitol-protest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)

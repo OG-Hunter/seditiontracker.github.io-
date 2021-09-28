@@ -38,6 +38,7 @@ charges:
   title: Entering a restricted building or grounds
   url: https://www.law.cornell.edu/uscode/text/18/1752
   felony: false
+sentence:
 ---
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428566/download)

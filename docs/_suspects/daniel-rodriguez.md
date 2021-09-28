@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-002
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.latimes.com/california/story/2021-03-31/daniel-rodriguez-arrested-capitol-riot-officer-assault)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381991/download)

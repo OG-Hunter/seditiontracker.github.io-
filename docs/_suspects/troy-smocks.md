@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-198
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)

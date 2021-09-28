@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-234
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/02/21/officer-joseph-fischer-charged-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369301/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-75
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360201/download)

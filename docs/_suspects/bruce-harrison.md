@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.chicagotribune.com/news/criminal-justice/ct-us-capitol-breach-illinois-charges-wangler-harrison-20210517-jz7eahg2rfgahcwaoyzs27amkq-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432416/download)

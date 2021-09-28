@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-483
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://cumberlink.com/news/local/crime-and-courts/mechanicsburg-woman-faces-multiple-charges-related-to-capitol-riot-on-jan-6/article_7c4d0033-057c-5fe7-aeb8-030782d76f64.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407556/download)

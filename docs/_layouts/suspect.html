@@ -12,11 +12,9 @@ layout: default
   <h1>{{ page.name }}</h1>
   {% if page.aka %} AKA: <small>{{ page.aka }}</small>
   <br />
-  {% endif %}
-  {% if page.caseNumber %} Case Number: <small>{{ page.caseNumber }}</small>
+  {% endif %} {% if page.caseNumber %} Case Number: <small>{{ page.caseNumber }}</small>
   <br />
-  {% endif %}
-  {% if page.residence %} Residence: <small>{{ page.residence }}</small>
+  {% endif %} {% if page.residence %} Residence: <small>{{ page.residence }}</small>
   <br />
   {% endif %} {% if page.age %} Age: <small>{{ page.age }}</small>
   <br />
@@ -31,20 +29,25 @@ layout: default
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.convicted %}
   <div>Convicted: <small>{{ page.convicted | date: "%Y-%m-%d"}}</small></div>
-  {% endif %}
-  {% if page.charges %}
-    <ul>
+  {% endif %} {% if page.charges %}
+  <ul>
     {% for charge in page.charges %}
-      <li>
-        <a href="{{charge.url}}">{{charge.code}}</a> {{charge.title}}
-        {% if charge.felony %}
-        <span class="felony"> (felony)</span>
-        {% endif %}
-      </li>
+    <li>
+      <a href="{{charge.url}}">{{charge.code}}</a> {{charge.title}} {% if charge.felony %}
+      <span class="felony"> (felony)</span>
+      {% endif %}
+    </li>
     {% endfor %}
-    </ul>
-  {% endif %}
-  Links:
+  </ul>
+  {% endif %} {% if page.sentence %}
+  <div>Sentenced: <small>{{ page.sentenced | date: "%Y-%m-%d"}}</small></div>
+  {% endif %} {% if page.sentence %}
+  <ul>
+    {% for line in page.sentence %}
+    <li>{{ line }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %} Links:
   <br />
   <small> {{content}} </small>
   {% if page.quote %}

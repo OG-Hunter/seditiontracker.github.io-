@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-426
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wmtw.com/article/second-mainer-arrested-accused-of-taking-part-in-capitol-riot/36559629)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404506/download)

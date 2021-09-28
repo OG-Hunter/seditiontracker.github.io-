@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-88
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://wreg.com/news/fbi-says-social-media-posts-link-man-charged-in-capitol-riot-to-memphis/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362396/download)

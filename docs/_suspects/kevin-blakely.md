@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-356
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/2584604/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380351/download)

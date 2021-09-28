@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-362
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.kbzk.com/news/crime-courts/bozeman-man-facing-charges-for-alleged-offenses-at-us-capitol-on-jan-6)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378536/download)

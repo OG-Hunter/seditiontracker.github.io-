@@ -42,6 +42,7 @@ charges:
   title: Obstruction of Congress
   url: https://www.law.cornell.edu/uscode/text/18/1512
   felony: true
+sentence:
 ---
 - [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387456/download)

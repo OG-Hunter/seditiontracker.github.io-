@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.newsweek.com/capitol-rioter-anthony-scirica-charged-after-friend-snapchats-about-him-tv-1601370)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405461/download)

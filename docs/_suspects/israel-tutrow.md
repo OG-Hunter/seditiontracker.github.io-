@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-310
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360941/download)

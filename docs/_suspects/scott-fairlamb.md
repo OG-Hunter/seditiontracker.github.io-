@@ -50,6 +50,7 @@ charges:
   title: Assaulting, resisting, or impeding certain officers or employees
   url: https://www.law.cornell.edu/uscode/text/18/111
   felony: true
+sentence:
 ---
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359221/download)

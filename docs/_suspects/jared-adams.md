@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-212
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/03/09/plain-city-man-latest-ohioans-arrested-jan-6-capitol-riot/6923674002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378331/download)

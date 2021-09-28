@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-36
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Video)](https://twitter.com/waterspider__/status/1349422388396494850)

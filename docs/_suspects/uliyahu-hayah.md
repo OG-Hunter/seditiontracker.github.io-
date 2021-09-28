@@ -1,7 +1,7 @@
 ---
 name: Uliyahu Hayah
 lastName: Hayah
-hashtag:
+hashtag: IAmHayah
 aka:
 residence: Maryland
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: '[w]e pushed all the way through. They couldn’t stop us.'
+quote: "[w]e pushed all the way through. They couldn’t stop us."
 title: Uliyahu Hayah charged on August 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,7 +34,9 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
+
 - [News Report](https://www.republicworld.com/world-news/us-news/us-capitol-breach-two-more-held-on-charges-of-assault-civil-disorder.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428281/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

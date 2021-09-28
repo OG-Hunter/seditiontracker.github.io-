@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-mj-14
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)

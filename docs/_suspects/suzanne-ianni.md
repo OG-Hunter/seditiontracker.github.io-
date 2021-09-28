@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-451
 videos:
 charges:
+sentence:
 ---
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)

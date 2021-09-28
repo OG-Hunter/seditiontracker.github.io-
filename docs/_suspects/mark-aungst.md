@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-144
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.pennlive.com/news/2021/02/lycoming-county-man-woman-charged-with-breaking-into-the-us-capitol-during-riot.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Aungst%20and%20Tammy%20Bronsburg%20Criminal%20Complaint.pdf)

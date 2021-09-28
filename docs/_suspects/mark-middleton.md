@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388956/download)

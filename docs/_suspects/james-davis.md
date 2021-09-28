@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-mj-536
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://fredericksburg.com/news/local/king-george-man-charged-in-jan-6-assault-on-u-s-capitol/article_a8b46070-9253-533a-b4fe-77dc0d0be187.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)

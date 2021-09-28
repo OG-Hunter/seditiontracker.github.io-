@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.springfieldnewssun.com/crime/2-more-area-residents-charged-in-us-capitol-riot/N6YW6VWHSFA67OMQO5TNR7GFUE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433306/download)

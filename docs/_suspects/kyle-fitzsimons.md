@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-158
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365566/download)
 - [Self Incrimination (Interview)](https://www.therochestervoice.com/west-lebanon-man-recounts-the-hope-then-terror-he-encountered-on-jan-6-cms-15693)

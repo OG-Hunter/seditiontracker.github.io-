@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-161
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.wfmj.com/story/43232086/feds-accuse-3-ohio-men-of-illegally-entering-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)

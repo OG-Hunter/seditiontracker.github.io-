@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-201
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.news-leader.com/story/news/local/missouri/2021/01/28/u-s-capitol-riots-document-shows-why-springfield-man-zachary-martin-arrested/4301430001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361576/download)

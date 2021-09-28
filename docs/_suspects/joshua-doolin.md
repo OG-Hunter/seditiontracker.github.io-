@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-447
 videos:
 charges:
+sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

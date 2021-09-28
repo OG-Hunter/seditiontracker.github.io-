@@ -38,6 +38,7 @@ charges:
   title: Parading, Demonstrating or Picketing in a Capitol Building
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
+sentence:
 ---
 - [News Report](https://www.kiiitv.com/article/news/local/jenny-cudd-fbi-arrested/513-fb4ff454-3bf0-4648-8983-660ec8f2601e)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353436/download)

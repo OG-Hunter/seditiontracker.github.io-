@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-336
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.alternet.org/2021/04/samuel-christopher-montoya/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386666/download)

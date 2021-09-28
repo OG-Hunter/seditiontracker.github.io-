@@ -42,6 +42,7 @@ charges:
   title: Entering a restricted building or grounds with a dangerous or deadly weapon
   url: https://www.law.cornell.edu/uscode/text/18/1752
   felony: true
+sentence:
 ---
 - [News Report](https://variety.com/2021/music/news/metal-guitarist-john-schaffer-surrenders-fbi-capitol-siege-1234887239/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1350971493891661829?s=20)

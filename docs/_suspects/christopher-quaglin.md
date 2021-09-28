@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)

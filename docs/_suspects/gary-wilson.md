@@ -34,5 +34,6 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [Statement of Facts](https://s3.documentcloud.org/documents/21062164/9-9-21-us-v-gary-wilson-complaint-affidavit.pdf)

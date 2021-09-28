@@ -42,6 +42,7 @@ videos:
 - title: Exhibit 4.mp4 (0:00:25)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b08e5cf0ce2a013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://www.dailymail.co.uk/news/article-9378829/Former-Special-Forces-soldier-charged-assaulting-police-flag-pole-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378931/download)

@@ -34,6 +34,7 @@ published: true
 caseNumber: 1:21-cr-410
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.brooklynpaper.com/midwood-man-arrested-for-alleged-participation-in-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393986/download)

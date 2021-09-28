@@ -54,6 +54,7 @@ videos:
 - title: Exhibit 12 - Video Upper Terrace West-2.mp4 (0:02:50)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/2388d310ce2b013960702cde48001122.mp4
 charges:
+sentence:
 ---
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Complaint](https://context-cdn.washingtonpost.com/notes/prod/default/documents/daa8b9d3-95b2-43a4-8472-baad6edb500e/note/e298df29-78e9-488d-b304-292f7d70e0f1.#page=1)

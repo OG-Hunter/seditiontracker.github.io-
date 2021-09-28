@@ -34,6 +34,7 @@ published: true
 caseNumber:
 videos:
 charges:
+sentence:
 ---
 - [News Report](https://www.cnn.com/2021/04/23/politics/bumble-capitol-riot-robert-chapman/index.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389161/download)
