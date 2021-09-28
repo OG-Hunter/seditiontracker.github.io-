@@ -41,4 +41,5 @@ charges:
 sentence:
 ---
 - [News Report](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428536/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437031/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437026/download)

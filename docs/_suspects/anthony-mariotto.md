@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436776/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365781/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436771/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Mariotto%20Information.pdf)

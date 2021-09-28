@@ -4,15 +4,15 @@ lastName: Sells
 hashtag:
 aka:
 residence: Oklahoma
-status: Charged
+status: Convicted
 date: 2021-05-12
 charged: 2021-05-12
 indicted:
-convicted:
+convicted: 2021-09-27
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-09-27
 sentencing:
 age: 25
 occupation:
@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-549
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.oklahoman.com/story/news/2021/05/17/fifth-oklahoman-charged-us-capitol-attack-jan-6/5137167001/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tanner%20Sells%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437041/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437036/download)

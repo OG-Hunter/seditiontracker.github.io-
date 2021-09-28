@@ -42,3 +42,5 @@ sentence:
 ---
 - [News Report](https://www.komu.com/news/state/two-missouri-men-arrested-for-alleged-involvement-in-capitol-riots/article_d19e425a-72fc-11eb-a3bc-5f2e15451854.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371571/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437016/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437021/download)

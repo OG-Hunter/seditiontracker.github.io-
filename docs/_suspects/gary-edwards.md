@@ -31,7 +31,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-366
 videos:
 charges:
 - code: 18 USC § 5104(e)(2)(G)
@@ -42,4 +42,6 @@ sentence:
 ---
 - [News Report](https://6abc.com/capitol-riot-arrest-bucks-county-churchville-gary-edwards/10585377/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391666/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391671/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437011/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437006/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gary%20Edwards%20Information.pdf)

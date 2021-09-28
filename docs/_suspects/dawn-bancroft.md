@@ -4,16 +4,16 @@ lastName: Bancroft
 hashtag: DawnBancroft
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-01-29
 charged: 2021-01-29
 indicted:
-convicted:
+convicted: 2021-09-28
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-09-28
+sentencing: 2021-01-25
 age: 59
 occupation: Business Owner (CrossFit)
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-271
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)

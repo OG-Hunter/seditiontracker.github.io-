@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359591/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359591/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424651/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Ericson%20Plea%20Agreement.pdf)
