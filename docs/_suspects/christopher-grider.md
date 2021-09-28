@@ -1,16 +1,16 @@
 ---
 name: Christopher Grider
 lastName: Grider
-hashtag:
+hashtag: GadsdenFlagBib
 aka:
 residence: Texas
 status: Indicted
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-22
 videos:
 charges:
 ---
+
 - [News Report](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)

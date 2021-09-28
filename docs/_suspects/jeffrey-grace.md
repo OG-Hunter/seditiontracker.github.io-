@@ -1,16 +1,16 @@
 ---
 name: Jeffrey Grace
 lastName: Grace
-hashtag:
+hashtag: PapaSmurfPB
 aka:
 residence: Washington
 status: Charged
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Did I have the right to go in? I guess not. Because it’s illegal. But did I do anything wrong? No, I didn’t.'
+quote: "Did I have the right to go in? I guess not. Because it’s illegal. But did I do anything wrong? No, I didn’t."
 title: Jeffrey Grace charged on February 4th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-296
 videos:
 charges:
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)

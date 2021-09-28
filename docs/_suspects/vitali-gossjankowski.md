@@ -1,16 +1,16 @@
 ---
 name: Vitali GossJankowski
 lastName: GossJankowski
-hashtag:
+hashtag: TaserGuy
 aka:
 residence: Washington, DC
 status: Indicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-02-17
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'The cops won’t touch me. Lol.'
+quote: "The cops won’t touch me. Lol."
 title: Vitali GossJankowski charged on January 14, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-123
 videos:
 charges:
 ---
+
 - [News Report](https://dcist.com/story/21/01/19/gallaudet-student-charged-allegedly-trying-to-storm-us-capitol-with-taser/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356136/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/Cleavon_MD/status/1352302262631088128?s=20)
