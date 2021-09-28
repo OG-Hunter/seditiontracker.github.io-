@@ -1,16 +1,16 @@
 ---
 name: Johnny Harris
 lastName: Harris
-hashtag:
+hashtag: FlagJacketPB
 aka:
 residence: North Carolina
 status: Charged
 date: 2021-03-17
 charged: 2021-03-17
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://wcti12.com/news/state-news/nc-man-arrested-and-charged-in-connection-with-the-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393726/download)

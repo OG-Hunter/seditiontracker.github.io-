@@ -1,16 +1,16 @@
 ---
 name: Joshua Hughes
 lastName: Hughes
-hashtag:
+hashtag: ElfNazi
 aka:
 residence: Montana
 status: Indicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted: 2021-02-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371626/download)
