@@ -1,16 +1,16 @@
 ---
 name: Eduardo Alvear Gonzalez
 lastName: Alvear Gonzalez
-hashtag:
+hashtag: DoobieSmoker
 aka: Lion Nick, Capitol Rotunda Doobie Smoker
 residence: California
 status: Charged
 date: 2021-01-31
 charged: 2021-01-31
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-115
 videos:
 charges:
 ---
+
 - [News Report](https://www.pilotonline.com/news/crime/vp-nw-gonzalez-capitol-riot-20210211-lai4xcqvqnbdrb3fvsq6mffrdy-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378626/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/RichieMcGinniss/status/1346959229022826498)

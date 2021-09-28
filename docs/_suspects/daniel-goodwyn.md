@@ -1,16 +1,16 @@
 ---
 name: Daniel Goodwyn
 lastName: Goodwyn
-hashtag:
+hashtag: GoodwynPB
 aka:
 residence: California
 status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-02-24
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-153
 videos:
 charges:
 ---
+
 - [News Report](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362756/download)

@@ -1,16 +1,16 @@
 ---
 name: Jeremy Grace
 lastName: Grace
-hashtag:
+hashtag: GrayUAPB
 aka:
 residence: Oregon
 status: Charged
 date: 2021-05-24
 charged: 2021-05-24
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -35,6 +35,7 @@ caseNumber: 1:21-cr-492
 videos:
 charges:
 ---
+
 - [News Report](https://www.oregonlive.com/crime/2021/05/battle-ground-man-caught-on-video-with-dad-repeating-our-house-while-inside-us-capitol-during-jan-6-incursion-feds-say.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398131/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422216/download)
