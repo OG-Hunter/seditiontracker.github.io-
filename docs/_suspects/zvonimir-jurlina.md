@@ -1,7 +1,7 @@
 ---
 name: Zvonimir Jurlina
 lastName: Jurlina
-hashtag:
+hashtag: MrMunsterAOM
 aka: Zykotik
 residence: New York
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'This is mother fucking America first. This is how we do it. No more fucking around.'
+quote: "This is mother fucking America first. This is how we do it. No more fucking around."
 title: Zvonimir Jurlina charged on June 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)
 - [Incriminating Evidence (VIDEO)](https://youtu.be/ZrDckH2Td68?t=190)

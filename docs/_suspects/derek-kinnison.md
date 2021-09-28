@@ -1,7 +1,7 @@
 ---
 name: Derek Kinnison
 lastName: Kinnison
-hashtag:
+hashtag: FashHat3PShirt
 aka:
 residence: California
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.desertsun.com/story/news/nation/california/2021/06/10/four-riverside-county-men-among-6-socal-residents-indicted-capitol-breach/7647401002/)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)

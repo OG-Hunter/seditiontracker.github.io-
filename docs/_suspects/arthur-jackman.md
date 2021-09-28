@@ -1,7 +1,7 @@
 ---
 name: Arthur Jackman
 lastName: Jackman
-hashtag:
+hashtag: FashProShop
 aka:
 residence: Florida
 status: Indicted
@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age: 30
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/arthur-jackman.png
 suspect: arthur-jackman.png
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/03/30/capitol-riot-suspect-in-custody-in-orlando/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1381341/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1381346/download)

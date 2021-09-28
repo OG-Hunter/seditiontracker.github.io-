@@ -1,7 +1,7 @@
 ---
 name: David Judd
 lastName: Judd
-hashtag:
+hashtag: CapitolWig
 aka:
 residence: Texas
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'He threw a firecracker, a big giant, what the ....'
+quote: "He threw a firecracker, a big giant, what the ...."
 title: David Judd charged on March 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.dallasnews.com/news/crime/2021/03/26/dallas-fbi-arrests-its-20th-alleged-rioter-for-storming-of-the-capitol-during-uprising/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380671/download)

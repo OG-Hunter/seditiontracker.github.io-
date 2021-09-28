@@ -1,7 +1,7 @@
 ---
 name: Nicholas Kennedy
 lastName: Kennedy
-hashtag:
+hashtag: RWDSStooge
 aka: Squatch
 residence: Missouri
 status: Indicted
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/sikeston-man-faces-charges-in-capitol-riot-feds-say/article_aeda28bb-fed3-5cd3-8281-9ba9dd8db859.html)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Kennedy%20Indictment.pdf)

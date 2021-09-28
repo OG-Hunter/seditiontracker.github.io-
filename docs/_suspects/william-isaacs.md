@@ -1,16 +1,16 @@
 ---
 name: William Isaacs
 lastName: Isaacs
-hashtag:
+hashtag: PackOK
 aka:
 residence: Florida
 status: Indicted
 date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/05/31/grand-jury-indicts-kissimmee-man-for-alleged-role-in-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)

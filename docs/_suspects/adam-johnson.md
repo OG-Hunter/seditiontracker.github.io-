@@ -1,16 +1,16 @@
 ---
 name: Adam Johnson
 lastName: Johnson
-hashtag:
+hashtag: LecternGuy
 aka:
 residence: Florida
 status: Charged
 date: 2021-01-07
 charged: 2021-01-07
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/world/adam-johnson-spotted-with-pelosis-lectern-stormed-capitol-to-witness-history-e2-80-94lawyers/ar-BB1cH0ZJ)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Information.pdf)

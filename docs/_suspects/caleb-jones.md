@@ -1,7 +1,7 @@
 ---
 name: Caleb Jones
 lastName: Jones
-hashtag:
+hashtag: NYLongCoat
 aka:
 residence: Ohio
 status: Convicted
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-321
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.nbc4i.com/news/local-news/columbus-man-23-charged-in-captiol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435666/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418046/download)

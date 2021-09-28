@@ -1,16 +1,16 @@
 ---
 name: Edward Lang
 lastName: Lang
-hashtag:
+hashtag: GasMaskBatman
 aka: Jake Lang
 residence: Washington
 status: Indicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/hudson-valley-man-arrested-in-connection-with-capitol-riot-sources/2834919/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355871/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355866/download)

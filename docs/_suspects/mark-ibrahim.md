@@ -1,7 +1,7 @@
 ---
 name: Mark Ibrahim
 lastName: Ibrahim
-hashtag:
+hashtag: GrayGunPoser
 aka:
 residence: California
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I had my creds. I had my firearm, and my badge on me ... But never exposed ... Not that I know of.'
+quote: "I had my creds. I had my firearm, and my badge on me ... But never exposed ... Not that I know of."
 title: Mark Ibrahim charged on July 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/news/mark-ibrahim-dea-agent-arrested-capitol-riot-gun-badge/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413286/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422231/download)

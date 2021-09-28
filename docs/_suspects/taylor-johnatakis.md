@@ -1,16 +1,16 @@
 ---
 name: Taylor Johnatakis
 lastName: Johnatakis
-hashtag:
+hashtag: BeardedMirror
 aka:
 residence: Washington
 status: Indicted
 date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)
