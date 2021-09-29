@@ -18,8 +18,8 @@ age: 58
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/troy-smocks.png
-suspect: troy-smocks.png
+image: /images/preview/troy-smocks.jpg
+suspect: troy-smocks.jpg
 booking: troy-smocks.jpg
 courtroom:
 courthouse:
