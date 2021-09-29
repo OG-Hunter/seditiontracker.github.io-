@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 59
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'wasn’t sure I was supposed to be there.'
 title: Richard Watrous charged on September 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.localsyr.com/news/local-news/fbi-arrests-syracuse-man-they-say-played-a-role-in-jan-6-insurrection-at-u-s-capitol/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Statement%20of%20Facts.pdf)
