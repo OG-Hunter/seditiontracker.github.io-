@@ -1,7 +1,7 @@
 ---
 name: Leonard Ridge
 lastName: Ridge
-hashtag:
+hashtag: LeoRidge4
 aka: Pearce Ridge
 residence: Pennsylvania
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Yeah man so epic I have a video of me fighting riot police in the capital [sic] building'
+quote: "Yeah man so epic I have a video of me fighting riot police in the capital [sic] building"
 title: Leonard Ridge charged on April 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://6abc.com/leonard-ridge-capitol-riot-bucks-county-pennsylvania-snapchat/10675548/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1396541/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Leonard%20Pearso%20Ridge%20IV%20Indictment.pdf)

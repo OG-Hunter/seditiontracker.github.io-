@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-479
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437321/download)

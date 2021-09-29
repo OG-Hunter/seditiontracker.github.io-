@@ -1,7 +1,7 @@
 ---
 name: Robert Reeder
 lastName: Reeder
-hashtag:
+hashtag: ChinDiaper
 aka:
 residence: Maryland
 status: Convicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse: robert-reeder.jpg
 raid:
 perpwalk:
-quote: 'I got gassed several times inside the Capitol, many times outside the Capitol. Got shot with pepper balls. It was fucking nuts. We had to do...ah...battle with the Police inside.'
+quote: "I got gassed several times inside the Capitol, many times outside the Capitol. Got shot with pepper balls. It was fucking nuts. We had to do...ah...battle with the Police inside."
 title: Robert Reeder charged on February 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-166
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://baltimore.cbslocal.com/2021/06/23/us-capitol-riot-attack-robert-reeder-harford-county-guilty-plea/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424661/download)

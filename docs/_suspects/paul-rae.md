@@ -1,7 +1,7 @@
 ---
 name: Paul Rae
 lastName: Rae
-hashtag:
+hashtag: 1776HatPB
 aka:
 residence: Florida
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wtsp.com/amp/article/news/regional/florida/florida-proud-boys-member-capitol-insurrection/67-26ab6a33-bad0-4f9a-b790-3ccbc113d596)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)
