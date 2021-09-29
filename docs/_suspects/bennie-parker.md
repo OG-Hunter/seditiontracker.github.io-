@@ -1,16 +1,16 @@
 ---
 name: Bennie Parker
 lastName: Parker
-hashtag:
+hashtag: BennieParker
 aka:
 residence: Ohio
 status: Indicted
 date: 2021-02-18
 charged: 2021-02-18
 indicted: 2021-02-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'So can I bring my gun?'
+quote: "So can I bring my gun?"
 title: Bennie Parker arrested on February 18, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.dispatch.com/story/news/politics/state/2021/02/19/capitol-arrests-warren-county-couple-charged-jan-6-insurrection/4500408001/)
 - [Complaint](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369066/download)

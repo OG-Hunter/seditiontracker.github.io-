@@ -1,16 +1,16 @@
 ---
 name: Rachel Powell
 lastName: Powell
-hashtag:
+hashtag: BullhornLady
 aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-03-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [FBI Search (VIDEO)](https://www.wpxi.com/news/top-stories/local-woman-wanted-role-violence-us-capitol-custody-source-say/CDOTG3JKHRGQXMZW4GOVFKOJHQ/)
 - [Self Incrimination (Interview)](https://www.newyorker.com/news/news-desk/a-pennsylvania-mothers-path-to-insurrection-capitol-riot)

@@ -1,16 +1,16 @@
 ---
 name: Nicholas Ochs
 lastName: Ochs
-hashtag:
+hashtag: NickOchs
 aka:
 residence: Hawaii
 status: Indicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-02-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)
 - [Complaint](https://www.justice.gov/opa/page/file/1353336/download)

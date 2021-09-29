@@ -1,16 +1,16 @@
 ---
 name: Robert Palmer
 lastName: Palmer
-hashtag:
+hashtag: FloridaFlagJacket
 aka:
 residence: Florida
 status: Indicted
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-28
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)

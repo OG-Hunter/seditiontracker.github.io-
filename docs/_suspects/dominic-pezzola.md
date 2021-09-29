@@ -1,16 +1,16 @@
 ---
 name: Dominic Pezzola
 lastName: Pezzola
-hashtag:
+hashtag: Spazzo
 aka: Spaz
 residence: New York
 status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom: dominic-pezzola.png
 courthouse:
 raid:
 perpwalk:
-quote: 'Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough.'
+quote: "Victory smoke in the Capitol, boys. This is fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
 title: Dominic Pezzola charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355186/download)

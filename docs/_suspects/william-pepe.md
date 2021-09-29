@@ -1,16 +1,16 @@
 ---
 name: William Pepe
 lastName: Pepe
-hashtag:
+hashtag: FashyFreddyMercury
 aka:
 residence: New York
 status: Indicted
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.foxnews.com/us/new-york-mta-metro-north-capitol-riots)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353216/download)

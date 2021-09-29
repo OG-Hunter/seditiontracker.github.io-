@@ -1,16 +1,16 @@
 ---
 name: Robert Packer
 lastName: Packer
-hashtag:
+hashtag: CampAuschwitzShirt
 aka:
 residence: Virginia
 status: Charged
 date: 2021-01-13
 charged: 2021-01-13
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/news/camp-auschwitz-shirt-robert-packer-arrested-virginia/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353201/download)

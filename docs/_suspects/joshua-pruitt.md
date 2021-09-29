@@ -1,16 +1,16 @@
 ---
 name: Joshua Pruitt
 lastName: Pruitt
-hashtag:
+hashtag: BaldBullDog
 aka: JackedBeast
 residence: Washington, DC
 status: Indicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-03-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Getting ready for these clowns on wednesday. Wrong patriot to fk with'
+quote: "Getting ready for these clowns on wednesday. Wrong patriot to fk with"
 title: Joshua Pruitt charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351696/download)

@@ -1,7 +1,7 @@
 ---
 name: Kurt Peterson
 lastName: Peterson
-hashtag:
+hashtag: OldAngryBird
 aka:
 residence: Kentucky
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.whas11.com/article/news/crime/arrest-kurt-peterson-hodgenville-capitol-riot/417-10893ffb-00ba-4977-991a-3996fd089803)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412806/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412801/download)

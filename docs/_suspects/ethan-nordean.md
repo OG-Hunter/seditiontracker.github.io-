@@ -1,7 +1,7 @@
 ---
 name: Ethan Nordean
 lastName: Nordean
-hashtag:
+hashtag: Rufio
 aka: Rufio Panman
 residence: Washington
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'If you feel bad for the police, you are part of the problem.'
+quote: "If you feel bad for the police, you are part of the problem."
 title: Ethan Nordean charged on February 3rd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,11 +33,12 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-175
 videos:
-- title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
+  - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
+
 - [News Report](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/member-proud-boys-charged-obstructing-official-proceeding-other-charges-related-jan-6)
