@@ -1,7 +1,7 @@
 ---
 name: Jon Schaffer
 lastName: Schaffer
-hashtag:
+hashtag: JonRyanSchaffer
 aka:
 residence: Indiana
 status: Convicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We’re not going to merge into some globalist, communist system, it will not happen. There will be a lot of bloodshed if it comes down to that, trust me.'
+quote: "We’re not going to merge into some globalist, communist system, it will not happen. There will be a lot of bloodshed if it comes down to that, trust me."
 title: Jon Schaffer charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -34,16 +34,17 @@ published: true
 caseNumber: 1:21-cr-306
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of Congress
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1752(a)(1), (b)(1)(A)
-  title: Entering a restricted building or grounds with a dangerous or deadly weapon
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of Congress
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1752(a)(1), (b)(1)(A)
+    title: Entering a restricted building or grounds with a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
 sentence:
 ---
+
 - [News Report](https://variety.com/2021/music/news/metal-guitarist-john-schaffer-surrenders-fbi-capitol-siege-1234887239/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1350971493891661829?s=20)
 - [Self Incrimination(Video)](https://youtu.be/wIvjGg3RFyg)

@@ -1,7 +1,7 @@
 ---
 name: Kim Sorgente
 lastName: Sorgente
-hashtag:
+hashtag: BadSamaritanGrey
 aka:
 residence: California
 status: Charged
@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.latimes.com/socal/daily-pilot/news/story/2021-03-29/huntington-beach-resident-kim-sorgente-pleads-not-guilty-to-two-felony-assult-counts)

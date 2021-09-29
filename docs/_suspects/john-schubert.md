@@ -1,7 +1,7 @@
 ---
 name: John Schubert
 lastName: Schubert
-hashtag:
+hashtag: JolietGray
 aka:
 residence: Illinois
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/who-are-amy-and-john-schubert-couple-charged-over-january-6-capitol-riot/ar-AAMCq1m)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417746/download)

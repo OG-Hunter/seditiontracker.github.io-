@@ -1,16 +1,16 @@
 ---
 name: Grayson Sherrill
 lastName: Sherrill
-hashtag:
+hashtag: RedStatueStander
 aka:
 residence: North Carolina
 status: Charged
 date: 2021-03-01
 charged: 2021-03-01
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/grayson-sherrill-capitol-rioter-seen-in-keep-america-great-top-gets-turned-in-by-his-own-family/ar-BB1e9zm3)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379336/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379331/download)

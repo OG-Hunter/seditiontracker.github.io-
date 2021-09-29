@@ -1,16 +1,16 @@
 ---
 name: Tristan Stevens
 lastName: Stevens
-hashtag:
+hashtag: ShaggyProfessor
 aka:
 residence: Florida
 status: Indicted
 date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-03-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.pnj.com/story/news/2021/02/25/tristan-stevens-pensacola-capitol-riot-arrested-clashed-police-affidavit/6817792002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1357823899505934336?s=20)
 - [Complaint](https://beta.documentcloud.org/documents/20474032-stevens)

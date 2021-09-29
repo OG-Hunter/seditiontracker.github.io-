@@ -1,16 +1,16 @@
 ---
 name: Geoffrey Sills
 lastName: Sills
-hashtag:
+hashtag: EmoNazi
 aka:
 residence: Virginia
 status: Indicted
 date: 2021-06-16
 charged: 2021-06-16
 indicted: 2021-06-16
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/virginia-man-assaulted-police-with-baton-poles-in-capitol-tunnel-doj-says/ar-AALp292)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

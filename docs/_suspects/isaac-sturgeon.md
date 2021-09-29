@@ -1,16 +1,16 @@
 ---
 name: Isaac Sturgeon
 lastName: Sturgeon
-hashtag:
+hashtag: SideEyeGrayHat
 aka:
 residence: Montana
 status: Indicted
 date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://bbcbreakingnews.com/capitol-rioter-isaac-sturgeon-is-arrested-by-fbi-at-jfk-after-being-deported-from-kenya/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Steve%20Sturgeon%20Affidavit%20in%20Support%20of%20Removal.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)

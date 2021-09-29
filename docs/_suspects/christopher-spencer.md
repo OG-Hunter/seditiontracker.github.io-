@@ -1,16 +1,16 @@
 ---
 name: Christopher Spencer
 lastName: Spencer
-hashtag:
+hashtag: ChrisSpencer
 aka:
 residence: North Carolina
 status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Where’s Nancy’s office?'
+quote: "Where’s Nancy’s office?"
 title: Christopher Spencer charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wsoctv.com/news/local/fbi-makes-first-arrest-nc-resident-involved-us-capitol-riot/C4KA2XRFZRHYZKUU2VT65O54UU/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356986/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356981/download)

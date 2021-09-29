@@ -1,16 +1,16 @@
 ---
 name: Robert Sanford
 lastName: Sanford
-hashtag:
+hashtag: ExtinguisherMan
 aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/jjabJi3k3h0KAkxYDoWY)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol)
 - [Video of Incident](https://twitter.com/DavidBegnaud/status/1349055784089370624?s=20)

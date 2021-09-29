@@ -41,7 +41,7 @@ charges:
 sentence:
 ---
 - [News Report](https://www.thedailybeast.com/active-duty-marine-christopher-warnagiris-charged-for-capitol-riot)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412371/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437351/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412381/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412686/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Superseding%20Indictment.pdf)

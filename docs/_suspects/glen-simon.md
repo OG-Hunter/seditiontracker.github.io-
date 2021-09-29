@@ -1,16 +1,16 @@
 ---
 name: Glen Simon
 lastName: Simon
-hashtag:
+hashtag: PurplePantherPunk
 aka: Mitch Simon
 residence: Georgia
 status: Charged
 date: 2021-04-12
 charged: 2021-04-12
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://accesswdun.com/article/2021/5/1003147/jefferson-man-charged-in-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391811/download)

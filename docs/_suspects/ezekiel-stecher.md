@@ -1,16 +1,16 @@
 ---
 name: Ezekiel Stecher
 lastName: Stecher
-hashtag:
+hashtag: BlackSherpaPaperPlan
 aka:
 residence: New Jersey
 status: Charged
 date: 2021-03-04
 charged: 2021-03-04
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://nj1015.com/south-jersey-farmer-charged-with-attacking-police-at-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393756/download)

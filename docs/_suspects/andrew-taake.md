@@ -1,7 +1,7 @@
 ---
 name: Andrew Taake
 lastName: Taake
-hashtag:
+hashtag: MacerInBlack
 aka:
 residence: Texas
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.newsweek.com/capitol-rioter-andrew-taakes-boasts-dating-app-bumble-lead-arrest-1612804)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1415156/download)

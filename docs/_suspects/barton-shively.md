@@ -1,22 +1,22 @@
 ---
 name: Barton Shively
 lastName: Shively
-hashtag:
+hashtag: MissingToothMarine
 aka:
 residence: Pennsylvania
 status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-24
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
 age: 53
 occupation: U.S. Marines (Former)
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/098.png
 suspect: 098.png
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.fox43.com/article/news/local/central-pennsylvania-man-arrested-for-role-in-riot-at-us-capitol/521-578d8b83-fed6-4768-95a5-29526f1ebe90)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357011/download)

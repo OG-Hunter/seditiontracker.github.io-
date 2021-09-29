@@ -1,7 +1,7 @@
 ---
 name: Diana Santos-Smith
 lastName: Santos-Smith
-hashtag:
+hashtag: DianaSantosSmith
 aka:
 residence: Pennsylvania
 status: Convicted
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-271
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)
