@@ -34,14 +34,14 @@ published: true
 caseNumber: 1:21-cr-104
 videos:
 charges:
-  - code: "18 USC § 1512(c)(2)"
-    title: "Obstruction of an official proceeding"
-    url: "https://www.law.cornell.edu/uscode/text/18/1512"
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an official proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://kdvr.com/news/local/former-olympic-swimmer-klete-keller-on-7-charges-tied-to-storming-the-us-capitol/)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1354311/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354311/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371636/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437536/download)
