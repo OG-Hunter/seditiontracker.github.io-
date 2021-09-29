@@ -9,8 +9,11 @@ layout: default
 </div>
 
 <div class="details">
-  <h1>{{ page.name }}</h1>
-  {% if page.aka %} AKA: <small>{{ page.aka }}</small>
+  <h1 class="suspect-title">{{ page.name }}</h1>
+  {% if page.hashtag %}
+  <div class="hashtag"><a href="https://twitter.com/search?q=%23{{page.hashtag}}">#{{ page.hashtag }}</a></div>
+  {% endif %} {% if page.aka %} AKA:
+  <small>{{ page.aka }}</small>
   <br />
   {% endif %} {% if page.caseNumber %} Case Number: <small>{{ page.caseNumber }}</small>
   <br />
