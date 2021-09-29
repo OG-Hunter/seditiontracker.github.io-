@@ -9,11 +9,11 @@ date: 2021-07-13
 charged: 2021-07-13
 indicted:
 convicted: 2021-07-23
-sentenced: 2020-09-29
+sentenced: 2021-09-29
 dismissed:
 deceased:
 plea_hearing: 2021-07-23
-sentencing: 2020-09-29
+sentencing: 2021-09-29
 age:
 occupation:
 affiliations:
