@@ -1,16 +1,16 @@
 ---
 name: James Little
 lastName: Little
-hashtag:
+hashtag: JamesLeslieLittle
 aka:
 residence: North Carolina
 status: Indicted
 date: 2021-03-25
 charged: 2021-03-25
 indicted: 2021-04-21
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385926/download)

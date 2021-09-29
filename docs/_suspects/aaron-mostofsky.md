@@ -1,16 +1,16 @@
 ---
 name: Aaron Mostofsky
 lastName: Mostofsky
-hashtag:
+hashtag: FurryFoxGuy
 aka:
 residence: New York
 status: Indicted
 date: 2021-01-11
 charged: 2021-01-11
 indicted: 2021-02-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355521/download)

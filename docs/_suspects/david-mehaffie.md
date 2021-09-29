@@ -1,8 +1,8 @@
 ---
 name: David Mehaffie
 lastName: Mehaffie
-hashtag:
-aka: '#TunnelCommander'
+hashtag: TunnelCommander
+aka:
 residence: Ohio
 status: Indicted
 date: 2021-08-12
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/fbi-arrests-tunnel-commander-anti-abortion-capitol-riot_n_61152eb9e4b07c1403123f7e)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)

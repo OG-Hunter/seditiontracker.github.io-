@@ -1,16 +1,16 @@
 ---
 name: Eric Munchel
 lastName: Munchel
-hashtag:
+hashtag: ZipTieGuy
 aka:
 residence: Tennessee
 status: Indicted
 date: 2021-01-10
 charged: 2021-01-10
 indicted: 2021-02-12
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Probably the last time I’ll be able to enter the building with armor and ... fucking weapons.'
+quote: "Probably the last time I’ll be able to enter the building with armor and ... fucking weapons."
 title: Eric Munchel charged on January 10, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1355811/download)

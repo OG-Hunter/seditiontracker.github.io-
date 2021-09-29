@@ -1,16 +1,16 @@
 ---
 name: Patrick Montgomery
 lastName: Montgomery
-hashtag:
+hashtag: ChumpyTrumpFace
 aka:
 residence: Colorado
 status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-21
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357711/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357706/download)

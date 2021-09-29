@@ -1,7 +1,7 @@
 ---
 name: Samuel Lazar
 lastName: Lazar
-hashtag:
+hashtag: FacePaintBlowhard
 aka:
 residence: Pennsylvania
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We maced them right the fuck back... fuck the tyrants... there’s a time for peace and then there’s a time for war... we need to hang these motherfuckers.'
+quote: "We maced them right the fuck back... fuck the tyrants... there’s a time for peace and then there’s a time for war... we need to hang these motherfuckers."
 title: Samuel Lazar charged on July 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/samuel-lazar-fbi-doug-mastriano-trump-capitol-attack-jan-6_n_60be410be4b099fb31ca9350)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415916/download)
 - [Incriminating Evidence (Video)](https://twitter.com/ryanjreilly/status/1410291458930774024?s=20)

@@ -1,7 +1,7 @@
 ---
 name: Jonathan Munafo
 lastName: Munafo
-hashtag:
+hashtag: BoyInTheHood
 aka:
 residence: New York
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.orlandosentinel.com/news/breaking-news/os-ne-jonathan-munafo-us-capitol-riot-20210427-cmz7ovdhejeefm2unzdns4aqzy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389816/download)

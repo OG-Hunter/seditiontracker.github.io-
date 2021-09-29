@@ -1,16 +1,16 @@
 ---
 name: Kene Lazo
 lastName: Lazo
-hashtag:
+hashtag: Walistambo
 aka:
 residence: Virginia
 status: Charged
 date: 2021-05-28
 charged: 2021-05-28
 indicted:
-convicted: 
+convicted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://news.abs-cbn.com/news/05/29/21/walis-tambo-man-arrested-virginia-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399516/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410491/download)

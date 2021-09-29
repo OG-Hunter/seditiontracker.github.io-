@@ -1,7 +1,7 @@
 ---
 name: Benjamin Martin
 lastName: Martin
-hashtag:
+hashtag: Puffalumper
 aka:
 residence: California
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'You guys are not doing your job. You swore an oath. You’re bound by your word. Move out of the way and let us in.'
+quote: "You guys are not doing your job. You swore an oath. You’re bound by your word. Move out of the way and let us in."
 title: Benjamin Martin charged on August 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://gvwire.com/2021/09/03/fresno-anti-mask-activist-jailed-on-jan-6-capitol-riot-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430511/download)
