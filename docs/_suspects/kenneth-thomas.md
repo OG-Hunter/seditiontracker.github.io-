@@ -1,16 +1,16 @@
 ---
 name: Kenneth Thomas
 lastName: Thomas
-hashtag:
+hashtag: TanOnCamo
 aka: Pi Annon
 residence: Ohio
 status: Charged
 date: 2021-05-25
 charged: 2021-05-25
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://pittsburgh.cbslocal.com/2021/05/27/ohio-man-charged-with-assaulting-officers-in-us-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398806/download)

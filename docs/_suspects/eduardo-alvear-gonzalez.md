@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-09-30
 sentencing:
 age: 32
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.pilotonline.com/news/crime/vp-nw-gonzalez-capitol-riot-20210211-lai4xcqvqnbdrb3fvsq6mffrdy-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378626/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/RichieMcGinniss/status/1346959229022826498)

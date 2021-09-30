@@ -1,16 +1,16 @@
 ---
 name: Thomas Webster
 lastName: Webster
-hashtag:
+hashtag: EyeGouger
 aka:
 residence: New York
 status: Indicted
 date: 2021-02-22
 charged: 2021-02-22
 indicted: 2021-03-12
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'You fucking piece of shit. You fucking Commie motherfuckers, man . . . Come on, take your shit off. Take your shit off.'
+quote: "You fucking piece of shit. You fucking Commie motherfuckers, man . . . Come on, take your shit off. Take your shit off."
 title: Thomas Webster charged on February 22nd, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -33,11 +33,12 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-208
 videos:
-- title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
+  - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nytimes.com/2021/02/23/nyregion/nypd-officer-arrested-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1363940436835004416?s=20)

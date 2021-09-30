@@ -1,7 +1,7 @@
 ---
 name: Ricky Willden
 lastName: Willden
-hashtag:
+hashtag: GreenCanMan
 aka:
 residence: California
 status: Indicted
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://sacramento.cbslocal.com/2021/06/30/ricky-christopher-willden-oakhurst-capitol-riot-arrest/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407976/download)

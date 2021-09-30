@@ -1,7 +1,7 @@
 ---
 name: Shane Woods
 lastName: Woods
-hashtag:
+hashtag: AllBlackTrumpHat
 aka: Shane Castleman
 residence: Illinois
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413656/download)

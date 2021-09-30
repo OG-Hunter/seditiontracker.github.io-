@@ -1,16 +1,16 @@
 ---
 name: Hector Vargas Santos
 lastName: Vargas Santos
-hashtag:
+hashtag: SmokingPhoenix
 aka:
 residence: New Jersey
 status: Charged
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/politics/fbi-new-jersey-man-took-video-selfie-inside-capitol-detailed-his-location-during-siege/ar-BB1d746o)
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371546/download)

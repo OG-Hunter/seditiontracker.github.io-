@@ -1,7 +1,7 @@
 ---
 name: Kevin Tuck
 lastName: Tuck
-hashtag:
+hashtag: HorizontalBlackPB
 aka:
 residence: Florida
 status: Indicted
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)

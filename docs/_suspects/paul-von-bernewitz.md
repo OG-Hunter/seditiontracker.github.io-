@@ -1,7 +1,7 @@
 ---
 name: Paul Von Bernewitz
 lastName: Von Bernewitz
-hashtag:
+hashtag: PaulVonBernewitz
 aka:
 residence: Virginia
 status: Charged
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)

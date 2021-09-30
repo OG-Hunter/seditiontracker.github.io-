@@ -1,16 +1,16 @@
 ---
 name: Eric Von Bernewitz
 lastName: Von Bernewitz
-hashtag:
+hashtag: EricVonBernewitz
 aka:
 residence: Virginia
 status: Charged
 date: 2021-03-24
 charged: 2021-03-24
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)
