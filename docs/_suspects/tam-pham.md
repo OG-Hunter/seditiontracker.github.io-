@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-20
-sentencing:
+sentencing: 2021-12-09
 age: 48
 occupation: Police Officer
 affiliations:

@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-24
-sentencing:
+sentencing: 2022-01-20
 age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem

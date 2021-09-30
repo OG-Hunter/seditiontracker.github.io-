@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-08-04
-sentencing:
+sentencing: 2021-11-19
 age:
 occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)

@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-09
-sentencing:
+sentencing: 2021-12-06
 age:
 occupation: Fishing charter captain
 affiliations:
