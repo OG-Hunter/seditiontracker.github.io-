@@ -1,7 +1,7 @@
 ---
 name: Michael Quick
 lastName: Quick
-hashtag:
+hashtag: MichaelQuick
 aka:
 residence: Missouri
 status: Charged

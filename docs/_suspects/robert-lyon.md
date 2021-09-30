@@ -1,7 +1,7 @@
 ---
 name: Robert Lyon
 lastName: Lyon
-hashtag:
+hashtag: RobertLyon
 aka:
 residence: Ohio
 status: Indicted

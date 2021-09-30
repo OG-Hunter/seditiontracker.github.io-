@@ -1,7 +1,7 @@
 ---
 name: Kash Kelly
 lastName: Kelly
-hashtag:
+hashtag: KashKelly
 aka:
 residence: Illinois
 status: Charged

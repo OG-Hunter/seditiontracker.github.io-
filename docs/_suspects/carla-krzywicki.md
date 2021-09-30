@@ -1,7 +1,7 @@
 ---
 name: Carla Krzywicki
 lastName: Krzywicki
-hashtag:
+hashtag: CarlaKrzywicki
 aka:
 residence: Connecticut
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Cory Brannan
 lastName: Brannan
-hashtag:
+hashtag: Drab3P
 aka:
 residence: Texas
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.dailymail.co.uk/news/article-9975643/Texas-deputy-sheriff-county-jailer-facing-charges-role-January-6-Capitol-riot.html)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235395/gov.uscourts.dcd.235395.1.1.pdf)

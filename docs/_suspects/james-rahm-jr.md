@@ -1,7 +1,7 @@
 ---
 name: James Rahm Jr
 lastName: Rahm Jr
-hashtag:
+hashtag: JamesRahm
 aka:
 residence: New Jersey
 status: Indicted
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nj.com/atlantic/2021/04/father-and-son-from-nj-were-at-capitol-riot-together-feds-say.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Rahm%20III%20Statement%20of%20Facts.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Rahm%20Jr%20Indictment.pdf)

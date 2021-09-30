@@ -1,7 +1,7 @@
 ---
 name: Blas Santillan
 lastName: Santillan
-hashtag:
+hashtag: BlasSantillan
 aka:
 residence: Georgia
 status: Charged

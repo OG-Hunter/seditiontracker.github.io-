@@ -1,7 +1,7 @@
 ---
 name: John Getsinger
 lastName: Getsinger
-hashtag:
+hashtag: JohnGetsinger
 aka:
 residence: South Carolina
 status: Charged

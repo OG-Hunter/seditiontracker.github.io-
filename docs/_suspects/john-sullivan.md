@@ -1,16 +1,16 @@
 ---
 name: John Sullivan
 lastName: Sullivan
-hashtag:
+hashtag: JohnEarlSullivan
 aka:
 residence: Utah
 status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://www.justice.gov/opa/page/file/1354776/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-charged-federal-court-following-events-united-states-capitol)

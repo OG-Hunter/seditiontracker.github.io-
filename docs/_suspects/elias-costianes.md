@@ -1,7 +1,7 @@
 ---
 name: Elias Costianes
 lastName: Costianes
-hashtag:
+hashtag: EliasCostianes
 aka:
 residence: Maryland
 status: Indicted

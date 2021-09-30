@@ -1,7 +1,7 @@
 ---
 name: Savannah Mcdonald
 lastName: Mcdonald
-hashtag:
+hashtag: SavannahMcdonald
 aka:
 residence: Georgia
 status: Charged

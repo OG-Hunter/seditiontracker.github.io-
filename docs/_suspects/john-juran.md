@@ -1,7 +1,7 @@
 ---
 name: John Juran
 lastName: Juran
-hashtag:
+hashtag: JohnJuran
 aka: Jack Juran
 residence: New York
 status: Charged

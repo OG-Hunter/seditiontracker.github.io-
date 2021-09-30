@@ -1,7 +1,7 @@
 ---
 name: Daniel Herendeen
 lastName: Herendeen
-hashtag:
+hashtag: DanielHerendeen
 aka:
 residence: Michigan
 status: Indicted

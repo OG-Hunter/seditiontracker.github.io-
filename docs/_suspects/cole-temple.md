@@ -1,7 +1,7 @@
 ---
 name: Cole Temple
 lastName: Temple
-hashtag:
+hashtag: ColeTemple
 aka:
 residence: Ohio
 status: Charged

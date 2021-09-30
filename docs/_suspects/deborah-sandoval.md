@@ -1,7 +1,7 @@
 ---
 name: Deborah Sandoval
 lastName: Sandoval
-hashtag:
+hashtag: DeborahSandoval
 aka:
 residence: Iowa
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Edward Hemenway
 lastName: Hemenway
-hashtag:
+hashtag: EdwardHemenway
 aka:
 residence: Virginia
 status: Convicted

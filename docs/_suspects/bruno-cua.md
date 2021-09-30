@@ -1,7 +1,7 @@
 ---
 name: Bruno Cua
 lastName: Cua
-hashtag:
+hashtag: BrunoCua
 aka:
 residence: Georgia
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Christopher Quaglin
 lastName: Quaglin
-hashtag:
+hashtag: MAGAFlagShirt
 aka:
 residence: New Jersey
 status: Indicted
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'When you guys see the footage, I was the guy in red, white, and blue uhh hoodie and black helmet...I’m absolutely on a loop on Fox News...I got punched pretty good...It was a great time, I got bumps and bruises'
+quote: "When you guys see the footage, I was the guy in red, white, and blue uhh hoodie and black helmet...I’m absolutely on a loop on Fox News...I got punched pretty good...It was a great time, I got bumps and bruises"
 title: Christopher Quaglin charged on April 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384551/download)

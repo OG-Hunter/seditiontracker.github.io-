@@ -1,7 +1,7 @@
 ---
 name: Michael Hardin
 lastName: Hardin
-hashtag:
+hashtag: MichaelHardin
 aka:
 residence: Utah
 status: Charged

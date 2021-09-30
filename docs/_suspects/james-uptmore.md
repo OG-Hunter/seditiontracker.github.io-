@@ -1,7 +1,7 @@
 ---
 name: James Uptmore
 lastName: Uptmore
-hashtag:
+hashtag: JamesUptmore
 aka: Sonny Uptmore
 residence: Texas
 status: Indicted

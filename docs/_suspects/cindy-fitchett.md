@@ -1,7 +1,7 @@
 ---
 name: Cindy Fitchett
 lastName: Fitchett
-hashtag:
+hashtag: CindyFitchett
 aka:
 residence: Virginia
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: Daniel Warmus
 lastName: Warmus
-hashtag:
+hashtag: DanielWarmus
 aka:
 residence: New York
 status: Charged

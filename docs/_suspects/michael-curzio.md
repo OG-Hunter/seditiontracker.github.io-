@@ -1,7 +1,7 @@
 ---
 name: Michael Curzio
 lastName: Curzio
-hashtag:
+hashtag: MichaelCurzio
 aka:
 residence: Florida
 status: Sentenced
@@ -34,15 +34,14 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 6 months jail time
   - $500 restitution
 ---
-
 - [News Report](https://wjno.iheart.com/featured/florida-news/content/2021-01-08-accused-florida-dc-rioter-has-no-regrets/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

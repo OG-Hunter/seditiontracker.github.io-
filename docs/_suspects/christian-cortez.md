@@ -1,7 +1,7 @@
 ---
 name: Christian Cortez
 lastName: Cortez
-hashtag:
+hashtag: ChristianCortez
 aka:
 residence: Texas
 status: Indicted

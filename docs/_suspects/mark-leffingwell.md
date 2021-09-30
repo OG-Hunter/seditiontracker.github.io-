@@ -1,7 +1,7 @@
 ---
 name: Mark Leffingwell
 lastName: Leffingwell
-hashtag:
+hashtag: MarkLeffingwell
 aka:
 residence: Washington
 status: Indicted

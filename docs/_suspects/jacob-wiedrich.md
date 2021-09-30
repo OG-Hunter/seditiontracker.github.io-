@@ -1,7 +1,7 @@
 ---
 name: Jacob Wiedrich
 lastName: Wiedrich
-hashtag:
+hashtag: JacobWiedrich
 aka: Jacob Weed
 residence: Utah
 status: Charged

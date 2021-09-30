@@ -1,7 +1,7 @@
 ---
 name: Gary Edwards
 lastName: Edwards
-hashtag:
+hashtag: GaryEdwards
 aka:
 residence: Pennsylvania
 status: Convicted

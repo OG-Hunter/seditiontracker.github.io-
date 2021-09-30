@@ -1,7 +1,7 @@
 ---
 name: Samuel Fisher
 lastName: Fisher
-hashtag:
+hashtag: SamuelFisher
 aka: Brad Holiday
 residence: New York
 status: Charged

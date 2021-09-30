@@ -1,7 +1,7 @@
 ---
 name: Donald Smith
 lastName: Smith
-hashtag:
+hashtag: DonaldSmith
 aka:
 residence: New Jersey
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Israel Tutrow
 lastName: Tutrow
-hashtag:
+hashtag: IsraelTutrow
 aka:
 residence: Indiana
 status: Charged

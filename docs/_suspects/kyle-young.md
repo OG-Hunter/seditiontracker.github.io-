@@ -1,7 +1,7 @@
 ---
 name: Kyle Young
 lastName: Young
-hashtag:
+hashtag: AscendDad
 aka:
 residence: Iowa
 status: Indicted
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/04/16/kyle-james-young-charged-with-assaulting-washington-dc-police-officer-capitol-riot-attack/7262650002/)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sibick%20Head%20Young%20Indictment.pdf)

@@ -1,7 +1,7 @@
 ---
 name: Christian Secor
 lastName: Secor
-hashtag:
+hashtag: ChristianSecor
 aka:
 residence: California
 status: Indicted

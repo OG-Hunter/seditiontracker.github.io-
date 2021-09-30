@@ -1,7 +1,7 @@
 ---
 name: Nicholes Lentz
 lastName: Lentz
-hashtag:
+hashtag: NicholesLentz
 aka:
 residence: Florida
 status: Charged

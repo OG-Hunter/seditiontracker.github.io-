@@ -1,7 +1,7 @@
 ---
 name: Leo Kelly
 lastName: Kelly
-hashtag:
+hashtag: LeoKelly
 aka:
 residence: Iowa
 status: Charged

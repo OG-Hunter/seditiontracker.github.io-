@@ -1,7 +1,7 @@
 ---
 name: Elijah Yazdani
 lastName: Yazdani
-hashtag:
+hashtag: ElijahYazdani
 aka:
 residence: Ohio
 status: Charged

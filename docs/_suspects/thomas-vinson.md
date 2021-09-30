@@ -1,7 +1,7 @@
 ---
 name: Thomas Vinson
 lastName: Vinson
-hashtag:
+hashtag: ThomasVinson
 aka:
 residence: Kentucky
 status: Convicted

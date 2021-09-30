@@ -1,7 +1,7 @@
 ---
 name: Brian Stenz
 lastName: Stenz
-hashtag:
+hashtag: BrianStenz
 aka:
 residence: Pennsylvania
 status: Charged

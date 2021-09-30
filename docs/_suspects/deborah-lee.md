@@ -1,7 +1,7 @@
 ---
 name: Deborah Lee
 lastName: Lee
-hashtag:
+hashtag: DeborahLee
 aka: Debbie Lee
 residence: Pennsylvania
 status: Charged

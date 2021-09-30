@@ -1,7 +1,7 @@
 ---
 name: Eric Clark
 lastName: Clark
-hashtag:
+hashtag: EricClark
 aka:
 residence: Kentucky
 status: Charged

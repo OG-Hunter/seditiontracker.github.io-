@@ -1,7 +1,7 @@
 ---
 name: Bradley Rukstales
 lastName: Rukstales
-hashtag:
+hashtag: BradleyRukstales
 aka: Brad Rukstales
 residence: Illinois
 status: Convicted

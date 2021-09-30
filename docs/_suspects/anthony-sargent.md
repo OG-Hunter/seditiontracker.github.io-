@@ -1,7 +1,7 @@
 ---
 name: Anthony Sargent
 lastName: Sargent
-hashtag:
+hashtag: BigBrickPitcher
 aka:
 residence: Florida
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://twitter.com/ryanjreilly/status/1440346134887559178)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435886/download)

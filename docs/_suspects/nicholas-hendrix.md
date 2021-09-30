@@ -1,7 +1,7 @@
 ---
 name: Nicholas Hendrix
 lastName: Hendrix
-hashtag:
+hashtag: NicholasHendrix
 aka:
 residence: Maine
 status: Charged

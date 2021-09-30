@@ -1,7 +1,7 @@
 ---
 name: Anthony Griffith
 lastName: Griffith
-hashtag:
+hashtag: AnthonyGriffith
 aka:
 residence: Oklahoma
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Joshua James
 lastName: James
-hashtag:
+hashtag: JoshuaJames
 aka:
 residence: Alabama
 status: Indicted

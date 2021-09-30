@@ -1,7 +1,7 @@
 ---
 name: Michael Sparks
 lastName: Sparks
-hashtag:
+hashtag: MichaelSparks
 aka:
 residence: Kentucky
 status: Indicted

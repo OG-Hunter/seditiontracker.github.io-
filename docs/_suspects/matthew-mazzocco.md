@@ -1,7 +1,7 @@
 ---
 name: Matthew Mazzocco
 lastName: Mazzocco
-hashtag:
+hashtag: MatthewMazzocco
 aka:
 residence: Texas
 status: Convicted

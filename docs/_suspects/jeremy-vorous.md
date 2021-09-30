@@ -1,7 +1,7 @@
 ---
 name: Jeremy Vorous
 lastName: Vorous
-hashtag:
+hashtag: JeremyVorous
 aka:
 residence: Pennsylvania
 status: Indicted

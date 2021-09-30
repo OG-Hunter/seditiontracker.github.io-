@@ -1,7 +1,7 @@
 ---
 name: Robert Petrosh
 lastName: Petrosh
-hashtag:
+hashtag: RobertPetrosh
 aka:
 residence: New Jersey
 status: Charged

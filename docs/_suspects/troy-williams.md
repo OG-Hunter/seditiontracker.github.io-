@@ -1,7 +1,7 @@
 ---
 name: Troy Williams
 lastName: Williams
-hashtag:
+hashtag: TroyWilliams
 aka:
 residence: Kentucky
 status: Charged

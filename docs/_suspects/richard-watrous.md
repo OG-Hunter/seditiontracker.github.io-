@@ -1,7 +1,7 @@
 ---
 name: Richard Watrous
 lastName: Watrous
-hashtag:
+hashtag: RichardWatrous
 aka:
 residence: New York
 status: Charged
@@ -36,6 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.localsyr.com/news/local-news/fbi-arrests-syracuse-man-they-say-played-a-role-in-jan-6-insurrection-at-u-s-capitol/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Statement%20of%20Facts.pdf)

@@ -1,7 +1,7 @@
 ---
 name: Steven Thurlow
 lastName: Thurlow
-hashtag:
+hashtag: StevenThurlow
 aka: Stephanie Danielle Thurlow
 residence: Michigan
 status: Charged

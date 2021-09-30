@@ -1,7 +1,7 @@
 ---
 name: Kevin Strong
 lastName: Strong
-hashtag:
+hashtag: KevinStrong
 aka:
 residence: California
 status: Charged

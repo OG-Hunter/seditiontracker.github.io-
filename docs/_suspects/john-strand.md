@@ -1,7 +1,7 @@
 ---
 name: John Strand
 lastName: Strand
-hashtag:
+hashtag: JohnStrand
 aka:
 residence: California
 status: Indicted

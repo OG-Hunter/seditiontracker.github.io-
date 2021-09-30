@@ -1,7 +1,7 @@
 ---
 name: Nicole Prado
 lastName: Prado
-hashtag:
+hashtag: NicolePrado
 aka:
 residence: Maryland
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Bryan Ivey
 lastName: Ivey
-hashtag:
+hashtag: BryanIvey
 aka:
 residence: Tennessee
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: Samuel Camargo
 lastName: Camargo
-hashtag:
+hashtag: SamuelCamargo
 aka:
 residence: Florida
 status: Indicted

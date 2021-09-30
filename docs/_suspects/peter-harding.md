@@ -1,7 +1,7 @@
 ---
 name: Peter Harding
 lastName: Harding
-hashtag:
+hashtag: PeterHarding
 aka:
 residence: New York
 status: Charged

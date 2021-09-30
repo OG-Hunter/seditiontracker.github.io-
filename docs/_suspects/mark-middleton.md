@@ -1,7 +1,7 @@
 ---
 name: Mark Middleton
 lastName: Middleton
-hashtag:
+hashtag: MarkMiddleton
 aka:
 residence: Texas
 status: Indicted

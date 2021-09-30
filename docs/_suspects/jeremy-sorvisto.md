@@ -1,7 +1,7 @@
 ---
 name: Jeremy Sorvisto
 lastName: Sorvisto
-hashtag:
+hashtag: JeremySorvisto
 aka:
 residence: Michigan
 status: Convicted

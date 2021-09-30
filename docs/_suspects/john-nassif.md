@@ -1,7 +1,7 @@
 ---
 name: John Nassif
 lastName: Nassif
-hashtag:
+hashtag: JohnNassif
 aka:
 residence: Florida
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Larry Stackhouse
 lastName: Stackhouse
-hashtag:
+hashtag: LarryStackhouse
 aka:
 residence: New Jersey
 status: Charged

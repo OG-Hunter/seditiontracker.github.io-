@@ -1,7 +1,7 @@
 ---
 name: Mick Chan
 lastName: Chan
-hashtag:
+hashtag: MickChan
 aka:
 residence: New Jersey
 status: Charged

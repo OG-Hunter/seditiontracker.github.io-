@@ -1,7 +1,7 @@
 ---
 name: Lonnie Coffman
 lastName: Coffman
-hashtag:
+hashtag: LonnieCoffman
 aka:
 residence: Alabama
 status: Indicted

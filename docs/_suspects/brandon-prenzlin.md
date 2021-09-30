@@ -1,7 +1,7 @@
 ---
 name: Brandon Prenzlin
 lastName: Prenzlin
-hashtag:
+hashtag: BrandonPrenzlin
 aka:
 residence: Virginia
 status: Charged

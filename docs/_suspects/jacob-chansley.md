@@ -1,7 +1,7 @@
 ---
 name: Jacob Chansley
 lastName: Chansley
-hashtag:
+hashtag: JacobChansley
 aka: Jake Angeli, Q Shaman
 residence: Arizona
 status: Convicted

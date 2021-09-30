@@ -1,7 +1,7 @@
 ---
 name: Andrew Ericson
 lastName: Ericson
-hashtag:
+hashtag: AndrewEricson
 aka:
 residence: Oklahoma
 status: Convicted

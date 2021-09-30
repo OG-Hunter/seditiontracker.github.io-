@@ -1,7 +1,7 @@
 ---
 name: Josiah Colt
 lastName: Colt
-hashtag:
+hashtag: JosiahColt
 aka:
 residence: Idaho
 status: Convicted

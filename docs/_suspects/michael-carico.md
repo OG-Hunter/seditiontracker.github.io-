@@ -1,7 +1,7 @@
 ---
 name: Michael Carico
 lastName: Carico
-hashtag:
+hashtag: MichaelCarico
 aka:
 residence: Florida
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Lori Vinson
 lastName: Vinson
-hashtag:
+hashtag: LoriVinson
 aka:
 residence: Kentucky
 status: Convicted

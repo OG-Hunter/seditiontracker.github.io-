@@ -1,7 +1,7 @@
 ---
 name: Kenneth Grayson
 lastName: Grayson
-hashtag:
+hashtag: KennethGrayson
 aka:
 residence: Pennsylvania
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Greg Rubenacker
 lastName: Rubenacker
-hashtag:
+hashtag: GregRubenacker
 aka:
 residence: New York
 status: Indicted

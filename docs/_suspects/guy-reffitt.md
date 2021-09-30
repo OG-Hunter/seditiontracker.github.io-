@@ -1,7 +1,7 @@
 ---
 name: Guy Reffitt
 lastName: Reffitt
-hashtag:
+hashtag: GuyReffitt
 aka:
 residence: Texas
 status: Indicted

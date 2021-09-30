@@ -1,7 +1,7 @@
 ---
 name: Karol Chwiesiuk
 lastName: Chwiesiuk
-hashtag:
+hashtag: KarolChwiesiuk
 aka:
 residence: Illinois
 status: Charged

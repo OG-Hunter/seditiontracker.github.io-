@@ -1,7 +1,7 @@
 ---
 name: Marshall Neefe
 lastName: Neefe
-hashtag:
+hashtag: MarshallNeefe
 aka:
 residence: Pennsylvania
 status: Charged

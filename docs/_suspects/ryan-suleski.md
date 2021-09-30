@@ -1,7 +1,7 @@
 ---
 name: Ryan Suleski
 lastName: Suleski
-hashtag:
+hashtag: RyanSuleski
 aka:
 residence: Virginia
 status: Indicted

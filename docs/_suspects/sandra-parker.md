@@ -1,7 +1,7 @@
 ---
 name: Sandra Parker
 lastName: Parker
-hashtag:
+hashtag: SandraParker
 aka:
 residence: Ohio
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: James Horning
 lastName: Horning
-hashtag:
+hashtag: JamesHorning
 aka:
 residence: Ohio
 status: Indicted

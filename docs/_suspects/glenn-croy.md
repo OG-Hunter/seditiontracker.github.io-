@@ -1,7 +1,7 @@
 ---
 name: Glenn Croy
 lastName: Croy
-hashtag:
+hashtag: GlennCroy
 aka: Wes Croy
 residence: Colorado
 status: Convicted

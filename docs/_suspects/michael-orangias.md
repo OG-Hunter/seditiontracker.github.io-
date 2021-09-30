@@ -1,7 +1,7 @@
 ---
 name: Michael Orangias
 lastName: Orangias
-hashtag:
+hashtag: MichaelOrangias
 aka:
 residence: Kentucky
 status: Convicted

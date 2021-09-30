@@ -1,7 +1,7 @@
 ---
 name: Joshua Lollar
 lastName: Lollar
-hashtag:
+hashtag: JoshuaLollar
 aka:
 residence: Texas
 status: Indicted

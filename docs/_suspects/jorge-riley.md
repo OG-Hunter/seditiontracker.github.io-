@@ -1,7 +1,7 @@
 ---
 name: Jorge Riley
 lastName: Riley
-hashtag:
+hashtag: JorgeRiley
 aka:
 residence: California
 status: Indicted

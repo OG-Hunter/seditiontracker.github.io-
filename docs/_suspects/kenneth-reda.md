@@ -1,7 +1,7 @@
 ---
 name: Kenneth Reda
 lastName: Reda
-hashtag:
+hashtag: KennethReda
 aka:
 residence: Florida
 status: Charged

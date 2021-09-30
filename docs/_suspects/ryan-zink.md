@@ -1,7 +1,7 @@
 ---
 name: Ryan Zink
 lastName: Zink
-hashtag:
+hashtag: RyanZink
 aka: Ryan Scott Zink
 residence: Texas
 status: Indicted

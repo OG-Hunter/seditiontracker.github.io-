@@ -1,7 +1,7 @@
 ---
 name: Joshua Wagner
 lastName: Wagner
-hashtag:
+hashtag: JoshuaWagner
 aka:
 residence: Indiana
 status: Charged

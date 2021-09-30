@@ -1,7 +1,7 @@
 ---
 name: Christina Gerding
 lastName: Gerding
-hashtag:
+hashtag: ChristinaGerding
 aka:
 residence: Illinois
 status: Charged

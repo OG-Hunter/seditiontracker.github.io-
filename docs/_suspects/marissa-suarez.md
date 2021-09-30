@@ -1,7 +1,7 @@
 ---
 name: Marissa Suarez
 lastName: Suarez
-hashtag:
+hashtag: MarissaSuarez
 aka:
 residence: New Jersey
 status: Indicted

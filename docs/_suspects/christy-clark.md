@@ -1,7 +1,7 @@
 ---
 name: Christy Clark
 lastName: Clark
-hashtag:
+hashtag: ChristyClark
 aka:
 residence: Pennsylvania
 status: Charged

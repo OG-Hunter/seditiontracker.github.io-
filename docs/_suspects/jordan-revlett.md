@@ -1,7 +1,7 @@
 ---
 name: Jordan Revlett
 lastName: Revlett
-hashtag:
+hashtag: JordanRevlett
 aka:
 residence: Kentucky
 status: Charged

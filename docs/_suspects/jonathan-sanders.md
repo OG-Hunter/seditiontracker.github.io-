@@ -1,7 +1,7 @@
 ---
 name: Jonathan Sanders
 lastName: Sanders
-hashtag:
+hashtag: JonathanSanders
 aka: Jonathan Ace Sanders Sr.
 residence: Indiana
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: Valerie Ehrke
 lastName: Ehrke
-hashtag:
+hashtag: ValerieEhrke
 aka:
 residence: California
 status: Sentenced

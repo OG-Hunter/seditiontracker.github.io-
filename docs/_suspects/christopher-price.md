@@ -1,7 +1,7 @@
 ---
 name: Christopher Price
 lastName: Price
-hashtag:
+hashtag: ChristopherPrice
 aka:
 residence: Maryland
 status: Charged

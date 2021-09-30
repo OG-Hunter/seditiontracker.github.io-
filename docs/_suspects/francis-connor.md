@@ -1,7 +1,7 @@
 ---
 name: Francis Connor
 lastName: Connor
-hashtag:
+hashtag: FrancisConnor
 aka:
 residence: New York
 status: Charged

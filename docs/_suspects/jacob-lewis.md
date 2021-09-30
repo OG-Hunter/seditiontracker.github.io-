@@ -1,7 +1,7 @@
 ---
 name: Jacob Lewis
 lastName: Lewis
-hashtag:
+hashtag: JacobLewis
 aka:
 residence: California
 status: Indicted

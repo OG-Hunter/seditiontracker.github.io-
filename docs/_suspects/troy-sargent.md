@@ -1,7 +1,7 @@
 ---
 name: Troy Sargent
 lastName: Sargent
-hashtag:
+hashtag: TroySargent
 aka:
 residence: Massachusetts
 status: Indicted

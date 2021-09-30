@@ -1,7 +1,7 @@
 ---
 name: Michael Daughtry
 lastName: Daughtry
-hashtag:
+hashtag: MichaelDaughtry
 aka:
 residence: Georgia
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Oliver Sarko
 lastName: Sarko
-hashtag:
+hashtag: OliverSarko
 aka:
 residence: Ohio
 status: Charged

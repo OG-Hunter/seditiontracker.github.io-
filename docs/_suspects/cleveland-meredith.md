@@ -1,7 +1,7 @@
 ---
 name: Cleveland Meredith
 lastName: Meredith
-hashtag:
+hashtag: ClevelandMeredith
 aka:
 residence: Colorado
 status: Convicted

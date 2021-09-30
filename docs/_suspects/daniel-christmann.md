@@ -1,7 +1,7 @@
 ---
 name: Daniel Christmann
 lastName: Christmann
-hashtag:
+hashtag: DanielChristmann
 aka:
 residence: New York
 status: Charged

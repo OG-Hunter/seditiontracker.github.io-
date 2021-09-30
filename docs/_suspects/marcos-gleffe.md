@@ -1,7 +1,7 @@
 ---
 name: Marcos Gleffe
 lastName: Gleffe
-hashtag:
+hashtag: MarcosGleffe
 aka:
 residence: Illinois
 status: Charged

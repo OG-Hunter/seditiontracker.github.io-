@@ -1,16 +1,16 @@
 ---
 name: Philip Kramer
 lastName: Kramer
-hashtag:
-aka:
+hashtag: PhilKramer
+aka: Phil Kramer
 residence: California
 status: Charged
 date: 2021-04-07
 charged: 2021-04-07
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://winningcaseamerica.com/index.php/2021/05/19/california-man-accused-of-being-involved-in-jan-6-capitol-siege-says-he-did-nothing-wrong/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393626/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419096/download)

@@ -1,7 +1,7 @@
 ---
 name: Justin Stoll
 lastName: Stoll
-hashtag:
+hashtag: JustinStoll
 aka: Th3Real Huckleberry
 residence: Ohio
 status: Charged

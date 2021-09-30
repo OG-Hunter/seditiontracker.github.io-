@@ -1,7 +1,7 @@
 ---
 name: Mark Simon
 lastName: Simon
-hashtag:
+hashtag: MarkSimon
 aka:
 residence: California
 status: Convicted

@@ -1,16 +1,16 @@
 ---
 name: Daniel Rodriguez
 lastName: Rodriguez
-hashtag:
+hashtag: TaserPrick
 aka:
 residence: California
 status: Indicted
 date: 2021-03-24
 charged: 2021-03-24
 indicted: 2021-03-24
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.latimes.com/california/story/2021-03-31/daniel-rodriguez-arrested-capitol-riot-officer-assault)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381991/download)

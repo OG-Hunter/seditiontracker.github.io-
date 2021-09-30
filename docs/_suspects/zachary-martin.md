@@ -1,7 +1,7 @@
 ---
 name: Zachary Martin
 lastName: Martin
-hashtag:
+hashtag: ZacharyMartin
 aka: Zac Martin
 residence: Missouri
 status: Charged

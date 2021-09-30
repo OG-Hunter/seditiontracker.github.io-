@@ -1,7 +1,7 @@
 ---
 name: Traci Sunstrum
 lastName: Sunstrum
-hashtag:
+hashtag: TraciSunstrum
 aka:
 residence: New York
 status: Charged

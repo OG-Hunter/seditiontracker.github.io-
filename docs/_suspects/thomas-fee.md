@@ -1,7 +1,7 @@
 ---
 name: Thomas Fee
 lastName: Fee
-hashtag:
+hashtag: ThomasFee
 aka:
 residence: New York
 status: Charged

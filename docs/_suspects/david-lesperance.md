@@ -1,7 +1,7 @@
 ---
 name: David Lesperance
 lastName: Lesperance
-hashtag:
+hashtag: DavidLesperance
 aka:
 residence: Florida
 status: Charged

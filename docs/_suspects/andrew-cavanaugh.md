@@ -1,7 +1,7 @@
 ---
 name: Andrew Cavanaugh
 lastName: Cavanaugh
-hashtag:
+hashtag: AndrewCavanaugh
 aka:
 residence: Montana
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Annie Howell
 lastName: Howell
-hashtag:
+hashtag: AnnieHowell
 aka:
 residence: Pennsylvania
 status: Indicted

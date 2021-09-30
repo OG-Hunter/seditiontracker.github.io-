@@ -1,7 +1,7 @@
 ---
 name: Brian Gundersen
 lastName: Gundersen
-hashtag:
+hashtag: BrianGundersen
 aka: Brian Kristopher
 residence: New York
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Logan Grover
 lastName: Grover
-hashtag:
+hashtag: LoganGrover
 aka:
 residence: Colorado
 status: Charged

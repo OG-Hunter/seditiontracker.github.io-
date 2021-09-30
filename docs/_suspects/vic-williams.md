@@ -1,7 +1,7 @@
 ---
 name: Vic Williams
 lastName: Williams
-hashtag:
+hashtag: VicWilliams
 aka: Stiemy Vic
 residence: Texas
 status: Charged

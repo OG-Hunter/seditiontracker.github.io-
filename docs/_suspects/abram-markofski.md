@@ -1,7 +1,7 @@
 ---
 name: Abram Markofski
 lastName: Markofski
-hashtag:
+hashtag: AbramMarkofski
 aka:
 residence: Wisconsin
 status: Convicted

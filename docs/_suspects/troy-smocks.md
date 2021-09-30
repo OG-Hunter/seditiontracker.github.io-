@@ -1,7 +1,7 @@
 ---
 name: Troy Smocks
 lastName: Smocks
-hashtag:
+hashtag: TroySmocks
 aka: ColonelTPerez
 residence: Texas
 status: Convicted
@@ -34,13 +34,12 @@ published: true
 caseNumber: 1:21-cr-198
 videos:
 charges:
-  - code: "18 USC § 875(c)"
-    title: "Interstate Communication of Threats"
-    url: "https://www.law.cornell.edu/uscode/text/18/875"
-    felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
 ---
-
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)

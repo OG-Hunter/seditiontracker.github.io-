@@ -1,7 +1,7 @@
 ---
 name: Richard Michetti
 lastName: Michetti
-hashtag:
+hashtag: RichardMichetti
 aka:
 residence: Pennsylvania
 status: Indicted

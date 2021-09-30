@@ -1,7 +1,7 @@
 ---
 name: Hunter Seefried
 lastName: Seefried
-hashtag:
+hashtag: HunterSeefried
 aka:
 residence: Delaware
 status: Indicted

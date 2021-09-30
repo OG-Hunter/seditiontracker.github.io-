@@ -16,7 +16,6 @@ const importSuspects = async () => {
 
   await importDoj(getNameSet());
   await importGw(getNameSet());
-  // await importUSA(getNameSet());
 };
 
 const getNameSet = (): Set<string> => {
@@ -27,8 +26,8 @@ const getNameSet = (): Set<string> => {
     const suspect = getSuspectByFile(suspectFile);
 
     // special hack to deal with duplicate william sywak
-    if (suspect.name == "William Jason Sywak") {
-      suspect.name = "William Sywak";
+    if (suspect.name == "William Sywak") {
+      suspect.name = "William Jason Sywak";
     }
 
     const names = suspect.name.split(" ");
@@ -170,6 +169,14 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "KRZYWICKI, Carla";
     }
 
+    if (name == "SYWAK, William Jason") {
+      name = "JASON SYWAK, William";
+    }
+
+    if (name == "SYWAK, William Michael") {
+      name = "MICHAEL SYWAK, William";
+    }
+
     const nameChunks = name.split(",");
 
     const lastName = toLower(nameChunks[0])
@@ -211,31 +218,6 @@ const falsePositives = (site: string) => {
   const set: Set<string> = new Set();
 
   switch (site) {
-    case "USA":
-      set.add("Ryan");
-      set.add("Ianni");
-      set.add("Jensen");
-      set.add("Madden");
-      set.add("Courtwright");
-      set.add("Blair"); // state charges
-      set.add("Moore"); // state charges
-      set.add("Kuehn");
-      set.add("Sr.");
-      set.add("IV");
-      set.add("III");
-      set.add("Kostolksy");
-      set.add("Bishai");
-      set.add("Mink");
-      set.add("II");
-      set.add("Rehl");
-      set.add("Carlton");
-      set.add("Norwood");
-      set.add("Witcher");
-      set.add("Bernewitz");
-      set.add("Todisco");
-      set.add("Hazelton");
-      set.add("466");
-      break;
     case "GW":
       set.add("Bentacur");
       set.add("Carlton");
@@ -537,6 +519,7 @@ const addData = (suspectData) => {
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
+    console.log({ nameToCheck });
     newSuspect(suspectData);
     return;
   }

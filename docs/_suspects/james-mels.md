@@ -1,7 +1,7 @@
 ---
 name: James Mels
 lastName: Mels
-hashtag:
+hashtag: JamesMels
 aka:
 residence: Michigan
 status: Charged

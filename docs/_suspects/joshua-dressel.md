@@ -1,7 +1,7 @@
 ---
 name: Joshua Dressel
 lastName: Dressel
-hashtag:
+hashtag: JoshuaDressel
 aka:
 residence: Missouri
 status: Charged

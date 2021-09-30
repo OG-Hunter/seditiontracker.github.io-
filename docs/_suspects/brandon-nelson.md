@@ -1,7 +1,7 @@
 ---
 name: Brandon Nelson
 lastName: Nelson
-hashtag:
+hashtag: BrandonNelson
 aka:
 residence: Wisconsin
 status: Convicted

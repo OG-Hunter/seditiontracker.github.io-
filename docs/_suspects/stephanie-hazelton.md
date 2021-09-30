@@ -1,7 +1,7 @@
 ---
 name: Stephanie Hazelton
 lastName: Hazelton
-hashtag:
+hashtag: StephanieHazelton
 aka: Ayla Wolf
 residence: New Jersey
 status: Charged

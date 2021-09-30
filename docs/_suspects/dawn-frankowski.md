@@ -1,7 +1,7 @@
 ---
 name: Dawn Frankowski
 lastName: Frankowski
-hashtag:
+hashtag: DawnFrankowski
 aka: Dawn Maga
 residence: Illinois
 status: Charged

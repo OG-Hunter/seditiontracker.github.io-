@@ -253,6 +253,10 @@ export const getSuspect = (firstName: string, lastName: string) => {
 };
 
 export const dasherizeName = (firstName: string, lastName?: string) => {
+  if (lastName == "Sywak") {
+    console.log({ firstName });
+    console.log({ lastName });
+  }
   const name = lastName ? `${firstName} ${lastName}` : firstName;
   return name.replace(/\s/g, "-").replace(/'/g, "").toLowerCase();
 };

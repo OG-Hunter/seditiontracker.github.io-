@@ -1,7 +1,7 @@
 ---
 name: Jalise Middleton
 lastName: Middleton
-hashtag:
+hashtag: JaliseMiddleton
 aka:
 residence: Texas
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Samuel Fox
 lastName: Fox
-hashtag:
+hashtag: SamuelFox
 aka:
 residence: Pennsylvania
 status: Charged

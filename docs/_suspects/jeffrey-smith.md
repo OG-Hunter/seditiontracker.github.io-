@@ -1,16 +1,16 @@
 ---
 name: Jeffrey Smith
 lastName: Smith
-hashtag:
+hashtag: JeffreyAlexanderSmith
 aka: Alex Smith
 residence: California
 status: Charged
 date: 2021-01-27
 charged: 2021-01-27
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361426/download)

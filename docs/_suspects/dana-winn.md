@@ -1,7 +1,7 @@
 ---
 name: Dana Winn
 lastName: Winn
-hashtag:
+hashtag: DanaWinn
 aka:
 residence: Florida
 status: Indicted

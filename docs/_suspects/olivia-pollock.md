@@ -1,7 +1,7 @@
 ---
 name: Olivia Pollock
 lastName: Pollock
-hashtag:
+hashtag: OliviaPollock
 aka:
 residence: Florida
 status: Indicted

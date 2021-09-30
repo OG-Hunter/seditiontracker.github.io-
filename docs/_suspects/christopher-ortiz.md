@@ -1,7 +1,7 @@
 ---
 name: Christopher Ortiz
 lastName: Ortiz
-hashtag:
+hashtag: ChristopherOrtiz
 aka:
 residence: New York
 status: Charged

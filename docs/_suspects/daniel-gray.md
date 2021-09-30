@@ -1,7 +1,7 @@
 ---
 name: Daniel Gray
 lastName: Gray
-hashtag:
+hashtag: DanielGray
 aka:
 residence: Florida
 status: Indicted

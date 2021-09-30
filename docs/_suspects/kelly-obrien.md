@@ -1,7 +1,7 @@
 ---
 name: Kelly O'Brien
 lastName: O'Brien
-hashtag:
+hashtag: KellyO'Brien
 aka:
 residence: Pennsylvania
 status: Charged

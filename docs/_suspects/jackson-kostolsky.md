@@ -1,7 +1,7 @@
 ---
 name: Jackson Kostolsky
 lastName: Kostolsky
-hashtag:
+hashtag: JacksonKostolsky
 aka:
 residence: Pennsylvania
 status: Convicted

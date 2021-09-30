@@ -1,7 +1,7 @@
 ---
 name: Aaron Mileur
 lastName: Mileur
-hashtag:
+hashtag: AaronMileur
 aka:
 residence: Alaska
 status: Charged

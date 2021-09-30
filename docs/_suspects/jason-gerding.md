@@ -1,7 +1,7 @@
 ---
 name: Jason Gerding
 lastName: Gerding
-hashtag:
+hashtag: JasonGerding
 aka:
 residence: Illinois
 status: Charged

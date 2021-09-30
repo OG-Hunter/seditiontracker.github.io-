@@ -1,7 +1,7 @@
 ---
 name: Nolan Kidd
 lastName: Kidd
-hashtag:
+hashtag: NolanKidd
 aka:
 residence: Georgia
 status: Charged

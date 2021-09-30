@@ -1,7 +1,7 @@
 ---
 name: Jason Riddle
 lastName: Riddle
-hashtag:
+hashtag: JasonRiddle
 aka:
 residence: New Hampshire
 status: Charged

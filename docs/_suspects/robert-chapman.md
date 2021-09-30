@@ -1,7 +1,7 @@
 ---
 name: Robert Chapman
 lastName: Chapman
-hashtag:
+hashtag: RobertChapman
 aka: Robert Erick
 residence: New York
 status: Charged

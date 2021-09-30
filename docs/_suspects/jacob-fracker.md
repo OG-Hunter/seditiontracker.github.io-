@@ -1,7 +1,7 @@
 ---
 name: Jacob Fracker
 lastName: Fracker
-hashtag:
+hashtag: JacobFracker
 aka:
 residence: Virginia
 status: Indicted
