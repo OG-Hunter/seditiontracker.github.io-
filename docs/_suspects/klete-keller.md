@@ -45,3 +45,5 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1354311/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371636/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437536/download)
+- [Courthouse (VIDEO)](https://twitter.com/EricFlackTV/status/1443282111172075526?s=20)
+- [Courthouse (VIDEO)](https://twitter.com/EricFlackTV/status/1443308055563804672)
