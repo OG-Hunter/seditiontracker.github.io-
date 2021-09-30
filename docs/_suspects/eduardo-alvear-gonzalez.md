@@ -4,16 +4,16 @@ lastName: Alvear Gonzalez
 hashtag: DoobieSmoker
 aka: Lion Nick, Capitol Rotunda Doobie Smoker
 residence: California
-status: Charged
+status: Convicted
 date: 2021-01-31
 charged: 2021-01-31
 indicted:
-convicted:
+convicted: 2021-09-30
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-30
-sentencing:
+sentencing: 2021-01-05
 age: 32
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-115
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
