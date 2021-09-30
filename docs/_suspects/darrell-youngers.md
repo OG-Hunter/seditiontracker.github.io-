@@ -1,7 +1,7 @@
 ---
 name: Darrell Youngers
 lastName: Youngers
-hashtag:
+hashtag: DarrellYoungers
 aka:
 residence: Texas
 status: Charged

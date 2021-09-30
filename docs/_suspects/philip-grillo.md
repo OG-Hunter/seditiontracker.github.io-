@@ -1,7 +1,7 @@
 ---
 name: Philip Grillo
 lastName: Grillo
-hashtag:
+hashtag: PhilipGrillo
 aka: The Republican Messiah
 residence: New York
 status: Charged

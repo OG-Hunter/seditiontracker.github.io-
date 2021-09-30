@@ -1,7 +1,7 @@
 ---
 name: Dustin Thompson
 lastName: Thompson
-hashtag:
+hashtag: DustinThompson
 aka:
 residence: Ohio
 status: Indicted

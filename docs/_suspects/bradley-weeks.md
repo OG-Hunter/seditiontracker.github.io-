@@ -1,7 +1,7 @@
 ---
 name: Bradley Weeks
 lastName: Weeks
-hashtag:
+hashtag: BradleyWeeks
 aka:
 residence: Florida
 status: Indicted

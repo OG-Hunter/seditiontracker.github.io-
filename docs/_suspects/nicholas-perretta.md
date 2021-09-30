@@ -1,7 +1,7 @@
 ---
 name: Nicholas Perretta
 lastName: Perretta
-hashtag:
+hashtag: NicholasPerretta
 aka:
 residence: Pennsylvania
 status: Convicted

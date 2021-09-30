@@ -1,7 +1,7 @@
 ---
 name: Anthony Sargent
 lastName: Sargent
-hashtag:
+hashtag: AnthonySargent
 aka:
 residence: Florida
 status: Charged

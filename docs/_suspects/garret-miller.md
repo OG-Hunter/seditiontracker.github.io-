@@ -1,7 +1,7 @@
 ---
 name: Garret Miller
 lastName: Miller
-hashtag:
+hashtag: GarretMiller
 aka:
 residence: Texas
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Brandon Miller
 lastName: Miller
-hashtag:
+hashtag: BrandonMiller
 aka:
 residence: Ohio
 status: Convicted

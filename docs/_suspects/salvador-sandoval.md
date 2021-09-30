@@ -1,7 +1,7 @@
 ---
 name: Salvador Sandoval
 lastName: Sandoval
-hashtag:
+hashtag: SalvadorSandoval
 aka:
 residence: Iowa
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Victoria White
 lastName: White
-hashtag:
+hashtag: VictoriaWhite
 aka:
 residence: Minnesota
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Kevin Cordon
 lastName: Cordon
-hashtag:
+hashtag: KevinCordon
 aka:
 residence: California
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: David Ticas
 lastName: Ticas
-hashtag:
+hashtag: DavidTicas
 aka:
 residence: California
 status: Charged

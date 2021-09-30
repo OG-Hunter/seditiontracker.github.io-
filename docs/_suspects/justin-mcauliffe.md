@@ -1,7 +1,7 @@
 ---
 name: Justin Mcauliffe
 lastName: Mcauliffe
-hashtag:
+hashtag: JustinMcauliffe
 aka:
 residence: New York
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Erik Herrera
 lastName: Herrera
-hashtag:
+hashtag: ErikHerrera
 aka:
 residence: California
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Joseph Fischer
 lastName: Fischer
-hashtag:
+hashtag: JosephFischer
 aka:
 residence: Pennsylvania
 status: Indicted

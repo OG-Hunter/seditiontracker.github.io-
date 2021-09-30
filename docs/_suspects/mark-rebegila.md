@@ -1,7 +1,7 @@
 ---
 name: Mark Rebegila
 lastName: Rebegila
-hashtag:
+hashtag: MarkRebegila
 aka:
 residence: Kansas
 status: Charged

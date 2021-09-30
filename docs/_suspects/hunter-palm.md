@@ -1,7 +1,7 @@
 ---
 name: Hunter Palm
 lastName: Palm
-hashtag:
+hashtag: HunterPalm
 aka:
 residence: Colorado
 status: Indicted

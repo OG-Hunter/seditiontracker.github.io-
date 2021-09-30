@@ -1,7 +1,7 @@
 ---
 name: Mariposa Castro
 lastName: Castro
-hashtag:
+hashtag: MariposaCastro
 aka: Imelda Castro
 residence: California
 status: Charged

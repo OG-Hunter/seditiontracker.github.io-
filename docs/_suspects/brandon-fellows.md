@@ -1,7 +1,7 @@
 ---
 name: Brandon Fellows
 lastName: Fellows
-hashtag:
+hashtag: BrandonFellows
 aka:
 residence: New York
 status: Indicted

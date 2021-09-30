@@ -1,7 +1,7 @@
 ---
 name: Antony Vo
 lastName: Vo
-hashtag:
+hashtag: AntonyVo
 aka:
 residence: Kentucky
 status: Charged

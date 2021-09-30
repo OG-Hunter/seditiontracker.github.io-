@@ -1,7 +1,7 @@
 ---
 name: Dennis Sidorski
 lastName: Sidorski
-hashtag:
+hashtag: DennisSidorski
 aka:
 residence: Virginia
 status: Charged

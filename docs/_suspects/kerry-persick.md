@@ -1,7 +1,7 @@
 ---
 name: Kerry Persick
 lastName: Persick
-hashtag:
+hashtag: KerryPersick
 aka:
 residence: Texas
 status: Charged

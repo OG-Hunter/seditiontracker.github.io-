@@ -1,7 +1,7 @@
 ---
 name: Robert Schornak
 lastName: Schornak
-hashtag:
+hashtag: RobertSchornak
 aka:
 residence: Michigan
 status: Indicted

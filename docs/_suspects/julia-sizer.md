@@ -1,7 +1,7 @@
 ---
 name: Julia Sizer
 lastName: Sizer
-hashtag:
+hashtag: JuliaSizer
 aka:
 residence: Pennsylvania
 status: Charged

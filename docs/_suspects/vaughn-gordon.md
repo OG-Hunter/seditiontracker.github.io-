@@ -1,7 +1,7 @@
 ---
 name: Vaughn Gordon
 lastName: Gordon
-hashtag:
+hashtag: VaughnGordon
 aka:
 residence: Louisiana
 status: Indicted

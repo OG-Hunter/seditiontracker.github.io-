@@ -1,7 +1,7 @@
 ---
 name: Albert Ciarpelli
 lastName: Ciarpelli
-hashtag:
+hashtag: AlbertCiarpelli
 aka:
 residence: New York
 status: Charged

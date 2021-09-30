@@ -1,7 +1,7 @@
 ---
 name: Russell Peterson
 lastName: Peterson
-hashtag:
+hashtag: RussellPeterson
 aka:
 residence: Pennsylvania
 status: Convicted

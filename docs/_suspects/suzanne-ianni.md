@@ -1,7 +1,7 @@
 ---
 name: Suzanne Ianni
 lastName: Ianni
-hashtag:
+hashtag: SuzanneIanni
 aka:
 residence: Massachusetts
 status: Charged

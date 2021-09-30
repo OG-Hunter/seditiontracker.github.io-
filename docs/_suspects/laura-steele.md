@@ -1,7 +1,7 @@
 ---
 name: Laura Steele
 lastName: Steele
-hashtag:
+hashtag: LauraSteele
 aka:
 residence: North Carolina
 status: Indicted

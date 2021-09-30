@@ -1,7 +1,7 @@
 ---
 name: Debra Maimone
 lastName: Maimone
-hashtag:
+hashtag: DebraMaimone
 aka:
 residence: Pennsylvania
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Anton Lunyk
 lastName: Lunyk
-hashtag:
+hashtag: AntonLunyk
 aka:
 residence: New York
 status: Charged

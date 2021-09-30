@@ -1,7 +1,7 @@
 ---
 name: Paul Westover
 lastName: Westover
-hashtag:
+hashtag: PaulWestover
 aka:
 residence: Missouri
 status: Charged

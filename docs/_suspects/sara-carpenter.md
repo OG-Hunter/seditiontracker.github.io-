@@ -1,7 +1,7 @@
 ---
 name: Sara Carpenter
 lastName: Carpenter
-hashtag:
+hashtag: SaraCarpenter
 aka:
 residence: New York
 status: Indicted

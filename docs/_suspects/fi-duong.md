@@ -1,7 +1,7 @@
 ---
 name: Fi Duong
 lastName: Duong
-hashtag:
+hashtag: FiDuong
 aka:
 residence: Virginia
 status: Charged

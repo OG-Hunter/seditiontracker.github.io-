@@ -1,7 +1,7 @@
 ---
 name: William Vogel
 lastName: Vogel
-hashtag:
+hashtag: WilliamVogel
 aka:
 residence: New York
 status: Charged

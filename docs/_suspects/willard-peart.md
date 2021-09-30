@@ -1,7 +1,7 @@
 ---
 name: Willard Peart
 lastName: Peart
-hashtag:
+hashtag: WillardPeart
 aka:
 residence: Utah
 status: Charged

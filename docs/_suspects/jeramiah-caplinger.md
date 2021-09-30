@@ -1,7 +1,7 @@
 ---
 name: Jeramiah Caplinger
 lastName: Caplinger
-hashtag:
+hashtag: JeramiahCaplinger
 aka:
 residence: Michigan
 status: Charged

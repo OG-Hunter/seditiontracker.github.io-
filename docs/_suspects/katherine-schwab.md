@@ -1,7 +1,7 @@
 ---
 name: Katherine Schwab
 lastName: Schwab
-hashtag:
+hashtag: KatherineSchwab
 aka: Katie Schwab
 residence: Texas
 status: Charged

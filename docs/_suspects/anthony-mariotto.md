@@ -1,7 +1,7 @@
 ---
 name: Anthony Mariotto
 lastName: Mariotto
-hashtag:
+hashtag: AnthonyMariotto
 aka:
 residence: Florida
 status: Convicted

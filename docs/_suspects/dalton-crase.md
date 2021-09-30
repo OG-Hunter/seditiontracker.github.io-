@@ -1,7 +1,7 @@
 ---
 name: Dalton Crase
 lastName: Crase
-hashtag:
+hashtag: DaltonCrase
 aka:
 residence: Kentucky
 status: Charged

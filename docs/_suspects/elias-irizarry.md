@@ -1,7 +1,7 @@
 ---
 name: Elias Irizarry
 lastName: Irizarry
-hashtag:
+hashtag: EliasIrizarry
 aka:
 residence: South Carolina
 status: Charged

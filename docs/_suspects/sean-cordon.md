@@ -1,7 +1,7 @@
 ---
 name: Sean Cordon
 lastName: Cordon
-hashtag:
+hashtag: SeanCordon
 aka:
 residence: California
 status: Convicted

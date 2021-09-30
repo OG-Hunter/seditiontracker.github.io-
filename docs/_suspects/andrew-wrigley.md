@@ -1,7 +1,7 @@
 ---
 name: Andrew Wrigley
 lastName: Wrigley
-hashtag:
+hashtag: AndrewWrigley
 aka:
 residence: Pennsylvania
 status: Convicted

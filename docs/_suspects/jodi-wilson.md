@@ -1,7 +1,7 @@
 ---
 name: Jodi Wilson
 lastName: Wilson
-hashtag:
+hashtag: JodiWilson
 aka:
 residence: Ohio
 status: Charged

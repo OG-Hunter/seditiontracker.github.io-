@@ -1,7 +1,7 @@
 ---
 name: Jerry Ryals
 lastName: Ryals
-hashtag:
+hashtag: JerryRyals
 aka:
 residence: Oklahoma
 status: Indicted

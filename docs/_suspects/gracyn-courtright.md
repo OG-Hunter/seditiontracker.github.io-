@@ -1,7 +1,7 @@
 ---
 name: Gracyn Courtright
 lastName: Courtright
-hashtag:
+hashtag: GracynCourtright
 aka:
 residence: West Virginia
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: Ethan Seitz
 lastName: Seitz
-hashtag:
+hashtag: EthanSeitz
 aka:
 residence: Ohio
 status: Indicted

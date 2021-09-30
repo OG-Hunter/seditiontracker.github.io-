@@ -1,7 +1,7 @@
 ---
 name: Douglas Sweet
 lastName: Sweet
-hashtag:
+hashtag: DouglasSweet
 aka:
 residence: Virginia
 status: Convicted

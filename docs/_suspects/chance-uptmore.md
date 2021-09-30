@@ -1,7 +1,7 @@
 ---
 name: Chance Uptmore
 lastName: Uptmore
-hashtag:
+hashtag: ChanceUptmore
 aka:
 residence: Texas
 status: Indicted

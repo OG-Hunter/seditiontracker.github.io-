@@ -1,7 +1,7 @@
 ---
 name: Patrick Stedman
 lastName: Stedman
-hashtag:
+hashtag: PatrickStedman
 aka:
 residence: New Jersey
 status: Indicted

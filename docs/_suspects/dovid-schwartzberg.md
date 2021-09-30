@@ -1,7 +1,7 @@
 ---
 name: Dovid Schwartzberg
 lastName: Schwartzberg
-hashtag:
+hashtag: DovidSchwartzberg
 aka:
 residence: New York
 status: Charged

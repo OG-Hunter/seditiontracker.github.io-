@@ -1,7 +1,7 @@
 ---
 name: Lois McNicoll
 lastName: McNicoll
-hashtag:
+hashtag: LoisMcNicoll
 aka:
 residence: California
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Stephen Horn
 lastName: Horn
-hashtag:
+hashtag: StephenHorn
 aka:
 residence: North Carolina
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Joshua Munn
 lastName: Munn
-hashtag:
+hashtag: JoshuaMunn
 aka: Josh Munn
 residence: Texas
 status: Charged

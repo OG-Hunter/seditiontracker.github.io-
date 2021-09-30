@@ -1,7 +1,7 @@
 ---
 name: William Merry
 lastName: Merry
-hashtag:
+hashtag: WilliamMerry
 aka:
 residence: Missouri
 status: Charged

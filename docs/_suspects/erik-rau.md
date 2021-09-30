@@ -1,7 +1,7 @@
 ---
 name: Erik Rau
 lastName: Rau
-hashtag:
+hashtag: ErikRau
 aka:
 residence: Ohio
 status: Sentenced
@@ -34,14 +34,13 @@ published: true
 caseNumber: 1:21-cr-467
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days in prison
 ---
-
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/central-ohio-resident-arrested-in-jan-6-breach-of-u-s-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415126/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412531/download)

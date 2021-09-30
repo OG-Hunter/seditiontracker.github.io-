@@ -1,7 +1,7 @@
 ---
 name: Daryl Johnson
 lastName: Johnson
-hashtag:
+hashtag: DarylJohnson
 aka:
 residence: Iowa
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Jacob Clark
 lastName: Clark
-hashtag:
+hashtag: JacobClark
 aka:
 residence: Colorado
 status: Charged

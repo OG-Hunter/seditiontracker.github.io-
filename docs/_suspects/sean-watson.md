@@ -1,7 +1,7 @@
 ---
 name: Sean Watson
 lastName: Watson
-hashtag:
+hashtag: SeanWatson
 aka:
 residence: Texas
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Nicholas Rodean
 lastName: Rodean
-hashtag:
+hashtag: NicholasRodean
 aka:
 residence: Maryland
 status: Indicted

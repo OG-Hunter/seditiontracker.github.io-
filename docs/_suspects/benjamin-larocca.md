@@ -1,7 +1,7 @@
 ---
 name: Benjamin Larocca
 lastName: Larocca
-hashtag:
+hashtag: BenjaminLarocca
 aka:
 residence: Texas
 status: Indicted

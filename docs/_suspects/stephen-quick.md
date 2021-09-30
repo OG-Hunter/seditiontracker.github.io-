@@ -1,7 +1,7 @@
 ---
 name: Stephen Quick
 lastName: Quick
-hashtag:
+hashtag: StephenQuick
 aka:
 residence: Missouri
 status: Charged

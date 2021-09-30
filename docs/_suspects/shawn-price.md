@@ -1,7 +1,7 @@
 ---
 name: Shawn Price
 lastName: Price
-hashtag:
+hashtag: ShawnPrice
 aka:
 residence: New Jersey
 status: Charged

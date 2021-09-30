@@ -1,7 +1,7 @@
 ---
 name: Matthew Buckler
 lastName: Buckler
-hashtag:
+hashtag: MatthewBuckler
 aka:
 residence: Maryland
 status: Charged

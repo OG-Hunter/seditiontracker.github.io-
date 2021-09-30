@@ -1,7 +1,7 @@
 ---
 name: Antonio Ferrigno
 lastName: Ferrigno
-hashtag:
+hashtag: AntonioFerrigno
 aka:
 residence: New York
 status: Charged

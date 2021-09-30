@@ -1,7 +1,7 @@
 ---
 name: Shawn Witzemann
 lastName: Witzemann
-hashtag:
+hashtag: ShawnWitzemann
 aka: krampusnatch
 residence: New Mexico
 status: Charged

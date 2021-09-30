@@ -1,7 +1,7 @@
 ---
 name: Russell Taylor
 lastName: Taylor
-hashtag:
+hashtag: RussellTaylor
 aka:
 residence: California
 status: Indicted

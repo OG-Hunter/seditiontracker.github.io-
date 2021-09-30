@@ -1,7 +1,7 @@
 ---
 name: Michael Roche
 lastName: Roche
-hashtag:
+hashtag: MichaelRoche
 aka:
 residence: Tennessee
 status: Charged

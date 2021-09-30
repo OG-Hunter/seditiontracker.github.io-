@@ -1,7 +1,7 @@
 ---
 name: Anthony Scirica
 lastName: Scirica
-hashtag:
+hashtag: AnthonyScirica
 aka:
 residence: North Carolina
 status: Charged

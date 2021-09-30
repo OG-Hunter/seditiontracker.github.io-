@@ -1,7 +1,7 @@
 ---
 name: Nolan Cooke
 lastName: Cooke
-hashtag:
+hashtag: NolanCooke
 aka:
 residence: Texas
 status: Charged

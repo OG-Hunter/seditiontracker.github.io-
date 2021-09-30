@@ -1,7 +1,7 @@
 ---
 name: Gary Wickersham
 lastName: Wickersham
-hashtag:
+hashtag: GaryWickersham
 aka:
 residence: Pennsylvania
 status: Charged

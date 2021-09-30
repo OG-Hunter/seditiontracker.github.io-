@@ -1,7 +1,7 @@
 ---
 name: Simone Gold
 lastName: Gold
-hashtag:
+hashtag: SimoneGold
 aka:
 residence: California
 status: Indicted

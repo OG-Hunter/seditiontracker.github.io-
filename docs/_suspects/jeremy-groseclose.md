@@ -1,7 +1,7 @@
 ---
 name: Jeremy Groseclose
 lastName: Groseclose
-hashtag:
+hashtag: JeremyGroseclose
 aka:
 residence: Virginia
 status: Indicted

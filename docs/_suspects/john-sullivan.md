@@ -1,7 +1,7 @@
 ---
 name: John Sullivan
 lastName: Sullivan
-hashtag:
+hashtag: JohnSullivan
 aka:
 residence: Utah
 status: Indicted

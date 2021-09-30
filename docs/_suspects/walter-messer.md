@@ -1,7 +1,7 @@
 ---
 name: Walter Messer
 lastName: Messer
-hashtag:
+hashtag: WalterMesser
 aka:
 residence: Ohio
 status: Charged

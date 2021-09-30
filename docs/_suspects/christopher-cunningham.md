@@ -1,7 +1,7 @@
 ---
 name: Christopher Cunningham
 lastName: Cunningham
-hashtag:
+hashtag: ChristopherCunningham
 aka:
 residence: Tennessee
 status: Charged

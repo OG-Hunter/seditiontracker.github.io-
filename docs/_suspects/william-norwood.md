@@ -1,7 +1,7 @@
 ---
 name: William Norwood
 lastName: Norwood
-hashtag:
+hashtag: WilliamNorwood
 aka: Robbie Norwood
 residence: South Carolina
 status: Indicted

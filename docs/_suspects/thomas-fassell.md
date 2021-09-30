@@ -1,7 +1,7 @@
 ---
 name: Thomas Fassell
 lastName: Fassell
-hashtag:
+hashtag: ThomasFassell
 aka:
 residence: Florida
 status: Charged

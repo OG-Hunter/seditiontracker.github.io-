@@ -1,7 +1,7 @@
 ---
 name: Hunter Ehmke
 lastName: Ehmke
-hashtag:
+hashtag: HunterEhmke
 aka:
 residence: California
 status: Indicted

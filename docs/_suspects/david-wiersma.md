@@ -1,7 +1,7 @@
 ---
 name: David Wiersma
 lastName: Wiersma
-hashtag:
+hashtag: DavidWiersma
 aka:
 residence: Illinois
 status: Charged

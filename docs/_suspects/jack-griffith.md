@@ -1,7 +1,7 @@
 ---
 name: Jack Griffith
 lastName: Griffith
-hashtag:
+hashtag: JackGriffith
 aka: Juan Bibiano
 residence: Tennessee
 status: Convicted

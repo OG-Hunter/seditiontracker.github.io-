@@ -1,7 +1,7 @@
 ---
 name: Philip Kramer
 lastName: Kramer
-hashtag:
+hashtag: PhilipKramer
 aka:
 residence: California
 status: Charged

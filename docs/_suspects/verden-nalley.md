@@ -1,7 +1,7 @@
 ---
 name: Verden Nalley
 lastName: Nalley
-hashtag:
+hashtag: VerdenNalley
 aka:
 residence: Georgia
 status: Indicted

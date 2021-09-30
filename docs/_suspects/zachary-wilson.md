@@ -1,7 +1,7 @@
 ---
 name: Zachary Wilson
 lastName: Wilson
-hashtag:
+hashtag: ZacharyWilson
 aka:
 residence: Missouri
 status: Convicted

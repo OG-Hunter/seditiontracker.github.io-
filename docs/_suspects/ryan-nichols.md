@@ -1,7 +1,7 @@
 ---
 name: Ryan Nichols
 lastName: Nichols
-hashtag:
+hashtag: RyanNichols
 aka:
 residence: Texas
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Edward McAlanis
 lastName: McAlanis
-hashtag:
+hashtag: EdwardMcAlanis
 aka:
 residence: Pennsylvania
 status: Charged

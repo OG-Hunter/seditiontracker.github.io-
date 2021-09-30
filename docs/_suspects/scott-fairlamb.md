@@ -1,7 +1,7 @@
 ---
 name: Scott Fairlamb
 lastName: Fairlamb
-hashtag:
+hashtag: ScottFairlamb
 aka:
 residence: New Jersey
 status: Convicted

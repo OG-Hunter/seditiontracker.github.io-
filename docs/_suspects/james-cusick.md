@@ -1,7 +1,7 @@
 ---
 name: James Cusick
 lastName: Cusick
-hashtag:
+hashtag: JamesCusick
 aka:
 residence: Florida
 status: Charged

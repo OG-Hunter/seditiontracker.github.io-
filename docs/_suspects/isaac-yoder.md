@@ -1,7 +1,7 @@
 ---
 name: Isaac Yoder
 lastName: Yoder
-hashtag:
+hashtag: IsaacYoder
 aka:
 residence: Missouri
 status: Charged

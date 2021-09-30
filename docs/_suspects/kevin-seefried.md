@@ -1,7 +1,7 @@
 ---
 name: Kevin Seefried
 lastName: Seefried
-hashtag:
+hashtag: KevinSeefried
 aka:
 residence: Delaware
 status: Indicted

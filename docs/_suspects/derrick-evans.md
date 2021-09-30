@@ -1,7 +1,7 @@
 ---
 name: Derrick Evans
 lastName: Evans
-hashtag:
+hashtag: DerrickEvans
 aka:
 residence: West Virginia
 status: Charged

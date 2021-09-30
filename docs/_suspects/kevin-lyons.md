@@ -1,7 +1,7 @@
 ---
 name: Kevin Lyons
 lastName: Lyons
-hashtag:
+hashtag: KevinLyons
 aka:
 residence: Illinois
 status: Indicted

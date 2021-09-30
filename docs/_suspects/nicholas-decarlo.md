@@ -1,7 +1,7 @@
 ---
 name: Nicholas DeCarlo
 lastName: DeCarlo
-hashtag:
+hashtag: NicholasDeCarlo
 aka:
 residence: Texas
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Brady Knowlton
 lastName: Knowlton
-hashtag:
+hashtag: BradyKnowlton
 aka:
 residence: Utah
 status: Indicted

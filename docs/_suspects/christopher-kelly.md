@@ -1,7 +1,7 @@
 ---
 name: Christopher Kelly
 lastName: Kelly
-hashtag:
+hashtag: ChristopherKelly
 aka:
 residence: New York
 status: Dismissed

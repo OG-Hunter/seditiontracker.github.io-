@@ -1,7 +1,7 @@
 ---
 name: Tanner Sells
 lastName: Sells
-hashtag:
+hashtag: TannerSells
 aka:
 residence: Oklahoma
 status: Convicted

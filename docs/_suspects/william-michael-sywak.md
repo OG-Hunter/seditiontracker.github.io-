@@ -1,7 +1,7 @@
 ---
 name: William Michael Sywak
 lastName: Michael Sywak
-hashtag:
+hashtag: WilliamMichael Sywak
 aka:
 residence: New York
 status: Charged

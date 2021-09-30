@@ -1,7 +1,7 @@
 ---
 name: Cory Brannan
 lastName: Brannan
-hashtag:
+hashtag: CoryBrannan
 aka:
 residence: Texas
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Andrew Griswold
 lastName: Griswold
-hashtag:
+hashtag: AndrewGriswold
 aka:
 residence: Florida
 status: Indicted

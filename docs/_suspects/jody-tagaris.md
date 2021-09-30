@@ -1,7 +1,7 @@
 ---
 name: Jody Tagaris
 lastName: Tagaris
-hashtag:
+hashtag: JodyTagaris
 aka:
 residence: Florida
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Derek Gunby
 lastName: Gunby
-hashtag:
+hashtag: DerekGunby
 aka:
 residence: South Carolina
 status: Charged

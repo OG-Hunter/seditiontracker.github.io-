@@ -1,7 +1,7 @@
 ---
 name: Christine Priola
 lastName: Priola
-hashtag:
+hashtag: ChristinePriola
 aka:
 residence: Ohio
 status: Charged

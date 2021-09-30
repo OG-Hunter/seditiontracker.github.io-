@@ -1,7 +1,7 @@
 ---
 name: Patricia Todisco
 lastName: Todisco
-hashtag:
+hashtag: PatriciaTodisco
 aka:
 residence: New Jersey
 status: Indicted

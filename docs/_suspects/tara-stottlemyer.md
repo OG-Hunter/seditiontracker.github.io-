@@ -1,7 +1,7 @@
 ---
 name: Tara Stottlemyer
 lastName: Stottlemyer
-hashtag:
+hashtag: TaraStottlemyer
 aka:
 residence: Pennsylvania
 status: Indicted

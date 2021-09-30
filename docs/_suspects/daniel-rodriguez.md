@@ -1,7 +1,7 @@
 ---
 name: Daniel Rodriguez
 lastName: Rodriguez
-hashtag:
+hashtag: DanielRodriguez
 aka:
 residence: California
 status: Indicted

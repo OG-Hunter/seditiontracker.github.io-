@@ -1,7 +1,7 @@
 ---
 name: Mitchell Vukich
 lastName: Vukich
-hashtag:
+hashtag: MitchellVukich
 aka:
 residence: Pennsylvania
 status: Convicted

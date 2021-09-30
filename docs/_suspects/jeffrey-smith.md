@@ -1,7 +1,7 @@
 ---
 name: Jeffrey Smith
 lastName: Smith
-hashtag:
+hashtag: JeffreySmith
 aka: Alex Smith
 residence: California
 status: Charged

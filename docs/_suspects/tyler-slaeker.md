@@ -1,7 +1,7 @@
 ---
 name: Tyler Slaeker
 lastName: Slaeker
-hashtag:
+hashtag: TylerSlaeker
 aka:
 residence: Washington
 status: Charged

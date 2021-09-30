@@ -1,7 +1,7 @@
 ---
 name: David Mish
 lastName: Mish
-hashtag:
+hashtag: DavidMish
 aka:
 residence: Wisconsin
 status: Convicted

@@ -1,7 +1,7 @@
 ---
 name: Kari Kelley
 lastName: Kelley
-hashtag:
+hashtag: KariKelley
 aka:
 residence: Alabama
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: William Jason Sywak
 lastName: Jason Sywak
-hashtag:
+hashtag: WilliamJason Sywak
 aka:
 residence: New York
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Henry Muntzer
 lastName: Muntzer
-hashtag:
+hashtag: HenryMuntzer
 aka:
 residence: Montana
 status: Indicted

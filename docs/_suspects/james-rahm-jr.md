@@ -1,7 +1,7 @@
 ---
 name: James Rahm Jr
 lastName: Rahm Jr
-hashtag:
+hashtag: JamesRahm Jr
 aka:
 residence: New Jersey
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Christopher Moynihan
 lastName: Moynihan
-hashtag:
+hashtag: ChristopherMoynihan
 aka:
 residence: New York
 status: Indicted

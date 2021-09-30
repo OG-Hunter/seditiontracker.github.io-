@@ -1,7 +1,7 @@
 ---
 name: Christian Kulas
 lastName: Kulas
-hashtag:
+hashtag: ChristianKulas
 aka:
 residence: Illinois
 status: Charged

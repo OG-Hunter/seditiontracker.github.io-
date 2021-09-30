@@ -1,7 +1,7 @@
 ---
 name: Emily Hernandez
 lastName: Hernandez
-hashtag:
+hashtag: EmilyHernandez
 aka:
 residence: Missouri
 status: Charged

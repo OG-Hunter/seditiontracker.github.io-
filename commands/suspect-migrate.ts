@@ -27,13 +27,11 @@ const doMigrate = () => {
     // }
     // suspect.links = newLinks;
 
-    if (suspect.convicted && !suspect.plea_hearing) {
-      suspect.plea_hearing = suspect.convicted;
+    if (suspect.hashtag) {
+      continue;
     }
 
-    if (suspect.sentenced && !suspect.sentencing) {
-      suspect.sentencing = suspect.sentenced;
-    }
+    suspect.hashtag = suspect.name.replace(" ", "").replace("-", "");
 
     updateSuspect(suspect);
   }

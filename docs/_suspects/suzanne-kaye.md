@@ -1,7 +1,7 @@
 ---
 name: Suzanne Kaye
 lastName: Kaye
-hashtag:
+hashtag: SuzanneKaye
 aka:
 residence: Florida
 status: Charged

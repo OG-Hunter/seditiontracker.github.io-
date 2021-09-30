@@ -1,7 +1,7 @@
 ---
 name: Jonah Westbury
 lastName: Westbury
-hashtag:
+hashtag: JonahWestbury
 aka:
 residence: Minnesota
 status: Charged

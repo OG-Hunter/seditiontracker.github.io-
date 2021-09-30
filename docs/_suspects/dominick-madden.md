@@ -1,7 +1,7 @@
 ---
 name: Dominick Madden
 lastName: Madden
-hashtag:
+hashtag: DominickMadden
 aka:
 residence: New York
 status: Charged

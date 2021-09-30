@@ -1,7 +1,7 @@
 ---
 name: Paul Spigelmyer
 lastName: Spigelmyer
-hashtag:
+hashtag: PaulSpigelmyer
 aka:
 residence: Pennsylvania
 status: Charged

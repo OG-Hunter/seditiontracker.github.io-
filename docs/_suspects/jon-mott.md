@@ -1,7 +1,7 @@
 ---
 name: Jon Mott
 lastName: Mott
-hashtag:
+hashtag: JonMott
 aka:
 residence: Arkansas
 status: Charged

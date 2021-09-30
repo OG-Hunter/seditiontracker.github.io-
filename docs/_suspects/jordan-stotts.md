@@ -1,7 +1,7 @@
 ---
 name: Jordan Stotts
 lastName: Stotts
-hashtag:
+hashtag: JordanStotts
 aka:
 residence: Minnesota
 status: Convicted

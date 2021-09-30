@@ -1,7 +1,7 @@
 ---
 name: Anthony Moat
 lastName: Moat
-hashtag:
+hashtag: AnthonyMoat
 aka:
 residence: Pennsylvania
 status: Charged

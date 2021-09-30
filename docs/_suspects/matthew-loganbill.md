@@ -1,7 +1,7 @@
 ---
 name: Matthew Loganbill
 lastName: Loganbill
-hashtag:
+hashtag: MatthewLoganbill
 aka:
 residence: Missouri
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Nicolas Moncada
 lastName: Moncada
-hashtag:
+hashtag: NicolasMoncada
 aka:
 residence: New York
 status: Charged

@@ -1,7 +1,7 @@
 ---
 name: Leonard Gruppo
 lastName: Gruppo
-hashtag:
+hashtag: LeonardGruppo
 aka:
 residence: Texas
 status: Convicted

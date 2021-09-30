@@ -1,7 +1,7 @@
 ---
 name: Jean Lavin
 lastName: Lavin
-hashtag:
+hashtag: JeanLavin
 aka:
 residence: Connecticut
 status: Charged

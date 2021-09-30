@@ -1,7 +1,7 @@
 ---
 name: Philip Vogel
 lastName: Vogel
-hashtag:
+hashtag: PhilipVogel
 aka: Flip
 residence: Pennsylvania
 status: Charged

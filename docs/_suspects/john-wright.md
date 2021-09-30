@@ -1,7 +1,7 @@
 ---
 name: John Wright
 lastName: Wright
-hashtag:
+hashtag: JohnWright
 aka:
 residence: Ohio
 status: Indicted

@@ -1,7 +1,7 @@
 ---
 name: Alex Harkrider
 lastName: Harkrider
-hashtag:
+hashtag: AlexHarkrider
 aka:
 residence: Texas
 status: Indicted

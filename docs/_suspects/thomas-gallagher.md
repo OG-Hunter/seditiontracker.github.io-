@@ -1,7 +1,7 @@
 ---
 name: Thomas Gallagher
 lastName: Gallagher
-hashtag:
+hashtag: ThomasGallagher
 aka:
 residence: New Hampshire
 status: Convicted

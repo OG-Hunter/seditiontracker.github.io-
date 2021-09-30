@@ -1,7 +1,7 @@
 ---
 name: Michael Rusyn
 lastName: Rusyn
-hashtag:
+hashtag: MichaelRusyn
 aka:
 residence: Pennsylvania
 status: Convicted
