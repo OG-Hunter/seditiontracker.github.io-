@@ -1,7 +1,7 @@
 ---
 name: William Jason Sywak
 lastName: Jason Sywak
-hashtag: WilliamJason Sywak
+hashtag: WilliamJasonSywak
 aka:
 residence: New York
 status: Charged
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wgrz.com/article/news/crime/4-more-people-from-new-york-arrested-in-connection-with-us-captiol-riot/71-3ad4fafb-a9e2-4653-bec2-a0de96ea60de)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423511/download)

@@ -1,16 +1,16 @@
 ---
 name: Katherine Schwab
 lastName: Schwab
-hashtag: KatherineSchwab
+hashtag: KatieSchwab
 aka: Katie Schwab
 residence: Texas
 status: Charged
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364681/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413461/download)
