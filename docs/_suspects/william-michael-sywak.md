@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-494
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wgrz.com/article/news/crime/4-more-people-from-new-york-arrested-in-connection-with-us-captiol-riot/71-3ad4fafb-a9e2-4653-bec2-a0de96ea60de)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395331/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423511/download)
