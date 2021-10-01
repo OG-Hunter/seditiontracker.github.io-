@@ -4,12 +4,12 @@ lastName: Bennett
 hashtag: OverstuffedPB
 aka:
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2021-01-26
 charged: 2021-01-26
 indicted:
 convicted: 2021-07-22
-sentenced:
+sentenced: 2021-10-01
 dismissed:
 deceased:
 plea_hearing: 2021-07-22
