@@ -4,13 +4,13 @@ lastName: Loganbill
 hashtag: MatthewLoganbill
 aka:
 residence: Missouri
-status: Charged
+status: Indicted
 date: 2021-03-15
 charged: 2021-03-15
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-09-22
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.kshb.com/news/crime/missouri-firearms-store-owner-charged-in-connection-to-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380626/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380631/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Loganbill%20Indictment.pdf)
