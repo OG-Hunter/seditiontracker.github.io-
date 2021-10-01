@@ -16,10 +16,10 @@ plea_hearing:
 sentencing:
 age:
 occupation:
-affiliations: Oath Keepers
+affiliations: Oath Keepers, US Army (former Green Beret)
 jurisdiction: Federal
-image: /images/preview/jeremy-brown.jpg
-suspect: jeremy-brown.jpg
+image: /images/preview/jeremy-brown.png
+suspect: jeremy-brown.png
 booking:
 courtroom:
 courthouse:
@@ -30,12 +30,11 @@ title: Jeremy Brown charged on September 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: trus
 caseNumber: 1:21-mj-619
 videos:
 charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438141/download)
