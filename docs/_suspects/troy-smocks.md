@@ -45,3 +45,4 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355896/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377816/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Anthony%20Smocks%20Plea%20Agreement.pdf)
