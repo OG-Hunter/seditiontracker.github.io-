@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-08-06
-sentencing:
+sentencing: 2021-11-10
 age: 43
 occupation: Gym Owner (Former MMA Fighter)
 affiliations:

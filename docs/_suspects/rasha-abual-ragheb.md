@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-08-23
-sentencing:
+sentencing: 2021-11-09
 age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
