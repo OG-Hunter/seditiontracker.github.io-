@@ -519,7 +519,6 @@ const addData = (suspectData) => {
 
   if (!nameSet.has(nameToCheck)) {
     // suspect does not yet exist in our database so let's add them
-    console.log({ nameToCheck });
     newSuspect(suspectData);
     return;
   }
