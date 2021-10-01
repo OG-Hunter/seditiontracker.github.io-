@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.thedailybeast.com/pennsylvania-man-gary-wickersham-arrested-in-capitol-riot-i-can-enter-the-capitol-because-i-pay-my-taxes)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gary%20Wickersham%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gary%20Wickersham%20Information.pdf)

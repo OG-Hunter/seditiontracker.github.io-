@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389181/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389186/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438186/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413541/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ruth%20Parks%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438181/download)

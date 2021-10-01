@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438271/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383076/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Diana%20Santos-Smith%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438266/download)
