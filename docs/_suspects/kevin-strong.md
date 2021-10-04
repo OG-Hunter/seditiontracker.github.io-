@@ -12,7 +12,7 @@ convicted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-20
 sentencing:
 age: 44
 occupation: FAA
