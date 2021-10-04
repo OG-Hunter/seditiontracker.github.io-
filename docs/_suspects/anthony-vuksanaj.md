@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 52
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/mahopac-man-charged-in-us-capitol-riot-after-westchester-robbery-arrest/ar-AAP2E9C)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Vuksanaj%20Statement%20of%20Facts.pdf)

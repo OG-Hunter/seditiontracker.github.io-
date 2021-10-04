@@ -1,7 +1,7 @@
 ---
 name: Rafael Rondon
 lastName: Rondon
-hashtag:
+hashtag: AirheadBoy
 aka:
 residence: New York
 status: Charged
@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: '... I’m not taking my car into the city which, the Capitol building I’m about to break into.'
 title: Rafael Rondon charged on September 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wwnytv.com/2021/10/01/watertown-man-his-mother-facing-federal-charges-jan-6th-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Statement%20of%20Facts.pdf)
