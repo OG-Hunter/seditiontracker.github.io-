@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-08
-sentencing: 2021-12-02
+sentencing: 2021-12-01
 age: 34
 occupation: Unemployed
 affiliations:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-309
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://triblive.com/local/regional/beaver-county-man-charged-in-connection-with-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431461/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388656/download)
