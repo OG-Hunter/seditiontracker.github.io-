@@ -4,15 +4,15 @@ lastName: Palmer
 hashtag: FloridaFlagJacket
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-28
-convicted:
+convicted: 2021-10-04
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-04
 sentencing:
 age: 53
 occupation:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-328
 videos:
 charges:
+  - code: "18 USC § 111(a)(1) and (b)"
+    title: "Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon"
+    url: "https://www.law.cornell.edu/uscode/text/18/111"
+    felony: true
 sentence:
 ---
 
