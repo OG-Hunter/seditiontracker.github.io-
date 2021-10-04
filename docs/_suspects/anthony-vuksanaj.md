@@ -1,7 +1,7 @@
 ---
 name: Anthony Vuksanaj
 lastName: Vuksanaj
-hashtag:
+hashtag: AnthonyVuksanaj
 aka:
 residence: New York
 status: Charged
@@ -30,7 +30,7 @@ title: Anthony Vuksanaj charged on September 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
