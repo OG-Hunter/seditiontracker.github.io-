@@ -49,4 +49,4 @@ sentence:
 - [FBI Raid (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
 - [FBI Raid (More Video)](https://twitter.com/AmandaHTV/status/1350975973940932613?s=20)
 - [Self Incrimination (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
-- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409091/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)

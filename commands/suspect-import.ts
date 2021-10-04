@@ -289,6 +289,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Plea Agreement/.test(description):
     case /.* Plea/.test(description):
     case /.*plea_agreement/.test(description):
+    case /.*statement_of_offense.pdf/.test(description):
       return "Plea Agreement";
 
     case /Affidavit/.test(description):
