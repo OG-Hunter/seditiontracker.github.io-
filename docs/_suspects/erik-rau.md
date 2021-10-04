@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415126/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412531/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415121/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Rau%20Defense%20Sentencing%20Memorandum.pdf)

@@ -49,3 +49,4 @@ sentence:
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Government%20Response%20to%20Defendants%20Motion%20for%20Bond.pdf)
 - [Sentencing Memo](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421966/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421971/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Judgment.pdf)

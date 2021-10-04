@@ -45,3 +45,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380676/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415111/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derek%20Jancart%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derek%20Jancart%20Judgment.pdf)
