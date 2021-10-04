@@ -47,3 +47,4 @@ sentence:
 - [Indictment](https://www.justice.gov/opa/page/file/1352916/download)
 - [Detention Hearing](https://www.news10.com/top-stories/federal-judge-refuses-to-release-man-wearing-horns-and-face-paint-from-custody-after-capitol-riot/)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430991/download)
+- [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Memorandum%20Opinion%20and%20Order%20Denying%20Defense%20Motion%20for%20Release%20Pending%20Sentencing.pdf)

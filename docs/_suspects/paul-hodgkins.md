@@ -49,3 +49,4 @@ sentence:
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/opa/pr/man-pleads-guilty-obstruction-official-proceeding-breaching-us-capitol-jan-6)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415526/download)
 - [Judgement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415521/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Allard%20Hodgkins%20Amended%20Defense%20Sentencing%20Memorandum.pdf)

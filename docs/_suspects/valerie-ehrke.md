@@ -48,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366076/download)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Valerie%20Ehrke%20Plea%20Agreement.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Valerie%20Ehrke%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Valerie%20Ehrke%20Judgment.pdf)
