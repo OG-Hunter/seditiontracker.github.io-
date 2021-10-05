@@ -4,10 +4,10 @@ lastName: Byerly
 hashtag: GreyBeanieMeanie
 aka:
 residence: Pennsylvania
-status: Charged
+status: Indicted
 date: 2021-06-25
 charged: 2021-06-25
-indicted:
+indicted: 2021-08-20
 convicted:
 sentenced:
 dismissed:
@@ -36,7 +36,9 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409211/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/capitolhunters/status/1412810756236595201)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alan%20Byerly%20Government%20Motion%20and%20Memorandum%20for%20Pretrial%20Detention.pdf)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alan%20Byerly%20Indictment.pdf)

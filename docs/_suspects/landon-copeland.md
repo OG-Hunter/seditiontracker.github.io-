@@ -4,10 +4,10 @@ lastName: Copeland
 hashtag: RedPoloRising
 aka:
 residence: Utah
-status: Charged
+status: Indicted
 date: 2021-04-29
 charged: 2021-04-29
-indicted:
+indicted: 2021-09-10
 convicted:
 sentenced:
 dismissed:
@@ -42,3 +42,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390651/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-arrested-assaulting-law-enforcement-during-jan-6-capitol-breach)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Landon%20Copeland%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Landon%20Copeland%20Indictment.pdf)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Landon%20Copeland%20Detention%20Order.pdf)

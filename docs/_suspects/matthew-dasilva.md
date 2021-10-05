@@ -4,10 +4,10 @@ lastName: Dasilva
 hashtag: YellowScarfYeti
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-07-09
 charged: 2021-07-09
-indicted:
+indicted: 2021-09-08
 convicted:
 sentenced:
 dismissed:
@@ -36,5 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2653886199/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413481/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Dasilva%20Indictment.pdf)
