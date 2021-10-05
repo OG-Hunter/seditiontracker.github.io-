@@ -3,7 +3,7 @@ name: Mahailya Pryer
 lastName: Pryer
 hashtag:
 aka:
-residence:
+residence: Missouri
 status: Charged
 date: 2021-09-22
 charged: 2021-09-22
@@ -36,6 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf)
