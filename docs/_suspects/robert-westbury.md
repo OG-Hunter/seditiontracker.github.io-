@@ -4,10 +4,10 @@ lastName: Westbury
 hashtag:
 aka:
 residence: Minnesota
-status: Charged
+status: Indicted
 date: 2021-10-04
 charged: 2021-10-04
-indicted:
+indicted: 2021-09-29
 convicted:
 sentenced:
 dismissed:
@@ -36,4 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://minnesota.cbslocal.com/2021/10/04/capitol-attack-charges-lindstrom-minnesota/)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Westbury%20et%20al%20Indictment.pdf)

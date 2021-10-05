@@ -4,10 +4,10 @@ lastName: Mock
 hashtag: AmoralKombat
 aka:
 residence: Minnesota
-status: Charged
+status: Indicted
 date: 2021-06-10
 charged: 2021-06-10
-indicted:
+indicted: 2021-06-30
 convicted:
 sentenced:
 dismissed:
@@ -44,3 +44,4 @@ sentence:
 - [News Report](https://minnesota.cbslocal.com/2021/06/11/minneapolis-man-brian-mock-accused-of-assaulting-officer-in-jan-6-u-s-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403426/download)
 - [Bodycam Evidence (Video)](https://twitter.com/alanfeuer/status/1407784550986563584)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Mock%20Indictment.pdf)

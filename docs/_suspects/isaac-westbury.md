@@ -4,10 +4,10 @@ lastName: Westbury
 hashtag:
 aka:
 residence: Minnesota
-status: Charged
+status: Indicted
 date: 2021-10-04
 charged: 2021-10-04
-indicted:
+indicted: 2021-09-29
 convicted:
 sentenced:
 dismissed:
@@ -18,8 +18,8 @@ age: 19
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/isaac-westbury.png
+suspect: isaac-westbury.png
 booking:
 courtroom:
 courthouse:
@@ -36,4 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.startribune.com/three-lindstrom-men-face-federal-charges-related-to-jan-6-u-s-capitol-riot/600103577/)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Westbury%20et%20al%20Indictment.pdf)

@@ -463,6 +463,12 @@ const linkType = (description: string, lastName?: string) => {
     case /Defendant's Motion to Suppress Statement/.test(description):
       return "Defense Motion to Dismiss or Exclude Evidence";
 
+    case /Defense Motion to Dismiss/.test(description):
+      return "Defense Motion to Dismiss";
+
+    case /Defense Motion for Discovery/.test(description):
+      return "Defense Motion for Discovery";
+
     // defense response
     case /Defense Opposition to Government's Motion to Continue/.test(description):
       return "Defense Opposition to Continue";
@@ -481,6 +487,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defense Response to Motion for Revocation of Order of Release/.test(description):
       return "Defense Response to Motion for Revocation of Order of Release";
+
+    case /Defense Reply to Govt Opposition to Motion to Dismiss/.test(description):
+      return "Defense Reply to Opposition to Motion to Dismiss";
 
     // press release
     case /Charged/.test(description):
