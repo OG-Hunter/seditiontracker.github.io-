@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-605
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.albertleatribune.com/2021/10/3-minnesota-men-charged-in-jan-6-us-capitol-riot/)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Westbury%20et%20al%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download)

@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-605
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.startribune.com/three-lindstrom-men-face-federal-charges-related-to-jan-6-u-s-capitol-riot/600103577/)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Westbury%20et%20al%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download)

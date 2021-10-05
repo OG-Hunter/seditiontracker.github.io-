@@ -49,3 +49,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382536/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384581/download)
 - [Bodycam Evidence (Video)](https://twitter.com/ryanjreilly/status/1407812891730976783)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Grady%20Owens%20Memorandum%20Opinion%20Granting%20Defense%20Motion%20for%20Pretrial%20Release.pdf)
