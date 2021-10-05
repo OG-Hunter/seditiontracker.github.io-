@@ -4,15 +4,15 @@ lastName: Madden
 hashtag: DominickMadden
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
-convicted:
+convicted: 2021-10-05
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-05
 sentencing:
 age: 43
 occupation: Sanitation Worker
@@ -34,6 +34,10 @@ published: true
 caseNumber:
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://brooklyneagle.com/articles/2021/01/22/brooklyn-sanitation-worker-arrested-after-feds-idd-him-as-part-of-capitol-mob/)

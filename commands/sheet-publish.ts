@@ -96,7 +96,9 @@ const publishSheet = async () => {
       Residence: suspect.residence,
       Age: suspect.age,
       "Case Number": suspect.caseNumber,
-      Hashtag: `=HYPERLINK("https://twitter.com/search?q=%23${suspect.hashtag}", "#${suspect.hashtag}")`,
+      Hashtag: suspect.hashtag
+        ? `=HYPERLINK("https://twitter.com/search?q=%23${suspect.hashtag}", "#${suspect.hashtag}")`
+        : "",
       "Sedition Track": suspectUrl,
       Charged: suspect.charged,
       Indicted: suspect.indicted,
