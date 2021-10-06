@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-516
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://dailyvoice.com/pennsylvania/lancaster/news/pa-man-running-for-judge-of-elections-charged-by-fbi-for-role-in-capitol-riot/814669/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Statement%20of%20Facts.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439616/download)
