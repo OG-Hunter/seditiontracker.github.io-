@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358876/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359536/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Domenick%20Madden%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Domenick%20Madden%20Plea%20Agreement.pdf)

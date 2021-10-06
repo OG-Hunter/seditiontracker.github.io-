@@ -4,15 +4,15 @@ lastName: Winn
 hashtag: DanaWinn
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-02-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-10-04
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-04
 sentencing:
 age: 45
 occupation:
@@ -25,7 +25,7 @@ courtroom: dana-winn.jpg
 courthouse:
 raid:
 perpwalk:
-quote: 'Got her flags, come with her flagpole, that way I can hit antifa in the head if need be'
+quote: "Got her flags, come with her flagpole, that way I can hit antifa in the head if need be"
 title: Dana Winn charged on January 26th, 2021"
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,10 +34,16 @@ published: true
 caseNumber: 1:21-cr-139
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360796/download)
 - [Courthouse Appearance (VIDEO)](https://www.actionnewsjax.com/news/local/clay-county/us-capitol-riots-middleburg-couple-granted-supervised-release-ran-out-federal-courthouse/RQCOMRARCRFMBHUEHMUQRASDRI/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377846/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dana%20Winn%20Plea%20Agreement.pdf)
