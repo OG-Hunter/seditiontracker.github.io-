@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/an-accused-capitol-rioter-nicknamed-stiemy-vic-gave-fbi-agents-two-bags-of-coffee-they-gave-him-four-federal-charges/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vic%20Williams%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vic%20Williams%20Information.pdf)

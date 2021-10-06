@@ -44,3 +44,4 @@ sentence:
 - [Incriminating Interview (VIDEO)](https://youtu.be/ObVMGPGHRe8?t=5855)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390826/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Russell%20Johnson%20Government%20Opposition%20to%20Motion%20to%20Modify%20Conditions%20of%20Release.pdf)
+- [Defense Motion to Sever](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Russell%20Johnson%20Defense%20Motion%20to%20Sever.pdf)
