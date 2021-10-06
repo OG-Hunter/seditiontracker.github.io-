@@ -4,10 +4,10 @@ lastName: Taake
 hashtag: MacerInBlack
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-07-21
 charged: 2021-07-21
-indicted:
+indicted: 2021-07-30
 convicted:
 sentenced:
 dismissed:
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-andrew-taakes-boasts-dating-app-bumble-lead-arrest-1612804)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1415156/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Quentin%20Taake%20Indictment.pdf)

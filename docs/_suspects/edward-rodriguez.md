@@ -4,10 +4,10 @@ lastName: Rodriguez
 hashtag: SuitMacer
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2021-07-09
 charged: 2021-07-09
-indicted:
+indicted: 2021-07-21
 convicted:
 sentenced:
 dismissed:
@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/here-in-america-we-fight-back-formally-dressed-man-dubbed-suitmacer-charged-with-spraying-police-during-capitol-siege/ar-AALZYmU)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410871/download)
 - [Edgar macing police officers (Video)](https://twitter.com/1600PennPooch/status/1413630211774730242)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Rodriguez%20Indictment.pdf)
