@@ -36,5 +36,4 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf)
