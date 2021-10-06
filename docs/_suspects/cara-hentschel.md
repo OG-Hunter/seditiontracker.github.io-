@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I was the first group in. Yes. We storm peloskis [sic] office and took her beer. She drinks Corona'
 title: Cara Hentschel charged on September 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,5 +36,4 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf)
