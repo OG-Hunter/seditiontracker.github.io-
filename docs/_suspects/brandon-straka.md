@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-06
-sentencing:
+sentencing: 2021-12-17
 age: 43
 occupation: Hair Stylist (Former)
 affiliations:
