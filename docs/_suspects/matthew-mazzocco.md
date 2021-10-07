@@ -44,9 +44,9 @@ sentence:
   - $500 restitution
 ---
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)
 - [FBI Raid (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
 - [FBI Raid (More Video)](https://twitter.com/AmandaHTV/status/1350975973940932613?s=20)
 - [Self Incrimination (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
-- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409091/download)
