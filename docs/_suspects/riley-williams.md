@@ -4,10 +4,10 @@ lastName: Williams
 hashtag: GreenShirtStairmaster
 aka:
 residence: Pennsylvania
-status: Charged
+status: Indicted
 date: 2021-01-17
 charged: 2021-01-17
-indicted:
+indicted: 2021-10-06
 convicted:
 sentenced:
 dismissed:
@@ -40,3 +40,4 @@ sentence:
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/18/957979421/fbi-seeking-woman-who-may-have-stolen-speaker-pelosis-laptop)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357051/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357056/download)
+- [Indictment](https://s3.documentcloud.org/documents/21080178/10-6-21-us-v-riley-williams-indictment.pdf)
