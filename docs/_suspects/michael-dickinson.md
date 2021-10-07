@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-621
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Dickinson%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439961/download)
