@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Dickinson%20Statement%20of%20Facts.pdf)
