@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.msn.com/en-us/news/us/two-women-arrested-monday-in-springfield-charged-in-jan-6-us-capitol-breach/ar-AAPddMo)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cara%20Hentschel%20and%20Mahailya%20Pryer%20Statement%20of%20Facts.pdf)
