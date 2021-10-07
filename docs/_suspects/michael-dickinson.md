@@ -1,7 +1,7 @@
 ---
 name: Michael Dickinson
 lastName: Dickinson
-hashtag:
+hashtag: UnluckyWaterman
 aka:
 residence: Pennsylvania
 status: Charged
@@ -18,8 +18,8 @@ age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/michael-dickinson.jpg
-suspect: michael-dickinson.jpg
+image: /images/preview/michael-dickinson.png
+suspect: michael-dickinson.png
 booking:
 courtroom:
 courthouse:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439961/download)
