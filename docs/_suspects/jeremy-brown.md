@@ -14,13 +14,13 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 47
 occupation:
 affiliations: Oath Keepers, US Army (former Green Beret)
 jurisdiction: Federal
 image: /images/preview/jeremy-brown.png
 suspect: jeremy-brown.png
-booking:
+booking: jeremy-brown.jpg
 courtroom:
 courthouse:
 raid:
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.tampabay.com/news/tampa/2021/10/06/tampa-oath-keeper-stays-jailed-after-judge-finds-he-threatened-cops/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438141/download)
