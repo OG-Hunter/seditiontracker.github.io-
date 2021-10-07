@@ -4,15 +4,15 @@ lastName: Bonet
 hashtag: JamesBonet
 aka:
 residence: New&nbsp;York
-status: Indicted
+status: Convicted
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-06-02
-convicted:
+convicted: 2021-10-07
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-09-14
+plea_hearing: 2021-10-07
 sentencing:
 age: 29
 occupation:
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-cr-121
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.timesunion.com/news/article/No-weed-for-Glens-Falls-man-charged-in-attack-on-15903349.php)
 - [Complaint](https://www.justice.gov/opa/page/file/1361446/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361446/download)
