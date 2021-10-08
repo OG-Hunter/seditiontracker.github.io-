@@ -1,0 +1,41 @@
+---
+name: Thomas Smith
+lastName: Smith
+hashtag: MississippiFlagGuy
+aka:
+residence: Mississippi
+status: Charged
+date: 2021-09-24
+charged: 2021-09-24
+indicted: 2021-09-24
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/thomas-smith.png
+suspect: thomas-smith.png
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Thomas Smith charged on September 24, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report](https://www.huffpost.com/entry/trump-capitol-riot-cops_n_615dbe0ae4b069a0b3b84316)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donnie%20Duane%20Wren%20and%20Thomas%20Harlen%20Smith%20Indictment.pdf)

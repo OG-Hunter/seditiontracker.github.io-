@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://www.ktlo.com/2021/05/14/mott-charged-with-four-offenses-stemming-from-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394311/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jon%20Thomas%20Mott%20Information.pdf)

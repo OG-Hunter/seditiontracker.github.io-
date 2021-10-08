@@ -4,10 +4,10 @@ lastName: Martin
 hashtag: Puffalumper
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-08-06
 charged: 2021-08-06
-indicted:
+indicted: 2021-09-08
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://gvwire.com/2021/09/03/fresno-anti-mask-activist-jailed-on-jan-6-capitol-riot-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430511/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Benjamin%20Martin%20Indictment.pdf)

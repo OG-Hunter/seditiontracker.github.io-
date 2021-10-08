@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.sltrib.com/news/2021/08/02/two-more-utahns-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421591/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Janet%20Buhler%20Information.pdf)
