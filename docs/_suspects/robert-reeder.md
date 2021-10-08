@@ -9,7 +9,7 @@ date: 2021-02-24
 charged: 2021-02-24
 indicted:
 convicted: 2021-06-23
-sentenced:
+sentenced: 2021-10-08
 dismissed:
 deceased:
 plea_hearing: 2021-06-23
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days in prison
+  - $500 restitution
 ---
 
 - [News Report](https://baltimore.cbslocal.com/2021/06/23/us-capitol-riot-attack-robert-reeder-harford-county-guilty-plea/)
