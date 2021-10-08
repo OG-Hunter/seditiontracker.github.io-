@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.ocregister.com/2021/10/07/2-more-with-southern-california-ties-charged-in-jan-6-storming-of-u-s-capitol/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Ticas%20Statement%20of%20Facts.pdf)

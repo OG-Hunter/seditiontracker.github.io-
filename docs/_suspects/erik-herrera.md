@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.ocregister.com/2021/10/07/2-more-with-southern-california-ties-charged-in-jan-6-storming-of-u-s-capitol/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf)
