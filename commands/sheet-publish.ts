@@ -145,16 +145,36 @@ const publishSheet = async () => {
 
   console.log("publishing wanted");
 
-  const wantedData: Wanted = [];
   const wanted = listWanted();
 
   await fbiSheet.clear();
 
   const FBI_HEADERS = ["Number", "Photo", "Mug Shot", "AFO", "AOM", "Arrested", "Charged", "Hashtag", "Sedition Track"];
+
+  const wantedData = [];
+
   await fbiSheet.setHeaderRow(FBI_HEADERS);
 
-  for (const perp in wanted) {
+  for (const perp of wanted) {
+    const perpData = {
+      Number: perp.id,
+      Photo: `=IMAGE("${perp.src}")`,
+      "Mug Shot": "",
+      AFO: perp.afo ? "yes" : "no",
+      AOM: perp.aom ? "yes" : "no",
+      Arrested: perp.arrested ? "yes" : "no",
+      Charged: perp.charged,
+      Hashtag: perp.hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${perp.hashtag}", "#${perp.hashtag}")` : "",
+      "Sedition Track": perp.sedition_link,
+    };
+
+    // if (perp.mugshot) {
+    // }
+
+    wantedData.push(perpData);
   }
+
+  await fbiSheet.addRows(wantedData);
 };
 
 const sleep = async (ms: number) => {

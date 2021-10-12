@@ -9,6 +9,7 @@ export interface Wanted {
   afo: boolean;
   label: string;
   src: string;
+  mugshot?: string;
   hashtag?: string;
   sedition_link?: string;
   charged?: string;
@@ -23,7 +24,7 @@ export const listWanted = (): Wanted[] => {
   const suspectFiles = fs.readdirSync("./data/wanted");
 
   for (const file of suspectFiles) {
-    wanted.push(YAML.parse(readFile(file)));
+    wanted.push(YAML.parse(readFile(`./data/wanted/${file}`)));
   }
 
   return wanted;
