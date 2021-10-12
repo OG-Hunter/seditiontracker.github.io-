@@ -40,3 +40,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357051/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357056/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441161/download)
+- [Order Granting Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Riley%20Williams%20Order%20Setting%20Conditions%20of%20Release.pdf)
+- [Initial Appearance (Transcript)](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Riley%20June%20Williams%20Initial%20Appearance%20Hearing%20Transcript.pdf)

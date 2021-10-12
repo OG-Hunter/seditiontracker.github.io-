@@ -356,6 +356,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Order Denying Defendant's Motion for Conditional Release/.test(description):
       return "Order Denying Bond";
 
+    case /Order Setting Conditions of Release/.test(description):
+      return "Order Granting Bond";
+
     case /Court of Appeals/.test(description):
     case /Appeals Court/.test(description):
       return "Appeals Court Ruling";
@@ -365,6 +368,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Order Denying Defense Motion to Modify Conditions of Release/.test(description):
       return "Order Denying Defense Motion to Modify Conditions of Release";
+
+    case /Initial Appearance Hearing Transcript/.test(description):
+      return "Initial Appearance (Transcript)";
 
     // government motions
     case /Government's Motion to Continue/.test(description):

@@ -31,10 +31,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-624
 videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Criminal%20Complaint.pdf)
