@@ -4,7 +4,7 @@ lastName: Duong
 hashtag: FiDuong
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-06-30
 charged: 2021-06-30
 indicted: 2021-08-25

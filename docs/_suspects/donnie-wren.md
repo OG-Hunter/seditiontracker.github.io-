@@ -4,7 +4,7 @@ lastName: Wren
 hashtag: KingstonAsh
 aka:
 residence: Alabama
-status: Charged
+status: Indicted
 date: 2021-09-24
 charged: 2021-09-24
 indicted: 2021-09-24
