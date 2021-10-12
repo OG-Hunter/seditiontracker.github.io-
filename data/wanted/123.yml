@@ -1,5 +1,6 @@
 id: 123
-variation: A
+aom: false
+afo: true
 arrested: true
 label: "Photograph #123 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/123aarrested.png/@@images/image/preview

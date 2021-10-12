@@ -42,7 +42,7 @@ sentence:
 ---
 - [News Report](https://www.timesunion.com/news/article/No-weed-for-Glens-Falls-man-charged-in-attack-on-15903349.php)
 - [Complaint](https://www.justice.gov/opa/page/file/1361446/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1361446/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441156/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371606/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1416916/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Bonet%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441151/download)

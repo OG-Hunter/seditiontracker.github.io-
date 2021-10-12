@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
 - [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1360091/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441146/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Straka%20Superseding%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Straka%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441141/download)

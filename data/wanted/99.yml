@@ -1,5 +1,6 @@
 id: 99
-variation: A
+aom: false
+afo: true
 arrested: false
 label: "Photograph #99 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-99a.jpg/@@images/image/preview

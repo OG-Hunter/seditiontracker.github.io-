@@ -3,6 +3,7 @@ import { info } from "./common/console";
 import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
+import { listWanted, Wanted } from "./common/wanted";
 const { execSync } = require("child_process");
 
 require("dotenv").config();
@@ -23,12 +24,12 @@ const publishSheet = async () => {
   // load document properties and worksheets
   await doc.loadInfo();
 
-  const sheet = doc.sheetsByIndex[0];
+  const suspectSheet = doc.sheetsByIndex[0];
 
   console.log("clearing data");
-  await sheet.clear();
+  await suspectSheet.clear();
 
-  const ROW_HEADERS = [
+  const SUSPECT_HEADERS = [
     "Image",
     "Last Name",
     "Full Name",
@@ -57,22 +58,21 @@ const publishSheet = async () => {
     "Mug Shot",
   ];
 
-  await sheet.setHeaderRow(ROW_HEADERS);
+  await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
 
   // ensure formatting on header row
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await sheet.loadCells("A1:Z1");
+  await suspectSheet.loadCells("A1:Z1");
 
-  ROW_HEADERS.forEach((_value, index) => {
-    const cell = sheet.getCell(0, index);
+  SUSPECT_HEADERS.forEach((_value, index) => {
+    const cell = suspectSheet.getCell(0, index);
     cell.textFormat = headerFormat;
   });
 
-  await sheet.saveUpdatedCells();
+  await suspectSheet.saveUpdatedCells();
 
-  // publish suspect data
   console.log("publishing suspects");
   const suspects = fs.readdirSync("./docs/_suspects");
 
@@ -139,7 +139,22 @@ const publishSheet = async () => {
     rowData.push(suspectData);
   }
 
-  await sheet.addRows(rowData);
+  await suspectSheet.addRows(rowData);
+
+  const fbiSheet = doc.sheetsByIndex[1];
+
+  console.log("publishing wanted");
+
+  const wantedData: Wanted = [];
+  const wanted = listWanted();
+
+  await fbiSheet.clear();
+
+  const FBI_HEADERS = ["Number", "Photo", "Mug Shot", "AFO", "AOM", "Arrested", "Charged", "Hashtag", "Sedition Track"];
+  await fbiSheet.setHeaderRow(FBI_HEADERS);
+
+  for (const perp in wanted) {
+  }
 };
 
 const sleep = async (ms: number) => {

@@ -25,12 +25,15 @@ const scrapeFBI = async () => {
       const { src, alt } = image.attributes;
 
       const id = alt.match(/Photographs? \#(\d{1,})/)[1];
-      const variation = alt.match(/\b([A-Z]{1})\b/)?.[1] || alt.match(/\d{1,3}([A-Z])/)?.[1] || "";
+      // const variation = alt.match(/\b([A-Z]{1})\b/)?.[1] || alt.match(/\d{1,3}([A-Z])/)?.[1] || "";
       const arrested = /Arrested/.test(alt);
+      const afo = /AFO/.test(alt);
+      const aom = /AOM/.test(alt);
 
       const wanted: Wanted = {
         id: parseInt(id),
-        variation,
+        aom,
+        afo,
         arrested,
         label: alt,
         src,
