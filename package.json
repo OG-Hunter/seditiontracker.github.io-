@@ -4,6 +4,7 @@
     "docker:build": "docker build . -t seditiontrack:latest",
     "docker:pull": "docker pull seditiontrack:latest",
     "docker:shell": "docker run -v=$PWD/docs:/site -it seditiontrack:latest /bin/bash",
+    "fbi": "node -r ts-node/register commands/fbi.ts",
     "jekyll": "docker run -v=$PWD/docs:/site -p 4000:4000 -it seditiontrack:latest",
     "sheet": "node -r ts-node/register commands/sheet.ts",
     "suspect": "node -r ts-node/register commands/suspect.ts",
