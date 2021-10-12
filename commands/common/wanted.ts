@@ -16,7 +16,25 @@ export interface Wanted {
 }
 
 export const updateWanted = (wanted: Wanted) => {
-  writeFile(`./data/wanted/${wanted.id}.yml`, YAML.stringify(wanted));
+  const filename = `./data/wanted/${wanted.id}.yml`;
+  const data = readFile(filename);
+
+  // preserve old values unless overwritten with another non null value
+  if (data) {
+    const oldWanted = <Wanted>YAML.parse(data);
+    wanted.charged ||= oldWanted.charged;
+    wanted.mugshot ||= oldWanted.mugshot;
+    wanted.hashtag ||= oldWanted.hashtag;
+    wanted.sedition_link ||= oldWanted.sedition_link;
+  }
+
+  // // purge null and undefined values
+  // wanted.charged ||= "";
+  // wanted.mugshot ||= "";
+  // wanted.hashtag ||= "";
+  // wanted.sedition_link ||= "";
+
+  writeFile(filename, YAML.stringify(wanted));
 };
 
 export const listWanted = (): Wanted[] => {

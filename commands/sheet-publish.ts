@@ -145,7 +145,7 @@ const publishSheet = async () => {
 
   console.log("publishing wanted");
 
-  const wanted = listWanted();
+  const wanted = listWanted().sort((a, b) => a.id - b.id);
 
   await fbiSheet.clear();
 

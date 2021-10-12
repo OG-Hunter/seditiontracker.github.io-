@@ -37,6 +37,7 @@ const scrapeFBI = async () => {
         arrested,
         label: alt,
         src,
+        hashtag: null,
       };
 
       updateWanted(wanted);

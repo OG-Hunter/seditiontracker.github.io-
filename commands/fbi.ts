@@ -2,7 +2,9 @@ import { Command } from "commander";
 import { head, includes, map } from "lodash";
 import { error } from "./common/console";
 
-const command = new Command().command("scrape", "scrape the fbi website for wanted suspects");
+const command = new Command()
+  .command("scrape", "scrape the fbi website for wanted suspects")
+  .command("merge", "merge the scraped data with other sources");
 
 command.parse(process.argv);
 
