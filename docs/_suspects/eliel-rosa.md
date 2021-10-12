@@ -4,12 +4,12 @@ lastName: Rosa
 hashtag: ElielRosa
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
 convicted: 2021-07-29
-sentenced:
+sentenced: 2021-10-12
 dismissed:
 deceased:
 plea_hearing: 2021-07-29
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-68
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 1 year probation
+  - 100 hours of community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.kiiitv.com/article/news/local/jenny-cudd-fbi-arrested/513-fb4ff454-3bf0-4648-8983-660ec8f2601e)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353436/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1353431/download)
