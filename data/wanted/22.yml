@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #22 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-22arrest.jpg/@@images/image/preview
 hashtag: WilliamWatson
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-01-11
+mugshot: william-watson.png
+sedition_link: https://seditiontracker.com/suspects/william-watson
+name: William Watson

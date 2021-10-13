@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #203 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/203aarrested.png/@@images/image/preview
 hashtag: HarleySmashAOM
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-07-01
+mugshot: joshua-haynes.jpg
+sedition_link: https://seditiontracker.com/suspects/joshua-haynes
+name: Joshua Haynes

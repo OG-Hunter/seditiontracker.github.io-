@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #59 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/59arrested.png/@@images/image/preview
 hashtag: Sean59AFO
-charged: null
+charged: 2021-05-27
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/sean-mchugh
+name: Sean McHugh

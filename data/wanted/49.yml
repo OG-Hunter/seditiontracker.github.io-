@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #49 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-49arrest.jpg/@@images/image/preview
 hashtag: MoreTreesGuy
-charged: null
+charged: 2021-04-12
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/paul-johnson
+name: Paul Johnson

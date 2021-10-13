@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #241 - AFO A  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-241aarrest.jpg/@@images/image/preview
 hashtag: YellowZipSkulker
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-05-13
+mugshot: christopher-warnagiris.png
+sedition_link: https://seditiontracker.com/suspects/christopher-warnagiris
+name: Christopher Warnagiris

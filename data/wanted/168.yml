@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #168 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-168arrest.jpg/@@images/image/preview
 hashtag: GrayCarharttHat
-charged: null
+charged: 2021-04-20
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/stephen-randolph
+name: Stephen Randolph

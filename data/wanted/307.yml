@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #307A  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-307aarrest.jpg/@@images/image/preview
 hashtag: GunsHoodieNS
-charged: null
+charged: 2021-03-19
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/jeffrey-register
+name: Jeffrey Register

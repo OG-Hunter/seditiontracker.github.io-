@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #51 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-51-arrested.png/@@images/image/preview
 hashtag: WhiteHoodie
-charged: null
+charged: 2021-01-30
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/ryan-samsel
+name: Ryan Samsel

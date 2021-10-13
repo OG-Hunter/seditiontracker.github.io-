@@ -5,6 +5,7 @@ arrested: false
 label: "Photograph #357A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-357a.jpg/@@images/image/preview
 hashtag: GoodPushArthur
-charged: null
+charged: 2021-08-30
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/christopher-cunningham
+name: Christopher Cunningham

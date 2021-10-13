@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #71 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-71arrested.jpg/@@images/image/preview
 hashtag: LongScarfBoy
-charged: null
+charged: 2021-03-03
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/matthew-wood
+name: Matthew Wood

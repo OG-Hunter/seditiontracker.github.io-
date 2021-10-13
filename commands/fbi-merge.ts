@@ -1,7 +1,5 @@
 import { Command } from "commander";
-import fs from "fs";
-import { getSuspectByFile, updateSuspect } from "./common/suspect";
-const { execSync } = require("child_process");
+import { dasherizeName, getSuspects, Suspect } from "./common/suspect";
 import { readLines } from "./common/file";
 import { info } from "./common/console";
 import { listWanted, updateWanted } from "./common/wanted";
@@ -25,34 +23,30 @@ const doMerge = () => {
     }
   }
 
-  for (const wanted of listWanted()) {
-    wanted.hashtag ||= tagMap[wanted.id] || "";
-    updateWanted(wanted);
+  const suspectMap: { [key: string]: Suspect } = {};
+  for (const suspect of getSuspects()) {
+    if (suspect.hashtag) {
+      suspectMap[suspect.hashtag] = suspect;
+    }
   }
 
-  // const suspects = fs.readdirSync("./docs/_suspects");
-  // for (const filename of suspects) {
-  //   const suspect = getSuspectByFile(filename);
-  //   // const newLinks = {};
-  //   // for (const [type, url] of Object.entries(suspect?.links)) {
-  //   //   let newType: string;
-  //   //   if (type == "Complaint") {
-  //   //     if (suspect?.links["Statement of Facts"]) {
-  //   //       continue; // duplicate - ignore
-  //   //     } else {
-  //   //       newType = "Statement of Facts";
-  //   //     }
-  //   //   }
-  //   //   newType ||= type;
-  //   //   newLinks[newType] = url;
-  //   // }
-  //   // suspect.links = newLinks;
-  //   if (suspect.hashtag) {
-  //     continue;
-  //   }
-  //   suspect.hashtag = suspect.name.replace(" ", "").replace("-", "");
-  //   updateSuspect(suspect);
-  // }
+  for (const wanted of listWanted()) {
+    wanted.hashtag ||= tagMap[wanted.id] || "";
+
+    if (wanted.hashtag) {
+      const suspect = suspectMap[wanted.hashtag];
+      if (suspect) {
+        wanted.charged = suspect.charged;
+        wanted.mugshot = suspect.booking;
+        wanted.name = suspect.name;
+        wanted.sedition_link = suspect.name
+          ? `https://seditiontracker.com/suspects/${dasherizeName(suspect.name)}`
+          : null;
+      }
+    }
+
+    updateWanted(wanted);
+  }
 };
 
 doMerge();

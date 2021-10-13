@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #28 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-28-arrested.png/@@images/image/preview
 hashtag: KevinLoftus
-charged: null
+charged: 2021-01-12
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/kevin-loftus
+name: Kevin Loftus

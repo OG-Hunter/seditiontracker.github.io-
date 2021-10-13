@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #23 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-23-arrested.png/@@images/image/preview
 hashtag: NicholasRodean
-charged: null
+charged: 2021-01-13
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/nicholas-rodean
+name: Nicholas Rodean

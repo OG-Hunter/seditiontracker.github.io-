@@ -13,6 +13,7 @@ export interface Wanted {
   hashtag?: string;
   sedition_link?: string;
   charged?: string;
+  name?: string;
 }
 
 export const updateWanted = (wanted: Wanted) => {
@@ -26,13 +27,8 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.mugshot ||= oldWanted.mugshot;
     wanted.hashtag ||= oldWanted.hashtag;
     wanted.sedition_link ||= oldWanted.sedition_link;
+    wanted.name ||= oldWanted.name;
   }
-
-  // // purge null and undefined values
-  // wanted.charged ||= "";
-  // wanted.mugshot ||= "";
-  // wanted.hashtag ||= "";
-  // wanted.sedition_link ||= "";
 
   writeFile(filename, YAML.stringify(wanted));
 };

@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #32 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-32arrest.jpg/@@images/image/preview
 hashtag: WildProtestBro
-charged: null
+charged: 2021-04-02
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/michael-fitzgerald
+name: Michael Fitzgerald

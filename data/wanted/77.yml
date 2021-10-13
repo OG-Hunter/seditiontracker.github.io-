@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #77 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-77arrest.jpg/@@images/image/preview
 hashtag: CapitolBoyBand
-charged: null
+charged: 2021-02-02
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/benjamin-torre
+name: Benjamin Torre

@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #24 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-24-arrested.png/@@images/image/preview
 hashtag: FurryFoxGuy
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-01-11
+mugshot: aaron-mostofsky.png
+sedition_link: https://seditiontracker.com/suspects/aaron-mostofsky
+name: Aaron Mostofsky

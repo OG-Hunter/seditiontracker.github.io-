@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #21 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/21-arrested.png/@@images/image/preview
 hashtag: JohnStrand
-charged: null
+charged: 2021-01-18
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/john-strand
+name: John Strand

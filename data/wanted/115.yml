@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #115 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/115arrested.png/@@images/image/preview
 hashtag: BuffaloBreacher
-charged: null
+charged: 2021-03-12
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/thomas-sibick
+name: Thomas Sibick

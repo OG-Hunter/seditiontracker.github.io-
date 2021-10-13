@@ -5,6 +5,7 @@ arrested: false
 label: "Photograph #390"
 src: https://www.fbi.gov/wanted/capitol-violence-images/390.jpg/@@images/image/preview
 hashtag: DaltonCrase
-charged: null
+charged: 2021-02-01
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/dalton-crase
+name: Dalton Crase

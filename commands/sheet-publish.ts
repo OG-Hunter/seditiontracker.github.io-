@@ -149,7 +149,19 @@ const publishSheet = async () => {
 
   await fbiSheet.clear();
 
-  const FBI_HEADERS = ["Number", "Photo", "Mug Shot", "AFO", "AOM", "Arrested", "Charged", "Hashtag", "Sedition Track"];
+  const FBI_HEADERS = [
+    "Number",
+    "Photo",
+    "Mug Shot",
+    "Hashtag",
+    "Name",
+    "Identified",
+    "Arrested",
+    "Charged",
+    "Sedition Track",
+    "AFO",
+    "AOM",
+  ];
 
   const wantedData = [];
 
@@ -160,16 +172,18 @@ const publishSheet = async () => {
       Number: perp.id,
       Photo: `=IMAGE("${perp.src}")`,
       "Mug Shot": "",
+      Name: perp.name,
       AFO: perp.afo ? "yes" : "no",
       AOM: perp.aom ? "yes" : "no",
-      Arrested: perp.arrested ? "yes" : "no",
+      Arrested: perp.arrested || perp.charged ? "yes" : "no",
       Charged: perp.charged,
       Hashtag: perp.hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${perp.hashtag}", "#${perp.hashtag}")` : "",
       "Sedition Track": perp.sedition_link,
     };
 
-    // if (perp.mugshot) {
-    // }
+    if (perp.mugshot) {
+      perpData["Mug Shot"] = `=IMAGE("https://seditiontracker.com/images/booking/${perp.mugshot}")`;
+    }
 
     wantedData.push(perpData);
   }

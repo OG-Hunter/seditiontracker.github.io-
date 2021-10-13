@@ -5,6 +5,7 @@ arrested: false
 label: "Photograph #313A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-313a.jpg/@@images/image/preview
 hashtag: OldAngryBird
-charged: null
+charged: 2021-06-16
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/kurt-peterson
+name: Kurt Peterson

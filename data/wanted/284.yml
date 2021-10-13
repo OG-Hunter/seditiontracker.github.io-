@@ -5,6 +5,7 @@ arrested: false
 label: "Photograph #284 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/284.png/@@images/image/preview
 hashtag: FenceSnatcher
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-10-07
+mugshot: cody-mattice.jpg
+sedition_link: https://seditiontracker.com/suspects/cody-mattice
+name: Cody Mattice

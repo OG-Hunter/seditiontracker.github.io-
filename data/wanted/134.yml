@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #134 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/134aarrested.png/@@images/image/preview
 hashtag: ThreePercentSheriff
-charged: null
+charged: 2021-08-04
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/ronald-mcabee
+name: Ronald McAbee

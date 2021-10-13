@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #319 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-319arrest.jpg/@@images/image/preview
 hashtag: SageCopWhacker
-charged: null
+charged: 2021-07-14
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/michael-brock
+name: Michael Brock

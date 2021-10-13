@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #341 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-341aarrest.jpg/@@images/image/preview
 hashtag: SundanceReady
-charged: null
+charged: 2021-01-26
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/daniel-phipps
+name: Daniel Phipps

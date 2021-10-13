@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #30A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-30a-arrested.png/@@images/image/preview
 hashtag: KevinSeefried
-charged: null
+charged: 2021-01-14
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/kevin-seefried
+name: Kevin Seefried

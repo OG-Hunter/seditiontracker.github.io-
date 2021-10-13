@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #246 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/246a-arrested.png/@@images/image/preview
 hashtag: FloridaFlagJacket
-charged: null
+charged: 2021-03-17
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/robert-palmer
+name: Robert Palmer

@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #4 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-4-arrested.jpg/@@images/image/preview
 hashtag: FashyFreddyMercury
-charged: null
+charged: 2021-01-12
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/william-pepe
+name: William Pepe

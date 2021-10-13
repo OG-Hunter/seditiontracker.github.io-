@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #169 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-169-arrested.png/@@images/image/preview
 hashtag: DamonBeckley
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-01-16
+mugshot: damon-beckley.jpg
+sedition_link: https://seditiontracker.com/suspects/damon-beckley
+name: Damon Beckley

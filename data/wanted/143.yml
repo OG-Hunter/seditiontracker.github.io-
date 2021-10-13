@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #143 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-143arrest.jpg/@@images/image/preview
 hashtag: SlimMcTreason
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-02-17
+mugshot: lewis-cantwell.png
+sedition_link: https://seditiontracker.com/suspects/lewis-cantwell
+name: Lewis Cantwell

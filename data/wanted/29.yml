@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #29 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-29-arrested.png/@@images/image/preview
 hashtag: EmilyHernandez
-charged: null
+charged: 2021-01-15
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/emily-hernandez
+name: Emily Hernandez

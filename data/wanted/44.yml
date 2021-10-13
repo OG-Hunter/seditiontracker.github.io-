@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #44 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-44-afo-arrested.png/@@images/image/preview
 hashtag: BlackQShirt
-charged: null
-mugshot: null
-sedition_link: null
+charged: 2021-01-09
+mugshot: douglas-jensen.png
+sedition_link: https://seditiontracker.com/suspects/douglas-jensen
+name: Douglas Jensen

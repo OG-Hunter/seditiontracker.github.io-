@@ -5,6 +5,7 @@ arrested: true
 label: "Photograph #108 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-108arrest.jpg/@@images/image/preview
 hashtag: HighFiveCowboy
-charged: null
+charged: 2021-02-16
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/luke-coffee
+name: Luke Coffee
