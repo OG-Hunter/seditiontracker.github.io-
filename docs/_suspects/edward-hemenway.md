@@ -4,12 +4,12 @@ lastName: Hemenway
 hashtag: EdwardHemenway
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-06-28
-sentenced:
+sentenced: 2021-10-13
 dismissed:
 deceased:
 plea_hearing: 2021-06-28
@@ -39,6 +39,9 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 45 days in prison
+  - 60 hours community service
+  - $500 restitution
 ---
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-capitol-riot-arrests-bauer/417-51b5098f-25b0-41f7-898b-37616e64dc5d)
 - [Complaint](https://www.justice.gov/opa/page/file/1355726/download)
