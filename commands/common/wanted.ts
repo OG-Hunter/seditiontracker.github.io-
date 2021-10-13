@@ -30,6 +30,10 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.name ||= oldWanted.name;
   }
 
+  if (wanted.charged) {
+    wanted.arrested = true;
+  }
+
   writeFile(filename, YAML.stringify(wanted));
 };
 
