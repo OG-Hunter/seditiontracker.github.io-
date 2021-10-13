@@ -4,16 +4,16 @@ lastName: Cudd
 hashtag: JennyCudd
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
-convicted:
+convicted: 2021-10-13
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-10-13
+sentencing: 2021-03-18
 age: 36
 occupation:
 affiliations:
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-cr-68
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353436/download)
