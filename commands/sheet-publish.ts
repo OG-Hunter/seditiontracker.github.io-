@@ -3,7 +3,7 @@ import { info } from "./common/console";
 import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
-import { listWanted, Wanted } from "./common/wanted";
+import { listWanted } from "./common/wanted";
 const { execSync } = require("child_process");
 
 require("dotenv").config();
@@ -176,6 +176,7 @@ const publishSheet = async () => {
       AFO: perp.afo ? "yes" : "no",
       AOM: perp.aom ? "yes" : "no",
       Arrested: perp.arrested || perp.charged ? "yes" : "no",
+      Identified: perp.identified ? "yes" : "no",
       Charged: perp.charged,
       Hashtag: perp.hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${perp.hashtag}", "#${perp.hashtag}")` : "",
       "Sedition Track": perp.sedition_link,

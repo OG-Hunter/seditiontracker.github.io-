@@ -5,6 +5,7 @@ import fs from "fs";
 export interface Wanted {
   id: number;
   arrested: boolean;
+  identified: boolean;
   aom: boolean;
   afo: boolean;
   label: string;
@@ -20,6 +21,14 @@ export const updateWanted = (wanted: Wanted) => {
   const filename = `./data/wanted/${wanted.id}.yml`;
   const data = readFile(filename);
 
+  if (wanted.charged) {
+    wanted.arrested = true;
+  }
+
+  if (wanted.arrested) {
+    wanted.identified = true;
+  }
+
   // preserve old values unless overwritten with another non null value
   if (data) {
     const oldWanted = <Wanted>YAML.parse(data);
@@ -28,10 +37,10 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.hashtag ||= oldWanted.hashtag;
     wanted.sedition_link ||= oldWanted.sedition_link;
     wanted.name ||= oldWanted.name;
-  }
 
-  if (wanted.charged) {
-    wanted.arrested = true;
+    if (oldWanted.identified) {
+      wanted.identified = true;
+    }
   }
 
   writeFile(filename, YAML.stringify(wanted));

@@ -2,6 +2,7 @@ id: 2
 aom: false
 afo: false
 arrested: false
+identified: false
 label: "Photograph #2"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-2.jpg/@@images/image/preview
 hashtag: null

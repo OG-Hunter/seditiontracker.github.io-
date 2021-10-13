@@ -35,6 +35,7 @@ const scrapeFBI = async () => {
         aom,
         afo,
         arrested,
+        identified: arrested ? true : false,
         label: alt,
         src,
         hashtag: null,

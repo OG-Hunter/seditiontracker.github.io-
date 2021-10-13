@@ -2,10 +2,11 @@ id: 204
 aom: true
 afo: false
 arrested: true
+identified: true
 label: "Photograph #204 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/204aarrested.png/@@images/image/preview
 hashtag: ImGabeBrown
-charged: null
+charged: 2021-06-25
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/gabriel-brown
+name: Gabriel Brown

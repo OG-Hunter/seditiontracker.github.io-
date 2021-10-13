@@ -2,6 +2,7 @@ id: 444
 aom: false
 afo: true
 arrested: false
+identified: false
 label: "Photograph #444 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/444.png/@@images/image/preview
 hashtag: null
