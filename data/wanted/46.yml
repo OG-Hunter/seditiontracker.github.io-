@@ -5,8 +5,8 @@ arrested: true
 identified: true
 label: "Photograph #46 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-46-arrested.png/@@images/image/preview
-hashtag: null
-charged: null
-mugshot: null
-sedition_link: null
-name: null
+hashtag: MichaelSparks
+charged: 2021-01-18
+mugshot: michael-sparks.jpg
+sedition_link: https://seditiontracker.com/suspects/michael-sparks
+name: Michael Sparks

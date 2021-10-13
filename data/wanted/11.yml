@@ -5,8 +5,8 @@ arrested: true
 identified: true
 label: "Photograph #11 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-11arrest.jpg/@@images/image/preview
-hashtag: TanTuxedo
-charged: null
-mugshot: null
-sedition_link: null
-name: null
+hashtag: OregonFordLover
+charged: 2021-03-05
+mugshot: richard-harris.jpg
+sedition_link: https://seditiontracker.com/suspects/richard-harris
+name: Richard Harris
