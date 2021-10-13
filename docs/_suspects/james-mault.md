@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age: 
+age:
 occupation: Ironworker
 affiliations:
 jurisdiction: Federal
@@ -31,9 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-622
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download)
