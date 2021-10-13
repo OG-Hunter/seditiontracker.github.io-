@@ -2,7 +2,7 @@ id: 200
 aom: true
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #200 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-200a.jpg/@@images/image/preview
 hashtag: CowPoke

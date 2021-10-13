@@ -2,10 +2,10 @@ id: 119
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #119 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-119.jpg/@@images/image/preview
-hashtag: null
+hashtag: ShinyCircleTattoo
 charged: null
 mugshot: null
 sedition_link: null
