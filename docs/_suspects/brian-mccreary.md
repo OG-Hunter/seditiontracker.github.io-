@@ -4,16 +4,16 @@ lastName: McCreary
 hashtag: RandomWatching
 aka:
 residence: Massachusetts
-status: Indicted
+status: Convicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-02-17
-convicted:
+convicted: 2021-10-14
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-09-03
-sentencing:
+plea_hearing: 2021-10-14
+sentencing: 2022-01-14
 age: 33
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-125
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 

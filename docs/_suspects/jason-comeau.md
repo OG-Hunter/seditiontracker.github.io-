@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age:
 occupation:
-affiliations:
+affiliations: Former U.S. Military
 jurisdiction: Federal
 image: /images/preview/jason-comeau.jpg
 suspect: jason-comeau.jpg

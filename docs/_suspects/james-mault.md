@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age:
 occupation: Ironworker
-affiliations:
+affiliations: Former U.S. Military
 jurisdiction: Federal
 image: /images/preview/james-mault.jpg
 suspect: james-mault.jpg
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download)
