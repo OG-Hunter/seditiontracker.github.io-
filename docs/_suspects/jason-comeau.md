@@ -36,6 +36,4 @@ videos:
 charges:
 sentence:
 ---
-
-- [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Michael%20Comeau%20Criminal%20Complaint.pdf)
