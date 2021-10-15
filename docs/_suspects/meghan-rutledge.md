@@ -2,7 +2,7 @@
 name: Meghan Rutledge
 lastName: Rutledge
 hashtag:
-aka:
+aka: Meghan Bostic
 residence: Virginia
 status: Charged
 date: 2021-10-05
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.13newsnow.com/article/news/crime/virginia-beach-woman-father-accused-us-capitol-riot-january-6/291-a4b9d125-e63b-414d-8a2a-2bd153af1bae)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Meghan%20Rutledge%20and%20William%20Bostic%20Jr%20Criminal%20Complaint.pdf)
