@@ -4,16 +4,16 @@ lastName: Crase
 hashtag: DaltonCrase
 aka:
 residence: Kentucky
-status: Charged
+status: Convicted
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-10-14
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-10-14
+sentencing: 2022-01-13
 age: 21
 occupation:
 affiliations:
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-cr-82
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.kentucky.com/news/local/crime/article248923359.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371326/download)
