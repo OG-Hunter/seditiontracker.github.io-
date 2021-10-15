@@ -1,0 +1,41 @@
+---
+name: Meghan Rutledge
+lastName: Rutledge
+hashtag:
+aka:
+residence: Virginia
+status: Charged
+date: 2021-10-05
+charged: 2021-10-05
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/meghan-rutledge.jpg
+suspect: meghan-rutledge.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Meghan Rutledge charged on October 5, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Meghan%20Rutledge%20and%20William%20Bostic%20Jr%20Criminal%20Complaint.pdf)
