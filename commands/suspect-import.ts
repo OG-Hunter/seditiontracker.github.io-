@@ -469,6 +469,7 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defendant's Motion to Dismiss or Exclude Evidence/.test(description):
     case /Defendant's Motion to Suppress Statement/.test(description):
+    case /Defense Motion to Suppress/.test(description):
       return "Defense Motion to Dismiss or Exclude Evidence";
 
     case /Defense Motion to Dismiss/.test(description):
