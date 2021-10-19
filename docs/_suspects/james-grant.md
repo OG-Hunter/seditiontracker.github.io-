@@ -37,4 +37,4 @@ charges:
 sentence:
 ---
 
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant_Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
