@@ -15,6 +15,7 @@ export interface Wanted {
   sedition_link?: string;
   charged?: string;
   name?: string;
+  duplicate: boolean;
 }
 
 export const updateWanted = (wanted: Wanted) => {
@@ -40,6 +41,10 @@ export const updateWanted = (wanted: Wanted) => {
 
     if (oldWanted.identified) {
       wanted.identified = true;
+    }
+
+    if (oldWanted.duplicate) {
+      wanted.duplicate = true;
     }
   }
 

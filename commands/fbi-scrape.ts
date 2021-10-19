@@ -39,6 +39,7 @@ const scrapeFBI = async () => {
         label: alt,
         src,
         hashtag: null,
+        duplicate: false,
       };
 
       updateWanted(wanted);

@@ -161,6 +161,7 @@ const publishSheet = async () => {
     "Sedition Track",
     "AFO",
     "AOM",
+    "Duplicate",
   ];
 
   const wantedData = [];
@@ -180,6 +181,7 @@ const publishSheet = async () => {
       Charged: perp.charged,
       Hashtag: perp.hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${perp.hashtag}", "#${perp.hashtag}")` : "",
       "Sedition Track": perp.sedition_link,
+      Duplicate: perp.duplicate ? "yes" : "no",
     };
 
     if (perp.mugshot) {
