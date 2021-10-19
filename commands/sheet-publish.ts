@@ -170,7 +170,7 @@ const publishSheet = async () => {
 
   for (const perp of wanted) {
     const perpData = {
-      Number: perp.id,
+      Number: `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${perp.id})`,
       Photo: `=IMAGE("${perp.src}")`,
       "Mug Shot": "",
       Name: perp.name,
