@@ -1,7 +1,7 @@
 ---
 name: Christian Manley
 lastName: Manley
-hashtag: blueliveswolfman
+hashtag: BlueLivesWolfman
 aka:
 residence: Alabama
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.al.com/news/2021/10/alabama-man-seen-wearing-bulletproof-vest-pepper-spraying-officers-on-jan-6-arrested-in-alaska.html)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.akd.67758/gov.uscourts.akd.67758.1.1.pdf)
