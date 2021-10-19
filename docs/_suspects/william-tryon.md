@@ -4,16 +4,16 @@ lastName: Tryon
 hashtag: LaptopCowGramps
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-03-30
 charged: 2021-03-30
 indicted:
-convicted:
+convicted: 2021-10-18
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-18
-sentencing:
+sentencing: 2022-01-14
 age: 70
 occupation:
 affiliations: Liberty Bell Alliance 76
@@ -34,6 +34,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 
