@@ -4,15 +4,15 @@ lastName: Register
 hashtag: GunsHoodieNS
 aka:
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-03-19
 charged: 2021-03-19
 indicted:
-convicted:
+convicted: 2021-10-14
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-14
 sentencing:
 age: 38
 occupation:
@@ -34,10 +34,14 @@ published: true
 caseNumber: 1:21-cr-349
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.firstcoastnews.com/article/news/local/man-makes-tuesday-appearance-in-jacksonville-on-charges-related-to-capitol-riots/77-c9c8a930-f2ec-45c6-b342-11addbdea146)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389956/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389961/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442626/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418101/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442621/download)
