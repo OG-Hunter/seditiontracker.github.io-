@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #17 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-17-arrested.png/@@images/image/preview
 hashtag: AlbertCiarpelli
+duplicate: false
 charged: 2021-01-21
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/albert-ciarpelli

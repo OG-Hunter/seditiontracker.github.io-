@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #91 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-91b.png/@@images/image/preview
 hashtag: PlaidLad
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

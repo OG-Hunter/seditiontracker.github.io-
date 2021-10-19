@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #118 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/118-arrested.png/@@images/image/preview
 hashtag: BlackSherpaPaperPlan
+duplicate: false
 charged: 2021-03-04
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/ezekiel-stecher

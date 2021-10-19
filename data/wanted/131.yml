@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #131 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/131-arrested.png/@@images/image/preview
 hashtag: Slickback
+duplicate: false
 charged: 2021-02-23
 mugshot: clayton-mullins.jpg
 sedition_link: https://seditiontracker.com/suspects/clayton-mullins

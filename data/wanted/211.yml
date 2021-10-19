@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #211 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/211aarrested.png/@@images/image/preview
 hashtag: BostonWhiteBeanAOM
+duplicate: false
 charged: 2021-06-30
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/chase-allen

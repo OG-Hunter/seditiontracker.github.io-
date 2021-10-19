@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #100 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-100a.jpg/@@images/image/preview
 hashtag: GreenSprayGuy
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

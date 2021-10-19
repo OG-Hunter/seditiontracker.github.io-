@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #377 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/377a.png/@@images/image/preview
 hashtag: GingerFinger
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

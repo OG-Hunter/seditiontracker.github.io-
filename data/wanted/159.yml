@@ -1,11 +1,12 @@
 id: 159
 aom: false
 afo: false
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #159"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-159.jpg/@@images/image/preview
 hashtag: NYLongCoat
+duplicate: false
 charged: 2021-03-22
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/caleb-jones

@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #205 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/205aarrested.png/@@images/image/preview
 hashtag: MrMunsterAOM
+duplicate: false
 charged: 2021-06-28
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/zvonimir-jurlina

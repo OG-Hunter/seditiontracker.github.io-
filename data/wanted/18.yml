@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #18 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-18-arrested.png/@@images/image/preview
 hashtag: HunterSeefried
+duplicate: false
 charged: 2021-01-14
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/hunter-seefried

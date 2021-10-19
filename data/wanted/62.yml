@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #62 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-62-afo-arrested.png/@@images/image/preview
 hashtag: ThePinMan
+duplicate: false
 charged: 2021-01-19
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/patrick-mccaughey

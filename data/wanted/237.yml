@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #237 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/237arrested.png/@@images/image/preview
 hashtag: AllGreenGuy
+duplicate: false
 charged: 2021-08-24
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/robert-fairchild

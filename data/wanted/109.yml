@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #109 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/109aarrested.png/@@images/image/preview
 hashtag: CranberryOaf
+duplicate: false
 charged: 2021-04-01
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/grady-owens

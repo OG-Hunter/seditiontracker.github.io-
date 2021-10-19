@@ -3,9 +3,10 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #313A"
+label: "Photograph #313A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/313aarrested.png/@@images/image/preview
 hashtag: OldAngryBird
+duplicate: false
 charged: 2021-06-16
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/kurt-peterson

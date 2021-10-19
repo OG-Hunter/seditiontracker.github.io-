@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #70"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-70.png/@@images/image/preview
 hashtag: ConfusedInsider
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

@@ -3,9 +3,10 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #284 - AFO"
+label: "Photograph #284 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-284arrest.jpg/@@images/image/preview
 hashtag: FenceSnatcher
+duplicate: false
 charged: 2021-10-05
 mugshot: cody-mattice.jpg
 sedition_link: https://seditiontracker.com/suspects/cody-mattice

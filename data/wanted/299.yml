@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #299 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/299a.png/@@images/image/preview
 hashtag: LongPoleMan
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

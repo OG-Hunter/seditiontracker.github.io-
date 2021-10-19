@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #80 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-80-arrested.png/@@images/image/preview
 hashtag: Caveman
+duplicate: false
 charged: 2021-01-14
 mugshot: peter-stager.jpg
 sedition_link: https://seditiontracker.com/suspects/peter-stager

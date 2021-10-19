@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #215 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/215a-arrested.png/@@images/image/preview
 hashtag: GeorgesCross
+duplicate: false
 charged: 2021-03-15
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/jeffrey-mckellop

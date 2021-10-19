@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #43 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-43-arrested.png/@@images/image/preview
 hashtag: Spazzo
+duplicate: false
 charged: 2021-01-15
 mugshot: dominic-pezzola.jpg
 sedition_link: https://seditiontracker.com/suspects/dominic-pezzola

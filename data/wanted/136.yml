@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #136 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-136arrest.jpg/@@images/image/preview
 hashtag: BusinessCasualRioter
+duplicate: false
 charged: 2021-03-04
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/federico-klein

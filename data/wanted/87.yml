@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #87 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/87arrested.png/@@images/image/preview
 hashtag: FakeNewsHat
+duplicate: false
 charged: 2021-04-12
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/duke-wilson

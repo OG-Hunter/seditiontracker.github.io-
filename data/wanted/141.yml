@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #141 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-141-afo.png/@@images/image/preview
 hashtag: SweaterHead
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

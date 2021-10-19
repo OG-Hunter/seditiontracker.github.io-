@@ -1,11 +1,12 @@
 id: 45
 aom: false
 afo: true
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #45 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-45.png/@@images/image/preview
 hashtag: FuzzyPinhead
+duplicate: false
 charged: 2021-01-28
 mugshot: jerod-hughes.jpg
 sedition_link: https://seditiontracker.com/suspects/jerod-hughes

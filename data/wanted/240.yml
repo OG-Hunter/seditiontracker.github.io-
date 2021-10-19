@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #240A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-240a.png/@@images/image/preview
 hashtag: WindowCheerleader
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

@@ -20,7 +20,7 @@ export interface Wanted {
 
 export const updateWanted = (wanted: Wanted) => {
   const filename = `./data/wanted/${wanted.id}.yml`;
-  const data = readFile(filename);
+  const data = fs.existsSync(filename) ? readFile(filename) : undefined;
 
   if (wanted.charged) {
     wanted.arrested = true;

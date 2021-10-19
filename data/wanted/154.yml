@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #154 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-154a.png/@@images/image/preview
 hashtag: CommanderCamo
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

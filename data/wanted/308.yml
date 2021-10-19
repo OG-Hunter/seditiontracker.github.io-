@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #308A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/308.png/@@images/image/preview
 hashtag: BananaBack
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

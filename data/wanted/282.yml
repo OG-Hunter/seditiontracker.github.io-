@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #282 A - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/282a.png/@@images/image/preview
 hashtag: BlondeSprayer
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

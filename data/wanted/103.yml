@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #103 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-103arrest.jpg/@@images/image/preview
 hashtag: BeardedMirror
+duplicate: false
 charged: 2021-02-05
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/taylor-johnatakis

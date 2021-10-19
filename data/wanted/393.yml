@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #393 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/393a.png/@@images/image/preview
 hashtag: BigRedRager
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

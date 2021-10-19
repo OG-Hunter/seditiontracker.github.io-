@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #11 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-11arrest.jpg/@@images/image/preview
 hashtag: OregonFordLover
+duplicate: false
 charged: 2021-03-05
 mugshot: richard-harris.jpg
 sedition_link: https://seditiontracker.com/suspects/richard-harris

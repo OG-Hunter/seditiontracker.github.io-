@@ -1,11 +1,12 @@
 id: 276
 aom: false
 afo: true
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #276 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/276.png/@@images/image/preview
 hashtag: FashNSlash
+duplicate: false
 charged: 2021-07-28
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/philip-young

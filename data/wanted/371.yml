@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #371 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/371a.png/@@images/image/preview
 hashtag: BlueFightSpecial
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

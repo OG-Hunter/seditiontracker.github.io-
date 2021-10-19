@@ -1,11 +1,12 @@
 id: 25
 aom: false
 afo: false
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #25 A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-25a.jpg/@@images/image/preview
 hashtag: JonRyanSchaffer
+duplicate: false
 charged: 2021-01-17
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/jon-schaffer

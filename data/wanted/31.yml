@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #31 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-31-arrested.png/@@images/image/preview
 hashtag: BatBoy
+duplicate: false
 charged: 2021-01-18
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/emanuel-jackson

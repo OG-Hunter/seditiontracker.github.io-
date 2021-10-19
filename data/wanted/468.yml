@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #468 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/468a.png/@@images/image/preview
 hashtag: GassyStoolSlinger
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

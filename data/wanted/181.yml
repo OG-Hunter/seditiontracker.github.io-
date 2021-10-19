@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #181 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/181arrested.png/@@images/image/preview
 hashtag: BigBlueDude
+duplicate: false
 charged: 2021-02-22
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/joseph-padilla

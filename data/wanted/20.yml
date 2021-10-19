@@ -1,11 +1,12 @@
 id: 20
 aom: false
 afo: false
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #20"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-20.jpg/@@images/image/preview
 hashtag: ChinCurtain20
+duplicate: false
 charged: 2021-02-08
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/steve-maldonado

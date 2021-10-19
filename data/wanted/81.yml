@@ -1,11 +1,12 @@
 id: 81
 aom: false
 afo: true
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #81 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-81a.jpg/@@images/image/preview
 hashtag: BlueLivesWolfman
+duplicate: false
 charged: 2021-10-18
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/christian-manley

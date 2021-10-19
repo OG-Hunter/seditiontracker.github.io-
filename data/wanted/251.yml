@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #251A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/251a.jpg/@@images/image/preview
 hashtag: HoopsNWhoops
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

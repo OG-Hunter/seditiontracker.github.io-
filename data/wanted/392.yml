@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #392 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/392a.png/@@images/image/preview
 hashtag: FoldingGreen
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

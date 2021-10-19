@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #233 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/233a.png/@@images/image/preview
 hashtag: BrownBeanieJAG
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

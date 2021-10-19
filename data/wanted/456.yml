@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #456 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/456arrested.png/@@images/image/preview
 hashtag: BrianGundersen
+duplicate: false
 charged: 2021-01-27
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/brian-gundersen

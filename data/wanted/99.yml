@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #99 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-99a.jpg/@@images/image/preview
 hashtag: LuigiStacheCamo
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

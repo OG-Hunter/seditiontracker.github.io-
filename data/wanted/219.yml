@@ -1,11 +1,12 @@
 id: 219
 aom: false
 afo: true
-arrested: true
+arrested: false
 identified: true
 label: "Photograph #219 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-219-afo-a.png/@@images/image/preview
 hashtag: KingstonAsh
+duplicate: false
 charged: 2021-09-24
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/donnie-wren

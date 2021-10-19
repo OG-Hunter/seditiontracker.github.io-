@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #75"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-75.png/@@images/image/preview
 hashtag: BlueBlockerInsider
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null

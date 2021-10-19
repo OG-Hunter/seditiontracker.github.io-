@@ -3,9 +3,10 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #158"
+label: "Photograph #158  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-158arrest.jpg/@@images/image/preview
 hashtag: BigBrickPitcher
+duplicate: false
 charged: 2021-09-13
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/anthony-sargent

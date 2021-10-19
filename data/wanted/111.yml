@@ -6,6 +6,7 @@ identified: true
 label: "Photograph #111 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/111aarrested.png/@@images/image/preview
 hashtag: Unlucky13
+duplicate: false
 charged: 2021-04-09
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/albuquerque-head

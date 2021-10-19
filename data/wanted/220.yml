@@ -3,9 +3,10 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #220 - AFO A"
+label: "Photograph #220 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-220arrest.jpg/@@images/image/preview
 hashtag: LeatherHanesHisWay
+duplicate: false
 charged: 2021-06-25
 mugshot: mitchell-gardner.jpg
 sedition_link: https://seditiontracker.com/suspects/mitchell-gardner

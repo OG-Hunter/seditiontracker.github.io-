@@ -6,6 +6,7 @@ identified: false
 label: "Photograph #272A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-272a.jpg/@@images/image/preview
 hashtag: ZZTopPB
+duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
