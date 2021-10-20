@@ -8,11 +8,11 @@ status: Charged
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing: 2021-10-20
+plea_hearing: 2021-12-09
 sentencing:
 age: 44
 occupation: FAA
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/qanon-faa-employee-capitol-insurrection_n_600b2881c5b6d64153abaf3d)
 - [Complaint](https://www.justice.gov/opa/page/file/1359586/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359586/download)
