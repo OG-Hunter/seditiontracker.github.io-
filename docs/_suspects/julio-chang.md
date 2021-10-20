@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 55
+occupation: U.S. Marines (Former); Lieutenant, Broward County (Florida) Sheriff's Office (Retired)
 affiliations:
 jurisdiction: Federal
 image: /images/preview/julio-chang.jpg
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'The beginning of our second American revolution'
 title: Julio Chang charged on September 23, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/former-florida-sheriffs-lieutenant-arrested-charged-in-capitol-riot-julio-chang-january-6-broward-county-tam-dinh-pham-alan-hostetter-law-enforcement/65-9ba268bf-0cc9-4220-971d-cd294d3bea67)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Chang%20Statement%20of%20Facts.pdf)
