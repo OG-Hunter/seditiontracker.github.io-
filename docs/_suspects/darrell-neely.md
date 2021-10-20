@@ -3,7 +3,7 @@ name: Darrell Neely
 lastName: Neely
 hashtag:
 aka:
-residence:
+residence: Washington, DC
 status: Charged
 date: 2021-09-30
 charged: 2021-09-30
@@ -36,6 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Darrell%20Neely%20Statement%20of%20Facts.pdf)

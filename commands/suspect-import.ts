@@ -107,6 +107,8 @@ const importGw = async (nameSet: Set<string>) => {
         residence = RegExp.$1.replace("Unknown", "").replace("&nbsp;", "").replace("Massachusets", "Massachusetts");
       }
 
+      residence = residence.replace("Resides in District of Columbia", "Washington, DC");
+
       if (falsePositives("GW").has(lastName)) {
         continue;
       }
