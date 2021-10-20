@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 51
+occupation: Owner, Global Enlightenment Radio Network (GERN)
 affiliations:
 jurisdiction: Federal
 image: /images/preview/darrell-neely.jpg
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Darrell%20Neely%20Statement%20of%20Facts.pdf)
