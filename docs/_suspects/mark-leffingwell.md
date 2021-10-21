@@ -8,11 +8,11 @@ status: Indicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-11
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-25
 sentencing:
 age: 51
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/crime/ex-washington-national-guardsman-among-first-indicted-in-attack-on-u-s-capitol/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351671/download)
