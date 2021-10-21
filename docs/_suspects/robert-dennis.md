@@ -1,9 +1,9 @@
 ---
 name: Robert Dennis
 lastName: Dennis
-hashtag:
+hashtag: UnholyGoalie
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2021-10-13
 charged: 2021-10-13
@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Wayne%20Dennis%20Statement%20of%20Facts.pdf)
