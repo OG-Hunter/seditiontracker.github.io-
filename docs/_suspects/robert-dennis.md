@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 61
+occupation: Graphic and Comic Book Artist
 affiliations:
 jurisdiction: Federal
 image: /images/preview/robert-dennis.jpg
@@ -37,4 +37,5 @@ charges:
 sentence:
 ---
 
+- [News Report](https://www.dallasnews.com/news/crime/2021/10/21/garland-man-is-latest-to-be-arrested-for-capitol-riot-after-feds-say-he-fought-with-officers/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Wayne%20Dennis%20Statement%20of%20Facts.pdf)
