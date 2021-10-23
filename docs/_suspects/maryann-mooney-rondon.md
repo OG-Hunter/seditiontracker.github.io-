@@ -1,7 +1,7 @@
 ---
 name: Maryann Mooney-Rondon
 lastName: Mooney-Rondon
-hashtag: AirheadLady
+hashtag: AirHeadLady
 aka:
 residence: New York
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I was like, we gotta get out of here, this isn’t right, I mean he scared the crap out of me.'
+quote: "I was like, we gotta get out of here, this isn’t right, I mean he scared the crap out of me."
 title: Maryann Mooney-Rondon charged on September 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

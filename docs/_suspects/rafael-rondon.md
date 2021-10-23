@@ -1,7 +1,7 @@
 ---
 name: Rafael Rondon
 lastName: Rondon
-hashtag: AirheadBoy
+hashtag: AirHeadBoy
 aka:
 residence: New York
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: '... I’m not taking my car into the city which, the Capitol building I’m about to break into.'
+quote: "... I’m not taking my car into the city which, the Capitol building I’m about to break into."
 title: Rafael Rondon charged on September 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

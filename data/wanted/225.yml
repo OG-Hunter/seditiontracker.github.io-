@@ -1,13 +1,13 @@
 id: 225
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #225 A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-225a.png/@@images/image/preview
 hashtag: AirHeadLady
 duplicate: false
-charged: null
+charged: 2021-09-01
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/maryann-mooney-rondon
+name: Maryann Mooney-Rondon

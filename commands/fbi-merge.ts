@@ -19,14 +19,14 @@ const doMerge = () => {
       const hashtag = matches[1];
       const id = matches[2];
 
-      tagMap[id] = hashtag;
+      tagMap[id] = hashtag.toLowerCase();
     }
   }
 
   const suspectMap: { [key: string]: Suspect } = {};
   for (const suspect of getSuspects()) {
     if (suspect.hashtag) {
-      suspectMap[suspect.hashtag] = suspect;
+      suspectMap[suspect.hashtag.toLowerCase()] = suspect;
     }
   }
 
@@ -34,7 +34,7 @@ const doMerge = () => {
     wanted.hashtag ||= tagMap[wanted.id] || "";
 
     if (wanted.hashtag) {
-      const suspect = suspectMap[wanted.hashtag];
+      const suspect = suspectMap[wanted.hashtag.toLowerCase()];
       if (suspect) {
         wanted.charged = suspect.charged;
         wanted.mugshot = suspect.booking;
