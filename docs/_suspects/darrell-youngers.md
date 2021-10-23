@@ -4,10 +4,10 @@ lastName: Youngers
 hashtag: DarrellYoungers
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-06-29
 charged: 2021-06-29
-indicted:
+indicted: 2021-10-22
 convicted:
 sentenced:
 dismissed:
@@ -36,5 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412476/download)
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1444216/download)
