@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-06
-sentencing:
+sentencing: 2021-12-21
 age: 22
 occupation:
 affiliations:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-310
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360941/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441136/download)
