@@ -34,14 +34,15 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1356306940507336706)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Williams%20Plea%20Agreement.pdf)

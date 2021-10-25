@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443361/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBILouisville/status/1356306940507336706)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443366/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Information.pdf)

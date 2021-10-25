@@ -47,3 +47,4 @@ sentence:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Criminal%20Complaint.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366101/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443831/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Indictment.pdf)
