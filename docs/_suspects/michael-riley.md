@@ -3,7 +3,7 @@ name: Michael Riley
 lastName: Riley
 hashtag:
 aka:
-residence:
+residence: Maryland
 status: Indicted
 date: 2021-10-14
 charged: 2021-10-14
