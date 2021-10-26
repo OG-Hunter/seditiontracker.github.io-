@@ -15,7 +15,7 @@ deceased:
 plea_hearing:
 sentencing:
 age:
-occupation:
+occupation: Freelance Construction Building Estimator
 affiliations:
 jurisdiction: Federal
 image: /images/preview/philip-weisbecker.jpg
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.rawstory.com/insurrectionist-says-ashli-babbitt-fake/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Weisbecker%20Statement%20of%20Facts.pdf)
