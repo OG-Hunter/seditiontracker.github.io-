@@ -40,3 +40,4 @@ sentence:
 - [News Report](https://www.azcentral.com/story/news/local/arizona/2021/06/02/james-burton-mcgrew-king-james-belly-tattoo-arrested-arizona-striking-2-officers-capitol-riot-jan-6/7499980002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400856/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410716/download)
+- [Government Opposition to Reconsideration of Release](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232400/gov.uscourts.dcd.232400.24.0.pdf)
