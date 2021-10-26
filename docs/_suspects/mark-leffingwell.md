@@ -4,15 +4,15 @@ lastName: Leffingwell
 hashtag: MarkLeffingwell
 aka:
 residence: Washington
-status: Indicted
+status: Convicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-11
-convicted:
+convicted: 2021-10-26
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-10-25
+plea_hearing: 2021-10-26
 sentencing:
 age: 51
 occupation:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-5
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 

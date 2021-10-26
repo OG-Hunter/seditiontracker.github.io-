@@ -34,18 +34,18 @@ published: true
 caseNumber: 1:21-cr-198
 videos:
 charges:
-  - code: 18 USC § 875(c)
-    title: Interstate Communication of Threats
-    url: https://www.law.cornell.edu/uscode/text/18/875
-    felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
   - 14 months in prison
   - 3 years probation
 ---
-
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438316/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377816/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438311/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Defense%20Sentencing%20Memorandum.pdf)
