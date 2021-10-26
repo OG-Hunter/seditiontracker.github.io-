@@ -34,8 +34,8 @@ published: true
 caseNumber: 1:21-cr-5
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
