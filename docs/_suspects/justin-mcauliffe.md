@@ -8,11 +8,11 @@ status: Charged
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-23
 sentencing:
 age: 39
 occupation: Accountant (CPA)
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://nypost.com/2021/01/28/cpa-justin-mcauliffe-busted-for-role-in-deadly-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361466/download)

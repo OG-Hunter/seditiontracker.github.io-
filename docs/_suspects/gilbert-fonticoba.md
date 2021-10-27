@@ -15,7 +15,7 @@ deceased:
 plea_hearing:
 sentencing:
 age:
-occupation: Internet Marketer
+occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/gilbert-fonticoba.png
@@ -31,8 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-mj-04099
 videos:
 charges:
 sentence:
 ---
+
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.flsd.602289/gov.uscourts.flsd.602289.1.0.pdf)

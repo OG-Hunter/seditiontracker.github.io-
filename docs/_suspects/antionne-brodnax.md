@@ -42,12 +42,12 @@ charges:
     title: Disorderly and disruptive conduct in a restricted building or grounds
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
+  - code: 18 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
   - code: 18 USC § 5104(e)(2)(G)
-    title: Violent entry and disorderly conduct on Capitol grounds
+    title: Parading, demonstrating or picketing in a Capitol building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
