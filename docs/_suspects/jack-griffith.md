@@ -4,16 +4,16 @@ lastName: Griffith
 hashtag: JuanBibiano
 aka: Juan Bibiano
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-03-10
 convicted: 2021-07-29
-sentenced:
+sentenced: 2012-10-28
 dismissed:
 deceased:
 plea_hearing: 2021-07-29
-sentencing: 2021-10-28
+sentencing: 2012-10-28
 age: 25
 occupation:
 affiliations:
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days home confinement
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.newschannel5.com/news/gallatin-man-arrested-in-connection-with-capitol-riot)
