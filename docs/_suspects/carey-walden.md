@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401811/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445151/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carey%20Jon%20Walden%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carey%20Jon%20Walden%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445146/download)

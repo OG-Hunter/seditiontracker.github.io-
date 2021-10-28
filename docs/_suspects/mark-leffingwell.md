@@ -43,6 +43,6 @@ sentence:
 - [News Report](https://www.seattletimes.com/seattle-news/crime/ex-washington-national-guardsman-among-first-indicted-in-attack-on-u-s-capitol/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351671/download)
-- [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351676/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445161/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1352921/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Jefferson%20Leffingwell%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445156/download)
