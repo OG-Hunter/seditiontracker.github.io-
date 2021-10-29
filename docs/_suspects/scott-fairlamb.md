@@ -60,3 +60,6 @@ sentence:
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1413913408198483972?s=20)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-anyd-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430301/download)
+- [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
+- [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Defense%20Memorandum%20in%20Support%20of%20Pretrial%20Release.pdf)
+- [Order Granting Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Memorandum%20Opinion.pdf)
