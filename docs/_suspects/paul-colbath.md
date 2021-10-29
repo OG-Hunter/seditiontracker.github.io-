@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.postandcourier.com/news/indian-land-man-becomes-11th-south-carolinian-charged-with-storming-us-capitol-on-jan-6/article_010ebe26-37f0-11ec-8430-535d0750cf6d.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Colbath%20Criminal%20Complaint.pdf)
