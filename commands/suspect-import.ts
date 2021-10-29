@@ -360,7 +360,6 @@ const linkType = (description: string, lastName?: string) => {
       return "Order Denying Bond";
 
     case /Order Setting Conditions of Release/.test(description):
-    case /Memorandum Opinion/.test(description):
       return "Order Granting Bond";
 
     case /Court of Appeals/.test(description):
@@ -458,7 +457,6 @@ const linkType = (description: string, lastName?: string) => {
     case /Defendant's Motion for Reconsideration of Detention/.test(description):
     case /Defendant's Motion for Conditional Release Pending Trial/.test(description):
     case /Defense Motion to Set Bond and Conditions of Release/.test(description):
-    case /Defense Memorandum in Support of Pretrial Release/.test(description):
       return "Defense Motion for Release";
 
     case /Defense Memorandum in Support of Probationary Sentence/.test(description):
