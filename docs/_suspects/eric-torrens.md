@@ -4,12 +4,12 @@ lastName: Torrens
 hashtag: EricChaseTorrens
 aka:
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-10
 convicted: 2021-08-19
-sentenced:
+sentenced: 2021-10-29
 dismissed:
 deceased:
 plea_hearing: 2021-08-19
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days home confinement
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.msn.com/en-us/news/crime/gallatin-man-arrested-on-charges-related-to-capitol-riots/ar-BB1djcvS)
