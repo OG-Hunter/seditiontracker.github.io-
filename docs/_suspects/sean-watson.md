@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390656/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390661/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Watson%20Information.pdf)

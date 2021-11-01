@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://nypost.com/2021/01/28/cpa-justin-mcauliffe-busted-for-role-in-deadly-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361466/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Justin%20McAuliffe%20Information.pdf)

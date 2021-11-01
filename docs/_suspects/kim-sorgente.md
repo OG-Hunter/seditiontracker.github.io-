@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://losangeles.cbslocal.com/2021/10/26/huntington-beach-resident-arrested-for-involvement-in-capitol-riots/)
 - [Criminal Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kim%20Michael%20Sorgate%20Criminal%20Complaint.pdf)
+- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kim%20Michael%20Sorgate%20Criminal%20Complaint.pdf)

@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://nypost.com/2021/01/23/retired-fdny-member-arrested-for-role-in-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371381/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Fee%20Information.pdf)
