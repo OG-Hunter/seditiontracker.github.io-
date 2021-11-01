@@ -4,15 +4,15 @@ lastName: Williams
 hashtag: VicWilliams
 aka: Stiemy Vic
 residence: Texas
-status: Charged
+status: Convicted
 date: 2021-05-10
 charged: 2021-05-10
 indicted:
-convicted:
+convicted: 2021-10-28
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-28
 sentencing:
 age:
 occupation: Owner, Coffee Roasting Company
@@ -31,11 +31,16 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-388
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/an-accused-capitol-rioter-nicknamed-stiemy-vic-gave-fbi-agents-two-bags-of-coffee-they-gave-him-four-federal-charges/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vic%20Williams%20Statement%20of%20Facts.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vic%20Williams%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445706/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445696/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445701/download)
