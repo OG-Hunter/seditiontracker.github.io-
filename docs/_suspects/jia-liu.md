@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 26
+occupation: US Marine Corps Reserve
 affiliations:
 jurisdiction: Federal
 image: /images/preview/jia-liu.jpg
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.amny.com/news/queens-man-cuffed-for-role-in-attack-on-capitol-building-on-jan-6/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jia%20Liu%20Statement%20of%20Facts.pdf)
