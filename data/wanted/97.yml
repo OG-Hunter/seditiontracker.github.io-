@@ -1,13 +1,13 @@
 id: 97
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #97 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-97b.png/@@images/image/preview
 hashtag: ProudboyCowboy
 duplicate: false
-charged: null
+charged: 2021-10-28
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/joshua-portlock
+name: Joshua Portlock

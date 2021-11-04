@@ -4,15 +4,15 @@ lastName: Languerand
 hashtag: TossyMcTosser
 aka:
 residence: South Carolina
-status: Indicted
+status: Convicted
 date: 2021-04-15
 charged: 2021-04-15
 indicted: 2021-05-12
-convicted:
+convicted: 2021-11-03
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-03
 sentencing:
 age: 26
 occupation:
@@ -34,10 +34,15 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
 - [News Report](https://www.wyff4.com/article/instagram-post-leads-to-little-river-mans-arrest-for-alleged-role-in-deadly-capitol-riots-horry-county/36136043)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388816/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388821/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446221/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422241/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446216/download)
