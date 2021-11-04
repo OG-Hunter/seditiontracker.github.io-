@@ -4,12 +4,12 @@ lastName: Ryan
 hashtag: JenniferRyan
 aka: Jenna Ryan
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-08-19
-sentenced:
+sentenced: 2021-11-04
 dismissed:
 deceased:
 plea_hearing: 2021-08-19
@@ -34,13 +34,14 @@ published: true
 caseNumber: 1:21-cr-50
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
+  - 60 days in prison
+  - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/jenna-ryan-texas-real-estate-agent-who-flew-to-dc-on-private-jet-arrested-in-capitol-riots)
 - [Self Incrimination](https://twitter.com/NewsJunkieBlu/status/1347634376142630915?s=20)
 - [Complaint](https://www.justice.gov/opa/page/file/1356081/download)
