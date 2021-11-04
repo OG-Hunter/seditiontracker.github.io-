@@ -50,3 +50,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Fichett%20et%20al%20Information_0.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430161/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bradley%20Rukstales%20Government%20Sentencing%20Memorandum.pdf)

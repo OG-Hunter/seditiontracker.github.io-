@@ -41,3 +41,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430346/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430341/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430346/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Ace%20Sanders%20Defense%20Sentencing%20Memorandum.pdf)
