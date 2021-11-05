@@ -4,15 +4,15 @@ lastName: Fox
 hashtag: SamuelFox
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-06-23
 charged: 2021-06-23
 indicted:
-convicted:
+convicted: 2021-11-05
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-05
 sentencing:
 age:
 occupation:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-mj-479
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)

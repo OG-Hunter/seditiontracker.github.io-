@@ -4,12 +4,12 @@ lastName: Croy
 hashtag: GlennCroy
 aka: Wes Croy
 residence: Colorado
-status: Convicted
+status: Sentenced
 date: 2021-02-17
 charged: 2021-02-17
 indicted:
 convicted: 2021-08-09
-sentenced:
+sentenced: 2021-11-05
 dismissed:
 deceased:
 plea_hearing: 2021-08-09
@@ -39,6 +39,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days home detention
+  - 14 days residential reentry center
+  - 36 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://denver.cbslocal.com/2021/02/17/glenn-wes-lee-croy-capitol-riot/)
