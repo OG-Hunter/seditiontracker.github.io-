@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Can’t face federal charges for exercising my right to freedom of speech and assembly"
+quote: 'Definitely not going to jail. Sorry I have blonde hair white skin a great job a great future and I’m not going to jail. Sorry to rain on your hater parade. I did nothing wrong'
 title: Jennifer Ryan charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
