@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428556/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383756/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428551/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Carlo%20Cordon%20Defense%20Sentencing%20Memorandum.pdf)

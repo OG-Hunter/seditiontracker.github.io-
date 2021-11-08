@@ -20,7 +20,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/christopher-worrell.png
 suspect: christopher-worrell.png
-booking:
+booking: worrell-mugshot.jpg
 courtroom:
 courthouse:
 raid:

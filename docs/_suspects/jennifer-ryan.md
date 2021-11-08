@@ -48,3 +48,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428191/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379276/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428186/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ryan%20Government%20Response%20to%20Defense%20Sentencing%20Memorandum.pdf)

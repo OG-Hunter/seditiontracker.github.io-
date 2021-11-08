@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428566/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384341/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428561/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Francisco%20Cordon%20Defense%20Sentencing%20Memorandum.pdf)
