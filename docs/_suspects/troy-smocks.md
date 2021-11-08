@@ -49,3 +49,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377816/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438311/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Defense%20Sentencing%20Memorandum.pdf)
+- [Defense Motion to Amend Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Defense%20Motion%20to%20Correct%20Sentence.pdf)

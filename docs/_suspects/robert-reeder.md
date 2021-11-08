@@ -51,3 +51,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Government%20Reply%20to%20Defense%20Sentencing%20Memorandum.pdf)
 - [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Government%20Sentencing%20Exhibit.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Judgment.pdf)
+- [Government Sentencing Exhibit](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Maurice%20Reeder%20Government%20Sentencing%20Exhibit.pdf)

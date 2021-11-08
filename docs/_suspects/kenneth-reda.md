@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.floridatoday.com/story/news/2021/07/06/viera-high-p-e-teacher-arrested-connection-jan-6-capital-riot/7881247002/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408996/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1447201/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412846/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Reda%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/opa/case-multi-defendant/file/1447196/download)

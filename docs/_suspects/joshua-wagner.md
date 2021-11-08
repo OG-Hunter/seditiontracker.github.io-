@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360941/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1360941/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447236/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389126/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Wagner%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447231/download)

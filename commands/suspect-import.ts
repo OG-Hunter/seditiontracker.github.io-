@@ -87,6 +87,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "Alvarado, Wilmar";
       }
 
+      if (nameText.match(/Caplinger/)) {
+        nameText = "Caplinger, Jeramiah ";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
@@ -177,6 +181,10 @@ const importDoj = async (nameSet: Set<string>) => {
 
     if (name == "SYWAK, William Michael") {
       name = "MICHAEL SYWAK, William";
+    }
+
+    if (name == "CAPLINGER, Jeremiah") {
+      name = "Caplinger, Jeramiah ";
     }
 
     const nameChunks = name.split(",");
@@ -376,6 +384,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Initial Appearance Hearing Transcript/.test(description):
       return "Initial Appearance (Transcript)";
 
+    case /Government Sentencing Exhibit/.test(description):
+      return "Government Sentencing Exhibit";
+
     // government motions
     case /Government's Motion to Continue/.test(description):
       return "Government motion to Continue";
@@ -485,6 +496,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defense Motion to Sever/.test(description):
       return "Defense Motion to Sever";
+
+    case /Defense Motion to Amend Sentence/.test(description):
+      return "Defense Motion to Amend Sentence";
 
     // defense response
     case /Defense Opposition to Government's Motion to Continue/.test(description):

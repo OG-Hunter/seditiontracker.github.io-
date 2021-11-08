@@ -49,3 +49,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392951/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412406/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Danielle%20Nicole%20Doyle%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Danielle%20Nicole%20Doyle%20Judgment.pdf)

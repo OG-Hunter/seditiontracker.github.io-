@@ -48,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371586/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410286/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Hemenway%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Hemenway%20Judgment.pdf)

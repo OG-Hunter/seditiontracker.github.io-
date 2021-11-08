@@ -4,15 +4,15 @@ lastName: Sizer
 hashtag: JuliaSizer
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-09-02
 charged: 2021-09-02
 indicted:
-convicted:
+convicted: 2021-11-04
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-04
 sentencing:
 age:
 occupation:
@@ -34,7 +34,12 @@ published: true
 caseNumber:
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://pittsburgh.cbslocal.com/2021/09/02/ellwood-city-woman-capitol-riot-charges/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430506/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447206/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447211/download)

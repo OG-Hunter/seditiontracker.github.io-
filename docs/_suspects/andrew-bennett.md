@@ -50,3 +50,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379256/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414706/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Ryan%20Bennett%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Ryan%20Bennett%20Judgment.pdf)

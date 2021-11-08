@@ -4,15 +4,15 @@ lastName: Caplinger
 hashtag: JeramiahCaplinger
 aka:
 residence: Michigan
-status: Charged
+status: Convicted
 date: 2021-04-06
 charged: 2021-04-06
 indicted:
-convicted:
+convicted: 2021-11-05
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-05
 sentencing:
 age: 25
 occupation:
@@ -31,11 +31,16 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-350
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384121/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447251/download)

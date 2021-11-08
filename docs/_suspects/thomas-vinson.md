@@ -50,3 +50,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418036/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lori%20Vinson%20and%20Thomas%20Vinson%20Information.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Vinson%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Vinson%20Judgment.pdf)

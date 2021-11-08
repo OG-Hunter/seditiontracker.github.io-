@@ -48,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371586/download)
 - [Plea Agreement](https://s3.documentcloud.org/documents/20974837/6-28-21-robert-bauer-plea-agreement.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Bauer%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Bauer%20Judgment.pdf)

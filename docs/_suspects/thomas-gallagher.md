@@ -49,3 +49,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412691/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412696/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Gallagher%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Gallagher%20Judgment.pdf)
