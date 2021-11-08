@@ -4,12 +4,12 @@ lastName: Gallagher
 hashtag: ThomasGallagher
 aka:
 residence: New Hampshire
-status: Convicted
+status: Sentenced
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-15
 convicted: 2021-07-15
-sentenced:
+sentenced: 2021-10-13
 dismissed:
 deceased:
 plea_hearing: 2021-07-15
@@ -39,6 +39,9 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 24 months probation
+  - 60 hours of community service
+  - $500 restitution
 ---
 - [News Report](https://boston.cbslocal.com/2021/01/14/thomas-gallagher-bridgewater-new-hampshire-charged-arrested-us-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
