@@ -44,3 +44,4 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1360941/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360941/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389126/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Wagner%20Plea%20Agreement.pdf)
