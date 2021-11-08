@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'My rage towards the establishment, Democrats and RINO Republicans is great. Think of Pompeii when it was destroyed by Mount Vesuvius.'
+quote: "My rage towards the establishment, Democrats and RINO Republicans is great. Think of Pompeii when it was destroyed by Mount Vesuvius."
 title: Jeramiah Caplinger charged on April 6, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-mj-350
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(d)
+    title: Injury to property on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
