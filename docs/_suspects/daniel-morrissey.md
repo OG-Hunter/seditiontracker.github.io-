@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Shit got crazy ... I nave [sic] it all on video.'
 title: Daniel Morrissey charged on October 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
