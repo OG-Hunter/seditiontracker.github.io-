@@ -43,3 +43,4 @@ sentence:
 - [News Report](https://pittsburgh.cbslocal.com/2021/09/02/ellwood-city-woman-capitol-riot-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447206/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447211/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julia%20Jeanette%20Sizer%20Information.pdf)

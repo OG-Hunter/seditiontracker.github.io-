@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378506/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394541/download)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Plea%20Agreement.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Government%20Sentencing%20Memorandum.pdf)

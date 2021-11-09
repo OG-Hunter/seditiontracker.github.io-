@@ -34,14 +34,14 @@ published: true
 caseNumber: 1:21-mj-350
 videos:
 charges:
-  - code: 18 USC § 5104(d)
-    title: Injury to property on Capitol grounds
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(d)
+  title: Injury to property on Capitol grounds
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447251/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Information.pdf)
