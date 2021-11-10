@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Criminal%20Complaint.pdf)
