@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://www.gatesvillemessenger.com/news/gatesville-man-arrested-taking-part-jan-6-mob)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400881/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400886/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stacy%20Wade%20Hager%20Information.pdf)
