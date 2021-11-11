@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: "I witnessed ZERO violence. I saw no 'proud boys'."
 title: David Rhine charged on November 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
