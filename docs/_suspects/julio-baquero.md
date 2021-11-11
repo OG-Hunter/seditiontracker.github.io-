@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf)
