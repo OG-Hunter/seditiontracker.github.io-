@@ -4,15 +4,15 @@ lastName: Coffman
 hashtag: LonnieCoffman
 aka:
 residence: Alabama
-status: Indicted
+status: Convicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-11
-convicted:
+convicted: 2021-11-12
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-10-26
+plea_hearing: 2021-11-12
 sentencing:
 age: 70
 occupation:
@@ -34,6 +34,18 @@ published: true
 caseNumber: 1:21-cr-4
 videos:
 charges:
+  - code: 26 USC § 5861(d)
+    title: Possession of an Unregistered Firearm
+    url: https://www.law.cornell.edu/uscode/text/26/5861
+    felony: true
+  - code: 22 DC Code § 4504(a)
+    title: Carrying a Pistol Without a License
+    url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
+    felony: true
+  - code: 26 USC § 5861(d)
+    title: Possession of an Unregistered Firearm
+    url: https://www.law.cornell.edu/uscode/text/26/5861
+    felony: true
 sentence:
 ---
 
