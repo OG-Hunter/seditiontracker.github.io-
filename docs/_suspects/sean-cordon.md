@@ -49,3 +49,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383756/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428551/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Carlo%20Cordon%20Defense%20Sentencing%20Memorandum.pdf)
+- [News Report (Guilty Plea)](https://www.buzzfeednews.com/article/zoetillman/molotov-cocktails-jan-6-capitol-guilty-plea)

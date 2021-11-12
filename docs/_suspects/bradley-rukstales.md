@@ -4,12 +4,12 @@ lastName: Rukstales
 hashtag: BradleyRukstales
 aka: Brad Rukstales
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-15
 convicted: 2021-08-31
-sentenced:
+sentenced: 2021-11-12
 dismissed:
 deceased:
 plea_hearing: 2021-08-31
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days in prison
+  - $500 restitution
 ---
+
 - [News Report](https://chicago.suntimes.com/news/2021/1/7/22219260/federal-charges-mob-riot-capitol-leffingwell-alberts-bradley-rukstales-david-fitzgerald)
 - [News Report: DC Arrest (VIDEO)](https://chicago.cbslocal.com/2021/01/08/brad-rukstales-of-inverness-arrested-at-u-s-capitol-riot-apologizes-and-expresses-embarrassment/)
 - [Self Incrimination (Twitter Statement)](https://heavy.com/news/brad-rukstales/)
