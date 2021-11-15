@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://news.yahoo.com/bremerton-man-accused-being-jan-175708598.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Criminal%20Complaint.pdf)
