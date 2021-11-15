@@ -42,5 +42,6 @@ sentence:
 ---
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/man-with-central-ohio-ties-accused-of-entering-capitol-on-jan-6/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Oliver%20Louis%20Sarko%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393736/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448071/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Oliver%20Louis%20Sarko%20Information.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448066/download)
