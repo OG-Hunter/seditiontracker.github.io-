@@ -1,7 +1,7 @@
 ---
 name: Ethan Nordean
 lastName: Nordean
-hashtag: Rufio
+hashtag: RufioPB
 aka: Rufio Panman
 residence: Washington
 status: Indicted
