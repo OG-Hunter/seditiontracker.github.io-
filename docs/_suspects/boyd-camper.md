@@ -4,15 +4,15 @@ lastName: Camper
 hashtag: BoydCamper
 aka:
 residence: Montana
-status: Convicted
+status: Sentenced
 date: 2021-03-11
 charged: 2021-03-11
 indicted:
-convicted: 2021-11-12
-sentenced:
+convicted: 2021-08-05
+sentenced: 2021-11-12
 dismissed:
 deceased:
-plea_hearing: 2021-11-12
+plea_hearing: 2021-08-05
 sentencing: 2021-11-12
 age: 54
 occupation:
@@ -34,15 +34,14 @@ published: true
 caseNumber: 1:21-cr-325
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.ypradio.org/government-politics/2021-03-14/fifth-montanan-faces-charges-over-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378506/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394541/download)

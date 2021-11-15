@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-641
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedenverchannel.com/news/local-news/colorado-man-charged-accused-of-fighting-with-police-at-jan-6-riot)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Patrick%20Hamner%20Arrest%20Warrant%20and%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448036/download)
