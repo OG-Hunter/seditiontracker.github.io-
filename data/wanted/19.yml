@@ -4,10 +4,10 @@ afo: false
 arrested: true
 identified: true
 label: "Photograph #19 A"
+hashtag: RedStatueStander
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-19a.jpg/@@images/image/preview
-hashtag: null
 duplicate: false
-charged: null
+charged: 2021-03-01
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/grayson-sherrill
+name: Grayson Sherrill
