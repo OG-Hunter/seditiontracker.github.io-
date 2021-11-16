@@ -34,6 +34,7 @@ export const updateWanted = (wanted: Wanted) => {
   if (data) {
     const oldWanted = <Wanted>YAML.parse(data);
     wanted.charged ||= oldWanted.charged;
+    wanted.arrested ||= oldWanted.arrested;
     wanted.mugshot ||= oldWanted.mugshot;
     wanted.hashtag ||= oldWanted.hashtag;
     wanted.sedition_link ||= oldWanted.sedition_link;
