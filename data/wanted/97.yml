@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #97 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-97b.png/@@images/image/preview
+label: "Photograph #97 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-97aarrest.jpg/@@images/image/preview
 hashtag: ProudboyCowboy
 duplicate: false
 charged: 2021-10-28

@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #61 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-61-afo-1-15-2021.jpg/@@images/image/preview
+label: "Photograph #61 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-61aarrest-1.jpg/@@images/image/preview
 hashtag: UglyGunSweater
 duplicate: false
 charged: 2021-10-29

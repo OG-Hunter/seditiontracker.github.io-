@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #81 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-81a.jpg/@@images/image/preview
+label: "Photograph #81 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-81arrested.jpg/@@images/image/preview
 hashtag: BlueLivesWolfman
 duplicate: false
 charged: 2021-10-18
