@@ -4,12 +4,12 @@ lastName: Chansley
 hashtag: JacobChansley
 aka: Jake Angeli, Q Shaman
 residence: Arizona
-status: Convicted
+status: Sentenced
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-01-11
 convicted: 2021-09-03
-sentenced:
+sentenced: 2021-11-17
 dismissed:
 deceased:
 plea_hearing: 2021-09-03
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-3
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 41 months in prison
+  - $500 restitution
 ---
+
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430996/download)
