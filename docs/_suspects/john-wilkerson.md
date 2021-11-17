@@ -4,16 +4,16 @@ lastName: Wilkerson
 hashtag: JohnWilkerson4
 aka:
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2021-03-12
 charged: 2021-03-12
 indicted:
 convicted: 2021-08-31
-sentenced:
+sentenced: 2021-11-16
 dismissed:
 deceased:
 plea_hearing: 2021-08-31
-sentencing: 2022-02-25
+sentencing: 2021-11-16
 age:
 occupation:
 affiliations:
@@ -39,6 +39,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 36 months probation
+  - 60 hours community service
+  - $2,500 fine
+  - $500 restitution
 ---
 
 - [News Report](https://www.thechesapeaketoday.com/2021/04/18/capitol-riot-john-wilkerson-iv-charged-with-being-part-of-capitol-mob/)
