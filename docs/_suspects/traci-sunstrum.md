@@ -4,16 +4,16 @@ lastName: Sunstrum
 hashtag: TraciSunstrum
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-04-13
 charged: 2021-04-13
 indicted:
-convicted:
+convicted: 2021-11-17
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-11-17
+sentencing: 2022-02-10
 age: 44
 occupation:
 affiliations:
@@ -34,7 +34,12 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://news.wbfo.org/post/four-more-local-suspects-charged-us-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395326/download)

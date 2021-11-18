@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-30
-sentencing: 2021-01-05
+sentencing: 2022-01-05
 age: 32
 occupation:
 affiliations:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-115
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.pilotonline.com/news/crime/vp-nw-gonzalez-capitol-riot-20210211-lai4xcqvqnbdrb3fvsq6mffrdy-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438326/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/RichieMcGinniss/status/1346959229022826498)
