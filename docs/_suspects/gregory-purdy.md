@@ -1,7 +1,7 @@
 ---
 name: Gregory Purdy
 lastName: Purdy
-hashtag:
+hashtag: BabyFaceInsider
 aka:
 residence: New York
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'The game plan was to talk [to] the officers and tell them to STOP FOLLOWING ORDERS AND UPHOLD THE CONSTITUTION… When they didn’t listen we pushed through (without hurting them of course) we did these peaceful pushes all the way into the capital [sic] building.'
 title: Gregory Purdy charged on November 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/peep-my-war-cry-new-york-man-gregory-purdy-bragged-about-leading-charge-through-capitol-police-lines-doj-says-matthew-purdy-robert-turner/65-f697cef2-cf4b-4ca9-a5ad-699bb7662639)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf)
