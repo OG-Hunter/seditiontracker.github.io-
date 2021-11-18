@@ -23,6 +23,7 @@ const sentence = async () => {
   suspect.status = "Sentenced";
   suspect.sentencing = cmd.date;
   suspect.sentenced = cmd.date;
+  suspect.sentence = ["$500 restitution"];
 
   updateSuspect(suspect);
 

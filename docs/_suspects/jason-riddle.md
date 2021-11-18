@@ -4,16 +4,16 @@ lastName: Riddle
 hashtag: JasonRiddle
 aka:
 residence: New Hampshire
-status: Charged
+status: Convicted
 date: 2021-02-05
 charged: 2021-02-05
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-11-18
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-11-18
+sentencing: 2022-02-17
 age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government
@@ -34,8 +34,17 @@ published: true
 caseNumber: 1:21-cr-304
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/wine-drinking-rioter-jason-riddle-sold-stolen-senate-doc-for-dollar40-feds)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371501/download)
 - [Self Incrimination (Interview)](http://postalnews.com/blog/2021/01/09/nh-letter-carrier-who-chugged-wine-amid-deadly-capitol-riot-says-he-has-no-regrets/)
