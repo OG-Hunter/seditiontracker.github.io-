@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Stop taking orders. We’re not here - we’re not here to kill or hurt anybody, we’re making our voice heard. You should be behind us.'
 title: Robert Turner charged on November 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/peep-my-war-cry-new-york-man-gregory-purdy-bragged-about-leading-charge-through-capitol-police-lines-doj-says-matthew-purdy-robert-turner/65-f697cef2-cf4b-4ca9-a5ad-699bb7662639)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gregory%20Purdy%20Matthew%20Purdy%20and%20Robert%20Turner%20Criminal%20Complaint.pdf)
