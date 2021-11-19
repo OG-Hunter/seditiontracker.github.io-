@@ -1,7 +1,7 @@
 ---
 name: Robert Turner
 lastName: Turner
-hashtag:
+hashtag: DeepBlueSquander
 aka:
 residence: New York
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Stop taking orders. We’re not here - we’re not here to kill or hurt anybody, we’re making our voice heard. You should be behind us.'
+quote: "Stop taking orders. We’re not here - we’re not here to kill or hurt anybody, we’re making our voice heard. You should be behind us."
 title: Robert Turner charged on November 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

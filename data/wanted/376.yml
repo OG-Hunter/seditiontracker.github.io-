@@ -1,13 +1,13 @@
 id: 376
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #376 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/376a.png/@@images/image/preview
 hashtag: DeepBlueSquander
 duplicate: false
-charged: null
+charged: 2021-11-12
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/robert-turner
+name: Robert Turner
