@@ -1,13 +1,13 @@
 id: 144
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+hashtag: FullCamoKneePads
+identified: true
 label: "Photograph #144 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-144a.png/@@images/image/preview
-hashtag: null
 duplicate: false
-charged: null
+charged: 2021-07-07
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/jonathan-pollock
+name: Jonathan Pollock
