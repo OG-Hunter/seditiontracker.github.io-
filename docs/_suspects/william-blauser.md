@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://triblive.com/local/regional/fbi-charges-pair-from-mckean-county-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395356/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395401/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450176/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404566/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Blauser%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450171/download)
