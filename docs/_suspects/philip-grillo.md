@@ -7,10 +7,10 @@ residence: New York
 status: Charged
 date: 2021-02-21
 charged: 2021-02-21
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-11-19
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,5 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://queenseagle.com/all/queens-gop-district-leader-arrested-for-role-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371396/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237757/gov.uscourts.dcd.237757.27.0.pdf)
