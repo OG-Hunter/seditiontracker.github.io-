@@ -1,13 +1,13 @@
 id: 491
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #491 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-491a.jpg/@@images/image/preview
-hashtag: null
+hashtag: JohnAndries
 duplicate: false
-charged: null
-mugshot: null
-sedition_link: null
-name: null
+charged: 2021-01-28
+mugshot: john-andries.jpg
+sedition_link: https://seditiontracker.com/suspects/john-andries
+name: John Andries
