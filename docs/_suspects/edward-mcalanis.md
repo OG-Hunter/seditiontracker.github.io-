@@ -41,5 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://dailyvoice.com/pennsylvania/lancaster/news/pa-man-running-for-judge-of-elections-charged-by-fbi-for-role-in-capitol-riot/814669/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450521/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439616/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450526/download)
