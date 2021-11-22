@@ -4,12 +4,12 @@ lastName: Scavo
 hashtag: IAmFrankScavo
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-03-24
 charged: 2021-03-24
 indicted:
 convicted: 2021-09-08
-sentenced:
+sentenced: 2021-11-22
 dismissed:
 deceased:
 plea_hearing: 2021-09-08
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-254
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days in prison
+  - $5,000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.timesleader.com/news/1137275/scavo-was-pushed-into-capitol-lawyer-says)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380551/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380711/download)
