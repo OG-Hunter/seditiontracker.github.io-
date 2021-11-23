@@ -4,16 +4,16 @@ lastName: Prado
 hashtag: NicolePrado
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2021-06-03
 charged: 2021-06-03
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-11-22
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-11-22
+sentencing: 2022-02-07
 age:
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-403
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/meet-the-new-congresswoman-friends-instagram-post-leads-to-womans-capitol-riot-arrest-nicole-prado-trump-gaithersburg/65-f436d15e-6d06-462d-9a94-5ac2d9ea4e11)
