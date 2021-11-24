@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age:
 occupation:
-affiliations: Proud Boys
+affiliations:
 jurisdiction: Federal
 image: /images/preview/edward-badalian.png
 suspect: edward-badalian.png
