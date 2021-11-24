@@ -4,16 +4,16 @@ lastName: Mcauliffe
 hashtag: JustinMcauliffe
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted:
+convicted: 2021-12-23
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-11-23
-sentencing:
+plea_hearing: 2021-12-23
+sentencing: 2022-01-28
 age: 39
 occupation: Accountant (CPA)
 affiliations:
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-mj-135
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://nypost.com/2021/01/28/cpa-justin-mcauliffe-busted-for-role-in-deadly-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361466/download)

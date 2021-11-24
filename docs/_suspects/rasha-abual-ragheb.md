@@ -4,16 +4,16 @@ lastName: Abual-Ragheb
 hashtag: TilaMagila
 aka:
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-28
 convicted: 2021-08-23
-sentenced:
+sentenced: 2021-11-23
 dismissed:
 deceased:
 plea_hearing: 2021-08-23
-sentencing: 2021-11-09
+sentencing: 2021-11-23
 age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
@@ -35,7 +35,11 @@ caseNumber: 1:21-cr-43
 videos:
 charges:
 sentence:
+  - 60 days home detention
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428526/download)
