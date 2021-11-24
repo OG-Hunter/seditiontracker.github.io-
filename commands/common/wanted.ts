@@ -16,6 +16,7 @@ export interface Wanted {
   charged?: string;
   name?: string;
   duplicate: boolean;
+  missingImage?: boolean;
 }
 
 export const updateWanted = (wanted: Wanted) => {
@@ -39,6 +40,7 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.hashtag ||= oldWanted.hashtag;
     wanted.sedition_link ||= oldWanted.sedition_link;
     wanted.name ||= oldWanted.name;
+    wanted.missingImage = false;
 
     if (oldWanted.identified) {
       wanted.identified = true;
@@ -46,6 +48,10 @@ export const updateWanted = (wanted: Wanted) => {
 
     if (oldWanted.duplicate) {
       wanted.duplicate = true;
+    }
+
+    if (oldWanted.missingImage) {
+      wanted.missingImage = true;
     }
   }
 

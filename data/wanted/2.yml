@@ -6,8 +6,9 @@ identified: false
 label: "Photograph #2"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-2.jpg/@@images/image/preview
 hashtag: null
-duplicate: false
+duplicate: true
 charged: null
 mugshot: null
 sedition_link: null
 name: null
+missingImage: false

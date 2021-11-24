@@ -161,7 +161,6 @@ const publishSheet = async () => {
     "Sedition Track",
     "AFO",
     "AOM",
-    "Duplicate",
   ];
 
   const wantedData = [];
@@ -169,19 +168,27 @@ const publishSheet = async () => {
   await fbiSheet.setHeaderRow(FBI_HEADERS);
 
   for (const perp of wanted) {
+    if (perp.duplicate) {
+      continue;
+    }
+
+    const { src, id, missingImage, hashtag, charged, name, afo, aom, arrested, identified, sedition_link } = perp;
+
     const perpData = {
-      Number: `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${perp.id})`,
-      Photo: `=IMAGE("${perp.src}")`,
+      Number: `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${id})`,
+      Photo:
+        missingImage || !hashtag
+          ? `=IMAGE("${src}")`
+          : `=IMAGE("https://jan6evidence.com/poi_thumbnails/${hashtag.toLowerCase()}.jpeg")`,
       "Mug Shot": "",
-      Name: perp.name,
-      AFO: perp.afo ? "yes" : "no",
-      AOM: perp.aom ? "yes" : "no",
-      Arrested: perp.arrested || perp.charged ? "yes" : "no",
-      Identified: perp.identified ? "yes" : "no",
-      Charged: perp.charged,
-      Hashtag: perp.hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${perp.hashtag}", "#${perp.hashtag}")` : "",
-      "Sedition Track": perp.sedition_link,
-      Duplicate: perp.duplicate ? "yes" : "no",
+      Name: charged ? name : "",
+      AFO: afo ? "yes" : "no",
+      AOM: aom ? "yes" : "no",
+      Arrested: arrested || charged ? "yes" : "no",
+      Identified: identified ? "yes" : "no",
+      Charged: charged,
+      Hashtag: hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${hashtag}", "#${hashtag}")` : "",
+      "Sedition Track": sedition_link,
     };
 
     if (perp.mugshot) {
