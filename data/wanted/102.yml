@@ -2,12 +2,12 @@ id: 102
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #102 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-102.jpg/@@images/image/preview
-hashtag: skellefteaamannen
+hashtag: SwedishScarf
 duplicate: false
-charged: null
+charged: true
 mugshot: null
 sedition_link: null
 name: null
