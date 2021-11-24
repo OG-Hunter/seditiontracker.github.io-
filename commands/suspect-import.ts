@@ -408,6 +408,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Governments Motion for Emergency Stay and for Review and Appeal of Release Order/.test(description):
       return "Government Motion for Emergency Appeal of Release Order";
 
+    case /Application for Search Warrant/.test(description):
+      return "Application for Search Warrant";
+
     // government response
     case /Government Reply to Opposition to Motion to Continue/.test(description):
       return "Government's reploy to Defense Opposition to Continue";

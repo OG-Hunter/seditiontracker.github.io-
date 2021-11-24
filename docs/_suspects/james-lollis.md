@@ -43,3 +43,4 @@ sentence:
 - [News Report](https://www.foxcarolina.com/news/fbi-upstate-man-arrested-for-taking-part-in-riot-at-u-s-capitol-building/article_2eec20da-10eb-11ec-855b-f7b78801b6b8.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Lollis%20Jr%20Criminal%20Complaint%20and%20Statement%20of%20Facts.pdf)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237457/gov.uscourts.dcd.237457.18.0_1.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Lollis%20Jr%20Information.pdf)

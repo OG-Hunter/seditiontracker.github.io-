@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.indystar.com/story/news/crime/2021/11/19/shelbyville-mark-mazza-arrested-capitol-riot-after-reporting-gun-stolen/8686112002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1449771/download)
+- [Application for Search Warrant](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Andrew%20Mazza%20Search%20Warrant%20Application.pdf)
