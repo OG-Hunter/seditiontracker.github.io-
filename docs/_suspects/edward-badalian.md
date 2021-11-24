@@ -4,7 +4,7 @@ lastName: Badalian
 hashtag:
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-11-17
 charged: 2021-11-17
 indicted: 2021-11-17
