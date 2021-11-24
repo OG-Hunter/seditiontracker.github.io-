@@ -37,4 +37,4 @@ charges:
 sentence:
 ---
 
-- [Indictment](https://www.documentcloud.org/documents/21117606-rodriguez-badalian-indictment)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.cacd.837671/gov.uscourts.cacd.837671.3.1_1.pdf)

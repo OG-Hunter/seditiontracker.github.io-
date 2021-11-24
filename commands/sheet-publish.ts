@@ -152,7 +152,6 @@ const publishSheet = async () => {
   const FBI_HEADERS = [
     "Number",
     "Photo",
-    "Mug Shot",
     "Hashtag",
     "Name",
     "Identified",
@@ -180,7 +179,6 @@ const publishSheet = async () => {
         missingImage || !hashtag
           ? `=IMAGE("${src}")`
           : `=IMAGE("https://jan6evidence.com/poi_thumbnails/${hashtag.toLowerCase()}.jpeg")`,
-      "Mug Shot": "",
       Name: charged ? name : "",
       AFO: afo ? "yes" : "no",
       AOM: aom ? "yes" : "no",
@@ -190,10 +188,6 @@ const publishSheet = async () => {
       Hashtag: hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${hashtag}", "#${hashtag}")` : "",
       "Sedition Track": sedition_link,
     };
-
-    if (perp.mugshot) {
-      perpData["Mug Shot"] = `=IMAGE("https://seditiontracker.com/images/booking/${perp.mugshot}")`;
-    }
 
     wantedData.push(perpData);
   }

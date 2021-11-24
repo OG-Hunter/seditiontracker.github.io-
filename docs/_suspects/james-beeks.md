@@ -1,7 +1,7 @@
 ---
 name: James Beeks
 lastName: Beeks
-hashtag:
+hashtag: TailOK
 aka:
 residence: Florida
 status: Charged
@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age:
 occupation:
-affiliations:
+affiliations: Oath Keeprs
 jurisdiction: Federal
 image: /images/preview/james-beeks.jpg
 suspect: james-beeks.jpg
