@@ -36,6 +36,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.latimes.com/california/story/2021-03-31/daniel-rodriguez-arrested-capitol-riot-officer-assault)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381991/download)
+- [FBI Interview](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229256/gov.uscourts.dcd.229256.38.1.pdf)
 - [Defense Motion to Dismiss or Exclude Evidence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Rodriguez%20Defense%20Motion%20to%20Suppress%20Exhibit%20A.pdf)
