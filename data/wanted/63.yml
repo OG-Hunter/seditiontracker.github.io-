@@ -2,7 +2,7 @@ id: 63
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #63 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-63a-afo-1-19-2021.png/@@images/image/preview
 hashtag: GasHat
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Greg Mijares
 missingImage: false

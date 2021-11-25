@@ -2,7 +2,7 @@ id: 82
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #82 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-82-afo.png/@@images/image/preview
 hashtag: SleevelessRedTattoos
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Brett Rena Rotella
 missingImage: false
