@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age: 36
 occupation: Owner, Tattoo Parlor
-affiliations: Oath Keepers
+affiliations: Oath Keepers, Proud Boys
 jurisdiction: Federal
 image: /images/preview/roberto-minuta.jpg
 suspect: roberto-minuta.jpg
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374966/download)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
