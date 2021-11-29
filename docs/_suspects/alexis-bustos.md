@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Bustos%20and%20Alexis%20Bustos%20Statement%20of%20Facts.pdf)
