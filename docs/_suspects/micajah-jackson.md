@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.azcentral.com/story/news/local/phoenix/2021/05/19/micajah-jackson-arizona-faces-federal-charges-us-capitol-riot/5164968001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395286/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395291/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415801/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Micajah%20Joel%20Jackson%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452286/download)

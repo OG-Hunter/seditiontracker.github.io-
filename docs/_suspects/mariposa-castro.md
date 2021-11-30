@@ -4,15 +4,15 @@ lastName: Castro
 hashtag: MariposaCastro
 aka: Imelda Castro
 residence: California
-status: Charged
+status: Convicted
 date: 2021-02-09
 charged: 2021-02-09
 indicted:
-convicted: 
+convicted: 2021-11-24
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2021-11-24
 sentencing:
 age:
 occupation: Owner, Yoga Studio
@@ -34,10 +34,15 @@ published: true
 caseNumber: 1:21-cr-299
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.ktvu.com/news/gilroy-woman-charged-in-capitol-riot)
 - [Self Incrimination (VIDEO)](https://twitter.com/henrykleeKTVU/status/1360386497577275394)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mariposa%20Castro%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371311/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452321/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387496/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452316/download)
