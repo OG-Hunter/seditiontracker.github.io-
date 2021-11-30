@@ -36,6 +36,4 @@ videos:
 charges:
 sentence:
 ---
-
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lisa%20Anne%20Homer%20Statement%20of%20Facts.pdf)
