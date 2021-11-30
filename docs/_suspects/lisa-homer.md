@@ -18,24 +18,23 @@ age:
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/lisa-homer.jpg
-suspect: lisa-homer.jpg
+image: /images/preview/lisa-homer.png
+suspect: lisa-homer.png
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: "Let's blow shit up"
 title: Lisa Homer charged on November 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lisa%20Anne%20Homer%20Statement%20of%20Facts.pdf)
