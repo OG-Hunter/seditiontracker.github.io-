@@ -8,11 +8,11 @@ status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted: 2021-12-23
+convicted: 2021-11-23
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-12-23
+plea_hearing: 2021-11-23
 sentencing: 2022-01-28
 age: 39
 occupation: Accountant (CPA)
@@ -45,3 +45,4 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1361466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361466/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Justin%20McAuliffe%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Justin%20McAuliffe%20Plea%20Agreement.pdf)
