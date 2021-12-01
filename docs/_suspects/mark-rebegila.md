@@ -4,16 +4,16 @@ lastName: Rebegila
 hashtag: MarkRebegila
 aka:
 residence: Kansas
-status: Charged
+status: Convicted
 date: 2021-03-10
 charged: 2021-03-10
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-12-01
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-01
+sentencing: 2022-03-10
 age: 31
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-283
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.kansas.com/news/local/crime/article249988189.html)
