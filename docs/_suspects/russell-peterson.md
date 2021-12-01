@@ -4,12 +4,12 @@ lastName: Peterson
 hashtag: RussellPeterson
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-02-12
 charged: 2021-02-12
 indicted:
 convicted: 2021-09-08
-sentenced:
+sentenced: 2021-12-01
 dismissed:
 deceased:
 plea_hearing: 2021-09-08
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 30 days in prison
+  - $500 restitution
 ---
 
 - [News Report](https://triblive.com/local/regional/beaver-county-man-charged-in-connection-with-capitol-riot/)
