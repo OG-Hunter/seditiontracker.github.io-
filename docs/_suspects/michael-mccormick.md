@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20McCormick%20Criminal%20Complaint.pdf)
