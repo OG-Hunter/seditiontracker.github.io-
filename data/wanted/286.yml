@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: false
 identified: false
-label: "Photograph #286 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/286.png/@@images/image/preview
+label: "Photograph #286 - AFO A"
+src: https://www.fbi.gov/wanted/capitol-violence-images/286a.png/@@images/image/preview
 hashtag: LittleManSprayer
 duplicate: false
 charged: null

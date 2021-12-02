@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: false
 identified: false
-label: "Photograph #434 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/434.png/@@images/image/preview
+label: "Photograph #434 - AFO A"
+src: https://www.fbi.gov/wanted/capitol-violence-images/434a.png/@@images/image/preview
 hashtag: KhakiLackey
 duplicate: false
 charged: null
