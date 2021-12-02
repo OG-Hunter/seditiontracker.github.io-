@@ -4,15 +4,15 @@ lastName: Juran
 hashtag: JohnJuran
 aka: Jack Juran
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-04-21
 charged: 2021-04-21
 indicted:
-convicted:
+convicted: 2021-12-01
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-12-01
 sentencing:
 age: 51
 occupation:
@@ -34,8 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/feds-arrest-new-york-man-seen-wearing-trump-2020-cowboy-hat-during-u-s-capitol-breach/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395351/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452921/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410416/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452916/download)

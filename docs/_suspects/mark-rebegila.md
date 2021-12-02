@@ -41,4 +41,5 @@ charges:
 sentence:
 ---
 - [News Report](https://www.kansas.com/news/local/crime/article249988189.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379146/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452911/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452906/download)
