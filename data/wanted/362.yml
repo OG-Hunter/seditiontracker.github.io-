@@ -1,14 +1,14 @@
 id: 362
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #362 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-362a.jpg/@@images/image/preview
 hashtag: SwingerGramps
 duplicate: false
-charged: null
+charged: 2021-11-22
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/howard-richardson
+name: Howard Richardson
 missingImage: false

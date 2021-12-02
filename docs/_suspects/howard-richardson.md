@@ -1,7 +1,7 @@
 ---
 name: Howard Richardson
 lastName: Richardson
-hashtag:
+hashtag: SwingerGramps
 aka:
 residence: Pennsylvania
 status: Charged
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I’m not saying this is the best behavior I could have done here.'
+quote: "I’m not saying this is the best behavior I could have done here."
 title: Howard Richardson charged on November 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237821/gov.uscourts.dcd.237821.1.1.pdf)
