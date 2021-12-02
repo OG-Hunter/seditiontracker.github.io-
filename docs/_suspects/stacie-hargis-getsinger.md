@@ -4,16 +4,16 @@ lastName: Hargis Getsinger
 hashtag: StacieGetsinger
 aka:
 residence: South Carolina
-status: Charged
+status: Convicted
 date: 2021-06-09
 charged: 2021-06-09
 indicted:
-convicted:
+convicted: 2021-12-02
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-02
+sentencing: 2022-04-21
 age: 43
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
