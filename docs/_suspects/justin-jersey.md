@@ -4,10 +4,10 @@ lastName: Jersey
 hashtag: FingerMan
 aka:
 residence: Michigan
-status: Charged
+status: Indicted
 date: 2021-12-02
 charged: 2021-12-02
-indicted:
+indicted: 2021-12-02
 convicted:
 sentenced:
 dismissed:
@@ -18,8 +18,8 @@ age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/justin-jersey.jpg
-suspect: justin-jersey.jpg
+image: /images/preview/justin-jersey.png
+suspect: justin-jersey.png
 booking:
 courtroom:
 courthouse:
@@ -36,4 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/fingerman-capitol-attack-justin-jersey-trump_n_61a9091ee4b025be1af50402?3w)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
