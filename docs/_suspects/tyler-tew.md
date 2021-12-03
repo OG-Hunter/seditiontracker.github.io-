@@ -14,18 +14,18 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/tyler-tew.jpg
 suspect: tyler-tew.jpg
-booking:
+booking: tyler-tew.jpg
 courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Yeah. Everything got stolen. Nobody seems to care. We decided to take it into our own hands by taking the capital.'
 title: Tyler Tew charged on November 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.eastidahonews.com/2021/12/idaho-falls-man-arrested-for-allegedly-storming-capitol-in-jan-6-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Tew%20Statement%20of%20Facts.pdf)
