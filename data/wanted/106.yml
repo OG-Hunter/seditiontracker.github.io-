@@ -1,14 +1,14 @@
 id: 106
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #106 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-106-1-27-2021.png/@@images/image/preview
 hashtag: Fingerman
 duplicate: false
-charged: null
+charged: 2021-12-02
 mugshot: null
-sedition_link: null
-name: Justin David Jersey
+sedition_link: https://seditiontracker.com/suspects/justin-jersey
+name: Justin Jersey
 missingImage: false
