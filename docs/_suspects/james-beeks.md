@@ -4,10 +4,10 @@ lastName: Beeks
 hashtag: TailOK
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-11-18
 charged: 2021-11-18
-indicted:
+indicted: 2021-12-01
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://www.wpsdlocal6.com/news/florida-man-playing-judas-in-jesus-christ-superstar-accused-in-jan-6-capitol-riot/article_031a5be2-4e45-11ec-b6e1-abd1cda0b6e9.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Beeks%20Statement%20of%20Facts.pdf)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.226726/gov.uscourts.dcd.226726.513.0.pdf)
