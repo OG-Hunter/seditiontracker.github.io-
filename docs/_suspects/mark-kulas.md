@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://chicago.suntimes.com/crime/2021/11/23/22799088/lake-forest-man-to-plead-guilty-to-charges-in-jan-6-capitol-riot-feds)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Information.pdf)
