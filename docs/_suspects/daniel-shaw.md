@@ -1,5 +1,5 @@
 ---
-name: Dan Shaw
+name: Daniel Shaw
 lastName: Shaw
 hashtag:
 aka:
@@ -26,7 +26,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Dan Shaw charged on November 29, 2021
+title: Daniel Shaw charged on November 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237940/gov.uscourts.dcd.237940.1.1.pdf)

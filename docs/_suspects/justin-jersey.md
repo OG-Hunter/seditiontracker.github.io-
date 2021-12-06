@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/fingerman-capitol-attack-justin-jersey-trump_n_61a9091ee4b025be1af50402?3w)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sabol%20et%20al%20Third%20Superseding%20Indictment.pdf)
