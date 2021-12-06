@@ -1,14 +1,14 @@
 id: 273
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #273A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-273a.png/@@images/image/preview
 hashtag: MaroonPB
 duplicate: false
-charged: null
+charged: 2021-12-01
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/ronald-loehrke
+name: Ronald Loehrke
 missingImage: false
