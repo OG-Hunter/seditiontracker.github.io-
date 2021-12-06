@@ -297,6 +297,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Detention Order";
 
     case /Plea Agreement/.test(description):
+    case /plea agreement/.test(description):
     case /.* Plea/.test(description):
     case /.*plea_agreement/.test(description):
     case /.*statement_of_offense.pdf/.test(description):
@@ -314,6 +315,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Charging Documents/.test(description):
     case /mchugh/.test(description):
     case /Statement of Offense/.test(description):
+    case /statement of offense/.test(description):
     case /Factual Profile/.test(description):
     case /charging_documents.pdf/.test(description):
     case /statement_of_offense/.test(description):
