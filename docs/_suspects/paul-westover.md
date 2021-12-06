@@ -4,16 +4,16 @@ lastName: Westover
 hashtag: PaulWestover
 aka:
 residence: Missouri
-status: Charged
+status: Convicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
-convicted:
+convicted: 2021-12-06
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-06
-sentencing:
+sentencing: 2022-02-16
 age: 52
 occupation: Technical Recruiter
 affiliations:
@@ -34,9 +34,14 @@ published: true
 caseNumber: 1:21-mj-174
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
 - [Self Incrimination (Video)](https://twitter.com/violetscrawley/status/1350219274317660161)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365721/download)
+- [Information](https://ecf.dcd.uscourts.gov/doc1/04518916050)
