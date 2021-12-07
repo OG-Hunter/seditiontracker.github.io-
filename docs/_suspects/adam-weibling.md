@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/adam-weibling.jpg
 suspect: adam-weibling.jpg
-booking:
+booking: adam-weibling.jpg
 courtroom:
 courthouse:
 raid:

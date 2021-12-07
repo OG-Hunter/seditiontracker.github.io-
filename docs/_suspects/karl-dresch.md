@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/096.jpg
 suspect: 096.jpg
-booking:
+booking: Karl-Dresch.jpg
 courtroom:
 courthouse:
 raid:

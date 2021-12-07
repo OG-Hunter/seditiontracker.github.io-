@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/josiah-kenyon.jpg
 suspect: josiah-kenyon.jpg
-booking:
+booking: josiah-kenyon.jpg
 courtroom:
 courthouse:
 raid:

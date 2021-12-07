@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/shane-jenkins.png
 suspect: shane-jenkins.png
-booking:
+booking: Shane-Jenkins.jpg
 courtroom:
 courthouse:
 raid:

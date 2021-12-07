@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/john-sullivan.jpg
 suspect: john-sullivan.jpg
-booking: john-sullivan.webp
+booking: john-sullivan.jpg
 courtroom:
 courthouse:
 raid:

@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/michael-hardin.jpg
 suspect: michael-hardin.jpg
-booking:
+booking: michael-hardin.jpg
 courtroom:
 courthouse:
 raid:

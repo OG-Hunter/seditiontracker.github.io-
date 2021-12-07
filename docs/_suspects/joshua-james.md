@@ -20,7 +20,7 @@ affiliations: Oath Keepers, Proud Boys
 jurisdiction: Federal
 image: /images/preview/joshua-james.png
 suspect: joshua-james.png
-booking:
+booking: joshua-james.jpg
 courtroom:
 courthouse:
 raid: joshua-james-arrest.png

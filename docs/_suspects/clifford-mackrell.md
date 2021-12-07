@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/clifford-mackrell.png
 suspect: clifford-mackrell.png
-booking:
+booking: clifford-mackrell.jpg
 courtroom:
 courthouse:
 raid:
