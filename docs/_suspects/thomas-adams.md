@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/thomas-adams.jpg
 suspect: thomas-adams.jpg
-booking:
+booking: Thomas-Adams.jpg
 courtroom:
 courthouse:
 raid:

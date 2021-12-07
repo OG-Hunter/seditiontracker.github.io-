@@ -20,7 +20,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/paul-rae.jpg
 suspect: paul-rae.jpg
-booking:
+booking: paul-rae.jpg
 courtroom:
 courthouse: paul-rae.jpg
 raid: paul-rae.jpg

@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/aiden-bilyard.jpg
 suspect: aiden-bilyard.jpg
-booking: 
+booking: aiden-bilyard.jpg
 courtroom:
 courthouse:
 raid:

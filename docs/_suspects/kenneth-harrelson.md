@@ -20,7 +20,7 @@ affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/kenneth-harrelson.png
 suspect: kenneth-harrelson.png
-booking:
+booking: kenneth-harrelson.jpg
 courtroom:
 courthouse:
 raid:
