@@ -38,3 +38,4 @@ sentence:
 ---
 
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237402/gov.uscourts.dcd.237402.1.1.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-charged-assault-law-enforcement-during-jan-6-capitol-breach)
