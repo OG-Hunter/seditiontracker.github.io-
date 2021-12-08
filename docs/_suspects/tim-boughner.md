@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: "I’m on my way to Washington DC. To make sure Biden’s doesn’t become president."
 title: Tim Boughner charged on November 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
