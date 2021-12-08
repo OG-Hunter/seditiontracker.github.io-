@@ -1,14 +1,14 @@
 id: 337
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #337 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/337a.png/@@images/image/preview
 hashtag: BlackPufferWhiteScarf
 duplicate: false
-charged: null
+charged: 2021-11-09
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/tim-boughner
+name: Tim Boughner
 missingImage: false

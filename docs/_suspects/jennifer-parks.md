@@ -4,12 +4,12 @@ lastName: Parks
 hashtag: JenniferParks
 aka:
 residence: Kansas
-status: Convicted
+status: Sentenced
 date: 2021-04-15
 charged: 2021-04-15
 indicted:
 convicted: 2021-09-28
-sentenced:
+sentenced: 2021-12-08
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-363
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 24 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389181/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438186/download)
