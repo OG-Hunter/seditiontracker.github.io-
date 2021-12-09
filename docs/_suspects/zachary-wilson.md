@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-27
-sentencing: 2021-12-09
+sentencing: 2022-01-27
 age: 31
 occupation:
 affiliations:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-mj-229
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.komu.com/news/state/two-missouri-men-arrested-for-alleged-involvement-in-capitol-riots/article_d19e425a-72fc-11eb-a3bc-5f2e15451854.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371571/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437016/download)
