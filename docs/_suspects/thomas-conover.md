@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I don’t always storm the Capitol of the United States of America. But when I do, I prefer Coors Light.'
+quote: "I don’t always storm the Capitol of the United States of America. But when I do, I prefer Coors Light."
 title: Thomas Conover charged on December 3, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
-- [Statement of Facts](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
+- [Statement of Facts](https://s3.documentcloud.org/documents/21150528/12-3-21-us-v-thomas-conover-complaint-affidavit.pdf)
