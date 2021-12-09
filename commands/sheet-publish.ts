@@ -185,7 +185,7 @@ const publishSheet = async () => {
       Arrested: arrested || charged ? "yes" : "no",
       Identified: identified ? "yes" : "no",
       Charged: charged,
-      Hashtag: hashtag ? `=HYPERLINK("https://twitter.com/search?q=%23${hashtag}", "#${hashtag}")` : "",
+      Hashtag: hashtag ? `=HYPERLINK("https://twitter.com/hashtag/${hashtag}", "#${hashtag}")` : "",
       "Sedition Track": sedition_link,
     };
 
