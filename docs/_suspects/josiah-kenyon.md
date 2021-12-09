@@ -23,7 +23,7 @@ suspect: josiah-kenyon.jpg
 booking: josiah-kenyon.jpg
 courtroom:
 courthouse:
-raid:
+raid: josiah-kenyon.jpg
 perpwalk:
 quote:
 title: Josiah Kenyon charged on November 23, 2021
