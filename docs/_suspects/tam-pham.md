@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-20
-sentencing: 2021-12-09
+sentencing: 2021-12-10
 age: 48
 occupation: Police Officer
 affiliations:
@@ -25,7 +25,7 @@ courtroom:
 courthouse: tam-pham.jpg
 raid:
 perpwalk:
-quote: 'I shouldn’t have done it. I was there to take pictures.'
+quote: "I shouldn’t have done it. I was there to take pictures."
 title: Tam Pham charged on January 19, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-109
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tamp-pham-at-us-capitol-safety-plan/9655587/)
 - [Houston Police Statement (Twitter)](https://twitter.com/ArtAcevedo/status/1349759930832662528?s=20)
 - [Self Incrimination (Interview)](https://www.houstonchronicle.com/news/houston-texas/crime/article/HPD-cop-faces-federal-charges-capitol-riot-15867917.php)
