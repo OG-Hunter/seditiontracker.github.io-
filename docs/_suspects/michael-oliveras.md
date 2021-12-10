@@ -1,7 +1,7 @@
 ---
 name: Michael Oliveras
 lastName: Oliveras
-hashtag:
+hashtag: TackyTrumpGlasses
 aka:
 residence: New Jersey
 status: Charged
