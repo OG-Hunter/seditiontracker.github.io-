@@ -4,12 +4,12 @@ lastName: Pham
 hashtag: TamPham
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
 convicted: 2021-09-20
-sentenced:
+sentenced: 2021-12-10
 dismissed:
 deceased:
 plea_hearing: 2021-09-20
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 45 days in prison
+  - $500 restitution
 ---
 
 - [News Report](https://abc13.com/houston-protest-inauguration-protests-hpd-officer-tamp-pham-at-us-capitol-safety-plan/9655587/)

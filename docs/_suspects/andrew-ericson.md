@@ -4,12 +4,12 @@ lastName: Ericson
 hashtag: AndrewEricson
 aka:
 residence: Oklahoma
-status: Convicted
+status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
 convicted: 2021-09-23
-sentenced:
+sentenced: 2021-12-10
 dismissed:
 deceased:
 plea_hearing: 2021-09-23
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 20 days in prison (weekends)
+  - 2 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://tulsaworld.com/news/local/oklahoma-man-faces-charges-in-connection-with-capitol-riot/article_1afe3f28-5d08-11eb-ad02-77c1bc298fa5.html)
