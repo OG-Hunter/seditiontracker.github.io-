@@ -43,3 +43,4 @@ sentence:
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453446/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453441/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20and%20Stacie%20Getsinger%20Information.pdf)

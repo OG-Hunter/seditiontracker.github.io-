@@ -43,3 +43,4 @@ sentence:
 - [News Report](https://www.kansas.com/news/local/crime/article249988189.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452911/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452906/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Roger%20Rebegila%20Information.pdf)
