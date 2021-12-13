@@ -2,7 +2,7 @@ id: 240
 aom: false
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #240A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-240a.png/@@images/image/preview
 hashtag: WindowCheerleader
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Jason Gallahue
 missingImage: false
