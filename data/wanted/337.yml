@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #337 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/337a.png/@@images/image/preview
+label: "Photograph #337 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-337arrest.jpg/@@images/image/preview
 hashtag: BlackPufferWhiteScarf
 duplicate: false
 charged: 2021-11-09
