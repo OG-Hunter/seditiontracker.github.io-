@@ -12,6 +12,7 @@ const suspect = new Command()
   .command("sentence", "mark a new suspect as sentenced")
   .command("migrate", "migrate suspects to latest data model")
   .command("indict", "mark a suspect as indicted")
+  .command("missing", "list suspects with missing info");
 
 suspect.parse(process.argv);
 

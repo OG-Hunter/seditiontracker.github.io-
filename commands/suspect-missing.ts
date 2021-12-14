@@ -3,11 +3,11 @@ import { info } from "./common/console";
 import fs from "fs";
 import { readFile, writeFile } from "./common/file";
 
-const cmd = new Command("unpublished").option("--publish", "publish all unpublished suspects");
+const cmd = new Command("missing").option("--news", "identify suspects missing news report");
 cmd.parse(process.argv);
 
 const unpublished = async () => {
-  info("Generating list of unpublished suspects");
+  info("Generating list of suspects with missing info");
 
   const suspectFiles = fs.readdirSync("./docs/_suspects");
   const nameSet: Set<string> = new Set();
@@ -20,11 +20,8 @@ const unpublished = async () => {
     const lastName = name.split(" ").slice(1).join(" ");
     nameSet.add(lastName.toUpperCase());
 
-    if (data.match(/published: false/)) {
+    if (cmd.news && !/\[News Report]/.test(data)) {
       console.log(name);
-      if (cmd.publish) {
-        writeFile(suspectPath, data.replace("published: false", "published: true"));
-      }
     }
   }
 };
