@@ -36,7 +36,7 @@ const newSuspect = async () => {
     {
       type: "input",
       name: "date",
-      message: "Date (MM-DD)",
+      message: "Date (YYYY-MM-DD)",
     },
     {
       type: "input",
@@ -48,18 +48,18 @@ const newSuspect = async () => {
   const result = await inquirer.prompt(questions);
   const name = `${result.firstName} ${result.lastName}`;
   const dashedName = `${result.firstName}-${result.lastName}`.toLowerCase();
-  const date = Date.parse(`2021-${result.date}T05:00`);
-  const options = { year: "numeric", month: "long", day: "numeric" };
+  const date = Date.parse(`${result.date}T05:00`);
+  const options: Intl.DateTimeFormatOptions = { year: "numeric", month: "numeric", day: "numeric" };
   const dateFormat = new Intl.DateTimeFormat("en-US", options).format(date);
 
   updateSuspect({
     name,
     lastName: result.lastName,
     residence: result.residence,
-    age: result.age,
+    age: result.age ? result.age : "",
     status: "Charged",
-    date: `2021-${result.date}`,
-    charged: `2021-${result.date}`,
+    date: `${result.date}`,
+    charged: `${result.date}`,
     image: `/images/preview/${dashedName}.jpg`,
     suspect: `${dashedName}.jpg`,
     links: {

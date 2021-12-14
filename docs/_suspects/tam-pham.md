@@ -40,6 +40,7 @@ charges:
     felony: false
 sentence:
   - 45 days in prison
+  - $1,000 fine
   - $500 restitution
 ---
 
