@@ -66,7 +66,7 @@ const newSuspect = async () => {
       ? {
           "News Report": result.story,
         }
-      : {},
+      : { "Statement of Facts": "" },
     title: `${name} charged on ${dateFormat}`,
     published: result.arrested ? true : false,
   });
