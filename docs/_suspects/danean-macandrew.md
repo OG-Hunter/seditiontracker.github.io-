@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.ocregister.com/2021/12/05/mission-viejo-woman-who-joined-mob-that-stormed-capitol-is-charged-by-federal-prosecutors/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237478/gov.uscourts.dcd.237478.1.1.pdf)
