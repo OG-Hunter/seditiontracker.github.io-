@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.mercurynews.com/2021/12/03/man-arrested-in-orange-in-connection-with-capitol-insurrection/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20McCormick%20Criminal%20Complaint.pdf)

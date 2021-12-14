@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.nbclosangeles.com/news/local/los-angeles-man-faces-conspiracy-charge-for-us-capitol-breach/2769387/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.cacd.837671/gov.uscourts.cacd.837671.3.1_1.pdf)
