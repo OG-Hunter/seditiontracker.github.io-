@@ -18,9 +18,9 @@ const newSuspect = async () => {
       message: "Last Name",
     },
     {
-      type: "number",
-      name: "age",
-      message: "Age",
+      type: "input",
+      name: "hashtag",
+      message: "Hashtag",
     },
     {
       type: "input",
@@ -56,15 +56,17 @@ const newSuspect = async () => {
     name,
     lastName: result.lastName,
     residence: result.residence,
-    age: result.age ? result.age : "",
+    hashtag: result.hashtag,
     status: "Charged",
     date: `${result.date}`,
     charged: `${result.date}`,
     image: `/images/preview/${dashedName}.jpg`,
     suspect: `${dashedName}.jpg`,
-    links: {
-      "News Report": result.story,
-    },
+    links: result.story
+      ? {
+          "News Report": result.story,
+        }
+      : {},
     title: `${name} charged on ${dateFormat}`,
     published: result.arrested ? true : false,
   });
