@@ -4,10 +4,10 @@ lastName: Courson
 hashtag: TweedleDumb
 aka:
 residence: Florida
-status: Charged
-date: 2021-12-14
-charged: 2021-12-14
-indicted:
+status: Indicted
+date: 2021-11-17
+charged: 2021-11-17
+indicted: 2021-11-17
 convicted:
 sentenced:
 dismissed:
@@ -26,7 +26,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Mason Courson charged on 12/14/2021
+title: Mason Courson charged on 11/17/2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -36,3 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sabol%20et%20al%20Third%20Superseding%20Indictment.pdf)
