@@ -2,7 +2,7 @@ id: 261
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #261 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-261a.jpg/@@images/image/preview
 hashtag: BlackGreyFlannel
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Luke Lints
 missingImage: false

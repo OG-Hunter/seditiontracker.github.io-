@@ -2,7 +2,7 @@ id: 277
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #277 A - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/277a.png/@@images/image/preview
 hashtag: InfoSprayer
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Douglas Wyatt
 missingImage: false
