@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+sentencing: 2021-12-23
 age: 40
 occupation: Insurance Adjuster
 affiliations:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/alabama-woman-accused-of-climbing-through-capitol-window-during-dc-riot/ar-BB1dQ3au)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379286/download)
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)

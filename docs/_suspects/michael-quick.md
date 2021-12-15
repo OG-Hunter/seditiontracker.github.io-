@@ -8,11 +8,11 @@ status: Charged
 date: 2021-02-12
 charged: 2021-02-12
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-12-23
 sentencing:
 age:
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.ky3.com/2021/02/12/fbi-arrests-2-for-springfield-wanted-in-capitol-riot-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Quick%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372086/download)

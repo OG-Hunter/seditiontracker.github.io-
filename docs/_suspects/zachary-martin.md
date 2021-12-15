@@ -8,11 +8,11 @@ status: Charged
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-12-23
 sentencing:
 age:
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.news-leader.com/story/news/local/missouri/2021/01/28/u-s-capitol-riots-document-shows-why-springfield-man-zachary-martin-arrested/4301430001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361576/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361576/download)
