@@ -37,4 +37,5 @@ charges:
 sentence:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-lehigh-woman-charged-capitol-20210820-gsmk4wiaxrb63gtobzny7ujvcq-story.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431181/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456766/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456771/download)

@@ -95,6 +95,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "Boughner, Tim";
       }
 
+      if (nameText.match(/brien/)) {
+        nameText = "O'Brien, Kelly";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
@@ -167,8 +171,8 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "PERRETTA, Nicholas";
     }
 
-    if (name.match(/.*;BRIEN, Kelley/)) {
-      name = "O'BRIEN, Kelly";
+    if (name.match(/BRIEN/)) {
+      name = "OBRIEN, Kelly";
     }
 
     if (name == "HOSTSETTER, Alan") {
@@ -246,6 +250,7 @@ const falsePositives = (site: string) => {
       set.add("Curzio");
       set.add("Clark");
       set.add("Mink");
+      set.add("OBrien");
       set.add("Rehl");
       set.add("Norwood");
       set.add("Witcher");
@@ -328,6 +333,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Indictment/.test(description):
     case /indictment/.test(description):
     case /caldwell_et_al.*/.test(description):
+    case /Second Superseding/.test(description):
       return "Indictment";
 
     case /Ammended Complaint/.test(description):

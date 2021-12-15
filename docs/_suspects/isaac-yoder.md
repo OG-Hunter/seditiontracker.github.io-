@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-505
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.thedailybeast.com/feds-charge-isaac-yoder-missouri-man-who-stormed-capitol-in-george-washington-costume)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Isaac%20Samuel%20Yoder%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456756/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456761/download)

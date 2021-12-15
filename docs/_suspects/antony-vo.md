@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-509
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.wthr.com/article/news/crime/fbi-arrests-bloomington-man-for-his-role-in-jan-6-capitol-insurrection/531-98fce4bc-0aaf-49f4-abc3-266709d5fee4)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Antony%20Vo%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456726/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456731/download)
