@@ -1,14 +1,14 @@
 id: 387
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #387 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/387a.png/@@images/image/preview
-hashtag: CoveredDraggin
+hashtag: CoveredDragon
 duplicate: false
-charged: null
-mugshot: null
-sedition_link: null
-name: null
+charged: 2021-12-10
+mugshot: avery-maccracken.jpg
+sedition_link: https://seditiontracker.com/suspects/avery-maccracken
+name: Avery MacCracken
 missingImage: false
