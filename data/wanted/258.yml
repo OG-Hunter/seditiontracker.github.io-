@@ -1,14 +1,14 @@
 id: 258
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #258 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-258a.jpg/@@images/image/preview
 hashtag: PoleTosser
 duplicate: false
-charged: null
+charged: 2021-12-07
 mugshot: null
-sedition_link: null
-name:
+sedition_link: https://seditiontracker.com/suspects/lucas-denney
+name: Lucas Denney
 missingImage: false

@@ -1,14 +1,14 @@
 id: 129
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #129 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-129-1-27-2021.png/@@images/image/preview
 hashtag: TweedleDumb
 duplicate: false
-charged: null
+charged: 2021-12-14
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/mason-courson
+name: Mason Courson
 missingImage: false
