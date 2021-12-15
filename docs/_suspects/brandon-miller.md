@@ -4,16 +4,16 @@ lastName: Miller
 hashtag: BrandonMiller
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-03-09
 charged: 2021-03-09
 indicted:
 convicted: 2021-09-10
-sentenced:
+sentenced: 2021-12-15
 dismissed:
 deceased:
 plea_hearing: 2021-09-10
-sentencing: 2021-11-24
+sentencing: 2021-12-15
 age: 34
 occupation:
 affiliations:
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-266
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 20 days in prison
+  - 60 hours of community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.springfieldnewssun.com/crime/2-more-area-residents-charged-in-us-capitol-riot/N6YW6VWHSFA67OMQO5TNR7GFUE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433296/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383066/download)
