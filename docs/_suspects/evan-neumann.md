@@ -4,10 +4,10 @@ lastName: Neumann
 hashtag: DrunkenTrashStache
 aka:
 residence: California
-status: Charged
+status: Indicted
 date: 2021-03-23
 charged: 2021-03-23
-indicted:
+indicted: 2021-12-14
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,5 @@ sentence:
 
 - [News Report](https://abc7news.com/evan-neumann-mill-valley-fbi-most-wanted-list/10882741/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Evan%20Neumann%20Statement%20of%20Facts.pdf)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238424/gov.uscourts.dcd.238424.7.0.pdf)
+- [Press Release](https://www.justice.gov/usao-dc/pr/california-man-indicted-charges-assaulting-law-enforcement-during-jan-6-capitol-breach)
