@@ -221,6 +221,11 @@ const importDoj = async (nameSet: Set<string>) => {
     const caseNumberText = cells[0].text.trim();
     const caseNumber = /(\d:\d{2}-\D\D-\d{1,3})/.test(caseNumberText) ? RegExp.$1 : undefined;
 
+    if (caseNumber === "1:21-mj-561") {
+      // ignore duplicate entry for O'Brien
+      continue;
+    }
+
     addData({
       nameSet,
       firstName,
