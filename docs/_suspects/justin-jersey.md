@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/justin-jersey.png
 suspect: justin-jersey.png
-booking:
+booking: justin-jersey.jpg
 courtroom:
 courthouse:
 raid:
