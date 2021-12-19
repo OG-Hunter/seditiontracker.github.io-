@@ -4,12 +4,12 @@ lastName: Mariotto
 hashtag: TonyMariotto
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-08
 convicted: 2021-09-24
-sentenced:
+sentenced: 2021-12-17
 dismissed:
 deceased:
 plea_hearing: 2021-09-24
@@ -39,6 +39,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 36 months of probation
+  - $5,000 fine
+  - 250 hours of community service
+  - $500 restitution
 ---
 
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
