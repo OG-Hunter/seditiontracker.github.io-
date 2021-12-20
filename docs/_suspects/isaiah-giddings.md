@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 29
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238262/gov.uscourts.dcd.238262.1.1_2.pdf)

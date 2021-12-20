@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 26
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://abcnews.go.com/US/wireStory/florida-man-arrested-charged-jan-attack-us-capitol-81775546)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sabol%20et%20al%20Third%20Superseding%20Indictment.pdf)
