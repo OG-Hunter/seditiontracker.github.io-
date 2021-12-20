@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-586
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://nypost.com/2021/08/31/two-more-brooklyn-men-charged-in-capitol-riot/)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235042/gov.uscourts.dcd.235042.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457646/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457651/download)

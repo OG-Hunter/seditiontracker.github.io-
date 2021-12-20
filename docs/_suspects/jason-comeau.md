@@ -31,9 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-629
 videos:
 charges:
 sentence:
 ---
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Michael%20Comeau%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457811/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457801/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457806/download)

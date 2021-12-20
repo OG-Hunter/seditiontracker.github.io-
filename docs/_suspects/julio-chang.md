@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-703
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/former-florida-sheriffs-lieutenant-arrested-charged-in-capitol-riot-julio-chang-january-6-broward-county-tam-dinh-pham-alan-hostetter-law-enforcement/65-9ba268bf-0cc9-4220-971d-cd294d3bea67)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Chang%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457701/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457691/download)

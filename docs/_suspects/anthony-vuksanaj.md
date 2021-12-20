@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-620
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/mahopac-man-charged-in-us-capitol-riot-after-westchester-robbery-arrest/ar-AAP2E9C)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Vuksanaj%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457721/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457731/download)

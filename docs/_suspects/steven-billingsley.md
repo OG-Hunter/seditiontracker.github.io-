@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-519
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.wtrf.com/jefferson-county/jefferson-county-man-charged-with-crimes-related-to-the-jan-6-capitol-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Steven%20Billingsley%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457636/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457641/download)

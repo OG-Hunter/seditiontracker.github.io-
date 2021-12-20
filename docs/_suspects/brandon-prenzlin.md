@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-694
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
-- [Statement of Facts](https://s3.documentcloud.org/documents/21068083/9-17-21-us-v-brandon-prenzlin-complaint-affidavit.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457596/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457631/download)

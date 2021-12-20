@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-637
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dailymail.co.uk/news/article-9975643/Texas-deputy-sheriff-county-jailer-facing-charges-role-January-6-Capitol-riot.html)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235395/gov.uscourts.dcd.235395.1.1.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457686/download)

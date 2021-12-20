@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-601
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.ocregister.com/2021/10/07/2-more-with-southern-california-ties-charged-in-jan-6-storming-of-u-s-capitol/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Ticas%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457581/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457586/download)

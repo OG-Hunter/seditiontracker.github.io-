@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-642
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Darrell%20Neely%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457771/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457766/download)

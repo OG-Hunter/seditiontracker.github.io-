@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.foxcarolina.com/news/fbi-upstate-man-arrested-for-taking-part-in-riot-at-u-s-capitol-building/article_2eec20da-10eb-11ec-855b-f7b78801b6b8.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452331/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457601/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452326/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Douglas%20Lollis%20Jr%20Information.pdf)

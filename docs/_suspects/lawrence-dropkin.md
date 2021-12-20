@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-734
 videos:
 charges:
 sentence:
 ---
-
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lawrence%20Dropkin%20Jr%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457616/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457621/download)

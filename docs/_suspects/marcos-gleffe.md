@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-698
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2021/9/2/22655069/elk-grove-village-man-charged-breaching-capitol-fbi-made-biggest-mistake-going-through-that-door)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marcos%20Gleffe%20Affidavit%20in%20Removal%20Proceeding.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457656/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457661/download)

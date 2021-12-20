@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-668
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/fbi-capitol-attack-mick-chan_n_614b5077e4b077b735ee30f3)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mick%20Chan%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457606/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457626/download)
