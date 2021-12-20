@@ -4,16 +4,16 @@ lastName: Thompson
 hashtag: SeattleUWGuy
 aka:
 residence: Washington
-status: Convicted
+status: Sentenced
 date: 2021-07-11
 charged: 2021-07-11
 indicted:
 convicted: 2021-08-06
-sentenced:
+sentenced: 2021-12-20
 dismissed:
 deceased:
 plea_hearing: 2021-08-06
-sentencing: 2021-11-01
+sentencing: 2021-12-20
 age:
 occupation:
 affiliations:
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 46 months in prison
+  - $500 restitution
 ---
 
 - [Information](https://www.justice.gov/usao-dc/press-release/file/1422296/download)
