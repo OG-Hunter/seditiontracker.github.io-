@@ -2,7 +2,7 @@ id: 301
 aom: false
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #301A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-301a.png/@@images/image/preview
 hashtag: WhiteLogoInsider
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Iraj Javid
 missingImage: false

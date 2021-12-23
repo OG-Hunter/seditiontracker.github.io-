@@ -38,9 +38,9 @@ charges:
     title: Conspiracy to commit an offense against the United States
     url: https://www.law.cornell.edu/uscode/text/18/371
     felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of Congress
+    url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
 ---
