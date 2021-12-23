@@ -38,3 +38,4 @@ sentence:
 ---
 
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Robert%20Elliott%20Indictment.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/illinois-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
