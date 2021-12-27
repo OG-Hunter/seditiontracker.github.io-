@@ -3,7 +3,7 @@ name: Timothy O'Malley
 lastName: O'Malley
 hashtag: TimothyOMalley
 aka:
-residence: FLorida
+residence: Florida
 status: Convicted
 date: 2021-06-28
 charged: 2021-06-28
@@ -34,11 +34,14 @@ published: true
 caseNumber: 1:21-mj-504
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408321/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Earl%20O%27Malley%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Earl%20O%27Malley%20Plea%20Agreement.pdf)
