@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-710
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.mercurynews.com/2021/12/03/man-arrested-in-orange-in-connection-with-capitol-insurrection/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20McCormick%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459001/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458996/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459006/download)

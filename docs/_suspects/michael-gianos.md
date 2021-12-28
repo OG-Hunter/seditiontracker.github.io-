@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-665
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/feds-claim-pa-woman-stormed-the-capitol-on-jan-6-welcomed-fight-with-counterprotesters/ar-AARp9Sv)
-- [Complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237824/gov.uscourts.dcd.237824.1.1.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459071/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459076/download)

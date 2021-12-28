@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-657
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.yakimaherald.com/news/local/former-yakima-resident-lisa-homer-charged-with-entering-u-s-capitol-during-jan-6-insurrection/article_ad58c5ea-1f5d-51b5-b564-84ef95306a12.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lisa%20Anne%20Homer%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458991/download)

@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-731
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://abc7chicago.com/us-capitol-attack-arrest-chicago-lawrence-ligas/11289715/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lawrence%20Ligas%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459101/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459096/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459106/download)

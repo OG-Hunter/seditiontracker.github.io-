@@ -4,10 +4,10 @@ lastName: Kenyon
 hashtag: PinStripeBoilerSuit
 aka:
 residence: Nevada
-status: Charged
+status: Indicted
 date: 2021-11-23
 charged: 2021-11-23
-indicted:
+indicted: 2021-12-10
 convicted:
 sentenced:
 dismissed:
@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-726
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://thisisreno.com/2021/12/nevada-man-faces-charges-in-jan-6-capitol-assault/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1453156/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459136/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459126/download)

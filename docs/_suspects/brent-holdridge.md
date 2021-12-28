@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-739
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/eureka-man-linked-to-jan-6-riot-to-appear-in-dc-court/ar-AARtjTH)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.cand.388812/gov.uscourts.cand.388812.1.0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459121/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459111/download)

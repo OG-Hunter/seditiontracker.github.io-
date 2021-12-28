@@ -4,10 +4,10 @@ lastName: Richardson
 hashtag: SwingerGramps
 aka:
 residence: Pennsylvania
-status: Charged
+status: Indicted
 date: 2021-11-22
 charged: 2021-11-22
-indicted:
+indicted: 2021-12-08
 convicted:
 sentenced:
 dismissed:
@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-721
 videos:
 charges:
 sentence:
 ---
 
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237821/gov.uscourts.dcd.237821.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459061/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459051/download)

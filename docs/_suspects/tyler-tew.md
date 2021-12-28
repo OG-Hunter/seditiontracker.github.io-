@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-650
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.eastidahonews.com/2021/12/idaho-falls-man-arrested-for-allegedly-storming-capitol-in-jan-6-riot/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Tew%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458981/download)

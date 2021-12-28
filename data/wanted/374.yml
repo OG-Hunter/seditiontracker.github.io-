@@ -2,7 +2,7 @@ id: 374
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #374 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/374a.png/@@images/image/preview
 hashtag: CoatWStripeCamo
@@ -10,5 +10,5 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Justin Adams
 missingImage: false

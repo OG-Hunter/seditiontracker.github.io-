@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/11/04/joshua-john-portlock-tennessee-arrested-january-6-capitol-riot/6279607001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446266/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446271/download)

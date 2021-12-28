@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-663
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.wpri.com/target-12/providence-man-charged-with-participating-in-jan-6-riot-at-us-capitol/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Desjardins%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459011/download)

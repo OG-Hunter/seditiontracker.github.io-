@@ -31,9 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-695
 videos:
 charges:
 sentence:
 ---
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rafael%20Valadez%20Jr%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458966/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458961/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458971/download)
