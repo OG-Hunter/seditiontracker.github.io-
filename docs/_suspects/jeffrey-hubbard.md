@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-737
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.oregonlive.com/crime/2021/12/lincoln-city-man-accused-of-storming-the-us-capitol-on-jan-6.html)
-- [Statement of Facts](https://s3.documentcloud.org/documents/21150565/hubbard.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459251/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459241/download)

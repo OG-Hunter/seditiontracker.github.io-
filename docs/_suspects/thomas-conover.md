@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-743
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
-- [Statement of Facts](https://s3.documentcloud.org/documents/21150528/12-3-21-us-v-thomas-conover-complaint-affidavit.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459196/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459186/download)
