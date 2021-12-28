@@ -4,12 +4,12 @@ lastName: Wickersham
 hashtag: GaryWickersham
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-05-07
 charged: 2021-05-07
 indicted:
 convicted: 2021-10-15
-sentenced:
+sentenced: 2021-12-20
 dismissed:
 deceased:
 plea_hearing: 2021-10-15
@@ -39,6 +39,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days home confinement
+  - 36 months probation
+  - $2,000 fine
+  - $500 restitution
 ---
 
 - [News Report](https://www.thedailybeast.com/pennsylvania-man-gary-wickersham-arrested-in-capitol-riot-i-can-enter-the-capitol-because-i-pay-my-taxes)
