@@ -4,10 +4,10 @@ lastName: Nix
 hashtag:
 aka:
 residence: Alabama
-status: Charged
+status: Indicted
 date: 2021-11-10
 charged: 2021-11-10
-indicted:
+indicted: 2021-11-17
 convicted:
 sentenced:
 dismissed:
@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-678
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.al.com/news/birmingham/2021/11/alabama-man-52-charged-with-assault-on-law-enforcement-during-jan-6-breach-at-us-capitol.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1447631/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458896/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458886/download)

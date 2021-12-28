@@ -4,10 +4,10 @@ lastName: Dennis
 hashtag: UnholyGoalie
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-10-13
 charged: 2021-10-13
-indicted:
+indicted: 2021-11-17
 convicted:
 sentenced:
 dismissed:
@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-679
 videos:
 charges:
 sentence:
 ---
 
 - [News Report](https://www.dallasnews.com/news/crime/2021/10/21/garland-man-is-latest-to-be-arrested-for-capitol-riot-after-feds-say-he-fought-with-officers/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Wayne%20Dennis%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458761/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458756/download)

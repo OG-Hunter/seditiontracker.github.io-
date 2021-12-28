@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-711
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.amny.com/news/queens-man-cuffed-for-role-in-attack-on-capitol-building-on-jan-6/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jia%20Liu%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458881/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458871/download)

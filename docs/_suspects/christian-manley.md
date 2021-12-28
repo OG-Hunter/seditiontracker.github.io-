@@ -4,10 +4,10 @@ lastName: Manley
 hashtag: BlueLivesWolfman
 aka:
 residence: Alabama
-status: Charged
+status: Indicted
 date: 2021-10-18
 charged: 2021-10-18
-indicted:
+indicted: 2021-11-19
 convicted:
 sentenced:
 dismissed:
@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-691
 videos:
 charges:
 sentence:
 ---
 
 - [News Report](https://www.al.com/news/2021/10/alabama-man-seen-wearing-bulletproof-vest-pepper-spraying-officers-on-jan-6-arrested-in-alaska.html)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.akd.67758/gov.uscourts.akd.67758.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458781/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458771/download)

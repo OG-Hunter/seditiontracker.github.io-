@@ -4,10 +4,10 @@ lastName: Baquero
 hashtag:
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-10-27
 charged: 2021-10-27
-indicted:
+indicted: 2021-12-01
 convicted:
 sentenced:
 dismissed:
@@ -31,10 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-702
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://bipartisanreport.com/2021/11/12/florida-insurrectionist-who-assaulted-police-caught-charged-by-feds/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julio%20Baquero%20and%20Louis%20Valentin%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458906/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458911/download)
