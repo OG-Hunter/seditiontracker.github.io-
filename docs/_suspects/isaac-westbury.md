@@ -1,7 +1,7 @@
 ---
 name: Isaac Westbury
 lastName: Westbury
-hashtag: TunnelTanSpecs
+hashtag: TanTunnelSpecs
 aka:
 residence: Minnesota
 status: Indicted
@@ -23,7 +23,7 @@ suspect: isaac-westbury.png
 booking:
 courtroom:
 courthouse:
-raid:
+raid: isaac-westburry-arrest.jpg
 perpwalk:
 quote:
 title: Isaac Westbury charged on October 4, 2021
