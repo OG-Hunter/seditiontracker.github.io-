@@ -39,4 +39,4 @@ sentence:
 - [News Report](https://www.wsls.com/news/local/2021/02/26/fbi-arrests-montgomery-county-man-it-believes-took-part-in-us-capitol-riots/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378661/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378656/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389116/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459361/download)

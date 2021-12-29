@@ -41,4 +41,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371266/download)
 - [Courtroom Steps (VIDEO)](https://www.facebook.com/ABC13MiyaShay/videos/1084488068690371/)
 - [Self Incrimination (VIDEO)](https://www.fox26houston.com/news/houston-man-describes-capitol-chaos-during-protest-in-dc)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377651/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459381/download)
