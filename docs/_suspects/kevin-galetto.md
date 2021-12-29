@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/61-year-old-westminster-man-arrested-in-connection-with-jan-6-capitol-riots/ar-BB1fZg2s)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389316/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389321/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Galetto%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459351/download)

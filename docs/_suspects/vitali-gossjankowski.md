@@ -41,4 +41,4 @@ sentence:
 - [Self Incrimination (VIDEO)](https://twitter.com/Cleavon_MD/status/1352302262631088128?s=20)
 - [DOJ Press Release](https://www.justice.gov/opa/page/file/1357716/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357716/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377681/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459356/download)
