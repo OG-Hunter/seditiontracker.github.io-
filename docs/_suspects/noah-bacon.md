@@ -4,10 +4,10 @@ lastName: Bacon
 hashtag: HeartTInsider
 aka:
 residence: Massachusetts
-status: Charged
+status: Indicted
 date: 2021-06-30
 charged: 2021-06-30
-indicted:
+indicted: 2021-07-23
 convicted:
 sentenced:
 dismissed:
@@ -36,5 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://boston.cbslocal.com/2021/06/30/capitol-riot-arrests-fbi-boston-noah-bacon-chase-allen-somerville-seekonk/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408331/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459391/download)
