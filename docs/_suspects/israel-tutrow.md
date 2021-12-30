@@ -4,12 +4,12 @@ lastName: Tutrow
 hashtag: IsraelTutrow
 aka:
 residence: Indiana
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted:
 convicted: 2021-10-06
-sentenced:
+sentenced: 2021-12-21
 dismissed:
 deceased:
 plea_hearing: 2021-10-06
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 36 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.indystar.com/story/news/crime/2021/01/26/capitol-riot-fbi-insurrection-indiana-men-facing-federal-charges/4269649001/)

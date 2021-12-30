@@ -4,12 +4,12 @@ lastName: Meredith
 hashtag: ClevelandMeredith
 aka:
 residence: Colorado
-status: Convicted
+status: Sentenced
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-02-26
 convicted: 2021-09-10
-sentenced:
+sentenced: 2021-12-14
 dismissed:
 deceased:
 plea_hearing: 2021-09-10
@@ -25,7 +25,7 @@ courtroom: cleveland-meredith.png
 courthouse:
 raid:
 perpwalk:
-quote: 'Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji].'
+quote: "Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji]."
 title: Cleveland Meredith charged on January 8th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-159
 videos:
 charges:
-- code: 18 USC § 875(c)
-  title: Interstate Communication of Threats
-  url: https://www.law.cornell.edu/uscode/text/18/875
-  felony: true
+  - code: 18 USC § 875(c)
+    title: Interstate Communication of Threats
+    url: https://www.law.cornell.edu/uscode/text/18/875
+    felony: true
 sentence:
+  - 28 months in prison
+  - 36 months probation
 ---
+
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432141/download)

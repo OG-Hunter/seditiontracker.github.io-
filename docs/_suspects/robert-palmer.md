@@ -4,12 +4,12 @@ lastName: Palmer
 hashtag: FloridaFlagJacket
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-28
 convicted: 2021-10-04
-sentenced:
+sentenced: 2021-12-17
 dismissed:
 deceased:
 plea_hearing: 2021-10-04
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-328
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 63 months in prison
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)

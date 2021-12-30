@@ -4,16 +4,16 @@ lastName: Sorvisto
 hashtag: JeremySorvisto
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-04-05
 charged: 2021-04-05
 indicted:
 convicted: 2021-09-03
-sentenced:
+sentenced: 2021-12-15
 dismissed:
 deceased:
 plea_hearing: 2021-09-03
-sentencing: 2021-11-19
+sentencing: 2021-12-15
 age: 37
 occupation:
 affiliations:
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-320
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days in prison
+  - $500 restitution
 ---
+
 - [News Report](https://www.metrotimes.com/news-hits/archives/2021/04/12/up-man-arrested-for-allegedly-participating-in-deadly-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385571/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1431046/download)

@@ -4,12 +4,12 @@ lastName: Edwards
 hashtag: GaryEdwards
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-04-23
 charged: 2021-04-23
 indicted:
 convicted: 2021-09-27
-sentenced:
+sentenced: 2021-12-20
 dismissed:
 deceased:
 plea_hearing: 2021-09-27
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - $2,500 fine
+  - 12 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://6abc.com/capitol-riot-arrest-bucks-county-churchville-gary-edwards/10585377/)
