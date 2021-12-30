@@ -34,13 +34,9 @@ published: true
 caseNumber: 1:21-cr-156
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceding
+  - code: 18 USC § 1512(c)(2) 18 USC § 2
+    title: Obstruction of an Official Proceding (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 2
-    title: Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/2
     felony: true
   - code: 18 USC § 5104(e)(2)(D)
     title: Disorderly Conduct in a Capitol Building
