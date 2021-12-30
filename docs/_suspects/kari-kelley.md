@@ -4,16 +4,16 @@ lastName: Kelley
 hashtag: KariKelley
 aka:
 residence: Alabama
-status: Charged
+status: Convicted
 date: 2021-02-10
 charged: 2021-02-10
 indicted:
-convicted:
+convicted: 2021-12-28
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing: 2021-12-23
+plea_hearing: 2021-12-28
+sentencing: 2022-03-17
 age: 40
 occupation: Insurance Adjuster
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
@@ -42,3 +46,4 @@ sentence:
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228678/gov.uscourts.dcd.228678.78.0.pdf)

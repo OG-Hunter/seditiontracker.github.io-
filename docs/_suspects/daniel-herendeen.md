@@ -4,16 +4,16 @@ lastName: Herendeen
 hashtag: DanielHerendeen
 aka:
 residence: Michigan
-status: Indicted
+status: Convicted
 date: 2021-03-18
 charged: 2021-03-18
 indicted: 2021-04-02
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2021-12-17
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-17
+sentencing: 2022-03-03
 age: 43
 occupation: Business Owner
 affiliations:
@@ -34,9 +34,15 @@ published: true
 caseNumber: 1:21-cr-278
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/03/18/us-capitol-riot-leads-charges-against-two-more-michigan-men/4746118001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378831/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378836/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384351/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229689/gov.uscourts.dcd.229689.54.0.pdf)

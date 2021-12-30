@@ -4,16 +4,16 @@ lastName: Barber
 hashtag: EricBarber
 aka:
 residence: West Virginia
-status: Charged
+status: Convicted
 date: 2021-02-16
 charged: 2021-02-16
 indicted:
-convicted:
+convicted: 2021-12-16
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-16
+sentencing: 2022-03-31
 age: 41
 occupation: Former Councilman
 affiliations:
@@ -34,8 +34,14 @@ published: true
 caseNumber: 1:21-cr-228
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/west-virginia-man-charged-with-stealing-cspan-equipment-during-capitol-riots/ar-BB1efFsk)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378386/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378381/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229013/gov.uscourts.dcd.229013.28.0.pdf)

@@ -4,16 +4,16 @@ lastName: Martin
 hashtag: ZacharyMartin
 aka: Zac Martin
 residence: Missouri
-status: Charged
+status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted:
+convicted: 2021-12-28
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-12-23
-sentencing:
+plea_hearing: 2021-12-28
+sentencing: 2022-03-17
 age:
 occupation:
 affiliations:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-201
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 

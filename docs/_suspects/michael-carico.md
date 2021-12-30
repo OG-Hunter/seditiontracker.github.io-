@@ -4,16 +4,16 @@ lastName: Carico
 hashtag: MichaelCarico
 aka:
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-07-22
 charged: 2021-07-22
 indicted:
-convicted:
+convicted: 2021-12-21
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-21
+sentencing: 2022-03-31
 age:
 occupation:
 affiliations:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Hey Nancy, go fuck yourself.'
+quote: "Hey Nancy, go fuck yourself."
 title: Michael Carico charged on July 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,7 +34,13 @@ published: true
 caseNumber: 1:21-mj-537
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.businessinsider.com/capitol-riot-suspect-navy-hat-camo-shirt-never-actually-served-2021-8?op=1)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423741/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237933/gov.uscourts.dcd.237933.27.0_1.pdf)

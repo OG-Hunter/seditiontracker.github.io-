@@ -4,16 +4,16 @@ lastName: Comeau
 hashtag:
 aka:
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-10-13
 charged: 2021-10-13
 indicted:
-convicted:
+convicted: 2021-12-21
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2021-12-21
+sentencing: 2022-05-03
 age:
 occupation:
 affiliations: Former U.S. Military
@@ -34,8 +34,14 @@ published: true
 caseNumber: 1:21-cr-629
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457811/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457801/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457806/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236564/gov.uscourts.dcd.236564.20.0_1.pdf)
