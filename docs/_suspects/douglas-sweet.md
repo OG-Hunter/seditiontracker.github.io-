@@ -4,12 +4,12 @@ lastName: Sweet
 hashtag: DouglasSweet
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-15
 convicted: 2021-08-10
-sentenced:
+sentenced: 2021-11-09
 dismissed:
 deceased:
 plea_hearing: 2021-08-10
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Trump asked all the patriots to show up, so I did.'
+quote: "Trump asked all the patriots to show up, so I did."
 title: Douglas Sweet charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days home detention
+  - 36 months of probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.wtkr.com/news/mathews-co-man-arrested-during-capitol-riot-trump-asked-all-the-patriots-to-show-up-so-i-did)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
