@@ -4,12 +4,12 @@ lastName: Reimler
 hashtag: NauticaInsider
 aka:
 residence: Missouri
-status: Convicted
+status: Sentenced
 date: 2021-02-19
 charged: 2021-02-19
 indicted:
 convicted: 2021-09-17
-sentenced:
+sentenced: 2021-12-10
 dismissed:
 deceased:
 plea_hearing: 2021-09-17
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 36 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.kmov.com/news/jefferson-county-man-charged-after-allegedly-participating-in-capitol-riot/article_d0b8e372-72e3-11eb-ad68-3ba6336f4130.html)
