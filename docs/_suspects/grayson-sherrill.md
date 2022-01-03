@@ -4,10 +4,10 @@ lastName: Sherrill
 hashtag: RedStatueStander
 aka:
 residence: North Carolina
-status: Charged
+status: Indicted
 date: 2021-03-01
 charged: 2021-03-01
-indicted:
+indicted: 2021-12-15
 convicted:
 sentenced:
 dismissed:
@@ -41,3 +41,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379336/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386306/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460131/download)
