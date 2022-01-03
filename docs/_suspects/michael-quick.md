@@ -44,3 +44,4 @@ sentence:
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Quick%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372086/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459976/download)

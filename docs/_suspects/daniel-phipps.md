@@ -36,9 +36,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/01/27/garland-man-who-posted-photo-of-himself-inside-capitol-building-is-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360726/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360726/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371656/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392991/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459956/download)
