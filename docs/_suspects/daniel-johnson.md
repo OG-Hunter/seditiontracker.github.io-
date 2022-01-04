@@ -4,15 +4,15 @@ lastName: Johnson
 hashtag: DanielJohnson
 aka:
 residence: Minnesota
-status: Charged
+status: Convicted
 date: 2021-06-04
 charged: 2021-06-04
 indicted:
-convicted:
+convicted: 2021-01-04
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-01-04
 sentencing:
 age: 29
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Lol Dad and I were one of the first ones inside.'
+quote: "Lol Dad and I were one of the first ones inside."
 title: Daniel Johnson charged on June 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,8 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.kaaltv.com/austin-minnesota-news/austin-man-arrested-in-connection-to-capitol-riots-in-january/6137943/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)
