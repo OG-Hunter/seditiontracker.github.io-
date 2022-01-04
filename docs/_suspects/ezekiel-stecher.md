@@ -4,10 +4,10 @@ lastName: Stecher
 hashtag: BlackSherpaPaperPlan
 aka:
 residence: New Jersey
-status: Charged
+status: Indicted
 date: 2021-03-04
 charged: 2021-03-04
-indicted:
+indicted: 2021-12-08
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://nj1015.com/south-jersey-farmer-charged-with-attacking-police-at-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393756/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460176/download)

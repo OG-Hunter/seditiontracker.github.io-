@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-543
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://abcnews.go.com/US/facial-recognition-dating-apps-technology-helping-investigators-track/story?id=78196937)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392641/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460181/download)
