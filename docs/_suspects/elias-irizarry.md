@@ -4,13 +4,13 @@ lastName: Irizarry
 hashtag: EliasIrizarry
 aka:
 residence: South Carolina
-status: Charged
+status: Indicted
 date: 2021-03-15
 charged: 2021-03-15
-indicted:
-convicted: 
-sentenced: 
-dismissed: 
+indicted: 2021-12-15
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +36,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://abcnews4.com/news/local/citadel-cadet-charged-in-capitol-riot-probe-bonds-out-of-jail-1st-court-date-set)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386301/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386306/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460131/download)

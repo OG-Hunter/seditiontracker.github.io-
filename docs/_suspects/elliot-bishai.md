@@ -4,10 +4,10 @@ lastName: Bishai
 hashtag: ElliotBishai
 aka:
 residence: South Carolina
-status: Charged
+status: Indicted
 date: 2021-03-15
 charged: 2021-03-15
-indicted:
+indicted: 2021-12-15
 convicted:
 sentenced:
 dismissed:
@@ -36,6 +36,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.thestate.com/news/local/crime/article249973884.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386291/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460131/download)
