@@ -44,3 +44,4 @@ sentence:
 - [News Report](https://www.kaaltv.com/austin-minnesota-news/austin-man-arrested-in-connection-to-capitol-riots-in-january/6137943/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/father-and-son-plead-guilty-felony-charges-offenses-committed-during-jan-6-capitol-breach)
