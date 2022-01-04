@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://abc7news.com/evan-neumann-mill-valley-fbi-most-wanted-list/10882741/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Evan%20Neumann%20Statement%20of%20Facts.pdf)
-- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238424/gov.uscourts.dcd.238424.7.0.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460291/download)
 - [Press Release](https://www.justice.gov/usao-dc/pr/california-man-indicted-charges-assaulting-law-enforcement-during-jan-6-capitol-breach)

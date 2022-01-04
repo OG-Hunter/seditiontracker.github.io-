@@ -39,4 +39,4 @@ sentence:
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393041/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460186/download)
