@@ -39,10 +39,11 @@ sentence:
   - 36 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428526/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364746/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rasha%20Abual-Ragheb%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428521/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rasha%20Abual-Ragheb%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rasha%20Abual-Ragheb%20Judgment.pdf)
