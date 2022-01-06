@@ -383,6 +383,9 @@ const linkType = (description: string, lastName?: string) => {
     case /.* Judgement/.test(description):
       return "Judgement";
 
+    case description == "Amended Judgment":
+      return "Ammended Judgement";
+
     case /Order Denying Defendant's Motion for Conditional Release/.test(description):
       return "Order Denying Bond";
 

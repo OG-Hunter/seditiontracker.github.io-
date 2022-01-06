@@ -45,3 +45,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413356/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432551/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432556/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Government%20Sentencing%20Memorandum.pdf)

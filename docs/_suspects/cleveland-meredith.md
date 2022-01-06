@@ -34,18 +34,19 @@ published: true
 caseNumber: 1:21-cr-159
 videos:
 charges:
-  - code: 18 USC § 875(c)
-    title: Interstate Communication of Threats
-    url: https://www.law.cornell.edu/uscode/text/18/875
-    felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
   - 28 months in prison
   - 36 months probation
 ---
-
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432141/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Meredith%20Detention%20Memorandum.pdf)
 - [Indictment](https://www.justice.gov/opa/case-multi-defendant/file/1405611/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432146/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Grover%20Meredith%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Grover%20Meredith%20Judgment.pdf)

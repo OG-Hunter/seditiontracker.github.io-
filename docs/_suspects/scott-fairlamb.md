@@ -33,28 +33,27 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-120
 videos:
-  - title: Exhibit 2 - Fairlamb Instagram Scaffolding Video.mp4 (0:00:13)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c492bbc0ce2c013960702cde48001122.mp4
-  - title: Exhibit 12 - Clip from _Cop Vs The American People!!_ (compressed).mp4 (0:00:45)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bc79cfc0ce2c013960702cde48001122.mp4
-  - title: Exhibit 8 - Fairlamb Facebook video.mp4 (0:00:08)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c405c7a0ce2c013960702cde48001122.mp4
-  - title: Exhibit 14 - Body worn camera.mp4 (0:00:35)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c58f4b60ce2c013960702cde48001122.mp4
+- title: Exhibit 2 - Fairlamb Instagram Scaffolding Video.mp4 (0:00:13)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c492bbc0ce2c013960702cde48001122.mp4
+- title: Exhibit 12 - Clip from _Cop Vs The American People!!_ (compressed).mp4 (0:00:45)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bc79cfc0ce2c013960702cde48001122.mp4
+- title: Exhibit 8 - Fairlamb Facebook video.mp4 (0:00:08)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c405c7a0ce2c013960702cde48001122.mp4
+- title: Exhibit 14 - Body worn camera.mp4 (0:00:35)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c58f4b60ce2c013960702cde48001122.mp4
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an official proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an official proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 41 months in prison
   - 36 months supervised release
 ---
-
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359221/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)
@@ -67,3 +66,4 @@ sentence:
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Defense%20Memorandum%20in%20Support%20of%20Pretrial%20Release.pdf)
 - [Order Granting Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Memorandum%20Opinion.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Judgment.pdf)
