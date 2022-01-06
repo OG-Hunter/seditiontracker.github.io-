@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 29
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.newsweek.com/who-james-tate-grant-capitol-riot-suspect-faces-jail-over-rifle-found-car-1663125)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457746/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457736/download)
