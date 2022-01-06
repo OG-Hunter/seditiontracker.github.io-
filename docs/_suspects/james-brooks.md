@@ -1,0 +1,41 @@
+---
+name: James Brooks
+lastName: Brooks
+hashtag:
+aka:
+residence: Tennessee
+status: Charged
+date: 2022-01-03
+charged:
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/james-brooks.jpg
+suspect: james-brooks.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: James Brooks charged on January 3, 2022
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Wayne%20Brooks%20Statement%20of%20Facts.pdf)
