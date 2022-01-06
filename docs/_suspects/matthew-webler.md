@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 42
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.ajc.com/news/metro-atlanta-contractor-latest-arrested-in-jan-6-probe/UINNVLIJ4JCJ7HNK7EDPR5EEFI/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459091/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459081/download)

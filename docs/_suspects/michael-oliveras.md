@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.nj.com/camden/2022/01/parler-users-tipped-off-fbi-about-latest-nj-man-charged-in-us-capitol-riot.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Oliveras%20Criminal%20Complaint.pdf)

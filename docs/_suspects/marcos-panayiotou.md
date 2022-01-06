@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 29
 occupation: U.S. Marine Corps Reservist
 affiliations:
 jurisdiction: Federal
@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.nj.com/news/2022/01/ex-marine-among-4-more-suspects-from-nj-charged-in-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459226/download)
