@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Was it pretty? No. Did it make a statement? Yes.'
 title: John Cameron charged on December 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Cameron%20Criminal%20Complaint.pdf)
