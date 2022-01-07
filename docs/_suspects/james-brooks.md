@@ -6,7 +6,7 @@ aka:
 residence: Tennessee
 status: Charged
 date: 2022-01-03
-charged:
+charged: 2022-01-03
 indicted:
 convicted:
 sentenced:
@@ -30,12 +30,11 @@ title: James Brooks charged on January 3, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Wayne%20Brooks%20Statement%20of%20Facts.pdf)
