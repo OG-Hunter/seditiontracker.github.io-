@@ -569,16 +569,6 @@ const linkType = (description: string, lastName?: string) => {
   }
 };
 
-interface suspectData {
-  nameSet: Set<string>;
-  firstName: string;
-  lastName: string;
-  dateString: string;
-  links: string;
-  caseNumber?: string;
-  residence?: string;
-  age?: string;
-}
 const addData = (suspectData) => {
   const { firstName, lastName, nameSet, residence, age, caseNumber, links } = suspectData;
   const nameToCheck = dasherizeName(firstName, lastName);

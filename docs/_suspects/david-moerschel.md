@@ -31,13 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-28
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/oathkeeper-arrested-david-moerschel/2021/07/02/0f54d5aa-db5d-11eb-9bbb-37c30dcf9363_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408901/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caldwell%20et%20al%20Fifth%20Superseding%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461706/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/fifth-superseding-indictment-unsealed-oath-keeper-conspiracy-case-related-jan-6-capitol)

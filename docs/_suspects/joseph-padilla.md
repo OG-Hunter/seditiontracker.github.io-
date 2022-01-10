@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.timesfreepress.com/news/local/story/2021/feb/23/chattanooga-area-man-accused-participating-capitol-riot-january-6-arrested/542166/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371481/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379316/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461486/download)

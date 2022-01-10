@@ -36,9 +36,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.denverpost.com/2021/01/19/us-capitol-riot-colorado-arrest-patrick-montgomery/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357711/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357706/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364766/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461696/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Patrick%20Montgomery%20Information.pdf)

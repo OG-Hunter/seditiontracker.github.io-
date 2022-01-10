@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-474
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cnn.com/2021/07/13/politics/munn-family-texas-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415406/download)

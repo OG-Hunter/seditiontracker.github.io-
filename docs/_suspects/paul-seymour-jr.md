@@ -1,0 +1,41 @@
+---
+name: Paul Seymour Jr
+lastName: Seymour Jr
+hashtag:
+aka:
+residence: Ohio
+status: Charged
+date: 2021-12-03
+charged: 2021-12-03
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/paul-seymour-jr.jpg
+suspect: paul-seymour-jr.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Paul Seymour charged on December 3, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Lee%20Seymour%20Sr.%20and%20Jr.%20Criminal%20Complaint.pdf)

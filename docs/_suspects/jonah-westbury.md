@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://kstp.com/news/26-year-old-minnesota-man-arrested-in-connection-with-us-capitol-attack/6069768/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385911/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385916/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461711/download)

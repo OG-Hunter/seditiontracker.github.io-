@@ -43,3 +43,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351701/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1361266/download)
 - [Proud Boy Oath (VIDEO)](https://twitter.com/BGOnTheScene/status/1327792375863898112?s=20)
+- [News Report (Violation of Release Conditions)](https://www.wusa9.com/article/news/national/capitol-riots/the-last-straw-after-months-of-curfew-violations-and-threats-doj-wants-proud-boy-locked-up-joshua-pruitt-enrique-tarrio-blm-january6-capitol-riot/65-1f110f41-7ce6-4056-ae20-e3c7f741d897)

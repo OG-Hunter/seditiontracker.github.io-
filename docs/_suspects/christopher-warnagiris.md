@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/christopher-warnagiris-active-duty-marine-based-quantico-arrested-assaulting-officer-capitol-1591329)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/active-duty-us-marine-corps-officer-arrested-assault-federal-law-enforcement-officer)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1393941/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415461/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461551/download)

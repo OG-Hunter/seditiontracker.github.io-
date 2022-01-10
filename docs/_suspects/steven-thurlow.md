@@ -38,4 +38,4 @@ sentence:
 ---
 - [News Report](https://www.macombdaily.com/2021/06/30/st-clair-shores-man-accused-of-participating-in-jan-6-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407971/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Steven%20Thurlow%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461546/download)
