@@ -33,14 +33,13 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-208
 videos:
-  - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
+- title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nytimes.com/2021/02/23/nyregion/nypd-officer-arrested-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369976/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1363940436835004416?s=20)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380296/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461941/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1408403884637405188)

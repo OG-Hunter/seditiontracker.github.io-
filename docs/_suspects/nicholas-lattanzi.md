@@ -1,0 +1,41 @@
+---
+name: Nicholas Lattanzi
+lastName: Lattanzi
+hashtag:
+aka:
+residence: Delaware
+status: Charged
+date: 2022-01-10
+charged: 2022-01-10
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/nicholas-lattanzi.jpg
+suspect: nicholas-lattanzi.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Nicholas Lattanzi charged on January 10, 2022
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nick%20Lattanzi%20Statement%20of%20Facts.pdf)

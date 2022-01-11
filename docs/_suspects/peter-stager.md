@@ -36,10 +36,9 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)
 - [Complaint](https://www.justice.gov/opa/page/file/1354981/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355506/download)
 - [Booking (Video)](https://www.thv11.com/video/news/crime/peter-stager-booking-video/91-fc5a4b9c-0c85-4f3c-8974-04b77409c8cc)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413436/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461561/download)

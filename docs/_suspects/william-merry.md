@@ -4,15 +4,15 @@ lastName: Merry
 hashtag: WilliamMerry
 aka:
 residence: Missouri
-status: Charged
+status: Convicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-01-05
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-01-05
 sentencing:
 age: 62
 occupation:
@@ -34,7 +34,14 @@ published: true
 caseNumber: 1:21-mj-173
 videos:
 charges:
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365726/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461906/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461896/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461901/download)

@@ -36,12 +36,11 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Video)](https://twitter.com/waterspider__/status/1349422388396494850)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1356556/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461921/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356561/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362886/download)
 - [FBI Raid (Video)](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gina%20Bisignano%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461916/download)
