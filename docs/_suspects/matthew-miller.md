@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360201/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360201/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366111/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461761/download)

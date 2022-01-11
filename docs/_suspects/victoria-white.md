@@ -40,4 +40,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385536/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385541/download)
 - [Incriminating Evidence (VIDEO)](https://www.youtube.com/watch?v=NUoBiRXZs5Q)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Victoria%20White%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461751/download)

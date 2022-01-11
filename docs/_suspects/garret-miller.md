@@ -40,7 +40,7 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359601/download)
 - [Ammended Complaint](https://www.justice.gov/opa/page/file/1359601/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410771/download)
+- [Indictment](https://www.justice.gov/opa/case-multi-defendant/file/1461776/download)
 - [Government's Opposition to Defendent's Motion for Discovery](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Garret%20Miller%20Government%20Opposition%20to%20Defendants%20Motion%20for%20Discovery%20and%20for%20an%20Evidentiary%20Hearing.pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Garret%20Miller%20Defense%20Reply%20to%20Govt%20Opposition%20to%20Motion%20to%20Revoke%20Detention%20Order.pdf)
 - [Defense Motion for Discovery](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Garret%20Miller%20Defense%20Motion%20for%20Discovery%20and%20for%20an%20Evidentiary%20Hearing.pdf)
