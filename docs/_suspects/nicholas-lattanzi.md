@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'New jacket who wants to commit war crimes in Bosnia with me?'
 title: Nicholas Lattanzi charged on January 10, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.rawstory.com/capitol-riot-arrests-2656379230/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nick%20Lattanzi%20Statement%20of%20Facts.pdf)
