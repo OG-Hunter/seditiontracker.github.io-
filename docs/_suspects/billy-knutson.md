@@ -1,7 +1,7 @@
 ---
 name: Billy Knutson
 lastName: Knutson
-hashtag: PlayboyTheBeast
+hashtag:
 aka: Playboy The Beast
 residence: North Carolina
 status: Charged
