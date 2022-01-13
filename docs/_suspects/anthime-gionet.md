@@ -4,16 +4,16 @@ lastName: Gionet
 hashtag: BakedAlaska
 aka: Tom Gionet, Baked Alaska
 residence: Arizona
-status: Charged
+status: Sentenced
 date: 2021-01-16
 charged: 2021-01-16
 indicted:
 convicted:
-sentenced:
+sentenced: 2022-01-13
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+sentencing: 2022-01-13
 age: 33
 occupation:
 affiliations:
@@ -35,7 +35,10 @@ caseNumber: 1:21-mj-14
 videos:
 charges:
 sentence:
+  - 30 days in prison
+  - $500 restitution
 ---
+
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)
