@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-27
-sentencing: 2022-01-12
+sentencing: 2022-01-18
 age: 25
 occupation:
 affiliations:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.oklahoman.com/story/news/2021/05/17/fifth-oklahoman-charged-us-capitol-attack-jan-6/5137167001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437041/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437036/download)
