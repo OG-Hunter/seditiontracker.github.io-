@@ -8,12 +8,12 @@ status: Convicted
 date: 2021-01-13
 charged: 2021-01-28
 indicted: 2021-01-27
-convicted: 2021-01-14
+convicted: 2022-01-14
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-01-14
-sentencing:
+sentencing: 2022-05-11
 age: 20
 occupation:
 affiliations:
