@@ -2,7 +2,7 @@
 name: Stewart Rhodes
 lastName: Rhodes
 hashtag: 
-aka: Elmer Stewart Rhodes
+aka: Elmer Stewart Rhodes III
 residence: Texas
 status: Indicted
 date: 2022-01-12
@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age: 56
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/stewart-rhodes.jpg
 suspect: stewart-rhodes.jpg
