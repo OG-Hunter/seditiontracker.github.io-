@@ -38,3 +38,4 @@ sentence:
 ---
 
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239196/gov.uscourts.dcd.239196.1.1_2.pdf)
+- [DOJ Statement](https://www.justice.gov/usao-dc/pr/three-florida-men-arrested-felony-charges-related-jan-6-capitol-breach-0)
