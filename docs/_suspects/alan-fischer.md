@@ -36,3 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
+- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239196/gov.uscourts.dcd.239196.1.1_2.pdf)
