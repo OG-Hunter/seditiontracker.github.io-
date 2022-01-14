@@ -36,3 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239182/gov.uscourts.dcd.239182.1.0.pdf)
