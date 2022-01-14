@@ -4,11 +4,11 @@ lastName: Ehmke
 hashtag: HunterEhmke
 aka:
 residence: California
-status: Indicted
+status: Convicted
 date: 2021-01-13
 charged: 2021-01-28
 indicted: 2021-01-27
-convicted:
+convicted: 2021-01-14
 sentenced:
 dismissed:
 deceased:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-29
 videos:
 charges:
+  - code: 18 USC § 1361
+    title: Destruction of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
 sentence:
 ---
 

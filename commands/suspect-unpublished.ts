@@ -21,6 +21,9 @@ const unpublished = async () => {
     nameSet.add(lastName.toUpperCase());
 
     if (data.match(/published: false/)) {
+      if (name.match(/Boele/)) {
+        continue; // shhh don't publish him yet
+      }
       console.log(name);
       if (cmd.publish) {
         writeFile(suspectPath, data.replace("published: false", "published: true"));
