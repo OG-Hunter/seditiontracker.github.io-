@@ -1,9 +1,9 @@
 ---
-name: Stewart Rhodes
-lastName: Rhodes
+name: Edward Vallejo
+lastName: Vallejo
 hashtag: 
-aka: Elmer Stewart Rhodes III
-residence: Texas
+aka:
+residence: Arizona
 status: Indicted
 date: 2022-01-12
 charged: 2022-01-12
@@ -14,27 +14,27 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age: 56
+age: 63
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/stewart-rhodes.jpg
-suspect: stewart-rhodes.jpg
-booking: stewart-rhodes.jpg
-courtroom: stewart-rhodes.jpg
+image: /images/preview/edward-vallejo.jpg
+suspect: edward-vallejo.jpg
+booking:
+courtroom:
 courthouse:
-raid: stewart-rhodes.jpg
+raid:
 perpwalk:
 quote:
-title: Stewart Rhodes charged on 1/12/2022
+title: Edward Vallejo charged on 1/12/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: true
+published: false
 caseNumber:
 videos:
 charges:
 sentence:
 ---
-- [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
+- [News Report](https://www.azcentral.com/story/news/local/phoenix-breaking/2022/01/13/phoenix-man-edward-vallejo-charged-relation-jan-6-capitol-breach/6516426001/)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1462481/download)

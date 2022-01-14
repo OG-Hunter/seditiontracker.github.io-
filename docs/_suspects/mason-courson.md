@@ -20,10 +20,10 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/mason-courson.jpg
 suspect: mason-courson.jpg
-booking:
+booking: mason-courson.jpg
 courtroom:
 courthouse:
-raid:
+raid: mason-courson.jpg
 perpwalk:
 quote:
 title: Mason Courson charged on 11/17/2021

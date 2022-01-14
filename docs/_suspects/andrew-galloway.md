@@ -38,3 +38,4 @@ sentence:
 ---
 
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Galloway%20Criminal%20Complaint.pdf)
+- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238869/gov.uscourts.dcd.238869.1.1.pdf)
