@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/stewart-rhodes.jpg
 suspect: stewart-rhodes.jpg
 booking: stewart-rhodes.jpg
-courtroom:
+courtroom: stewart-rhodes.jpg
 courthouse:
 raid: stewart-rhodes.jpg
 perpwalk:
