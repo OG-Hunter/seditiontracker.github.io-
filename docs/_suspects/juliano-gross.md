@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'We are gonna to head out because we just got an emergency alert that they have mobilized the National Guard, so I’m heading out.'
 title: Juliano Gross charged on January 11, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Juliano%20Gross%20Statement%20of%20Facts.pdf)

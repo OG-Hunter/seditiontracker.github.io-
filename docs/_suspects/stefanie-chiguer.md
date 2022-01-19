@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 36
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.boston.com/news/local-news/2022/01/18/capitol-riot-two-new-england-women-charged/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kirstyn%20Niemela%20and%20Stefanie%20Nicole%20Chiguer%20Statement%20of%20Facts.pdf)
