@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1387521/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Albuquerque%20Cosper%20Head%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Albuquerque%20Cosper%20Head%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

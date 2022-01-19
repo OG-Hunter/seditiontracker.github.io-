@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.courant.com/breaking-news/hc-br-new-london-man-arrested-capitol-riot-20211112-34gykmlotvhs7drrykkdl6g4pi-story.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Baouche%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Baouche%20Information.pdf)

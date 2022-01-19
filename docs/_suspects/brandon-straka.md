@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441146/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Straka%20Superseding%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441141/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Straka%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)

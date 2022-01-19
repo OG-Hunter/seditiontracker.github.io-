@@ -46,3 +46,4 @@ sentence:
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Couy%20Griffin%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365786/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cuoy%20Griffin%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Couy%20Griffin%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

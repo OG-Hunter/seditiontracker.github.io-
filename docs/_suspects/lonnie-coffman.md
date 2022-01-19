@@ -60,3 +60,4 @@ sentence:
 - [Detention Exhibit 3](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lonnie%20Coffman%20Memorandum%20in%20Support%20of%20Pretrial%20Detention%20Exhibit%203.pdf)
 - [Detention Exhibit 4](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lonnie%20Coffman%20Memorandum%20in%20Support%20of%20Pretrial%20Detention%20Exhibit%204.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448131/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lonnie%20Coffman%20Memorandum%20in%20Support%20of%20Pretrial%20Detention%20Exhibit%204.pdf)

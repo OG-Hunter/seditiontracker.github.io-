@@ -371,6 +371,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Memorandum in Aid of Sentencing/.test(description):
     case /.*Government Sentencing Memorandum.*/.test(description):
     case /.*Sentencing Memo.*/.test(description):
+    case /Memorandum/.test(description):
       return "Sentencing Memo";
 
     case /Detention Hearing Transcript/.test(description):
@@ -419,7 +420,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Government's Motion to Modify Conditions of Release";
 
     case /Motion to Revoke Pretrial Release/.test(description):
-      return "Government's Motion to Revoke Pretrial Release";
+      return "Government's Motion to Revoke Pretrial guRelease";
 
     case /Detention Memo/.test(description):
     case /Government Detention Memorandum/.test(description):

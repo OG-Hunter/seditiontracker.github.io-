@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384551/download)
@@ -44,3 +43,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Quaglin%20Detention%20Order.pdf)
 - [Arraignment and Status Conference Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Arraignment%20Hearing%20Status%20and%20Conference%20Transcript.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Quaglin%20Governments%20Memorandum%20in%20Support%20of%20Pre-Trial%20Detention.pdf)

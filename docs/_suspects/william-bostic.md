@@ -1,8 +1,8 @@
 ---
-name: Willard Bostic
+name: William Bostic
 lastName: Bostic
 hashtag:
-aka: William Bostic, Tom Bostic
+aka: Tom Bostic
 residence: Virginia
 status: Charged
 date: 2021-10-05
@@ -26,7 +26,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Willard Bostic charged on October 5, 2021
+title: William Bostic charged on October 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

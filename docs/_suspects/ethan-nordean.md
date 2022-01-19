@@ -49,3 +49,4 @@ sentence:
 - [Defendant's Notice of Government's Violation of Due Process Protections Act](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Notice.pdf)
 - [Government Opposition to to Lift Stay on Release Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Government%20Opposition%20to%20Defendants%20Motion%20to%20Lift%20Stay%20on%20Release%20Order.pdf)
 - [Government's Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Govt%20Motion%20to%20Revoke%20Pretrial%20Release.pdf)
+- [Government's Motion to Revoke Pretrial guRelease](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Govt%20Motion%20to%20Revoke%20Pretrial%20Release.pdf)
