@@ -418,6 +418,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Government's Motion to Modify Conditions of Release/.test(description):
       return "Government's Motion to Modify Conditions of Release";
 
+    case /Motion to Revoke Pretrial Release/.test(description):
+      return "Government's Motion to Revoke Pretrial Release";
+
     case /Detention Memo/.test(description):
     case /Government Detention Memorandum/.test(description):
     case /Memorandum in Support of Pretrial Detention/.test(description):
