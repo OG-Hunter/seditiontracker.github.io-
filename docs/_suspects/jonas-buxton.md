@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.kmov.com/news/st-louis-man-faces-federal-charges-for-involvement-in-january-6-capitol-riot/article_456b66e6-5a14-11ec-bbcd-a7b1b51ac5a6.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonas%20Buxton%20Criminal%20Complaint.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonas%20Buxton%20Information.pdf)

@@ -4,10 +4,10 @@ lastName: Sargent
 hashtag: BigBrickPitcher
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-09-13
 charged: 2021-09-13
-indicted:
+indicted: 2021-10-22
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://twitter.com/ryanjreilly/status/1440346134887559178)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435886/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Sargent%20Indictment.pdf)
