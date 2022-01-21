@@ -14,9 +14,9 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 28
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/alan-fischer.jpg
 suspect: alan-fischer.jpg
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.wtsp.com/article/news/crime/alan-fischer-model-arrested-capitol-riot/67-9eb9a39d-2a6d-4a6e-9468-62104516fe1a)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239196/gov.uscourts.dcd.239196.1.1_2.pdf)
 - [DOJ Statement](https://www.justice.gov/usao-dc/pr/three-florida-men-arrested-felony-charges-related-jan-6-capitol-breach-0)
