@@ -30,7 +30,7 @@ title: Christopher Logsdon charged on 1/18/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
