@@ -14,9 +14,9 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 61
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/dion-rajewski.jpg
 suspect: dion-rajewski.jpg
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.tampabay.com/news/pinellas/2022/01/14/pinellas-men-carried-sledgehammer-pepper-spray-in-jan-6-capitol-riot-indictment-says/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239182/gov.uscourts.dcd.239182.1.0.pdf)
 - [DOJ Statement](https://www.justice.gov/usao-dc/pr/three-florida-men-arrested-felony-charges-related-jan-6-capitol-breach-0)

@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.yahoo.com/news/capitol-riot-suspect-livestreamed-insurrection-172911142.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Juliano%20Gross%20Statement%20of%20Facts.pdf)
