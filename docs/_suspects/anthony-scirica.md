@@ -4,12 +4,12 @@ lastName: Scirica
 hashtag: AnthonyScirica
 aka:
 residence: North Carolina
-status: Convicted
+status: Sentenced
 date: 2021-06-14
 charged: 2021-06-14
 indicted:
 convicted: 2021-09-28
-sentenced:
+sentenced: 2022-01-20
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
@@ -34,12 +34,15 @@ published: true
 caseNumber: 1:21-cr-457
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 15 days in prison
+  - $500 restitution
 ---
+
 - [News Report](https://www.newsweek.com/capitol-rioter-anthony-scirica-charged-after-friend-snapchats-about-him-tv-1601370)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438301/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413476/download)
