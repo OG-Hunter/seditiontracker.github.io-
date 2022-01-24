@@ -4,10 +4,10 @@ lastName: Davis
 hashtag: GruntStickPB
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-07-22
 charged: 2021-07-22
-indicted:
+indicted: 2021-09-22
 convicted:
 sentenced:
 dismissed:
@@ -36,7 +36,9 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://fredericksburg.com/news/local/king-george-man-charged-in-jan-6-assault-on-u-s-capitol/article_a8b46070-9253-533a-b4fe-77dc0d0be187.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach-0)
 - [Self Incrimination (Video)](https://www.facebook.com/willistonTrendingTopicsNewsRadioLive/videos/838622173374753/)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Russell%20Davis%20Indictment.pdf)
