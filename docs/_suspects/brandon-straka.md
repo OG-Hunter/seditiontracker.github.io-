@@ -4,16 +4,16 @@ lastName: Straka
 hashtag: BrandonStraka
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
 convicted: 2021-10-06
-sentenced:
+sentenced: 2022-01-24
 dismissed:
 deceased:
 plea_hearing: 2021-10-06
-sentencing: 2021-12-17
+sentencing: 2022-01-24
 age: 43
 occupation: Hair Stylist (Former)
 affiliations:
@@ -34,12 +34,17 @@ published: true
 caseNumber: 1:21-mj-134
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 months home detention
+  - 3 years probation
+  - $5,000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
 - [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441146/download)
