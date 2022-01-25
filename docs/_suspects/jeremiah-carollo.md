@@ -1,5 +1,5 @@
 ---
-name: Anthony Carollo
+name: Jeremiah Carollo
 lastName: Carollo
 hashtag:
 aka:
@@ -14,19 +14,19 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age: 23
+age: 45
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/anthony-carollo.jpg
-suspect: anthony-carollo.jpg
+image: /images/preview/jeremiah-carollo.jpg
+suspect: jeremiah-carollo.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Anthony Carollo charged on January 19, 2022
+title: Jeremiah Carollo charged on January 19, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report](https://chicago.suntimes.com/crime/2022/1/19/22891618/feds-charge-three-illinois-men-us-capitol-breach-investigation)
+- [News Report](https://www.stltoday.com/news/local/crime-and-courts/glen-carbon-man-faces-capitol-riot-charge/article_b02213cd-4f1a-51e7-91d2-1c5e3fadb628.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Criminal%20Complaint.pdf)

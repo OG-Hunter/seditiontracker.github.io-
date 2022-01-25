@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://chicago.suntimes.com/crime/2022/1/19/22891618/feds-charge-three-illinois-men-us-capitol-breach-investigation)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Criminal%20Complaint.pdf)
