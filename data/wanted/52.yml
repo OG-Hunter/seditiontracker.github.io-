@@ -1,14 +1,14 @@
 id: 52
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #52 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-52a.png/@@images/image/preview
 hashtag: OldTexasHelmet
 duplicate: false
-charged: null
+charged: 2022-01-13
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/jason-blythe
+name: Jason Blythe
 missingImage: false
