@@ -2,7 +2,7 @@
 name: Kenneth Armstrong
 lastName: Armstrong
 hashtag:
-aka:
+aka: Big Fish
 residence: California
 status: Charged
 date: 2022-01-18
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.ktvu.com/news/peninsula-farm-owner-latest-bay-area-resident-charged-in-capitol-riot)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Scott%20Armstrong%20III%20Statement%20of%20Facts.pdf)
