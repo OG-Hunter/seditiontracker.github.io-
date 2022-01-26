@@ -30,7 +30,7 @@ title: Anthony Carollo charged on January 19, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
