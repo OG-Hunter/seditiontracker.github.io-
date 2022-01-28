@@ -4,12 +4,12 @@ lastName: Wilson
 hashtag: ZacharyWilson
 aka:
 residence: Missouri
-status: Convicted
+status: Sentenced
 date: 2021-02-12
 charged: 2021-02-12
 indicted:
 convicted: 2021-09-27
-sentenced:
+sentenced: 2022-01-27
 dismissed:
 deceased:
 plea_hearing: 2021-09-27
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 45 days home detention
+  - 24 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.komu.com/news/state/two-missouri-men-arrested-for-alleged-involvement-in-capitol-riots/article_d19e425a-72fc-11eb-a3bc-5f2e15451854.html)

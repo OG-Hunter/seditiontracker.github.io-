@@ -4,12 +4,12 @@ lastName: Wilson
 hashtag: KelseyWilson
 aka:
 residence: Missouri
-status: Convicted
+status: Sentenced
 date: 2021-08-02
 charged: 2021-08-02
 indicted:
 convicted: 2021-09-27
-sentenced:
+sentenced: 2022-01-27
 dismissed:
 deceased:
 plea_hearing: 2021-09-27
@@ -39,6 +39,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 30 days home detention
+  - 24 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.ky3.com/2021/08/19/springfield-woman-charged-us-capitol-riot/)

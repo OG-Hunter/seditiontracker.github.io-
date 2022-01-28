@@ -4,16 +4,16 @@ lastName: Languerand
 hashtag: TossyMcTosser
 aka:
 residence: South Carolina
-status: Convicted
+status: Sentenced
 date: 2021-04-15
 charged: 2021-04-15
 indicted: 2021-05-12
 convicted: 2021-11-03
-sentenced:
+sentenced: 2022-01-26
 dismissed:
 deceased:
 plea_hearing: 2021-11-03
-sentencing:
+sentencing: 2022-01-26
 age: 26
 occupation:
 affiliations:
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 44 months in prison
+  - $500 restitution
 ---
 
 - [News Report](https://www.wyff4.com/article/instagram-post-leads-to-little-river-mans-arrest-for-alleged-role-in-deadly-capitol-riots-horry-county/36136043)
