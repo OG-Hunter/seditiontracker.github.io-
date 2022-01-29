@@ -4,10 +4,10 @@ lastName: Bilyard
 hashtag: HarvardSweats
 aka:
 residence: North Carolina
-status: Charged
+status: Indicted
 date: 2021-11-15
 charged: 2021-11-15
-indicted:
+indicted: 2021-08-11
 convicted:
 sentenced:
 dismissed:
@@ -36,5 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/aiden-bilyard-capitol-riot-air-force_n_619d3479e4b044a1cc0dc38c)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459026/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aiden%20Henry%20Bilyard%20Indictment.pdf)

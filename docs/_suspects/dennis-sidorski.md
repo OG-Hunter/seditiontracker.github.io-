@@ -4,15 +4,15 @@ lastName: Sidorski
 hashtag: DennisSidorski
 aka:
 residence: Virginia
-status: Charged
+status: Convicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-01-21
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-01-21
 sentencing:
 age: 46
 occupation:
@@ -36,6 +36,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.newsweek.com/dennis-sidorski-american-supremacist-rioter-charged-employee-fbi-1566787)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371516/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377856/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dennis%20Sidorski%20Plea%20Agreement.pdf)

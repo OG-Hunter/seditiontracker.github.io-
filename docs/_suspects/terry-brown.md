@@ -34,16 +34,15 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days home detention
   - 36 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.ldnews.com/story/news/2021/01/07/lebanon-county-arrested-during-capitol-siege-has-no-regrets-trump-supporters-election-washington/6588911002/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
@@ -51,3 +50,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Fichett%20et%20al%20Information_0.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432431/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Terry%20Brown%20Defense%20Sentencing%20Memo.pdf)
