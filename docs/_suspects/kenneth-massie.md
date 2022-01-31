@@ -30,7 +30,7 @@ title: Kenneth Massie charged on January 7, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 videos:
 charges:
