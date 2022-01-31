@@ -1,7 +1,7 @@
 ---
 name: Markus Maly
 lastName: Maly
-hashtag:
+hashtag: JohnSprayne
 aka:
 residence: Virginia
 status: Charged
@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 47
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I stood my ground and went back for seconds and thirds even.'
 title: Markus Maly charged on January 13, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://roanoke.com/news/local/crime-and-courts/fincastle-man-charged-in-connection-with-capitol-riot/article_1b505b94-7eec-11ec-b27b-8f94974853d1.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Markus%20Maly%20Statement%20of%20Facts.pdf)
