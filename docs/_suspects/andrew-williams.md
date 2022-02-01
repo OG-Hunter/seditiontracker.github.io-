@@ -9,11 +9,11 @@ date: 2021-01-12
 charged: 2021-01-12
 indicted:
 convicted: 2021-11-02
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2021-11-02
-sentencing:
+sentencing: 2022-02-09
 age:
 occupation: Fire Fighter
 affiliations:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-45
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Courthouse Steps [Video]](https://twitter.com/EricMockTV/status/1349127558709866502?s=20)
