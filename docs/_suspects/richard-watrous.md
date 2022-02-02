@@ -4,15 +4,15 @@ lastName: Watrous
 hashtag: RichardWatrous
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-09-21
 charged: 2021-09-21
 indicted:
-convicted:
+convicted: 2022-01-14
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-01-14
 sentencing:
 age: 59
 occupation:
@@ -34,7 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.localsyr.com/news/local-news/fbi-arrests-syracuse-man-they-say-played-a-role-in-jan-6-insurrection-at-u-s-capitol/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Plea%20Agreement.pdf)

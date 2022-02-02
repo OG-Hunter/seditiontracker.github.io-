@@ -42,3 +42,6 @@ sentence:
 ---
 - [News Report](https://www.oklahoman.com/story/news/2021/10/07/trump-supporter-oklahoma-admits-poor-judgment-capitol-breach-faces-charge/6040173001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Criminal%20Complaint.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Information.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Plea%20Agreement.pdf)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Statement%20of%20Offense.pdf)

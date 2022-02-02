@@ -4,15 +4,15 @@ lastName: Webler
 hashtag:
 aka:
 residence: Georgia
-status: Charged
+status: Convicted
 date: 2021-11-24
 charged: 2021-11-24
 indicted:
-convicted:
+convicted: 2022-02-01
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-02-01
 sentencing:
 age: 42
 occupation:
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-cr-741
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.ajc.com/news/metro-atlanta-contractor-latest-arrested-in-jan-6-probe/UINNVLIJ4JCJ7HNK7EDPR5EEFI/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459091/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459081/download)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jay%20Webler%20Plea%20Agreement.pdf)
