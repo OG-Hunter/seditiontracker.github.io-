@@ -4,16 +4,16 @@ lastName: Mostofsky
 hashtag: FurryFoxGuy
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-01-11
 charged: 2021-01-11
 indicted: 2021-02-19
-convicted:
+convicted: 2022-02-02
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-02-02
+sentencing: 2022-05-06
 age: 34
 occupation:
 affiliations:
@@ -34,6 +34,14 @@ published: true
 caseNumber: 1:21-cr-138
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
 ---
 
