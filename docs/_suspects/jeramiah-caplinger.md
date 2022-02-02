@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447251/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Government%20Sentencing%20Memorandum.pdf)
