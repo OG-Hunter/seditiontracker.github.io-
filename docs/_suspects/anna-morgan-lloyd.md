@@ -51,4 +51,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Government%20Memorandum%20in%20Aid%20of%20Sentencing.pdf)
 - [Defense Memorandum in Support of Probationary Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Defense%20Memorandum%20in%20Support%20of%20Probationary%20Sentence.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410841/download)
-- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anna%20Morgan-Lloyd%20Judgment.pdf)
+- [Judgement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415686/download)

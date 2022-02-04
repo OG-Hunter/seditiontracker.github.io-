@@ -34,15 +34,14 @@ published: true
 caseNumber: 1:21-cr-278
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/03/18/us-capitol-riot-leads-charges-against-two-more-michigan-men/4746118001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378831/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378836/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468931/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384351/download)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229689/gov.uscourts.dcd.229689.54.0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468926/download)
