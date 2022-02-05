@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469381/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Von%20Bernewitz%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469376/download)

@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.13abc.com/2021/08/20/swanton-residents-charged-jan-6-riot-us-capitol/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20and%20Gabriel%20Burress%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428576/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469106/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20and%20Gabriel%20Burress%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469101/download)

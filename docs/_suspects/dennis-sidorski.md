@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/dennis-sidorski-american-supremacist-rioter-charged-employee-fbi-1566787)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371516/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469456/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377856/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dennis%20Sidorski%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469451/download)

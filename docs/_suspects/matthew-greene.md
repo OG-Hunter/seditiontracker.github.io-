@@ -50,5 +50,5 @@ sentence:
 - [Police Raid (Video)](https://www.localsyr.com/news/local-news/syracuse-man-connected-to-jan-6th-attack-on-the-u-s-capitol-was-arrested-on-april-21st-says-fbi/)
 - [Incriminating Video](https://twitter.com/ne0ndistraction/status/1385092615096266753)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Greene%20Government%20Opposition%20to%20Motion%20to%20Revoke%20Detention%20Order.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Greene%20Plea%20Agreement.pdf)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Greene%20Statement%20of%20Offense.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468981/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468986/download)

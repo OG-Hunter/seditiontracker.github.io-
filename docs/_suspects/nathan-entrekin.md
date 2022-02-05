@@ -43,6 +43,6 @@ sentence:
 - [News Report](https://www.huffpost.com/entry/roman-gladiator-costume-capitol-riot-trump-fbi_n_60f08b8ae4b022142cf67b8b)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Criminal%20Complaint.pdf)
 - [Evidence (Video)](https://twitter.com/ParlerVideos/status/1356361778805018633)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413181/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469291/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469286/download)

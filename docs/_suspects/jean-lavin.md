@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433371/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469196/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jean%20Lavin%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469201/download)

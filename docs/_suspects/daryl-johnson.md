@@ -41,7 +41,7 @@ charges:
 sentence:
 ---
 - [News Report](https://globegazette.com/community/mcpress/news/st-ansgar-man-and-his-son-arrested-for-alleged-involvement-in-january-u-s-capitol/article_b933ccd3-4b4f-5133-b737-78c3c0886510.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469041/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/father-and-son-plead-guilty-felony-charges-offenses-committed-during-jan-6-capitol-breach)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20Johnson%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469036/download)

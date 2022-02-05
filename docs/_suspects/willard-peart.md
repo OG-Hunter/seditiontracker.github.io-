@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.abc4.com/news/local-news/southern-utah-man-arrested-after-admitting-to-entering-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389171/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389176/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469221/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459941/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Willard%20Peart%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469216/download)

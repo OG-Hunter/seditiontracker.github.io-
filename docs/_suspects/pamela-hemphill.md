@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.idahostatesman.com/news/local/crime/article253237378.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469486/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469481/download)

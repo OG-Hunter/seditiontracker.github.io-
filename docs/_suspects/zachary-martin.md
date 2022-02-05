@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.news-leader.com/story/news/local/missouri/2021/01/28/u-s-capitol-riots-document-shows-why-springfield-man-zachary-martin-arrested/4301430001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361576/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1361576/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468996/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Martin%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468991/download)

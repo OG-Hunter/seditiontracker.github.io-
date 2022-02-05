@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/mahopac-man-charged-in-us-capitol-riot-after-westchester-robbery-arrest/ar-AAP2E9C)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457721/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469371/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457731/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Vuksanaj%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469366/download)

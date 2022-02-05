@@ -36,8 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459196/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469086/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459186/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Paul%20Conover%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469081/download)

@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.theolympian.com/news/state/washington/article251432728.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394226/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394231/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469066/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414716/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Elliott%20Zlab%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469061/download)

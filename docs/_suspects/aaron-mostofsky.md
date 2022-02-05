@@ -34,19 +34,18 @@ published: true
 caseNumber: 1:21-cr-138
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 641
-    title: Theft of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 641
+  title: Theft of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469591/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355521/download)
 - [Self Incrimination (VIDEO)](https://nypost.com/2021/01/12/aaron-mostofsky-son-of-brooklyn-judge-spotted-at-capitol-riot-is-arrested/)
 - [FBI Raid (VIDEO)](https://twitter.com/NYScanner/status/1349008081477394435?s=20)
@@ -54,3 +53,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410851/download)
 - [Defendant's Motion for a Bill of Particulars](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Motion%20for%20a%20Bill%20of%20Particulars.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469586/download)

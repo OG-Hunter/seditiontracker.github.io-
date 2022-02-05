@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.ky3.com/2021/02/12/fbi-arrests-2-for-springfield-wanted-in-capitol-riot-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Quick%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1372096/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469006/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Quick%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469001/download)

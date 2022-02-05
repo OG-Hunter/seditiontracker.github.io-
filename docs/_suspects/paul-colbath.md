@@ -36,9 +36,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.postandcourier.com/news/indian-land-man-becomes-11th-south-carolinian-charged-with-storming-us-capitol-on-jan-6/article_010ebe26-37f0-11ec-8430-535d0750cf6d.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458821/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458826/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458831/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Colbath%20Plea%20Agreement.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469136/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469131/download)

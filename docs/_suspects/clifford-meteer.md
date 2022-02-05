@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.wbir.com/article/news/local/feds-knoxville-man-illegally-entered-us-capitol-during-jan-6-riot-carrying-stop-the-steal-sign/51-dd6de1e7-b014-4348-a1e1-89dc6e3c31e8)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423161/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469251/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Clifford%20James%20Meteer%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Clifford%20James%20Meteer%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469246/download)

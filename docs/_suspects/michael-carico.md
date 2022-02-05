@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.businessinsider.com/capitol-riot-suspect-navy-hat-camo-shirt-never-actually-served-2021-8?op=1)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423741/download)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237933/gov.uscourts.dcd.237933.27.0_1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468966/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468961/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Aaron%20Carico%20Information.pdf)

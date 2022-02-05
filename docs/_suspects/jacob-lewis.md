@@ -42,8 +42,8 @@ sentence:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1361031/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469076/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1354611293324505090?s=20)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366096/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Lewis%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Lewis%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469071/download)

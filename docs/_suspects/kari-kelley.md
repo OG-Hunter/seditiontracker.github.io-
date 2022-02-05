@@ -31,19 +31,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-201
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/alabama-woman-accused-of-climbing-through-capitol-window-during-dc-riot/ar-BB1dQ3au)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379286/download)
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379301/download)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228678/gov.uscourts.dcd.228678.78.0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469016/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469011/download)

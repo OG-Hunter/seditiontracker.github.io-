@@ -42,6 +42,6 @@ sentence:
 ---
 - [News Report](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1361051/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469306/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384871/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Revlett%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469301/download)

@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.localsyr.com/news/local-news/fbi-arrests-syracuse-man-they-say-played-a-role-in-jan-6-insurrection-at-u-s-capitol/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469336/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469331/download)

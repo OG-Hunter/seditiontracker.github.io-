@@ -41,6 +41,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.ajc.com/news/metro-atlanta-contractor-latest-arrested-in-jan-6-probe/UINNVLIJ4JCJ7HNK7EDPR5EEFI/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459091/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469571/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459081/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jay%20Webler%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469566/download)

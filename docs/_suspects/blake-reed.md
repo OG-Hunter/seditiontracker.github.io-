@@ -34,16 +34,15 @@ published: true
 caseNumber: 1:21-cr-204
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469171/download)
 - [DOJ Statement (Twitter)](https://twitter.com/USAO_MDTN/status/1350818029693763586)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377936/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Blake%20Austin%20Reed%20Plea%20Agreement.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469166/download)
