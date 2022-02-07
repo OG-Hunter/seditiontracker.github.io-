@@ -4,12 +4,12 @@ lastName: Blauser
 hashtag: WilliamBlauser
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-05-18
 charged: 2021-05-18
 indicted: 2021-06-04
 convicted: 2021-11-15
-sentenced:
+sentenced: 2022-02-03
 dismissed:
 deceased:
 plea_hearing: 2021-11-15
@@ -39,6 +39,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - $500 restitution
 ---
 - [News Report](https://triblive.com/local/regional/fbi-charges-pair-from-mckean-county-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395356/download)
