@@ -30,7 +30,7 @@ title: Eric Gerwatowski charged on February 2nd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-000
 videos:
 charges:
