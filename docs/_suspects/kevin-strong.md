@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-17
-sentencing:
+sentencing: 2022-03-07
 age: 44
 occupation: FAA
 affiliations:

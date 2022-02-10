@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-28
-sentencing:
+sentencing: 2022-02-07
 age:
 occupation: Owner, Coffee Roasting Company
 affiliations:
