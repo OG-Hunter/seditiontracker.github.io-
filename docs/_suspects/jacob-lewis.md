@@ -13,7 +13,7 @@ sentenced:
 dismissed: 
 deceased:
 plea_hearing: 2022-01-06
-sentencing:
+sentencing: 2022-04-14
 age: 37
 occupation: Gym Owner
 affiliations:

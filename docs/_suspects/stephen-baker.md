@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-07
-sentencing:
+sentencing: 2022-05-10
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)

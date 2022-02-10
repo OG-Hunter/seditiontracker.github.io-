@@ -13,7 +13,7 @@ sentenced:
 dismissed: 
 deceased:
 plea_hearing: 2021-11-24
-sentencing:
+sentencing: 2022-02-23
 age:
 occupation: Owner, Yoga Studio
 affiliations:
