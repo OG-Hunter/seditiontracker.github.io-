@@ -4,15 +4,15 @@ lastName: Timbrook
 hashtag: MichaelTimbrook
 aka:
 residence: Tennessee
-status: Charged
+status: Convicted
 date: 2021-04-20
 charged: 2021-04-20
 indicted:
-convicted: 
+convicted: 2022-02-09
 sentenced:
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-02-09
 sentencing:
 age: 56
 occupation:
@@ -34,9 +34,14 @@ published: true
 caseNumber: 1:21-cr-361
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388356/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470786/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415206/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470781/download)

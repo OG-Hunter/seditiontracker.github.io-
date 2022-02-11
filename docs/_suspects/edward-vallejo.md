@@ -37,4 +37,4 @@ charges:
 sentence:
 ---
 - [News Report](https://www.azcentral.com/story/news/local/phoenix-breaking/2022/01/13/phoenix-man-edward-vallejo-charged-relation-jan-6-capitol-breach/6516426001/)
-- [Indictment](https://www.justice.gov/opa/press-release/file/1462481/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470551/download)
