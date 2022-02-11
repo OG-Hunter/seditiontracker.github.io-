@@ -1,0 +1,41 @@
+---
+name: Jake Maxwell
+lastName: Maxwell
+hashtag:
+aka:
+residence: Georgia
+status: Charged
+date: 2022-02-09
+charged: 2022-02-09
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/jake-maxwell.jpg
+suspect: jake-maxwell.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Jake Maxwell charged on February 9, 2022
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jake%20Maxwell%20Statement%20of%20Facts.pdf)

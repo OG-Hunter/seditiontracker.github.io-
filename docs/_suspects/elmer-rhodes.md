@@ -1,8 +1,8 @@
 ---
-name: Stewart Rhodes
+name: Elmer Rhodes
 lastName: Rhodes
-hashtag: 
-aka: Elmer Stewart Rhodes III
+hashtag:
+aka: Stewart Rhodes, Elmer Stewart Rhodes III
 residence: Texas
 status: Indicted
 date: 2022-01-12
@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 0:22-cr-15
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
-- [Indictment](https://www.justice.gov/opa/press-release/file/1462481/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470536/download)
