@@ -38,5 +38,5 @@ sentence:
 ---
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471076/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)

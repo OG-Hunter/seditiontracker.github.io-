@@ -31,12 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-15
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nytimes.com/interactive/2021/02/14/us/roger-stone-capitol-riot.html)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Caldwell%20et%20al%20Fifth%20Superseding%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471036/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/fifth-superseding-indictment-unsealed-oath-keeper-conspiracy-case-related-jan-6-capitol)

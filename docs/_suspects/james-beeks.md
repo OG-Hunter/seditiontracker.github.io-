@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wpsdlocal6.com/news/florida-man-playing-judas-in-jesus-christ-superstar-accused-in-jan-6-capitol-riot/article_031a5be2-4e45-11ec-b6e1-abd1cda0b6e9.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Beeks%20Statement%20of%20Facts.pdf)
-- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.226726/gov.uscourts.dcd.226726.513.0.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471116/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471121/download)
