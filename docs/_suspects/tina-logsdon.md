@@ -31,9 +31,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-23
 videos:
 charges:
 sentence:
 ---
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239311/gov.uscourts.dcd.239311.1.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471146/download)

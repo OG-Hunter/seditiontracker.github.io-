@@ -203,6 +203,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Buxton, Jonas ";
     }
 
+    if (name == "LOGDSON, Tina") {
+      name = "Logsdon, Tina";
+    }
+
     const nameChunks = name.split(",");
 
     const lastName = toLower(nameChunks[0])
@@ -420,6 +424,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Government Sentencing Exhibit/.test(description):
       return "Government Sentencing Exhibit";
+
+    case /Stipulation of Facts/.test(description):
+      return "Stipulation of Facts";
 
     // government motions
     case /Government's Motion to Continue/.test(description):

@@ -40,3 +40,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371506/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470986/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470981/download)
+- [Stipulation of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470981/download)
