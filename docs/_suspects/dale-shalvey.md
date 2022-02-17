@@ -38,4 +38,4 @@ sentence:
 ---
 - [News Report](https://www.thedailybeast.com/pennsylvania-rioter-dale-shalvey-charged-after-going-through-senate-papers-during-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379321/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460126/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473426/download)

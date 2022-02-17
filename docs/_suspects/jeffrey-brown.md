@@ -42,5 +42,5 @@ sentence:
 - [Government Motion for Emergency Appeal of Release Order](undefined)
 - [Defense Response to Motion for Appeal of Release Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Scott%20Brown%20Defense%20Opposition%20to%20Governments%20Bail%20Appeal.pdf)
 - [Order Revoking Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Scott%20Brown%20Memorandum%20Opinion%20Granting%20Governments%20Motion%20to%20Revoke%20Release%20Order.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Peter%20Schwartz%20and%20Jeffrey%20Scott%20Brown%20Superseding%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473381/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Scott%20Brown%20Memorandum%20Opinion%20Granting%20Governments%20Motion%20to%20Revoke%20Release%20Order.pdf)
