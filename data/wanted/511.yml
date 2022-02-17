@@ -1,9 +1,9 @@
 id: 511
 aom: false
-afo: false
+afo: true
 arrested: false
 identified: false
-label: "Photograph #511A"
+label: "Photograph #511 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-511a.jpg/@@images/image/preview
 hashtag: null
 duplicate: false

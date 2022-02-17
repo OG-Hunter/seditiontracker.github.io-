@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #52 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-52a.png/@@images/image/preview
+label: "Photograph #52 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-52aarrest.jpg/@@images/image/preview
 hashtag: OldTexasHelmet
 duplicate: false
 charged: 2022-01-13

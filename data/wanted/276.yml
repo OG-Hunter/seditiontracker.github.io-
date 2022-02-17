@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #276 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/276.png/@@images/image/preview
+label: "Photograph #276 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/276arrested.png/@@images/image/preview
 hashtag: FashNSlash
 duplicate: false
 charged: 2021-07-28

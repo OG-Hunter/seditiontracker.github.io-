@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #244 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/244.png/@@images/image/preview
+label: "Photograph #244 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-244arrest.jpg/@@images/image/preview
 hashtag: LordLongHair
 duplicate: false
 charged: 2022-02-02

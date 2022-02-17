@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #324 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-324a.jpg/@@images/image/preview
+label: "Photograph #324 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-324aarrest.jpg/@@images/image/preview
 hashtag: JohnSprayne
 duplicate: false
 charged: 2022-01-13
