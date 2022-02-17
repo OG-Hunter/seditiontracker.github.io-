@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/reva-vincent.jpg
-suspect: reva-vincent.jpg
+image: /images/preview/arrest.jpg
+suspect: arrest.jpg
 booking:
 courtroom:
 courthouse:
@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Reva%20Vincent%20Information.pdf)

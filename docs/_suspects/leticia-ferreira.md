@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 32
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I’m so irresponsible. Yesterday it felt amazing.'
 title: Leticia Ferreira charged on February 14th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/us/e2-80-98i-e2-80-99m-so-irresponsible-yesterday-it-felt-amazing-e2-80-99-suburban-woman-from-brazil-arrested-in-us-capitol-breach/ar-AATXOz8)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473451/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473456/download)

@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 42
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,5 +37,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.courier-journal.com/story/news/crime/2022/02/16/morganfield-kentucky-woman-shelly-stallings-charged-jan-6-us-capitol-riot/6815764001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473366/download)
