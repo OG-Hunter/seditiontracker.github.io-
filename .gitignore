@@ -1,0 +1,16 @@
+_site/
+.DS_Store
+*.swp
+*.swo
+.bundle
+.ruby-version
+vendor
+.env
+node_modules
+.sass-cache
+.jekyll-metadata
+.vscode
+*.xlsx
+video.html
+sedition-tracker-89ed1e5fa923.json
+creds

@@ -1,0 +1,47 @@
+---
+name: Kevin Creek
+lastName: Creek
+hashtag: MadMongrel
+aka:
+residence: Georgia
+status: Convicted
+date: 2021-06-04
+charged: 2021-06-04
+indicted:
+convicted: 2021-12-01
+sentenced:
+dismissed:
+deceased:
+plea_hearing: 2021-12-01
+sentencing: 2022-03-10
+age: 46
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/kevin-creek.jpg
+suspect: kevin-creek.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Kevin Creek charged on June 4, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+caseNumber:
+videos:
+charges:
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+sentence:
+---
+- [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452896/download)
+- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236923/gov.uscourts.dcd.236923.29.0.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/georgia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452891/download)

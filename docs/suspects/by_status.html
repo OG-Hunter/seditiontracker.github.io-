@@ -1,0 +1,149 @@
+---
+layout: default
+title: Suspects (by Status)
+image: /images/suspects.png
+description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
+---
+
+{% assign dismissed = ''|split:''%}
+{% assign sentenced = ''|split:''%}
+{% assign convicted = ''|split:''%}
+{% assign indicted = ''|split:''%}
+{% assign charged = ''|split:''%}
+{% assign deceased = ''|split:''%}
+
+{% for suspect in site.suspects %}
+  {% if suspect.sentenced %}
+    {%assign sentenced = sentenced|push:suspect%}
+  {% endif %}
+  {% if suspect.convicted %}
+    {%assign convicted = convicted|push:suspect%}
+  {% endif %}
+  {% if suspect.dismissed %}
+    {%assign dismissed = dismissed|push:suspect%}
+  {% endif %}
+  {% if suspect.indicted %}
+    {%assign indicted = indicted|push:suspect%}
+  {% endif %}
+  {% if suspect.charged %}
+    {%assign charged = charged|push:suspect%}
+  {% endif %}
+  {% if suspect.deceased %}
+    {%assign deceased = deceased|push:suspect%}
+  {% endif %}
+{% endfor %}
+
+{% assign sentenced = sentenced | sort: "sentenced" | reverse %}
+{% assign dismissed = dismissed | sort: "dismissed" | reverse %}
+{% assign convicted = convicted | sort: "convicted" | reverse %}
+{% assign indicted = indicted | sort: "indicted" | reverse %}
+{% assign charged = charged | sort: "charged" | reverse %}
+{% assign deceased = deceased | sort: "deceased" | reverse %}
+
+<h2 class="table">Suspects (Sentenced)</h2>
+Total Count: {{ sentenced.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in sentenced %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.sentenced | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Convicted)</h2>
+Total Count: {{ convicted.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in convicted %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.convicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Dismissed)</h2>
+Total Count: {{ dismissed.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Dimissed</a></th>
+  </tr>
+  {% for suspect in dismissed %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.dismissed | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Deceased)</h2>
+Total Count: {{ deceased.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Deceased</a></th>
+  </tr>
+  {% for suspect in deceased %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.deceased | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Indicted)</h2>
+Total Count: {{ indicted.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Indicted</a></th>
+  </tr>
+  {% for suspect in indicted %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.indicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Charged)</h2>
+Total Count: {{ charged.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspect/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Charged</a></th>
+  </tr>
+  {% for suspect in charged %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.charged | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>

@@ -1,0 +1,18 @@
+---
+layout: default
+title: Where are they now?
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>
+Click an image to find out
+
+<p>
+<table class="gallery">
+  {% tablerow suspect in site.suspects cols:4 %}
+  <a href="{{ suspect.url }}">
+    <img src="{{ suspect.image | replace: "preview", "cropped" }}" alt="{{ suspect.name }}" title="{{ suspect.name }}">
+  </a>
+  {% endtablerow %}
+</table>

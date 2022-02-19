@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "lib": [
+      "es2016",
+      "es2017.object",
+      "es2017.string",
+      "dom.iterable",
+      "esnext.asynciterable",
+      "dom",
+      "es2019"
+    ],
+    "outDir": "dist",
+    "declaration": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": false,
+    "inlineSources": true,
+    "sourceMap": true,
+    "sourceRoot": "/",
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "downlevelIteration": true,
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "node_modules",
+    "cdk.out",
+    "client",
+    "dist",
+    ".sass-cache",
+    ".circleci",
+    ".idea",
+    ".cdk.staging",
+    "park",
+    "sandbox.local"
+  ]
+}

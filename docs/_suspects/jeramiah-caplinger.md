@@ -1,0 +1,48 @@
+---
+name: Jeramiah Caplinger
+lastName: Caplinger
+hashtag: JeramiahCaplinger
+aka:
+residence: Michigan
+status: Convicted
+date: 2021-04-06
+charged: 2021-04-06
+indicted:
+convicted: 2021-11-05
+sentenced:
+dismissed:
+deceased:
+plea_hearing: 2021-11-05
+sentencing:
+age: 25
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/jeramiah-caplinger.jpg
+suspect: jeramiah-caplinger.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote: "My rage towards the establishment, Democrats and RINO Republicans is great. Think of Pompeii when it was destroyed by Mount Vesuvius."
+title: Jeramiah Caplinger charged on April 6, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+caseNumber: 1:21-mj-350
+videos:
+charges:
+- code: 18 USC § 5104(d)
+  title: Injury to property on Capitol grounds
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+sentence:
+---
+- [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447251/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Government%20Sentencing%20Memorandum.pdf)

@@ -1,0 +1,41 @@
+---
+name: Antonio Ferrigno
+lastName: Ferrigno
+hashtag: AntonioFerrigno
+aka:
+residence: New York
+status: Charged
+date: 2021-08-27
+charged: 2021-08-27
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age: 26
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/antonio-farrigno.jpg
+suspect: antonio-farrigno.jpg
+booking:
+courtroom:
+courthouse: antonio-farrigno.jpg
+raid:
+perpwalk:
+quote:
+title: Antonio Farrigno charged on August 27, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+caseNumber: 1:21-cr-586
+videos:
+charges:
+sentence:
+---
+- [News Report](https://www.dailymail.co.uk/news/article-9945027/Two-Brooklyn-men-arrested-January-6-Capitol-riot-appeared-livestream-video.html)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457646/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457651/download)

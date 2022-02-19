@@ -1,0 +1,41 @@
+---
+name: Michael Adams
+lastName: Adams
+hashtag: MichaelAdams
+aka:
+residence: Virginia
+status: Charged
+date: 2021-04-20
+charged: 2021-04-20
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/michael-adams.jpg
+suspect: michael-adams.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Michael Adams charged on April 20, 2021
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: true
+caseNumber:
+videos:
+charges:
+sentence:
+---
+- [News Report](https://www.yahoo.com/entertainment/active-duty-marine-charged-fighting-191450996.html)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Adams%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Adams%20Information.pdf)
