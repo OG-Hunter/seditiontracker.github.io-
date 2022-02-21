@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 51
+occupation: Owner, Waynick Plumbing
 affiliations:
 jurisdiction: Federal
 image: /images/preview/mark-waynick.jpg
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/mark-waynick-jerry-mckane-waynick-father-and-son-from-tennessee-arrested-capitol-riot-charges-accused-of-assaulting-police-officers/65-4214b364-fb57-4bb8-8463-9902ec18a648)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475371/download)

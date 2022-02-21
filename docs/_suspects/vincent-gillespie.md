@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 60
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -22,7 +22,7 @@ image: /images/preview/vincent-gillespie.jpg
 suspect: vincent-gillespie.jpg
 booking:
 courtroom:
-courthouse:
+courthouse: vincent-gillespie.jpg
 raid:
 perpwalk:
 quote:
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/man-accused-of-using-police-shield-to-ram-cops-during-capitol-riot-arrested/ar-AAU2N7i)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475401/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475406/download)

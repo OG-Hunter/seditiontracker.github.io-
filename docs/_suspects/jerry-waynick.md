@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 19
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wusa9.com/article/news/national/capitol-riots/mark-waynick-jerry-mckane-waynick-father-and-son-from-tennessee-arrested-capitol-riot-charges-accused-of-assaulting-police-officers/65-4214b364-fb57-4bb8-8463-9902ec18a648)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475386/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475391/download)
