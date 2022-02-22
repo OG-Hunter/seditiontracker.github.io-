@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/reva-vincent.jpg
+suspect: reva-vincent.jpg
 booking:
 courtroom:
 courthouse:

@@ -1,7 +1,7 @@
 ---
 name: Vincent Gillespie
 lastName: Gillespie
-hashtag:
+hashtag: SweaterHead
 aka:
 residence: Massachusetts
 status: Charged
