@@ -17,6 +17,7 @@ export interface Wanted {
   name?: string;
   duplicate: boolean;
   missingImage?: boolean;
+  identifiedBy?: string;
 }
 
 export const updateWanted = (wanted: Wanted) => {
@@ -41,6 +42,7 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.sedition_link ||= oldWanted.sedition_link;
     wanted.name ||= oldWanted.name;
     wanted.missingImage = false;
+    wanted.identifiedBy ||= oldWanted.identifiedBy;
 
     if (oldWanted.identified) {
       wanted.identified = true;
