@@ -99,6 +99,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "O'Brien, Kelly";
       }
 
+      if (nameText.match(/Zoyganeles/)) {
+        nameText = "Zoyganeles, Athanasois";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
@@ -432,6 +436,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Stipulation of Facts/.test(description):
       return "Stipulation of Facts";
 
+    case /Sentencing Guidelines/.test(description):
+      return "Sentencing Guidelines";
+
     // government motions
     case /Government's Motion to Continue/.test(description):
       return "Government motion to Continue";
@@ -572,6 +579,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defense Reply to Govt Opposition to Motion to Dismiss/.test(description):
       return "Defense Reply to Opposition to Motion to Dismiss";
+
+    case /Defense Objection to Government Summary of Sentencing Range/.test(description):
+      return "Defense Objection to Sentencing Guidelines";
 
     // press release
     case /Charged/.test(description):

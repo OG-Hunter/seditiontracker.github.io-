@@ -46,3 +46,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450176/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404566/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450171/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Blauser%20Judgment.pdf)
