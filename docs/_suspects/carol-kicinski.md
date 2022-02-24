@@ -3,7 +3,7 @@ name: Carol Kicinski
 lastName: Kicinski
 hashtag:
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2022-02-22
 charged: 2022-02-22
@@ -15,7 +15,7 @@ deceased:
 plea_hearing:
 sentencing:
 age:
-occupation:
+occupation: Founder, Simply Gluten Free Magazine
 affiliations:
 jurisdiction: Federal
 image: /images/preview/carol-kicinski.jpg
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/world/tv-chef-carol-kicinski-charged-with-entering-capitol-during-jan-6-riots/ar-AAUdYVp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476356/download)
