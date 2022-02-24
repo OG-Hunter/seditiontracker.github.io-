@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 63
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.detroitnews.com/story/news/local/michigan/2022/02/23/federal-officials-charge-genesee-county-man-jan-6-siege-us-capitol/6909036001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476371/download)
