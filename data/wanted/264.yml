@@ -10,5 +10,6 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name:
+name: null
 missingImage: false
+identifiedBy: null

@@ -3,13 +3,13 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: 
-src: 
+label: null
+src: null
 hashtag: MacerInBlack
 duplicate: false
-charged: null
+charged: 2021-07-21
 mugshot: null
-sedition_link: null
-name: Andrew Quentin Taake
+sedition_link: https://seditiontracker.com/suspects/andrew-taake
+name: Andrew Taake
 missingImage: true
-identifiedBy: @rocketman2001
+identifiedBy: "@rocketman2001"

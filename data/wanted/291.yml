@@ -1,14 +1,15 @@
 id: 291
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #291 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/291a.png/@@images/image/preview
 hashtag: PapaGruntStick
 duplicate: false
-charged: null
+charged: 2022-01-26
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/matthew-krol
+name: Matthew Krol
 missingImage: false
+identifiedBy: null
