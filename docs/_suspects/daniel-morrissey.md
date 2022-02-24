@@ -4,15 +4,15 @@ lastName: Morrissey
 hashtag:
 aka:
 residence: Colorado
-status: Charged
+status: Convicted
 date: 2021-10-20
 charged: 2021-10-20
 indicted:
-convicted:
+convicted: 2022-02-23
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-02-23
 sentencing:
 age:
 occupation:
@@ -34,8 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.thedenverchannel.com/news/local-news/another-colorado-man-facing-charges-for-entering-us-capitol-on-jan-6)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Michael%20Morrissey%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476521/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476511/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476516/download)

@@ -31,10 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-006
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.nj.com/camden/2022/01/parler-users-tipped-off-fbi-about-latest-nj-man-charged-in-us-capitol-riot.html)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Oliveras%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476376/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476381/download)

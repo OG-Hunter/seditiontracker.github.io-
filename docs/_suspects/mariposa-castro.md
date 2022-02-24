@@ -46,3 +46,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452321/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387496/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452316/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mariposa%20Castro%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
