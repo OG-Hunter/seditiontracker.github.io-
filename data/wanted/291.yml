@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #291 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/291a.png/@@images/image/preview
+label: "Photograph #291 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-291aarrest.jpg/@@images/image/preview
 hashtag: PapaGruntStick
 duplicate: false
 charged: 2022-01-26

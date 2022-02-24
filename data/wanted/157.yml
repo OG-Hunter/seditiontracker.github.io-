@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #157 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-157-a.png/@@images/image/preview
+label: "Photograph #157 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-157arrest.jpg/@@images/image/preview
 hashtag: RedPlaidPylonThrower
 duplicate: false
 charged: 2022-02-14

@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #141 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-141-afo.png/@@images/image/preview
+label: "Photograph #141 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-141arrest.jpg/@@images/image/preview
 hashtag: SweaterHead
 duplicate: false
 charged: 2022-02-17
