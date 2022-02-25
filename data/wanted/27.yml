@@ -1,15 +1,15 @@
 id: 27
 aom: false
 afo: false
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #27"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-27.jpg/@@images/image/preview
 hashtag: RedBucketHat
 duplicate: false
-charged: null
+charged: 2022-02-09
 mugshot: null
-sedition_link: null
-name: Joshua Lee Hernandez
+sedition_link: https://seditiontracker.com/suspects/joshua-hernandez
+name: Joshua Hernandez
 missingImage: true
 identifiedBy: null

@@ -174,7 +174,7 @@ const publishSheet = async () => {
     const { src, id, missingImage, hashtag, charged, name, afo, aom, arrested, identified, sedition_link } = perp;
 
     const perpData = {
-      Number: `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${id})`,
+      Number: src ? `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${id})` : id,
       Photo:
         missingImage || !hashtag
           ? `=IMAGE("${src}")`
