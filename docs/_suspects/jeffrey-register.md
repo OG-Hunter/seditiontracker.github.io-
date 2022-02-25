@@ -22,7 +22,7 @@ image: /images/preview/jeffrey-register.jpg
 suspect: jeffrey-register.jpg
 booking:
 courtroom: jeffrey-register.jpg
-courthouse:
+courthouse: jeffrey-register.jpg
 raid:
 perpwalk:
 quote:
