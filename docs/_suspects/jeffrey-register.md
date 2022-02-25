@@ -4,12 +4,12 @@ lastName: Register
 hashtag: GunsHoodieNS
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-03-19
 charged: 2021-03-19
 indicted:
 convicted: 2021-10-14
-sentenced:
+sentenced: 2022-02-24
 dismissed:
 deceased:
 plea_hearing: 2021-10-14
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 75 days in prison
+  - $500 restitution
 ---
 
 - [News Report](https://www.firstcoastnews.com/article/news/local/man-makes-tuesday-appearance-in-jacksonville-on-charges-related-to-capitol-riots/77-c9c8a930-f2ec-45c6-b342-11addbdea146)
