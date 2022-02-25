@@ -13,7 +13,7 @@ sentenced:
 dismissed: 
 deceased:
 plea_hearing: 2022-02-17
-sentencing:
+sentencing: 2022-06-10
 age: 36
 occupation: Business Owner (Tactical Citizen, LLC)
 affiliations:
