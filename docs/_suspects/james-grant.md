@@ -36,8 +36,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/who-james-tate-grant-capitol-riot-suspect-faces-jail-over-rifle-found-car-1663125)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457746/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457736/download)
 - [Government's Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant%20Government%20Motion%20to%20Revoke%20Pretrial%20Release.pdf)
+- [Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Grant%20Government%20Motion%20to%20Revoke%20Pretrial%20Release.pdf)
