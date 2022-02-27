@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.daytondailynews.com/crime/fbi-arrests-englewood-man-piqua-woman-in-us-capitol-siege/5F6DZFU6YVGDHIQECDLII7IOSY/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417571/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Walter%20Messer%20and%20Therese%20Borgerding%20Information.pdf)

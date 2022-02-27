@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432686/download)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20Government%20Opposition%20to%20Motion%20to%20Appeal%20Detention%20Order.pdf)

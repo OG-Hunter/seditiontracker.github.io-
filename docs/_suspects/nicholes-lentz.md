@@ -34,14 +34,14 @@ published: true
 caseNumber: 1:21-mj-206
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.miamiherald.com/article249418810.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476086/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476081/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Information.pdf)

@@ -4,10 +4,10 @@ lastName: Gillespie
 hashtag: SweaterHead
 aka:
 residence: Massachusetts
-status: Charged
+status: Indicted
 date: 2022-02-17
 charged: 2022-02-17
-indicted:
+indicted: 2022-02-25
 convicted:
 sentenced:
 dismissed:
@@ -40,3 +40,4 @@ sentence:
 - [News Report](https://www.msn.com/en-us/news/crime/man-accused-of-using-police-shield-to-ram-cops-during-capitol-riot-arrested/ar-AAU2N7i)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475401/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475406/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477141/download)

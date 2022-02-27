@@ -103,6 +103,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "Zoyganeles, Athanasois";
       }
 
+      if (nameText.match(/Heneghan/)) {
+        nameText = "Heneghan, Jon";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
@@ -448,9 +452,6 @@ const linkType = (description: string, lastName?: string) => {
     case /Government's Motion to Modify Conditions of Release/.test(description):
       return "Government's Motion to Modify Conditions of Release";
 
-    case /Motion to Revoke Pretrial Release/.test(description):
-      return "Government's Motion to Revoke Pretrial guRelease";
-
     case /Detention Memo/.test(description):
     case /Government Detention Memorandum/.test(description):
     case /Memorandum in Support of Pretrial Detention/.test(description):
@@ -477,6 +478,8 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Opposition to Motion for Conditional Release/.test(description):
     case /Government's Opposition to Defendant's Motion for Release/.test(description):
     case /Government Opposition to Defendant's Motion for Conditional Release/.test(description):
+    case /Government Opposition to Motion for Pretrial Release/.test(description):
+    case /Government Opposition to Defense Motion for Bail/.test(description):
       return "Government Opposition to Release";
 
     case /Opposition to Defendants Motion to Reconsider/.test(description):
@@ -530,6 +533,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Defendant's Motion for Conditional Release Pending Trial/.test(description):
     case /Defense Motion to Set Bond and Conditions of Release/.test(description):
     case /Defense Memorandum in Support of Pretrial Release/.test(description):
+    case /Defense Motion for Bail/.test(description):
       return "Defense Motion for Release";
 
     case /Defense Memorandum in Support of Probationary Sentence/.test(description):

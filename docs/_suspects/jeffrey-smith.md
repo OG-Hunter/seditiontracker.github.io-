@@ -34,16 +34,16 @@ published: true
 caseNumber: 1:21-cr-290
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445281/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBISanDiego/status/1354835002513645571?s=20)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386296/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445286/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Alexander%20Smith%20Government%20Sentencing%20Memorandum.pdf)

@@ -36,10 +36,10 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362756/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377661/download)
 - [Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Goodwyn%20Government%20Motion%20to%20Revoke%20Defendants%20Pretrial%20Release.pdf)
 - [Government's Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Goodwyn%20Government%20Motion%20to%20Revoke%20Defendants%20Pretrial%20Release.pdf)
-- [Government's Motion to Revoke Pretrial guRelease](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Goodwyn%20Government%20Motion%20to%20Revoke%20Defendants%20Pretrial%20Release.pdf)

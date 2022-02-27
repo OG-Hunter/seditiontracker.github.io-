@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452291/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415801/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452286/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Micajah%20Joel%20Jackson%20Government%20Sentencing%20Memorandum.pdf)

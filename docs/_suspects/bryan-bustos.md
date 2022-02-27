@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.presstelegram.com/2021/11/30/2-long-beach-men-charged-in-connection-to-capitol-insurrection/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Bustos%20and%20Alexis%20Bustos%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Bustos%20and%20Alexis%20Bustos%20Information.pdf)

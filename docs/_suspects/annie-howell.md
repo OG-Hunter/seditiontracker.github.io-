@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378861/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453416/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Annie%20Howell%20Defense%20Sentencing%20Memorandum.pdf)
