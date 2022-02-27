@@ -4,16 +4,16 @@ lastName: Johnson
 hashtag: LecternGuy
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-01-07
 charged: 2021-01-07
 indicted:
 convicted: 2021-11-22
-sentenced:
+sentenced: 2022-02-25
 dismissed:
 deceased:
 plea_hearing: 2021-11-22
-sentencing:
+sentencing: 2022-02-25
 age: 36
 occupation:
 affiliations:
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-mj-20
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
+  - 75 days in prison
+  - $5,000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/world/adam-johnson-spotted-with-pelosis-lectern-stormed-capitol-to-witness-history-e2-80-94lawyers/ar-BB1cH0ZJ)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Johnson%20Information.pdf)
