@@ -2,7 +2,7 @@
 name: Loammi Yazdani-Isfehani
 lastName: Yazdani-Isfehani
 hashtag:
-aka:
+aka: Elijah Yazdani
 residence: Ohio
 status: Charged
 date: 2022-02-18
@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://sports.yahoo.com/two-athens-county-sisters-join-205327176.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477211/download)
