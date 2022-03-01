@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-006
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.9news.com/article/news/crime/telluride-man-accused-capitol-riot/73-0099c000-279e-4152-83c8-1acd8da7e0ec)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238374/gov.uscourts.dcd.238374.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1478566/download)
