@@ -30,7 +30,7 @@ title: Abigail Yazdani-Isfehani charged on February 18th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-33
 videos:
 charges:
