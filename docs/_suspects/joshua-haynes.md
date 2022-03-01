@@ -7,7 +7,7 @@ residence: Virginia
 status: Indicted
 date: 2021-07-01
 charged: 2021-07-01
-indicted:
+indicted: 2021-09-22
 convicted:
 sentenced:
 dismissed:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)
