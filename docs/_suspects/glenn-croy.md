@@ -50,3 +50,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422521/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
+- [Defense Objection to Sentencing Guidelines](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)

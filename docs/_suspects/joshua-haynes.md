@@ -4,7 +4,7 @@ lastName: Haynes
 hashtag: HarleySmashAOM
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2021-07-01
 charged: 2021-07-01
 indicted:
@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Dillon%20Haynes%20Indictment.pdf)

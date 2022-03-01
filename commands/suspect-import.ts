@@ -219,6 +219,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Gillespie, Vincent";
     }
 
+    if (name == "YAZDANI, Elijah") {
+      name = "Yazdani-Isfehani, Loammi";
+    }
+
     const nameChunks = name.split(",");
 
     const lastName = toLower(nameChunks[0])
@@ -587,6 +591,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Defense Reply to Opposition to Motion to Dismiss";
 
     case /Defense Objection to Government Summary of Sentencing Range/.test(description):
+    case /Defense Response to Government/.test(description) && lastName === "Croy":
       return "Defense Objection to Sentencing Guidelines";
 
     // press release

@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://sports.yahoo.com/two-athens-county-sisters-join-205327176.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477211/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460181/download)

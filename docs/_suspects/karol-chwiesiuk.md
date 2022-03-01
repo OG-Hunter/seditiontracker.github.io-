@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://chicago.cbslocal.com/2021/06/11/cpd-officer-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Motion%20to%20Mofidy%20Conditions%20of%20Release.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Information.pdf)
