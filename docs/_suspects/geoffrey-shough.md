@@ -3,7 +3,7 @@ name: Geoffrey Shough
 lastName: Shough
 hashtag: TexasPleather
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2022-02-17
 charged: 2022-02-17
@@ -36,6 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479011/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479016/download)

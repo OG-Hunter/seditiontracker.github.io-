@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468916/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371671/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468911/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Strong%20Defense%20Sentencing%20Memorandum.pdf)

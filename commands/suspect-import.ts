@@ -315,6 +315,7 @@ const falsePositives = (site: string) => {
       set.add("Ehrke");
       set.add("Moors");
       set.add("Morgan-Lloyd");
+      set.add("Yazdani");
       break;
   }
 
@@ -651,8 +652,7 @@ const addData = (suspectData) => {
   for (const [type, url] of Object.entries(links)) {
     if (suspect.links[type]) {
       // link already exists but there may be a "better" one from DOJ
-      if (/^https:\/\/www.justice.gov/.test(<string>url) && suspect.links[type] != url) {
-        console.log(`${suspect.name}: ${type} (Updated Link)`);
+      if (/^https:\/\/www.justice.gov/.test(<string>url) && suspect.links[type] !== url) {
         suspect.links[type] = <string>url;
       } else {
         continue;

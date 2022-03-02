@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-arrests-trump-fan-stormed-capitol-bail-attempted-murder-rcna15169)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470311/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470316/download)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Government%20Motion%20Requesting%20Pretrial%20Detention%20Order.pdf)

@@ -18,13 +18,12 @@ export const writeLines = (filename: string, lines: string[]) => {
   const cleanLines = lines.map((line) => {
     return line.replace(": undefined", ":");
   });
-
   writeFile(filename, cleanLines.join("\n") + "\n");
 };
 
 export const splitCSV = (line: string) => {
-  var matches = line.match(/(\s*"[^"]+"\s*|\s*[^,]+|,)(?=,|$)/g);
-  for (var n = 0; n < matches.length; ++n) {
+  const matches = line.match(/(\s*"[^"]+"\s*|\s*[^,]+|,)(?=,|$)/g);
+  for (let n = 0; n < matches.length; ++n) {
     matches[n] = matches[n].trim();
     if (matches[n] == ",") matches[n] = "";
   }
