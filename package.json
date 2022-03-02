@@ -6,6 +6,8 @@
     "docker:shell": "docker run -v=$PWD/docs:/site -it seditiontrack:latest /bin/bash",
     "fbi": "node -r ts-node/register commands/fbi.ts",
     "jekyll": "docker run -v=$PWD/docs:/site -p 4000:4000 -it seditiontrack:latest",
+    "pre-commit": "yarn suspect verify",
+    "pre-push": "yarn sheet publish",
     "sheet": "node -r ts-node/register commands/sheet.ts",
     "suspect": "node -r ts-node/register commands/suspect.ts",
     "video": "node -r ts-node/register commands/video.ts"
@@ -35,11 +37,5 @@
     "ts-node": "^9.0.0",
     "typescript": "^4.0.3",
     "yaml": "^1.10.2"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn suspect verify",
-      "pre-push": "yarn sheet publish"
-    }
   }
 }

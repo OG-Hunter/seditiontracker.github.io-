@@ -710,6 +710,7 @@ const newSuspect = (suspectData) => {
   if (dateString) {
     const date = moment(dateString, "MM/DD/YY");
     suspect.date = date.format("YYYY-MM-DD");
+    suspect.charged = date.format("YYYY-MM-DD");
     suspect.title = suspect.title.replace("[longDate]", date.format("MMMM Do, YYYY"));
   }
 
