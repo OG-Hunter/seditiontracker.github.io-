@@ -37,5 +37,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lloyd%20Casimiro%20Cruz%20Jr%20Statement%20of%20Facts.pdf)
