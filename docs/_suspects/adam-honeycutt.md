@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479321/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1359935620123136000)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479316/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Adam%20Avery%20Honeycutt%20Information.pdf)
