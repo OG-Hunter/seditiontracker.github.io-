@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age: 37
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/geoffrey-shough.jpg
 suspect: geoffrey-shough.jpg
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.newsweek.com/man-arrested-alleged-role-capitol-riot-after-ex-outs-him-fbi-1683868)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479011/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479016/download)

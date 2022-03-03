@@ -1,13 +1,13 @@
 id: 256
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #256A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-256a.png/@@images/image/preview
 hashtag: TexasPleather
 duplicate: false
-charged: null
+charged: 2022-02-17
 mugshot: null
 sedition_link: https://seditiontracker.com/suspects/geoffrey-shough
 name: Geoffrey Shough
