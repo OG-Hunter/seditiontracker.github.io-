@@ -30,7 +30,7 @@ title: Narayana Rheiner charged on March 1st, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-46
 videos:
 charges:
