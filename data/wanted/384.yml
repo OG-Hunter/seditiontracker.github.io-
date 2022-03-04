@@ -1,15 +1,15 @@
 id: 384
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #384 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/384a.png/@@images/image/preview
+label: "Photograph #384 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-384aarrest.jpg/@@images/image/preview
 hashtag: LynyrdSinner
 duplicate: false
-charged: null
+charged: 2022-03-01
 mugshot: null
-sedition_link: null
-name: Ryan Rheiner
+sedition_link: https://seditiontracker.com/suspects/narayana-rheiner
+name: Narayana Rheiner
 missingImage: false
 identifiedBy: null
