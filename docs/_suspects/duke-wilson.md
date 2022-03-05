@@ -9,11 +9,11 @@ date: 2021-04-12
 charged: 2021-04-12
 indicted: 2021-05-07
 convicted: 2021-09-07
-sentenced: 2021-03-04
+sentenced: 2022-03-04
 dismissed:
 deceased:
 plea_hearing: 2021-09-07
-sentencing: 2021-03-04
+sentencing: 2022-03-04
 age: 66
 occupation:
 affiliations:
