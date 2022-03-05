@@ -4,16 +4,16 @@ lastName: Wilson
 hashtag: FakeNewsHat
 aka:
 residence: Idaho
-status: Convicted
+status: Sentenced
 date: 2021-04-12
 charged: 2021-04-12
 indicted: 2021-05-07
 convicted: 2021-09-07
-sentenced:
+sentenced: 2021-03-04
 dismissed:
 deceased:
 plea_hearing: 2021-09-07
-sentencing: 2021-12-21
+sentencing: 2021-03-04
 age: 66
 occupation:
 affiliations:
@@ -43,6 +43,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
+  - 51 months in prison (4.25 years)
+  - 36 months probation
+  - $2,000 restitution
 ---
 
 - [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)
