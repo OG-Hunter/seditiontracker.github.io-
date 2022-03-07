@@ -40,3 +40,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470311/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470316/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Government%20Motion%20Requesting%20Pretrial%20Detention%20Order.pdf)
+- [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Defense%20Motion%20For%20Release.pdf)

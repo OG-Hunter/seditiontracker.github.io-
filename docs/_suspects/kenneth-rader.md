@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.mynews13.com/fl/orlando/news/2021/07/07/kenneth-reda-viera-high-school-teacher-charged-in-capitol-riot-investigation)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Rader%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Rader%20Information.pdf)

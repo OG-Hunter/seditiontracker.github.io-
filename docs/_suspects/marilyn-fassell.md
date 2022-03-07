@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.tampabay.com/news/crime/2021/09/17/largo-woman-smoked-in-capitol-during-riot-now-she-husband-face-charges/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Information.pdf)

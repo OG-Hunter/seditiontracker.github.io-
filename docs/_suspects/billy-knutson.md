@@ -38,3 +38,4 @@ sentence:
 ---
 - [News Report](https://www.billboard.com/music/rb-hip-hop/south-dakota-man-charged-capitol-riot-rap-videos-1235019121/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Criminal%20Complaint.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Information.pdf)

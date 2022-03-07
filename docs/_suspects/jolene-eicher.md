@@ -37,3 +37,4 @@ charges:
 sentence:
 ---
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239399/gov.uscourts.dcd.239399.1.1.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jolene%20Eicher%20Information.pdf)

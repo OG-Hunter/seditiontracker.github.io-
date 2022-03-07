@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/world/tv-chef-carol-kicinski-charged-with-entering-capitol-during-jan-6-riots/ar-AAUdYVp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476356/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jon%20Heneghan%20and%20Carol%20Kicinski%20Information.pdf)

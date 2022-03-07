@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ktvu.com/news/peninsula-farm-owner-latest-bay-area-resident-charged-in-capitol-riot)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Scott%20Armstrong%20III%20Statement%20of%20Facts.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Scott%20Armstrong%20III%20Informaiton.pdf)

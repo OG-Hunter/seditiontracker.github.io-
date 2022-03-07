@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.sun-sentinel.com/news/florida/fl-ne-ap-tv-chef-jan-6-20220224-2g3ifto3y5dzbgyyzeobjuze5m-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476346/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jon%20Heneghan%20and%20Carol%20Kicinski%20Information.pdf)

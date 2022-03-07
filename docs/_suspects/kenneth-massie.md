@@ -3,7 +3,7 @@ name: Kenneth Massie
 lastName: Massie
 hashtag:
 aka:
-residence:
+residence: Ohio
 status: Charged
 date: 2022-01-07
 charged: 2022-01-07
@@ -36,5 +36,4 @@ videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Massie%20Statement%20of%20Facts.pdf)
