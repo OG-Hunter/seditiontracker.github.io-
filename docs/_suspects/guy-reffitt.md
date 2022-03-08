@@ -4,16 +4,16 @@ lastName: Reffitt
 hashtag: GuyReffitt
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-27
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-03-08
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-03-08
+sentencing: 2022-06-08
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force
@@ -34,8 +34,29 @@ published: true
 caseNumber: 1:21-cr-32
 videos:
 charges:
+  - code: 18 USC § 231(a)(2)
+    title: Civil Disorder (w/a firearm)
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of Congress
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1752(a)(1), (b)(1)(A)
+    title: Entering a restricted building or grounds with a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1512(a)(2)(C)
+    title: Obstruction of Justice through Physical Force (or threat of Force)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://nypost.com/2021/01/18/rioter-guy-reffitt-threatened-to-shoot-kids-if-they-talked-to-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356111/download)
