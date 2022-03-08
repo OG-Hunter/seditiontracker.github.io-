@@ -36,3 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
+- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1480801/download)
