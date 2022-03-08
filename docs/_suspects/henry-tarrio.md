@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/tarrio.jpg
 suspect: tarrio.jpg
-booking:
+booking: tarrio.jpg
 courtroom:
 courthouse:
 raid:
