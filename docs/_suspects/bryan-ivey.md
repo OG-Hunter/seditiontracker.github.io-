@@ -45,3 +45,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383061/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405631/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Wayne%20Ivey%20Defense%20Sentencing%20Memorandum.pdf)

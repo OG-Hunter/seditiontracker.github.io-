@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430231/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393706/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430226/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Orangias%20Defense%20Sentencing%20Memorandum.pdf)

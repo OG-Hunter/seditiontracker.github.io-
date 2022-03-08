@@ -4,12 +4,12 @@ lastName: Barnard
 hashtag: RichardBarnard
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-19
 convicted: 2021-10-20
-sentenced:
+sentenced: 2022-02-04
 dismissed:
 deceased:
 plea_hearing: 2021-10-20
@@ -34,13 +34,19 @@ published: true
 caseNumber: 1:21-cr-235
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days home detention
+  - 12 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.dailymail.co.uk/news/article-9360743/Two-men-charged-Capitol-riot-posted-video-claiming-crashed-White-House.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443876/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443871/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dawn%20Bancroft%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Franklin%20Barnard%20Judgment.pdf)

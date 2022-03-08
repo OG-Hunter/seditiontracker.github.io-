@@ -4,16 +4,16 @@ lastName: Juran
 hashtag: JohnJuran
 aka: Jack Juran
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-04-21
 charged: 2021-04-21
 indicted:
 convicted: 2021-12-01
-sentenced:
+sentenced: 2022-03-03
 dismissed:
 deceased:
 plea_hearing: 2021-12-01
-sentencing: 2022-02-23
+sentencing: 2022-03-03
 age: 51
 occupation:
 affiliations:
@@ -39,9 +39,14 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 60 days home detention
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/feds-arrest-new-york-man-seen-wearing-trump-2020-cowboy-hat-during-u-s-capitol-breach/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452921/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410416/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452916/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Juran%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Juran%20Judgment.pdf)
