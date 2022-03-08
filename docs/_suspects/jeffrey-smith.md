@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-28
-sentencing: 2022-01-21
+sentencing: 2022-03-15
 age: 33
 occupation: U.S. Army (Former)
 affiliations: military

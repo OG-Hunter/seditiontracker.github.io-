@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-11-04
-sentencing: 2022-02-09
+sentencing: 2022-03-30
 age: 54
 occupation: Physical Education Teacher, Viera High School
 affiliations:

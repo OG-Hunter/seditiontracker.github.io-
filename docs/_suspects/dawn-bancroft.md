@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
-sentencing: 2022-01-25
+sentencing: 2022-05-26
 age: 59
 occupation: Business Owner (CrossFit)
 affiliations:

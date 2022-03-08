@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-15
-sentencing: 2022-01-21
+sentencing: 
 age: 30
 occupation: Owner, Tree Removal Business
 affiliations:

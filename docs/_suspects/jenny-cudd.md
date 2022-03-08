@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-13
-sentencing: 2021-03-18
+sentencing: 2021-03-23
 age: 36
 occupation:
 affiliations:

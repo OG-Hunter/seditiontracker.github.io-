@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-01
-sentencing: 2022-03-02
+sentencing: 2022-05-10
 age: 47
 occupation: Nurse Anesthetist
 affiliations:
