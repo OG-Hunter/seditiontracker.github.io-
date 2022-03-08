@@ -14,8 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
-occupation:
+age: 31
+occupation: Washington Metropolitan Area Transit Authority IT Specialist
 affiliations:
 jurisdiction: Federal
 image: /images/preview/iraj-javid.jpg
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.wusa9.com/article/news/local/dc/metro-employee-arrested-capitol-riot-involvement-january-6-department-of-justice/65-d3734cf3-da22-4330-8287-c9b1ce95b0fa)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479821/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479826/download)

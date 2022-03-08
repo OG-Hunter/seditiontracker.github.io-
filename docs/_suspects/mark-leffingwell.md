@@ -18,8 +18,8 @@ age: 51
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/mark-leffingwell.jpg
+suspect: mark-leffingwell.jpg
 booking:
 courtroom:
 courthouse:
