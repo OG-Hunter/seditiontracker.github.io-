@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-03
-sentencing:
+sentencing: 2022-06-27
 age:
 occupation: Freelance Construction Building Estimator
 affiliations:
