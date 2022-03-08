@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://chicago.suntimes.com/metro-state/2022/2/16/22938068/brazilian-citizen-from-indian-head-park-charged-in-capitol-breach)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471146/download)
