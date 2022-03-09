@@ -316,6 +316,7 @@ const falsePositives = (site: string) => {
       set.add("Moors");
       set.add("Morgan-Lloyd");
       set.add("Yazdani");
+      set.add("Tarrio");
       break;
   }
 
@@ -519,6 +520,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Opposition to Defendants Motion to Lift Stay on Release Order/.test(description):
       return "Government Opposition to to Lift Stay on Release Order";
 
+    case /Govt Surreply to Def Motion to Dismiss/.test(description):
+      return "Government's Opposition to Defense Motion to Dismiss";
+
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
       return "Defendant's Notice of Government's Violation of Due Process Protections Act";
@@ -528,6 +532,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Motion to Modify Conditions of Release/.test(description):
     case /Defendant's Motion for Bond Review/.test(description):
     case /Defense Motion for Modification of Conditions of Release/.test(description):
+    case /Defense Motion to Reconsider Bail Status/.test(description):
       return "Defense Motion for Modification of Bond";
 
     case /Defense Motion for Release/.test(description):

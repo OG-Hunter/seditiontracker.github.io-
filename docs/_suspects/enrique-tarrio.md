@@ -4,10 +4,10 @@ lastName: Tarrio
 hashtag:
 aka: Henry Tarrio
 residence: FL
-status: Charged
-date: 2022-03-02
-charged: 2022-03-02
-indicted: 2022-03-02
+status: Indicted
+date: 2022-03-07
+charged: 2022-03-07
+indicted: 2022-03-07
 convicted:
 sentenced:
 dismissed:
