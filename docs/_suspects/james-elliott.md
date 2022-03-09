@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-006
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2021/12/21/22848391/aurora-man-accused-assaulting-officer-flagpole-capitol-riot-faces-five-felonies)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Robert%20Elliott%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481116/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/illinois-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

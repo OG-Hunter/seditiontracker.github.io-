@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-007
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.nwaonline.com/news/2022/jan/06/heber-springs-man-faces-federal-charges-in-2021/)
-- [Statement of Facts](https://s3.documentcloud.org/documents/21173903/12-29-21-us-v-robert-snow-complaint-affidavit.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481146/download)

@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-64
 videos:
 charges:
 sentence:
 ---
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lloyd%20Casimiro%20Cruz%20Jr%20Statement%20of%20Facts.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lloyd%20Casimiro%20Cruz%20Jr%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481061/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481066/download)

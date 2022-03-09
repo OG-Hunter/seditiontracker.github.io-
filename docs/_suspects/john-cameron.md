@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-006
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Cameron%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481121/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Cameron%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481126/download)

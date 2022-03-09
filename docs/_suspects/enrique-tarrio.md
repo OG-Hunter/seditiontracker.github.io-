@@ -1,8 +1,8 @@
 ---
-name: Henry Tarrio
+name: Enrique Tarrio
 lastName: Tarrio
 hashtag:
-aka: Enrique Tarrio
+aka: Henry Tarrio
 residence: FL
 status: Charged
 date: 2022-03-02
@@ -37,4 +37,4 @@ charges:
 sentence:
 ---
 
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1480801/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480986/download)

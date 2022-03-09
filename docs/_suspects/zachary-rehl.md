@@ -36,6 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.bozemandailychronicle.com/ap_news/philly-proud-boys-president-charged-in-capitol-riot/article_d9524b45-6f2a-57ac-9720-dd7bdd5093fe.html)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481006/download)

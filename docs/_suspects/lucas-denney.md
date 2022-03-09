@@ -4,10 +4,10 @@ lastName: Denney
 hashtag: PoleTosser
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2021-12-07
 charged: 2021-12-07
-indicted:
+indicted: 2022-03-07
 convicted:
 sentenced:
 dismissed:
@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1456571/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Indictment.pdf)

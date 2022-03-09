@@ -43,6 +43,6 @@ charges:
 sentence:
 ---
 - [News Report](https://greensboro.com/news/local/crime-and-courts/winston-salem-proud-boys-leader-charged-in-jan-6-capitol-riot-charles-donohoe-was-arrested/article_ab06b989-7bcf-5ce7-a060-d530e7949112.html)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377586/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481016/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)

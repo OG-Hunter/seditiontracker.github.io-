@@ -43,3 +43,4 @@ sentence:
 - [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Governments%20Memo%20in%20Opposition%20to%20Defendants%20Motion%20for%20Bond%20Review.pdf)
 - [Defendant's Reply to Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Defendants%20Motion%20for%20Bond%20Review.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Defendants%20Motion%20for%20Bond%20Review.pdf)
+- [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Pretrial%20Detention%20Hearing%20Transcript%20Excerpt.pdf)
