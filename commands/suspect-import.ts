@@ -281,6 +281,7 @@ const falsePositives = (site: string) => {
       set.add("Mazzocco");
       set.add("Munn");
       set.add("Curzio");
+      set.add("Celentaro");
       set.add("Clark");
       set.add("Mink");
       set.add("OBrien");

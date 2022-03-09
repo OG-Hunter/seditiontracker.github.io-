@@ -31,12 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://trib.com/news/state-and-regional/crime-and-courts/wyoming-man-charged-with-entering-us-capitol-on-jan-6/article_9478da12-6df0-5881-84a7-ec81701cbad0.html)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Galloway%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238869/gov.uscourts.dcd.238869.1.1.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Galloway%20Information.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481226/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481231/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481236/download)

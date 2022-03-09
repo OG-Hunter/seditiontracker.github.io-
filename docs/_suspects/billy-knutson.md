@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.billboard.com/music/rb-hip-hop/south-dakota-man-charged-capitol-riot-rap-videos-1235019121/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481301/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481306/download)

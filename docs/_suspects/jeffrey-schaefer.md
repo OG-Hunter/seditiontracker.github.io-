@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.delawareonline.com/story/news/2022/01/14/jeffrey-schaefer-arrested-jan-6-capitol-riots-washington-facebook/6528740001/)
-- [Statement of Facts](https://www.scribd.com/document/552876138/Schaefer-charging-document)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481446/download)

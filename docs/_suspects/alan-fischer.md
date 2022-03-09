@@ -31,11 +31,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.wtsp.com/article/news/crime/alan-fischer-model-arrested-capitol-riot/67-9eb9a39d-2a6d-4a6e-9468-62104516fe1a)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239196/gov.uscourts.dcd.239196.1.1_2.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481391/download)
 - [DOJ Statement](https://www.justice.gov/usao-dc/pr/three-florida-men-arrested-felony-charges-related-jan-6-capitol-breach-0)
