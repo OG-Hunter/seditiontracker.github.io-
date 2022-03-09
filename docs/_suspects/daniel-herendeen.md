@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-17
-sentencing: 2022-03-03
+sentencing: 2022-04-01
 age: 43
 occupation: Business Owner
 affiliations:

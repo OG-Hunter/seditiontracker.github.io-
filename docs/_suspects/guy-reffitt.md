@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/063.jpg
 suspect: 063.jpg
 booking:
-courtroom:
+courtroom: guy-reffitt.jpg
 courthouse:
 raid:
 perpwalk:

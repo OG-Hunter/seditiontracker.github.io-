@@ -20,11 +20,11 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/tarrio.jpg
 suspect: tarrio.jpg
-booking:
+booking: tarrio.jpg
 courtroom:
 courthouse:
 raid:
-perpwalk:
+perpwalk: tarrio.jpg
 quote:
 title: Henry Tarrio charged on 3/2/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
