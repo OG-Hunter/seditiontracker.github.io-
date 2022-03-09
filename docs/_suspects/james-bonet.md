@@ -4,12 +4,12 @@ lastName: Bonet
 hashtag: JamesBonet
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-06-02
 convicted: 2021-10-07
-sentenced:
+sentenced: 2022-03-09
 dismissed:
 deceased:
 plea_hearing: 2021-10-07
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 90 days in prison
+  - $500 restitution
 ---
 
 - [News Report](https://www.timesunion.com/news/article/No-weed-for-Glens-Falls-man-charged-in-attack-on-15903349.php)
