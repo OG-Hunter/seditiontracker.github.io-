@@ -1,12 +1,12 @@
 ---
-name: Raul Jarrin
-lastName: Jarrin
-hashtag:
+name: Jacob Garcia
+lastName: Garcia
+hashtag: 
 aka:
-residence: Virginia
+residence: Texas
 status: Charged
-date: 2022-03-01
-charged: 2022-03-01
+date: 2022-03-07
+charged: 2022-03-07
 indicted:
 convicted:
 sentenced:
@@ -18,15 +18,15 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/raul-jarrin.jpg
-suspect: raul-jarrin.jpg
+image: /images/preview/jacob-garcia.jpg
+suspect: jacob-garcia.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Raul Jarrin charged on March 1, 2022
+title: Jacob Garcia charged on 3/7/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -36,5 +36,4 @@ videos:
 charges:
 sentence:
 ---
-
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raul%20Eduardo%20Jarrin%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241058/gov.uscourts.dcd.241058.1.1.pdf)

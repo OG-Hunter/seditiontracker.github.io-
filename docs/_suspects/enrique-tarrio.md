@@ -3,7 +3,7 @@ name: Enrique Tarrio
 lastName: Tarrio
 hashtag:
 aka: Henry Tarrio
-residence: FL
+residence: Florida
 status: Indicted
 date: 2022-03-07
 charged: 2022-03-07

@@ -3,7 +3,7 @@ name: Zachary Rehl
 lastName: Rehl
 hashtag: ZachRehlPB
 aka:
-residence: Pennsylvaina
+residence: Pennsylvania
 status: Indicted
 date: 2021-03-17
 charged: 2021-03-17
