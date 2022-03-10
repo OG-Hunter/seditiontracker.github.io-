@@ -3,7 +3,7 @@ name: Ralph Celentano
 lastName: Celentano
 hashtag: ChairGuy
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2022-03-01
 charged: 2022-03-01
@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/trump-supporter-blind-sided-capitol-cop-jan-6-arrested-fbi-rcna19330)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481346/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481351/download)

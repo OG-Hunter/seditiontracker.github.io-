@@ -4,15 +4,15 @@ lastName: Torre
 hashtag: CapitolBoyBand
 aka:
 residence: Georgia
-status: Charged
+status: Convicted
 date: 2021-02-02
 charged: 2021-02-02
 indicted:
-convicted:
+convicted: 2022-03-09
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-09
 sentencing:
 age: 23
 occupation:
@@ -34,10 +34,14 @@ published: true
 caseNumber: 1:21-cr-143
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.cbs46.com/news/dawsonville-23-year-old-arrested-in-connection-to-capitol-hill-violence/article_2ccc63f2-6b08-11eb-9aef-0f13cbd239eb.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365776/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481511/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1359210114499170310)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377841/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481506/download)

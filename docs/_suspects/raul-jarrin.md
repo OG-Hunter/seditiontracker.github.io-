@@ -31,10 +31,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-45
 videos:
 charges:
 sentence:
 ---
-
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raul%20Eduardo%20Jarrin%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481476/download)

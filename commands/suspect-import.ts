@@ -223,6 +223,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Yazdani-Isfehani, Loammi";
     }
 
+    if (name == "HAYAH, Uliyahu") {
+      name = "Haya, Uliyahu";
+    }
+
     const nameChunks = name.split(",");
 
     const lastName = toLower(nameChunks[0])
@@ -277,6 +281,7 @@ const falsePositives = (site: string) => {
       set.add("DeGrave");
       set.add("Phipps");
       set.add("Sparks");
+      set.add("Hayah");
       set.add("Spencer");
       set.add("Mazzocco");
       set.add("Munn");

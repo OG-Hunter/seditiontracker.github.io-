@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239399/gov.uscourts.dcd.239399.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481616/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jolene%20Eicher%20Information.pdf)

@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2022/1/19/22891618/feds-charge-three-illinois-men-us-capitol-breach-investigation)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481591/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481596/download)

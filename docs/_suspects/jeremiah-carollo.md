@@ -31,11 +31,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-000
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/glen-carbon-man-faces-capitol-riot-charge/article_b02213cd-4f1a-51e7-91d2-1c5e3fadb628.html)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Criminal%20Complaint.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481601/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481606/download)

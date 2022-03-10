@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-005
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.fox4news.com/news/fort-worth-man-charged-for-injuring-officers-during-capitol-riot)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1464586/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481481/download)
