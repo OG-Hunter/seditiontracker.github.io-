@@ -3,8 +3,8 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #301A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-301a.png/@@images/image/preview
+label: "Photograph #301 (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-301aarrest.jpg/@@images/image/preview
 hashtag: WhiteLogoInsider
 duplicate: false
 charged: 2022-03-01
