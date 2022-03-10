@@ -4,15 +4,15 @@ lastName: Cooke
 hashtag: NolanCooke
 aka:
 residence: Texas
-status: Charged
+status: Convicted
 date: 2021-01-21
 charged: 2021-01-21
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-03-09
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-09
 sentencing:
 age: 22
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I made the news.'
+quote: "I made the news."
 title: Nolan Cooke charged on January 21st, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,8 +34,14 @@ published: true
 caseNumber: 1:21-mj-143
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481761/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481756/download)
