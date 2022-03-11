@@ -3,7 +3,7 @@ name: Jared Cantrell
 lastName: Cantrell
 hashtag:
 aka:
-residence:
+residence: Indiana
 status: Charged
 date: 2022-03-07
 charged: 2022-03-07
@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I was one of the first 50 in.'
 title: Jared Cantrell charged on March 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://dailyjournal.net/2022/03/10/fbi-arrests-greenwood-man-for-role-in-capitol-insurrection/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481931/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481936/download)
