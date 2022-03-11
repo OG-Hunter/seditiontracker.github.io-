@@ -481,6 +481,8 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Government Motion for Emergency Appeal of Release Order/.test(description):
     case /Governments Motion for Emergency Stay and for Review and Appeal of Release Order/.test(description):
+    case /Government Motion for Emergency Stay and for Review of Release Order/.test(description):
+    case /Government Motion for Emergency Stay and Revocation of Release Order/.test(description):
       return "Government Motion for Emergency Appeal of Release Order";
 
     case /Application for Search Warrant/.test(description):
@@ -506,6 +508,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Government's Opposition to Defendant's Motion for Reconsideration of Detention/.test(description):
     case /Government's Omnibus Opposition to Defendants' Motions for Release from Custody/.test(description):
     case /Government Opposition to Motion for Reconsideration of Motion for Conditional Release/.test(description):
+    case /Government Opposition to Motion for Reconsideration of Revocation of Bond/.test(description):
       return "Government Opposition to Reconsideration of Release";
 
     case /Supplement to Government's Opposition to Defendant's Motion for Conditional Release/.test(description):
@@ -563,6 +566,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Motion for Reconsideration of Conditions of Release/.test(description):
     case /Defense Motion for Reconsideration of Bond/.test(description):
     case /Motion to Reopen Detention Hearing and for Release on Conditions/.test(description):
+    case /Defense Motion for Reconsideration of Revocation of Bond/.test(description):
       return "Defense Motion for Reconsideration of Release";
 
     case /Defendant's Motion for a Bill of Particulars/.test(description):

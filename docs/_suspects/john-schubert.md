@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417746/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235718/gov.uscourts.dcd.235718.15.0_1.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Schubert%20Jr%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Schubert%20Jr%20Defense%20Sentencing%20Memorandum.pdf)

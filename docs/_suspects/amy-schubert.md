@@ -45,3 +45,4 @@ sentence:
 - [Incriminating Evidence (Video)](https://youtu.be/PfiS8MsfSF4?t=1105)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459286/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Amy%20Schubert%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Amy%20Schubert%20Defense%20Sentencing%20Memorandum.pdf)
