@@ -410,6 +410,7 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Information/.test(description):
     case /information/.test(description):
+    case /Third Amended Informaiton/.test(description):
       return "Information";
 
     case /Memorandum in Aid of Sentencing/.test(description):
