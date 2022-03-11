@@ -3,7 +3,7 @@ name: Quentin Cantrell
 lastName: Cantrell
 hashtag:
 aka:
-residence:
+residence: Indiana
 status: Charged
 date: 2022-03-07
 charged: 2022-03-07
@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 54
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/3-indianapolis-area-men-arrested-in-connection-with-us-capitol-riot/ar-AAUTEA7)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481961/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481966/download)
