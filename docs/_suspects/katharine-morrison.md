@@ -2,8 +2,8 @@
 name: Katharine Morrison
 lastName: Morrison
 hashtag:
-aka:
-residence:
+aka: Kate Morrison
+residence: New York
 status: Indicted
 date: 2022-02-02
 charged: 2022-02-02
