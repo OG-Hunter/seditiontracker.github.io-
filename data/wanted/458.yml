@@ -2,7 +2,7 @@ id: 458
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #458 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/458a.png/@@images/image/preview
 hashtag: TrumpTomato
@@ -12,4 +12,4 @@ mugshot: null
 sedition_link: null
 name: null
 missingImage: false
-identifiedBy: null
+identifiedBy: "@rocketman2001"
