@@ -1,15 +1,15 @@
 id: 335
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #335 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/335a.png/@@images/image/preview
+label: "Photograph #335 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-335arrest.jpg/@@images/image/preview
 hashtag: OleBurnsides
 duplicate: false
-charged: null
+charged: 2022-03-14
 mugshot: null
-sedition_link: null
-name: Jake Zerkle
+sedition_link: https://seditiontracker.com/suspects/jacob-zerkle
+name: Jacob Zerkle
 missingImage: false
 identifiedBy: null

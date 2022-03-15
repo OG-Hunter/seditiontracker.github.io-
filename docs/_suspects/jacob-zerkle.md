@@ -1,7 +1,7 @@
 ---
 name: Jacob Zerkle
 lastName: Zerkle
-hashtag: OldBurnsides
+hashtag: OleBurnsides
 aka:
 residence: Arizona
 status: Charged
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2656957701/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483491/download)
