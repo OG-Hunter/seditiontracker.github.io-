@@ -39,3 +39,6 @@ sentence:
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/02/19/capitol-riot-arrests-iowa-mother-and-son-face-charges-jan-6-riot-deborah-sandoval-salvador-sandoval/4515346001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379251/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460081/download)
+- [Defense Motion to Sever](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Deborah%20Sandoval%20Defense%20Motion%20to%20Sever.pdf)
+- [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Deborah%20Sandoval%20and%20Salvador%20Sandoval%20Jr%20Government%20Opposition%20to%20Motion%20for%20Severance.pdf)
+- [Government Opposition to Defense Motion for Severance](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Deborah%20Sandoval%20and%20Salvador%20Sandoval%20Jr%20Government%20Opposition%20to%20Motion%20for%20Severance.pdf)

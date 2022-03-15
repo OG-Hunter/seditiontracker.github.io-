@@ -43,3 +43,4 @@ sentence:
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Defense%20Motion%20For%20Release.pdf)
 - [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Government%20Motion%20For%20Emergency%20Stay%20and%20Revocation%20of%20Release%20Order.pdf)
 - [Government Motion for Emergency Appeal of Release Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Government%20Motion%20For%20Emergency%20Stay%20and%20Revocation%20of%20Release%20Order.pdf)
+- [Defense Response to Motion for Revocation of Order of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Jason%20Beddingfield%20Defense%20Response%20to%20Motion%20for%20Revocation%20of%20Release%20Order.pdf)

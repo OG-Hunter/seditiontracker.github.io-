@@ -540,7 +540,12 @@ const linkType = (description: string, lastName?: string) => {
       return "Government Opposition to to Lift Stay on Release Order";
 
     case /Govt Surreply to Def Motion to Dismiss/.test(description):
+    case /Defense Emergency Motion to Dismiss and for Release from Custody/.test(description):
+    case /Government Response to Emergency Motion to Dismiss and for Release from Custody/.test(description):
       return "Government's Opposition to Defense Motion to Dismiss";
+
+    case /Government Opposition to Defense Motion for Severance/.test(description):
+      return "Government Opposition to Defense Motion for Severance";
 
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
@@ -611,6 +616,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Defense Response to Motion for Appeal of Release Order";
 
     case /Defense Response to Motion for Revocation of Order of Release/.test(description):
+    case /Defense Response to Motion for Revocation of Release Order/.test(description):
       return "Defense Response to Motion for Revocation of Order of Release";
 
     case /Defense Reply to Govt Opposition to Motion to Dismiss/.test(description):
