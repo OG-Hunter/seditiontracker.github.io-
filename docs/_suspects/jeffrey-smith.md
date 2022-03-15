@@ -4,12 +4,12 @@ lastName: Smith
 hashtag: JeffreyAlexanderSmith
 aka: Alex Smith
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted:
 convicted: 2021-10-28
-sentenced:
+sentenced: 2022-03-15
 dismissed:
 deceased:
 plea_hearing: 2021-10-28
@@ -34,12 +34,17 @@ published: true
 caseNumber: 1:21-cr-290
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 90 days in prison
+  - 24 months probation
+  - 200 hours of community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445281/download)
