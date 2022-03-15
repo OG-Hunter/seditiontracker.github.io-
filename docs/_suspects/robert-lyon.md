@@ -4,15 +4,15 @@ lastName: Lyon
 hashtag: RobertLyon
 aka:
 residence: Ohio
-status: Indicted
+status: Convicted
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-03-14
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-14
 sentencing:
 age: 27
 occupation:
@@ -34,9 +34,15 @@ published: true
 caseNumber: 1:21-cr-161
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wfmj.com/story/43232086/feds-accuse-3-ohio-men-of-illegally-entering-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)
-- [Statement of Facts](https://www.justice.gov/opa/page/file/1361301/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483236/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371361/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483231/download)

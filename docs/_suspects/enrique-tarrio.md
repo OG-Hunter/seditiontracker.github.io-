@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480986/download)
 - [Detention Memo](https://s3.documentcloud.org/documents/21417131/3-14-22-us-detention-memo-enrique-tarrio.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Enrique%20Tarrio%20Government%20Detention%20Memorandum.pdf)
