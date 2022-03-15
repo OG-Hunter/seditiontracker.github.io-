@@ -23,7 +23,7 @@ suspect: ralph-celentano.jpg
 booking:
 courtroom:
 courthouse:
-raid:
+raid: ralph-celentano.jpg
 perpwalk:
 quote:
 title: Ralph Celentano charged on March 1st, 2022
@@ -39,3 +39,4 @@ sentence:
 - [News Report](https://www.nbcnews.com/politics/trump-supporter-blind-sided-capitol-cop-jan-6-arrested-fbi-rcna19330)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481346/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481351/download)
+- [FBI Raid (Video)](https://twitter.com/jocejocejoe/status/1503468283453915142)
