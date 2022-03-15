@@ -4,12 +4,12 @@ lastName: Loftus
 hashtag: KevinLoftus
 aka:
 residence: Wisconsin
-status: Convicted
+status: Sentenced
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-04
 convicted: 2021-10-19
-sentenced:
+sentenced: 2022-03-15
 dismissed:
 deceased:
 plea_hearing: 2021-10-19
@@ -34,12 +34,16 @@ published: true
 caseNumber: 1:21-cr-81
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - 60 hours
+  - $500 restitution
 ---
+
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443836/download)

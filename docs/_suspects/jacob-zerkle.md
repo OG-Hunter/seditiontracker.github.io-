@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-60
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2656957701/)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241224/gov.uscourts.dcd.241224.1.1_1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483491/download)

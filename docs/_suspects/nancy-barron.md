@@ -1,9 +1,9 @@
 ---
-name: John Gould
-lastName: Gould
+name: Nancy Barron
+lastName: Barron
 hashtag:
 aka:
-residence: Georgia
+residence:
 status: Charged
 date: 2022-03-11
 charged: 2022-03-11
@@ -18,23 +18,24 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/john-gould.jpg
-suspect: john-gould.jpg
+image: /images/preview/nancy-barron.jpg
+suspect: nancy-barron.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: John Gould charged on March 11, 2022
+title: Nancy Barron charged on March 11th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber: 1:22-mj-56
+caseNumber: 1:22-mj-57
 videos:
 charges:
 sentence:
 ---
 - [News Report]()
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483526/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483506/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483511/download)
