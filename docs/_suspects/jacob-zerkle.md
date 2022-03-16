@@ -39,3 +39,4 @@ sentence:
 
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2656957701/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483491/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/arizona-man-arrested-charges-assault-law-enforcement-during-jan-6-capitol-breach)
