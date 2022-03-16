@@ -44,3 +44,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453446/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453441/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20and%20Stacie%20Getsinger%20Information.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stacie%20Ann%20Hargis-Getsinger%20Government%20Sentencing%20Memorandum.pdf)

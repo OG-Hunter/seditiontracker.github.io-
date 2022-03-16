@@ -3,7 +3,7 @@ name: Nancy Barron
 lastName: Barron
 hashtag:
 aka:
-residence:
+residence: Indiana
 status: Charged
 date: 2022-03-11
 charged: 2022-03-11

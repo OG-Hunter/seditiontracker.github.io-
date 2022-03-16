@@ -46,3 +46,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389886/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410506/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450201/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Memorandum%20Opinion%20on%20Split%20Sentence.pdf)
