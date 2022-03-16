@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.thedailybeast.com/alleged-capitol-rioter-john-gould-arrested-after-getting-outed-by-rioting-co-worker-jonathan-lauren)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483526/download)
