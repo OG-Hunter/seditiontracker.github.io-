@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 46
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Fuck Nancy Pelosi and fuck Chuck Schumer. Got to drag those cocksuckers down.'
 title: Nancy Barron charged on March 11th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.whas11.com/article/news/crime/nancy-barron-capitol-riot-indiana/417-fae2cb65-bb4d-4e2f-a1f3-57d17ba2b7fd)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483506/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483511/download)
+- [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1503796942001872909?s=20&t=OjZoMJYH2I-70qZIAKiD2w)
