@@ -31,11 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 1:22-mj-64
 videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Riley%20Kasper%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484491/download)

@@ -1,9 +1,9 @@
 id: 177
 aom: true
-afo: false
+afo: true
 arrested: false
 identified: false
-label: "Photograph #177 - AOM"
+label: "Photograph #177 - AOM and AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-177.png/@@images/image/preview
 hashtag: JamesDeanWannabe
 duplicate: false

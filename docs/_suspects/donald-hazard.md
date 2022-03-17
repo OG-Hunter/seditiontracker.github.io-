@@ -31,10 +31,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-mj-686
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1456571/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484536/download)
