@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-28
-sentencing:
+sentencing: 2022-03-17
 age:
 occupation:
 affiliations:
