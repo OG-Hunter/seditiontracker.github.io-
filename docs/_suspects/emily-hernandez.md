@@ -46,3 +46,4 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1357296/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Emily%20Hernandez%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469121/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Emily%20Hernandez%20Government%20Sentencing%20Memorandum.pdf)
