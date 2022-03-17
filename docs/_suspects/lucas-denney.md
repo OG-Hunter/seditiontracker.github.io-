@@ -4,15 +4,15 @@ lastName: Denney
 hashtag: PoleTosser
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-12-07
 charged: 2021-12-07
 indicted: 2022-03-07
-convicted:
+convicted: 2022-03-17
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-17
 sentencing:
 age: 44
 occupation:
@@ -34,8 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1456571/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Indictment.pdf)
