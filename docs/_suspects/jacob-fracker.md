@@ -9,8 +9,8 @@ date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
 convicted: 2022-03-18
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2022-03-18
 sentencing:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-34
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 371
+    title: Conspiracy to commit an offense against the United States
+    url: https://www.law.cornell.edu/uscode/text/18/371
+    felony: true
 sentence:
 ---
+
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)
