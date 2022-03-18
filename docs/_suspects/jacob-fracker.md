@@ -4,15 +4,15 @@ lastName: Fracker
 hashtag: JacobFracker
 aka:
 residence: Virginia
-status: Indicted
+status: Convicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
-convicted: 
+convicted: 2022-03-18
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-18
 sentencing:
 age: 29
 occupation: Police Officer (Former Military)
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-34
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)

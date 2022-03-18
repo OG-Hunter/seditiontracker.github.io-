@@ -4,15 +4,15 @@ lastName: Evans
 hashtag: DerrickEvans
 aka:
 residence: West Virginia
-status: Indicted
+status: Convicted
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-06-30
-convicted:
+convicted: 2022-03-18
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-18
 sentencing:
 age: 35
 occupation: West Viriginia Delegate
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-337
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
