@@ -1,7 +1,7 @@
 ---
 name: Riley Kasper
 lastName: Kasper
-hashtag:
+hashtag: MaceyGrey
 aka:
 residence: Wisconsin
 status: Charged
@@ -18,9 +18,9 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/riley-kasper.jpg
-suspect: riley-kasper.jpg
-booking:
+image: /images/preview/riley-kasper.png
+suspect: riley-kasper.png
+booking: kasper-booking.png
 courtroom:
 courthouse:
 raid:
@@ -30,11 +30,12 @@ title: Riley Kasper charged on March 15, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-64
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://fox11online.com/news/crime/riley-kasper-january-6-2021-capitol-insurrection-riot-attack-federal-court-charges)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484491/download)
