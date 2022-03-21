@@ -34,16 +34,17 @@ published: true
 caseNumber: 1:21-cr-34
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
 sentence:
 ---
-
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)
 - [Self Incrimination](https://www.thedailybeast.com/jacob-fracker-bragged-he-pissed-in-nancy-pelosis-toilet-during-capitol-riot-feds-say)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353461/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484886/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364781/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484881/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484891/download)
