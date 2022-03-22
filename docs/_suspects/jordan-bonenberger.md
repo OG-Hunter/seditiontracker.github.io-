@@ -3,7 +3,7 @@ name: Jordan Bonenberger
 lastName: Bonenberger
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
 date: 2022-03-11
 charged: 2022-03-11
@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485601/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485606/download)
