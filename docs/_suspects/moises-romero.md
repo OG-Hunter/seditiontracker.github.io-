@@ -34,13 +34,14 @@ published: true
 caseNumber: 1:21-mj-612
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://wsvn.com/news/local/2-south-floridians-post-photos-videos-of-themselves-at-u-s-capitol-riot/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Moises%20Romero%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1440791/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485681/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485671/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485676/download)
