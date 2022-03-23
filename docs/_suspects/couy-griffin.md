@@ -4,15 +4,15 @@ lastName: Griffin
 hashtag: CouyGriffin
 aka:
 residence: New Mexico
-status: Indicted
+status: Convicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-02-08
-convicted:
+convicted: 2022-03-22
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-22
 sentencing:
 age: 47
 occupation: County Commissioner
@@ -34,8 +34,13 @@ published: true
 caseNumber: 1:21-cr-92
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (Image)](/images/after/couy-griffin.png)
 - [Perp Walk (VIDEO)](https://www.nbcwashington.com/news/local/new-mexico-county-commissioner-arrested-in-dc-for-involvement-in-capitol-riot/2544645/)
