@@ -31,9 +31,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-54
 videos:
 charges:
 sentence:
 ---
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241058/gov.uscourts.dcd.241058.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486336/download)
