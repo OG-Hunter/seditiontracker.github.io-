@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/melanie-archer.jpg
-suspect: melanie-archer.jpg
+image: /images/preview/melanie-archer.png
+suspect: melanie-archer.png
 booking:
 courtroom:
 courthouse:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://pittsburgh.cbslocal.com/2022/03/21/pittsburgh-woman-turns-herself-in-to-fbi-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485591/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485596/download)
