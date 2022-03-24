@@ -40,5 +40,5 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353461/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364781/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486456/download)
 - [Motion to Revoke Pretrial Release](https://www.documentcloud.org/documents/20981804-210630-robertson-motion-to-revoke-pretrial-release)
