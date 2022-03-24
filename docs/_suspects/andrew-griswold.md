@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-30
 sentencing:
 age: 28
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412506/download)

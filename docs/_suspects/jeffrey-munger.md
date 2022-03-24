@@ -3,7 +3,7 @@ name: Jeffrey Munger
 lastName: Munger
 hashtag:
 aka:
-residence:
+residence: Indiana
 status: Charged
 date: 2022-03-11
 charged: 2022-03-11
@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486516/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486521/download)
