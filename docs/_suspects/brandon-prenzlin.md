@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-25
 sentencing:
 age: 26
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457596/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457631/download)
