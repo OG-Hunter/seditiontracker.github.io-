@@ -31,10 +31,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-87
 videos:
 charges:
 sentence:
 ---
-
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carson%20Lucard%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487166/download)
