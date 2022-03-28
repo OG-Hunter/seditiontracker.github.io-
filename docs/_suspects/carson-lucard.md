@@ -4,21 +4,21 @@ lastName: Lucard
 hashtag:
 aka:
 residence:
-status: Charged
+status: Convicted
 date: 2022-03-16
 charged: 2022-03-16
 indicted:
-convicted:
+convicted: 2022-03-25
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-03-25
 sentencing:
 age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/charged.jpg
+image: /images/preview/convicted.jpg
 suspect: charged.jpg
 booking:
 courtroom:
@@ -34,6 +34,12 @@ published: true
 caseNumber: 1:22-cr-87
 videos:
 charges:
+- code: 18 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487166/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487171/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487176/download)

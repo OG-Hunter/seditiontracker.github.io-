@@ -706,7 +706,11 @@ const addData = (suspectData) => {
 
       if (type == "Plea Agreement" && suspect.status != "Sentenced") {
         suspect.status = "Convicted";
-        updatePreview(suspect);
+        if (suspect.suspect === "charged.jpg") {
+          suspect.image = "/images/preview/convicted.jpg";
+        } else {
+          updatePreview(suspect);
+        }
       }
 
       if (type == "Judgement") {

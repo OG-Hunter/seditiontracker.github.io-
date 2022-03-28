@@ -36,7 +36,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.indystar.com/story/news/crime/2022/03/24/fbi-jeffrey-munger-climbed-through-u-s-capitol-window-during-riot/7157433001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486516/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486521/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487226/download)
