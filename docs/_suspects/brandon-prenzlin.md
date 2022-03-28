@@ -40,3 +40,4 @@ sentence:
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457596/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457631/download)
+- [Fired from Job](https://twitter.com/xiruahu/status/1488312863475306497?s=20&t=ROao3WY5vqCQgEArwVHHsA)

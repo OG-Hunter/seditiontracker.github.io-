@@ -16,7 +16,7 @@ plea_hearing: 2022-01-07
 sentencing: 2022-03-25
 age: 51
 occupation:
-affiliations:
+affiliations: Former USMC
 jurisdiction: Federal
 image: /images/preview/robert-petrosh.jpg
 suspect: robert-petrosh.jpg
