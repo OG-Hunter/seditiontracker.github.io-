@@ -3,7 +3,7 @@ name: John Lammons
 lastName: Lammons
 hashtag:
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2022-03-01
 charged: 2022-03-01

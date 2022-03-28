@@ -3,7 +3,7 @@ name: Joshua Johnson
 lastName: Johnson
 hashtag:
 aka:
-residence:
+residence: Washington
 status: Charged
 date: 2022-03-07
 charged: 2022-03-07

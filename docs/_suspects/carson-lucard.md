@@ -3,7 +3,7 @@ name: Carson Lucard
 lastName: Lucard
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Convicted
 date: 2022-03-16
 charged: 2022-03-16

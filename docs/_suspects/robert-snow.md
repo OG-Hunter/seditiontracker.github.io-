@@ -43,3 +43,4 @@ sentence:
 - [News Report](https://www.nwaonline.com/news/2022/jan/06/heber-springs-man-faces-federal-charges-in-2021/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486936/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486931/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Snow%20Information.pdf)
