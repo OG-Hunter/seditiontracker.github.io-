@@ -313,6 +313,7 @@ const falsePositives = (site: string) => {
       set.add("Rhodes");
       set.add("Rubenacker");
       set.add("Zoyganeles");
+      set.add("Riddle");
       break;
     case "DOJ":
       set.add("Capsel");
@@ -598,6 +599,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defense Motion to Amend Sentence/.test(description):
       return "Defense Motion to Amend Sentence";
+
+    case /Defense Preliminary Guideline Analysis/.test(description):
+      return "Defense Analysis of Sentencing Guidelines";
 
     // defense response
     case /Defense Opposition to Government's Motion to Continue/.test(description):

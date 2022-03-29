@@ -45,3 +45,6 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484506/download)
 - [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Government%20Response%20to%20Defense%20Emergency%20Motion%20for%20Release%20and%20to%20Dismiss%20Case.pdf)
 - [Government's Opposition to Defense Motion to Dismiss](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Government%20Response%20to%20Defense%20Emergency%20Motion%20for%20Release%20and%20to%20Dismiss%20Case.pdf)
+- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Government%20Notice%20of%20Information%20in%20Preperation%20for%20Plea%20Hearing.pdf)
+- [Sentencing Guidelines](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Government%20Notice%20of%20Sentencing%20Guidelines%20Estimate.pdf)
+- [Defense Analysis of Sentencing Guidelines](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lucas%20Denney%20Defense%20Preliminary%20Guideline%20Analysis.pdf)
