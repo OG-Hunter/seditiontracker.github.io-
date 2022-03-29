@@ -40,3 +40,5 @@ sentence:
 - [News Report](https://www.washingtontimes.com/news/2021/feb/16/capitol-raider-boasted-facebook-proudly-storming-c/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371456/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377796/download)
+- [Defense Motion for Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Gennaro%20Mellis%20Defense%20Motion%20for%20Reconsideration%20of%20Pretrial%20Detention.pdf)
+- [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonathan%20Gennaro%20Mellis%20Defense%20Reply%20to%20Government%20Opposition%20to%20Motion%20for%20Reconsideration%20of%20Pretrial%20Detention.pdf)

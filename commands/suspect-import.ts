@@ -515,6 +515,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Government's Omnibus Opposition to Defendants' Motions for Release from Custody/.test(description):
     case /Government Opposition to Motion for Reconsideration of Motion for Conditional Release/.test(description):
     case /Government Opposition to Motion for Reconsideration of Revocation of Bond/.test(description):
+    case /Government Opposition to Motion for Reconsideration of Pretrial Detention/.test(description):
       return "Government Opposition to Reconsideration of Release";
 
     case /Supplement to Government's Opposition to Defendant's Motion for Conditional Release/.test(description):
@@ -578,6 +579,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Motion for Reconsideration of Bond/.test(description):
     case /Motion to Reopen Detention Hearing and for Release on Conditions/.test(description):
     case /Defense Motion for Reconsideration of Revocation of Bond/.test(description):
+    case /Defense Motion for Reconsideration of Pretrial Detention/.test(description):
       return "Defense Motion for Reconsideration of Release";
 
     case /Defendant's Motion for a Bill of Particulars/.test(description):
@@ -613,6 +615,7 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Defense Reply to Opposition to Motion for Release from Custody/.test(description):
     case /Defense Reply to Opposition to Motion for Conditional Release/.test(description):
+    case /Defense Reply to Government Opposition to Motion for Reconsideration of Pretrial Detention/.test(description):
       return "Defense Reply to Opposition to Motion for Release from Custody";
 
     case /Defense Response to Motion for Appeal of Release Order/.test(description):

@@ -1,0 +1,41 @@
+---
+name: Patrick King
+lastName: King
+hashtag:
+aka:
+residence:
+status: Charged
+date: 2022-03-15
+charged: 2022-03-15
+indicted:
+convicted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+sentencing:
+age:
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/patrick-king.jpg
+suspect: patrick-king.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Patrick King charged on March 15th, 2022
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber: 1:22-mj-63
+videos:
+charges:
+sentence:
+---
+- [News Report]()
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488261/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488266/download)
