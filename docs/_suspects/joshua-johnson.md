@@ -1,13 +1,13 @@
 ---
 name: Joshua Johnson
 lastName: Johnson
-hashtag:
+hashtag: MetroJack
 aka:
 residence: Washington
-status: Charged
+status: Indicted
 date: 2022-03-07
 charged: 2022-03-07
-indicted:
+indicted: 2022-03-11
 convicted:
 sentenced:
 dismissed:
@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.rawstory.com/ma-2657044063/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487181/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487186/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487191/download)
