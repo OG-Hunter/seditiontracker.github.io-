@@ -3,7 +3,7 @@ name: Brian Jones
 lastName: Jones
 hashtag:
 aka:
-residence:
+residence: Washington
 status: Charged
 date: 2022-03-15
 charged: 2022-03-15
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/fbi-uses-online-records-to-catch-mount-vernon-men-who-smoked-weed-during-capitol-riots/ar-AAVDP00)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488271/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488276/download)
