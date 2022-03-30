@@ -4,11 +4,11 @@ lastName: Griswold
 hashtag: AndrewGriswold
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-03-05
 charged: 2021-03-05
 indicted: 2021-07-09
-convicted:
+convicted: 2022-03-30
 sentenced:
 dismissed:
 deceased:
@@ -34,6 +34,10 @@ published: true
 caseNumber: 1:21-cr-459
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
