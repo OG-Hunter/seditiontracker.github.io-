@@ -46,3 +46,5 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377671/download)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/maryland-man-pleads-guilty-felony-charge-offenses-committed-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488281/download)
+- [Defense Motion to Dismiss or Exclude Evidence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Blair%20Defense%20Motion%20to%20Suppress%20Evidence.pdf)
+- [Government Opposition to Motion to Suppress Evidence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Blair%20Government%20Opposition%20to%20Motion%20to%20Suppress%20Evidence.pdf)

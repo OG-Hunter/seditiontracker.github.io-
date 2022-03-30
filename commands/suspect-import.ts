@@ -549,6 +549,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Opposition to Defense Motion for Severance/.test(description):
       return "Government Opposition to Defense Motion for Severance";
 
+    case /Government Opposition to Motion to Suppress Evidence/.test(description):
+      return "Government Opposition to Motion to Suppress Evidence";
+
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
       return "Defendant's Notice of Government's Violation of Due Process Protections Act";
