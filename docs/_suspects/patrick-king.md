@@ -3,7 +3,7 @@ name: Patrick King
 lastName: King
 hashtag:
 aka:
-residence:
+residence: Washington
 status: Charged
 date: 2022-03-15
 charged: 2022-03-15
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Smoked weed n shit'
 title: Patrick King charged on March 15th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/fbi-uses-online-records-to-catch-mount-vernon-men-who-smoked-weed-during-capitol-riots/ar-AAVDP00)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488261/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488266/download)
