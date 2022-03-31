@@ -14,12 +14,12 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-25
 sentencing:
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/convicted.jpg
-suspect: charged.jpg
+suspect: convicted.jpg
 booking:
 courtroom:
 courthouse:
@@ -40,6 +40,7 @@ charges:
   felony: false
 sentence:
 ---
+- [News Report](https://lawandcrime.com/u-s-capitol-breach/man-previously-identified-only-as-a-big-trump-guy-by-convicted-friend-pleads-guilty-to-jan-6-misdemeanor/)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487166/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487171/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487176/download)
