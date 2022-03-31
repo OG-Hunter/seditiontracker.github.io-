@@ -34,14 +34,15 @@ published: true
 caseNumber: 1:21-cr-459
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378646/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488791/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412506/download)
 - [DOJ Press Release](https://twitter.com/USAO_DC/status/1509263471992582151?s=20&t=3X3c-76uXxSEfoz6e8Dm0A)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488781/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488786/download)
