@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/tarrio.jpg
 suspect: tarrio.jpg
 booking: tarrio.jpg
-courtroom:
+courtroom: tarrio.jpg
 courthouse:
 raid:
 perpwalk: tarrio.jpg
