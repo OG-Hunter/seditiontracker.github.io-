@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-22
-sentencing:
+sentencing: 2022-06-17
 age: 47
 occupation: County Commissioner
 affiliations: Cowboys for Trump
