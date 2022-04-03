@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-16
-sentencing: 2022-03-31
+sentencing: 2022-06-01
 age: 41
 occupation: Former Councilman
 affiliations:
