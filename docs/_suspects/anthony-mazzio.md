@@ -1,9 +1,9 @@
 ---
-name: Anthony Mazzio Jr
-lastName: Mazzio Jr
+name: Anthony Mazzio
+lastName: Mazzio
 hashtag:
 aka:
-residence:
+residence: Alabama
 status: Charged
 date: 2022-03-22
 charged: 2022-03-22
@@ -13,20 +13,21 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/anthony-mazzio-jr.jpg
-suspect: anthony-mazzio-jr.jpg
+image: /images/preview/anthony-mazzio.jpg
+suspect: anthony-mazzio.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Anthony Mazzio Jr charged on March 22, 2022
+title: Anthony Mazzio charged on March 22nd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -38,4 +39,5 @@ sentence:
 ---
 
 - [News Report]()
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Michael%20Mazzio%20Jr%20Statement%20of%20Facts.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490451/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490456/download)
