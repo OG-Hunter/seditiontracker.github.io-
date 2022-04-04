@@ -4,12 +4,12 @@ lastName: Riddle
 hashtag: JasonRiddle
 aka:
 residence: New Hampshire
-status: Convicted
+status: Sentenced
 date: 2021-02-05
 charged: 2021-02-05
 indicted:
 convicted: 2021-11-18
-sentenced:
+sentenced: 2022-04-04
 dismissed:
 deceased:
 plea_hearing: 2021-11-18
@@ -43,6 +43,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/641
     felony: false
 sentence:
+  - 90 days in prison
+  - 36 months probation
+  - mandatory mental health and alcohol abuse treatment
+  - $754 restitution
 ---
 
 - [News Report](https://www.thedailybeast.com/wine-drinking-rioter-jason-riddle-sold-stolen-senate-doc-for-dollar40-feds)
