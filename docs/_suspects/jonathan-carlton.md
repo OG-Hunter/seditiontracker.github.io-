@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-29
-sentencing:
+sentencing: 2022-06-29
 age: 45
 occupation: State Corrections Officer
 affiliations:

@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-11-18
-sentencing: 2022-03-28
+sentencing: 2022-04-04
 age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government

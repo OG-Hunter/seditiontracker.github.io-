@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-18
-sentencing:
+sentencing: 2022-06-22
 age: 35
 occupation: West Viriginia Delegate
 affiliations:

@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-17
-sentencing:
+sentencing: 2022-06-09
 age: 44
 occupation:
 affiliations: Patriot Boys (President), Three Percenters
