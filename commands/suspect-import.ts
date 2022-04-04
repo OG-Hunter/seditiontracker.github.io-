@@ -111,6 +111,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "Morrison, Katharine";
       }
 
+      if (nameText.match(/Mazzio/)) {
+        nameText = "Mazzio, Anthony";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
