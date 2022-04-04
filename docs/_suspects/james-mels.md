@@ -8,11 +8,12 @@ status: Charged
 date: 2021-02-11
 charged: 2021-02-11
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-08-29
 sentencing:
 age: 56
 occupation:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.freep.com/story/news/local/michigan/macomb/2021/02/11/us-capitol-riot-james-mels-michigan/6721642002/)
 - [Statement of Facts](https://www.justice.gov/doj/case-multi-defendant/file/1366576/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377811/download)
