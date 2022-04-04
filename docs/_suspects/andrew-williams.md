@@ -4,12 +4,12 @@ lastName: Williams
 hashtag: AndrewWilliams
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-01-12
 charged: 2021-01-12
 indicted:
 convicted: 2021-11-02
-sentenced:
+sentenced: 2022-02-09
 dismissed:
 deceased:
 plea_hearing: 2021-11-02
@@ -39,6 +39,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 24 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
