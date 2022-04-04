@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-08
 sentencing:
 age:
 occupation: Ironworker
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Mattice%20and%20James%20Phillip%20Mault%20Indictment.pdf)

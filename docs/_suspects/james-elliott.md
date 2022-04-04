@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 24
 occupation:
