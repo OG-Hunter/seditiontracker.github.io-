@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/lonnie-coffman.jpg
 suspect: lonnie-coffman.jpg
 booking:
-courtroom:
+courtroom: lonnie-coffman.jpg
 courthouse:
 raid: lonnie-coffman.jpg
 perpwalk:
