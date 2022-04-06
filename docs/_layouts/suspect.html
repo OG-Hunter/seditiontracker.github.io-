@@ -30,6 +30,8 @@ layout: default
   <div>Arrested/Charged: <small>{{ page.charged | date: "%Y-%m-%d"}}</small></div>
   {% if page.indicted %}
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
+  {% endif %} {% if page.acquitted %}
+  <div>Acquitted: <small>{{ page.acquitted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.convicted %}
   <div>Convicted: <small>{{ page.convicted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.charges %}

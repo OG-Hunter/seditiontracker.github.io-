@@ -4,7 +4,7 @@ lastName: Martin
 hashtag: MatthewMartin
 aka:
 residence: New Mexico
-status: Charged
+status: Acquitted
 date: 2021-04-22
 charged: 2021-04-22
 indicted:
