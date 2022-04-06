@@ -2,7 +2,9 @@ import { Command } from "commander";
 import { head, includes, map } from "lodash";
 import { error } from "./common/console";
 
-const command = new Command().command("image", "fixes image size by converting to jpg");
+const command = new Command()
+  .command("image", "fixes image size by converting to jpg")
+  .command("broken", "fix broken images after conversion");
 
 command.parse(process.argv);
 
