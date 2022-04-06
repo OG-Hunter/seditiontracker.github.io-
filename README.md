@@ -47,3 +47,11 @@ Use this command to convert to jpg and replace filename in markdown
 ```
 y image fix
 ```
+
+## Find broken images
+
+```
+yarn docker:shell
+jekyll build --drafts
+bundle exec htmlproofer --empty-alt-ignore --disable_external --url-ignore /suspects/by_name,/suspects/by_state,/suspects/by_status ./_site
+```
