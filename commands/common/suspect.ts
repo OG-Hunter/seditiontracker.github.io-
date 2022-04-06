@@ -197,7 +197,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`charged: ${suspect.charged}`);
   lines.push(`indicted: ${suspect.indicted}`);
   lines.push(`convicted: ${suspect.convicted}`);
-  lines.push(`convicted: ${suspect.acquitted}`);
+  lines.push(`acquitted: ${suspect.acquitted}`);
   lines.push(`sentenced: ${suspect.sentenced}`);
   lines.push(`dismissed: ${suspect.dismissed}`);
   lines.push(`deceased: ${suspect.deceased}`);

@@ -9,6 +9,7 @@ date: 2021-12-15
 charged: 2021-12-15
 indicted: 2021-12-15
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:

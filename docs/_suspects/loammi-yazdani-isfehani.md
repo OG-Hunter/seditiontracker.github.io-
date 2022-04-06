@@ -9,6 +9,7 @@ date: 2022-02-18
 charged: 2022-02-18
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
