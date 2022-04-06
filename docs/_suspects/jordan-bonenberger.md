@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jordan-bonenberger.png
-suspect: jordan-bonenberger.png
+image: /images/preview/jordan-bonenberger.jpg
+suspect: jordan-bonenberger.jpg
 booking:
 courtroom:
 courthouse:

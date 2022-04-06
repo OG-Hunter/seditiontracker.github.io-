@@ -18,8 +18,8 @@ age: 19
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/isaac-westbury.png
-suspect: isaac-westbury.png
+image: /images/preview/isaac-westbury.jpg
+suspect: isaac-westbury.jpg
 booking:
 courtroom:
 courthouse:

@@ -6,7 +6,7 @@ import { HTMLElement, parse } from "node-html-parser";
 import { capitalize, isEmpty, toLower } from "lodash";
 import moment from "moment";
 import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
-const { execSync } = require("child_process");
+import { execSync } from "child_process";
 
 const cmd = new Command();
 cmd.parse(process.argv);

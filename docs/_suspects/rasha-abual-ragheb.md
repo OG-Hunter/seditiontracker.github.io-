@@ -18,8 +18,8 @@ age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%
 jurisdiction: Federal
-image: /images/preview/119.png
-suspect: 119.png
+image: /images/preview/119.jpg
+suspect: 119.jpg
 booking:
 courtroom:
 courthouse:

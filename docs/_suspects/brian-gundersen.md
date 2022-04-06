@@ -18,8 +18,8 @@ age: 26
 occupation: Sanitation Worker
 affiliations:
 jurisdiction: Federal
-image: /images/preview/brian-gunderson.png
-suspect: brian-gunderson.png
+image: /images/preview/brian-gunderson.jpg
+suspect: brian-gunderson.jpg
 booking:
 courtroom:
 courthouse:

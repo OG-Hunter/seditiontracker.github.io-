@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/042.jpg
 suspect: 042.jpg
-booking: jack-griffith.png
+booking: jack-griffith.jpg
 courtroom:
 courthouse:
 raid:

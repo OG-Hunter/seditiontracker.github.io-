@@ -18,8 +18,8 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/richard-crosby.png
-suspect: richard-crosby.png
+image: /images/preview/richard-crosby.jpg
+suspect: richard-crosby.jpg
 booking:
 courtroom:
 courthouse:

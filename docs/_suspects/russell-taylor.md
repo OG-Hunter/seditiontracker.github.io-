@@ -18,8 +18,8 @@ age: 40
 occupation:
 affiliations: Three Percenters, American Phoenix Project
 jurisdiction: Federal
-image: /images/preview/rusell-taylor.png
-suspect: rusell-taylor.png
+image: /images/preview/rusell-taylor.jpg
+suspect: rusell-taylor.jpg
 booking:
 courtroom:
 courthouse:

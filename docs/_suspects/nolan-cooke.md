@@ -18,8 +18,8 @@ age: 22
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/nolan-cooke.png
-suspect: nolan-cooke.png
+image: /images/preview/nolan-cooke.jpg
+suspect: nolan-cooke.jpg
 booking:
 courtroom:
 courthouse:

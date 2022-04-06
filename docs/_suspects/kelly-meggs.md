@@ -18,9 +18,9 @@ age: 52
 occupation: General Manager, Car Dealership
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/kelly-meggs.png
-suspect: kelly-meggs.png
-booking: kelly-meggs.png
+image: /images/preview/kelly-meggs.jpg
+suspect: kelly-meggs.jpg
+booking: kelly-meggs.jpg
 courtroom:
 courthouse:
 raid:

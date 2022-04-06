@@ -18,8 +18,8 @@ age: 37
 occupation: Gym Owner
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jacob-lewis.png
-suspect: jacob-lewis.png
+image: /images/preview/jacob-lewis.jpg
+suspect: jacob-lewis.jpg
 booking:
 courtroom:
 courthouse:

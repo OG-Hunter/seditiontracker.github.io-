@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/riley-kasper.png
-suspect: riley-kasper.png
+image: /images/preview/riley-kasper.jpg
+suspect: riley-kasper.jpg
 booking: kasper-booking.png
 courtroom:
 courthouse:

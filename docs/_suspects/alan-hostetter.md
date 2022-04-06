@@ -18,8 +18,8 @@ age: 56
 occupation: Yoga Instructor, Former Police Chief
 affiliations: Three Percenters, American Phoenix Project
 jurisdiction: Federal
-image: /images/preview/alan-hostetter.png
-suspect: alan-hostetter.png
+image: /images/preview/alan-hostetter.jpg
+suspect: alan-hostetter.jpg
 booking:
 courtroom:
 courthouse:

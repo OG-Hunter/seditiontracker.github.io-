@@ -18,8 +18,8 @@ age: 35
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/aaron-james.png
-suspect: aaron-james.png
+image: /images/preview/aaron-james.jpg
+suspect: aaron-james.jpg
 booking:
 courtroom:
 courthouse:

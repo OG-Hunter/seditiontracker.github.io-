@@ -18,8 +18,8 @@ age: 56
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/anthony-griffith.png
-suspect: anthony-griffith.png
+image: /images/preview/anthony-griffith.jpg
+suspect: anthony-griffith.jpg
 booking:
 courtroom:
 courthouse:

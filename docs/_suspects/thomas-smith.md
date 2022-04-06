@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/thomas-smith.png
-suspect: thomas-smith.png
+image: /images/preview/thomas-smith.jpg
+suspect: thomas-smith.jpg
 booking:
 courtroom:
 courthouse:

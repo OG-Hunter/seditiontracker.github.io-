@@ -18,8 +18,8 @@ age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/justin-jersey.png
-suspect: justin-jersey.png
+image: /images/preview/justin-jersey.jpg
+suspect: justin-jersey.jpg
 booking: justin-jersey.jpg
 courtroom:
 courthouse:

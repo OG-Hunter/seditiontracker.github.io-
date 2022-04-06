@@ -18,8 +18,8 @@ age: 24
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/chance-uptmore.png
-suspect: chance-uptmore.png
+image: /images/preview/chance-uptmore.jpg
+suspect: chance-uptmore.jpg
 booking:
 courtroom:
 courthouse:

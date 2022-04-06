@@ -18,11 +18,11 @@ age: 51
 occupation: Police Officer
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/kevin-tuck.png
-suspect: kevin-tuck.png
+image: /images/preview/kevin-tuck.jpg
+suspect: kevin-tuck.jpg
 booking:
 courtroom:
-courthouse: kevin-tuck.png
+courthouse: kevin-tuck.jpg
 raid:
 perpwalk:
 quote: "We stormed the Capitol, fought the police"

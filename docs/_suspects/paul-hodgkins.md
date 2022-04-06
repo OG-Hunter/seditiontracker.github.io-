@@ -18,8 +18,8 @@ age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/paul-hodgkins.png
-suspect: paul-hodgkins.png
+image: /images/preview/paul-hodgkins.jpg
+suspect: paul-hodgkins.jpg
 booking:
 courtroom: paul-hodgkins.jpg
 courthouse:

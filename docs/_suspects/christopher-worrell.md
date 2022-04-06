@@ -18,8 +18,8 @@ age: 49
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/christopher-worrell.png
-suspect: christopher-worrell.png
+image: /images/preview/christopher-worrell.jpg
+suspect: christopher-worrell.jpg
 booking: worrell-mugshot.jpg
 courtroom:
 courthouse:

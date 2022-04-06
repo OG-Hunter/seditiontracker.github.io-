@@ -18,8 +18,8 @@ age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/jonathan-walden.png
-suspect: jonathan-walden.png
+image: /images/preview/jonathan-walden.jpg
+suspect: jonathan-walden.jpg
 booking:
 courtroom:
 courthouse:

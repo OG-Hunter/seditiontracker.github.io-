@@ -23,7 +23,7 @@ suspect: matthew-greene.png
 booking: greene-mugshot.jpg
 courtroom:
 courthouse:
-raid: fbi-raid-greene.png
+raid: fbi-raid-greene.jpg
 perpwalk:
 quote: "I'm good, we took the capital."
 title: Matthew Greene arrested on April 21, 2021

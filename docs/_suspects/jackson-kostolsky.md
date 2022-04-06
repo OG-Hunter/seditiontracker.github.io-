@@ -18,8 +18,8 @@ age: 32
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jackson-kostolsky.png
-suspect: jackson-kostolsky.png
+image: /images/preview/jackson-kostolsky.jpg
+suspect: jackson-kostolsky.jpg
 booking:
 courtroom:
 courthouse:

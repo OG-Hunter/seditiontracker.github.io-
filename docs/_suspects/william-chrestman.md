@@ -18,9 +18,9 @@ age: 47
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/william-chrestman.png
-suspect: william-chrestman.png
-booking: william-chrestman.png
+image: /images/preview/william-chrestman.jpg
+suspect: william-chrestman.jpg
+booking: william-chrestman.jpg
 courtroom:
 courthouse:
 raid:

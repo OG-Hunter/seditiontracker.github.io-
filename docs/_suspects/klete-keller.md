@@ -18,8 +18,8 @@ age: 38
 occupation: Olympic Swimmer (Retired)
 affiliations:
 jurisdiction: Federal
-image: /images/preview/044.png
-suspect: 044.png
+image: /images/preview/044.jpg
+suspect: 044.jpg
 booking: klete-keller.jpg
 courtroom: klete-keller.jpg
 courthouse:

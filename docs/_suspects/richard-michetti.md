@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/richard-michetti.png
-suspect: richard-michetti.png
+image: /images/preview/richard-michetti.jpg
+suspect: richard-michetti.jpg
 booking:
 courtroom:
 courthouse:

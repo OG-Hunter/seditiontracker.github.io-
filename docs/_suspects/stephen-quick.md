@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/stephen-quick.png
-suspect: stephen-quick.png
+image: /images/preview/stephen-quick.jpg
+suspect: stephen-quick.jpg
 booking:
 courtroom:
 courthouse:

@@ -19,8 +19,8 @@ age: 24
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/james-elliot.png
-suspect: james-elliot.png
+image: /images/preview/james-elliot.jpg
+suspect: james-elliot.jpg
 booking:
 courtroom:
 courthouse:

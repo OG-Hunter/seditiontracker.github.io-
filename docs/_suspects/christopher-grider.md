@@ -18,8 +18,8 @@ age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military
 jurisdiction: Federal
-image: /images/preview/christopher-grider.png
-suspect: christopher-grider.png
+image: /images/preview/christopher-grider.jpg
+suspect: christopher-grider.jpg
 booking:
 courtroom:
 courthouse:

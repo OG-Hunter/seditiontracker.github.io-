@@ -18,8 +18,8 @@ age: 22
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/ryan-ashlock.png
-suspect: ryan-ashlock.png
+image: /images/preview/ryan-ashlock.jpg
+suspect: ryan-ashlock.jpg
 booking:
 courtroom:
 courthouse:

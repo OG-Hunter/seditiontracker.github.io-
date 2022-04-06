@@ -18,8 +18,8 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/michael-eckerman.png
-suspect: michael-eckerman.png
+image: /images/preview/michael-eckerman.jpg
+suspect: michael-eckerman.jpg
 booking:
 courtroom:
 courthouse:

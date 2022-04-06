@@ -18,8 +18,8 @@ age: 47
 occupation:
 affiliations: Oath Keepers, US Army (former Green Beret)
 jurisdiction: Federal
-image: /images/preview/jeremy-brown.png
-suspect: jeremy-brown.png
+image: /images/preview/jeremy-brown.jpg
+suspect: jeremy-brown.jpg
 booking: jeremy-brown.jpg
 courtroom:
 courthouse:

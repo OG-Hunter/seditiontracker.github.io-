@@ -18,8 +18,8 @@ age: 53
 occupation: U.S. Marines (Former)
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/098.png
-suspect: 098.png
+image: /images/preview/098.jpg
+suspect: 098.jpg
 booking:
 courtroom:
 courthouse:

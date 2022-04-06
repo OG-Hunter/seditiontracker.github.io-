@@ -18,8 +18,8 @@ age: 63
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/james-uptmore.png
-suspect: james-uptmore.png
+image: /images/preview/james-uptmore.jpg
+suspect: james-uptmore.jpg
 booking:
 courtroom:
 courthouse:

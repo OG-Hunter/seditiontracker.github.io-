@@ -18,8 +18,8 @@ age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/antionne-brodnax.png
-suspect: antionne-brodnax.png
+image: /images/preview/antionne-brodnax.jpg
+suspect: antionne-brodnax.jpg
 booking:
 courtroom:
 courthouse:

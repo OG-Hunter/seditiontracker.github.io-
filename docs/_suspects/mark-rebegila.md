@@ -18,8 +18,8 @@ age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/mark-rebegila.png
-suspect: mark-rebegila.png
+image: /images/preview/mark-rebegila.jpg
+suspect: mark-rebegila.jpg
 booking:
 courtroom:
 courthouse:

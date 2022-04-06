@@ -18,8 +18,8 @@ age: 25
 occupation: DJ
 affiliations:
 jurisdiction: Federal
-image: /images/preview/greg-rubenacker.png
-suspect: greg-rubenacker.png
+image: /images/preview/greg-rubenacker.jpg
+suspect: greg-rubenacker.jpg
 booking:
 courtroom:
 courthouse:

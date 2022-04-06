@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/107.jpg
 suspect: 107.jpg
 booking:
-courtroom: william-calhoun.png
+courtroom: william-calhoun.jpg
 courthouse:
 raid:
 perpwalk:

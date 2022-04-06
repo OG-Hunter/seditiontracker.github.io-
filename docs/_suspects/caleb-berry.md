@@ -18,8 +18,8 @@ age: 20
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/caleb-berry.png
-suspect: caleb-berry.png
+image: /images/preview/caleb-berry.jpg
+suspect: caleb-berry.jpg
 booking:
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/donnie-wren.png
-suspect: donnie-wren.png
+image: /images/preview/donnie-wren.jpg
+suspect: donnie-wren.jpg
 booking:
 courtroom:
 courthouse:

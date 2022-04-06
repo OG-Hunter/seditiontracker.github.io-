@@ -21,7 +21,7 @@ jurisdiction: Federal
 image: /images/preview/033.jpg
 suspect: 033.jpg
 booking: dominic-pezzola.jpg
-courtroom: dominic-pezzola.png
+courtroom: dominic-pezzola.jpg
 courthouse:
 raid:
 perpwalk:

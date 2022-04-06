@@ -18,9 +18,9 @@ age: 35
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/lewis-cantwell.png
-suspect: lewis-cantwell.png
-booking: lewis-cantwell.png
+image: /images/preview/lewis-cantwell.jpg
+suspect: lewis-cantwell.jpg
+booking: lewis-cantwell.jpg
 courtroom:
 courthouse:
 raid:

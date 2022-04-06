@@ -18,8 +18,8 @@ age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/geoffrey-sills.png
-suspect: geoffrey-sills.png
+image: /images/preview/geoffrey-sills.jpg
+suspect: geoffrey-sills.jpg
 booking:
 courtroom:
 courthouse:

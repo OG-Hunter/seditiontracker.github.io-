@@ -18,8 +18,8 @@ age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/michael-dickinson.png
-suspect: michael-dickinson.png
+image: /images/preview/michael-dickinson.jpg
+suspect: michael-dickinson.jpg
 booking:
 courtroom:
 courthouse:

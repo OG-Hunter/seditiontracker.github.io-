@@ -18,8 +18,8 @@ age: 43
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/shane-jenkins.png
-suspect: shane-jenkins.png
+image: /images/preview/shane-jenkins.jpg
+suspect: shane-jenkins.jpg
 booking: Shane-Jenkins.jpg
 courtroom:
 courthouse:

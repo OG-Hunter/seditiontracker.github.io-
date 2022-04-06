@@ -18,8 +18,8 @@ age: 44
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/andrew-hernandez.png
-suspect: andrew-hernandez.png
+image: /images/preview/andrew-hernandez.jpg
+suspect: andrew-hernandez.jpg
 booking:
 courtroom:
 courthouse:

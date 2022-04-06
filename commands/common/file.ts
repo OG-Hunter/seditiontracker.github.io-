@@ -1,6 +1,6 @@
 import fs from "fs";
 import * as path from "path";
-import readLine from "readline";
+import untildify from "untildify";
 
 export const readFile = (filename: string) => {
   return fs.readFileSync(path.join(__dirname, `../../${filename}`), "utf8");
@@ -34,4 +34,16 @@ export const splitCSV = (line: string) => {
 export const readLines = (filename: string) => {
   const text = readFile(filename);
   return text.split("\n");
+};
+
+export const fileExists = (filename: string) => {
+  return fs.existsSync(untildify(filename));
+};
+
+export const getFiles = (path: string) => {
+  const files = fs.readdirSync(path);
+
+  return files.filter((file) => {
+    return file != ".DS_Store";
+  });
 };

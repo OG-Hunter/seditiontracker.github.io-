@@ -18,8 +18,8 @@ age: 42
 occupation: Former State Department Aide
 affiliations:
 jurisdiction: Federal
-image: /images/preview/federico-klein.png
-suspect: federico-klein.png
+image: /images/preview/federico-klein.jpg
+suspect: federico-klein.jpg
 booking:
 courtroom:
 courthouse:

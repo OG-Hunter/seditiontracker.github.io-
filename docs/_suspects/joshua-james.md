@@ -23,7 +23,7 @@ suspect: joshua-james.png
 booking: joshua-james.jpg
 courtroom:
 courthouse:
-raid: joshua-james-arrest.png
+raid: joshua-james-arrest.jpg
 perpwalk:
 quote:
 title: Joshua James charged on March 8, 2021

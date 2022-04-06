@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/gabe-brown.png
-suspect: gabe-brown.png
+image: /images/preview/gabe-brown.jpg
+suspect: gabe-brown.jpg
 booking:
 courtroom:
 courthouse:

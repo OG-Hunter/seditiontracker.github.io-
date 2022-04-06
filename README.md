@@ -33,3 +33,17 @@ yarn jekyll
 ```
 yarn suspect import
 ```
+
+## Fixing image size
+
+Use this command to find large images
+
+```
+sudo find . -type f -size +1M
+```
+
+Use this command to convert to jpg and replace filename in markdown
+
+```
+y image fix
+```

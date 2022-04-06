@@ -18,8 +18,8 @@ age: 39
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/ricky-willden.png
-suspect: ricky-willden.png
+image: /images/preview/ricky-willden.jpg
+suspect: ricky-willden.jpg
 booking:
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/tom-munn.png
-suspect: tom-munn.png
+image: /images/preview/tom-munn.jpg
+suspect: tom-munn.jpg
 booking: thomas-munn.png
 courtroom:
 courthouse:

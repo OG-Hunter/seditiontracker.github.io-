@@ -18,8 +18,8 @@ age: 30
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/arthur-jackman.png
-suspect: arthur-jackman.png
+image: /images/preview/arthur-jackman.jpg
+suspect: arthur-jackman.jpg
 booking:
 courtroom:
 courthouse: arthur-jackman.jpg

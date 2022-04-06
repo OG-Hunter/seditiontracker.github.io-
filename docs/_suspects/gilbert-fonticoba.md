@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/gilbert-fonticoba.png
-suspect: gilbert-fonticoba.png
+image: /images/preview/gilbert-fonticoba.jpg
+suspect: gilbert-fonticoba.jpg
 booking:
 courtroom:
 courthouse:

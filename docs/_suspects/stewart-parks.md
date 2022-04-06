@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/stewart-parks.png
-suspect: stewart-parks.png
+image: /images/preview/stewart-parks.jpg
+suspect: stewart-parks.jpg
 booking:
 courtroom:
 courthouse:

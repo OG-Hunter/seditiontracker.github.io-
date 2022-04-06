@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/037.png
-suspect: 037.png
+image: /images/preview/037.jpg
+suspect: 037.jpg
 booking:
 courtroom:
 courthouse:

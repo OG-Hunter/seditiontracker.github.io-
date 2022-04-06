@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/matthew-baggott.png
-suspect: matthew-baggott.png
+image: /images/preview/matthew-baggott.jpg
+suspect: matthew-baggott.jpg
 booking:
 courtroom:
 courthouse:

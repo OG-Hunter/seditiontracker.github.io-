@@ -18,8 +18,8 @@ age: 44
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/louis-colon.png
-suspect: louis-colon.png
+image: /images/preview/louis-colon.jpg
+suspect: louis-colon.jpg
 booking:
 courtroom:
 courthouse:

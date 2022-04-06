@@ -18,8 +18,8 @@ age: 54
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/graydon-young.png
-suspect: graydon-young.png
+image: /images/preview/graydon-young.jpg
+suspect: graydon-young.jpg
 booking: graydon-young.jpg
 courtroom:
 courthouse:

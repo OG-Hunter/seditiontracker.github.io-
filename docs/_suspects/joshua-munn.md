@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/josh-munn.png
-suspect: josh-munn.png
+image: /images/preview/josh-munn.jpg
+suspect: josh-munn.jpg
 booking:
 courtroom:
 courthouse:

@@ -18,11 +18,11 @@ age:
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/william-isaacs.png
-suspect: william-isaacs.png
+image: /images/preview/william-isaacs.jpg
+suspect: william-isaacs.jpg
 booking:
 courtroom:
-courthouse: william-isaacs.png
+courthouse: william-isaacs.jpg
 raid:
 perpwalk:
 quote:

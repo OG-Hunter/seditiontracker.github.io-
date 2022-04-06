@@ -18,8 +18,8 @@ age: 29
 occupation: Former Police Officer
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/nathaniel-tuck.png
-suspect: nathaniel-tuck.png
+image: /images/preview/nathaniel-tuck.jpg
+suspect: nathaniel-tuck.jpg
 booking:
 courtroom:
 courthouse: nathaniel-tuck.jpg

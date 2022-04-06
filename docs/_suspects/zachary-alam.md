@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/zachary-alam.png
-suspect: zachary-alam.png
+image: /images/preview/zachary-alam.jpg
+suspect: zachary-alam.jpg
 booking:
 courtroom:
 courthouse:

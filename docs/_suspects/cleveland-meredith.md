@@ -18,10 +18,10 @@ age: 53
 occupation: Business Owner
 affiliations:
 jurisdiction: Federal
-image: /images/preview/cleveland-meredith.png
-suspect: cleveland-meredith.png
-booking: cleveland-meredith.png
-courtroom: cleveland-meredith.png
+image: /images/preview/cleveland-meredith.jpg
+suspect: cleveland-meredith.jpg
+booking: cleveland-meredith.jpg
+courtroom: cleveland-meredith.jpg
 courthouse:
 raid:
 perpwalk:

@@ -18,8 +18,8 @@ age: 52
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/047.png
-suspect: 047.png
+image: /images/preview/047.jpg
+suspect: 047.jpg
 booking: damon-beckley.jpg
 courtroom:
 courthouse:

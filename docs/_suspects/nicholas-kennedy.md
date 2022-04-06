@@ -18,8 +18,8 @@ age: 41
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/nicholas-kennedy.png
-suspect: nicholas-kennedy.png
+image: /images/preview/nicholas-kennedy.jpg
+suspect: nicholas-kennedy.jpg
 booking:
 courtroom:
 courthouse:

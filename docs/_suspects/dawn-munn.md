@@ -18,9 +18,9 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/dawn-munn.png
-suspect: dawn-munn.png
-booking: dawn-munn.png
+image: /images/preview/dawn-munn.jpg
+suspect: dawn-munn.jpg
+booking: dawn-munn.jpg
 courtroom:
 courthouse:
 raid:

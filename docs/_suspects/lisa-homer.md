@@ -18,8 +18,8 @@ age: 50
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/lisa-homer.png
-suspect: lisa-homer.png
+image: /images/preview/lisa-homer.jpg
+suspect: lisa-homer.jpg
 booking:
 courtroom:
 courthouse:

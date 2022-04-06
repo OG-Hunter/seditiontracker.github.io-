@@ -18,11 +18,11 @@ age: 54
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
-image: /images/preview/mark-grods.png
-suspect: mark-grods.png
+image: /images/preview/mark-grods.jpg
+suspect: mark-grods.jpg
 booking:
 courtroom:
-courthouse: mark-grods.png
+courthouse: mark-grods.jpg
 raid:
 perpwalk:
 quote:

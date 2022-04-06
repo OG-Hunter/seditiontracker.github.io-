@@ -18,8 +18,8 @@ age: 34
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/110.png
-suspect: 110.png
+image: /images/preview/110.jpg
+suspect: 110.jpg
 booking: garrett-miller.jpg
 courtroom:
 courthouse:

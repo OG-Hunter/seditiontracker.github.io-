@@ -20,7 +20,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/055.jpg
 suspect: 055.jpg
-booking: riley-williams.png
+booking: riley-williams.jpg
 courtroom:
 courthouse:
 raid:

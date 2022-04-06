@@ -18,8 +18,8 @@ age: 44
 occupation: Business Owner (Lawn Service)
 affiliations:
 jurisdiction: Federal
-image: /images/preview/029.png
-suspect: 029.png
+image: /images/preview/029.jpg
+suspect: 029.jpg
 booking:
 courtroom:
 courthouse:

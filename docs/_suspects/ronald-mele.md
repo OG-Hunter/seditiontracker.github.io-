@@ -18,8 +18,8 @@ age: 51
 occupation:
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/ronald-mele.png
-suspect: ronald-mele.png
+image: /images/preview/ronald-mele.jpg
+suspect: ronald-mele.jpg
 booking:
 courtroom:
 courthouse:

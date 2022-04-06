@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/edward-george.png
-suspect: edward-george.png
+image: /images/preview/edward-george.jpg
+suspect: edward-george.jpg
 booking:
 courtroom:
 courthouse:

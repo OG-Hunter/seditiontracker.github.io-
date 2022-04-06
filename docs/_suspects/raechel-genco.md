@@ -18,8 +18,8 @@ age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/raechel-genco.png
-suspect: raechel-genco.png
+image: /images/preview/raechel-genco.jpg
+suspect: raechel-genco.jpg
 booking:
 courtroom:
 courthouse:

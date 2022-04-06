@@ -18,12 +18,12 @@ age: 25
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/edward-lang.png
-suspect: edward-lang.png
+image: /images/preview/edward-lang.jpg
+suspect: edward-lang.jpg
 booking:
 courtroom:
 courthouse:
-raid: edward-lang.png
+raid: edward-lang.jpg
 perpwalk:
 quote: "I was the leader of Liberty today. Arrest me. You are on the wrong side of history"
 title: Edward Lang charged on January 16, 2021

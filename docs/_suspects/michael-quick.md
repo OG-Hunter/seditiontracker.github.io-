@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/michael-quick.png
-suspect: michael-quick.png
+image: /images/preview/michael-quick.jpg
+suspect: michael-quick.jpg
 booking:
 courtroom:
 courthouse:

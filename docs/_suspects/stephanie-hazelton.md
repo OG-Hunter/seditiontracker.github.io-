@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations: New Jersey for Medical Freedom
 jurisdiction: Federal
-image: /images/preview/101.png
-suspect: 101.png
+image: /images/preview/101.jpg
+suspect: 101.jpg
 booking:
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age: 43
 occupation: Gym Owner (Former MMA Fighter)
 affiliations:
 jurisdiction: Federal
-image: /images/preview/104.png
-suspect: 104.png
+image: /images/preview/104.jpg
+suspect: 104.jpg
 booking:
 courtroom:
 courthouse:

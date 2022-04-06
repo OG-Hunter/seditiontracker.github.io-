@@ -18,10 +18,10 @@ age: 39
 occupation: Owner, Sandwich Shop
 affiliations:
 jurisdiction: Federal
-image: /images/preview/george-tanios.png
-suspect: george-tanios.png
+image: /images/preview/george-tanios.jpg
+suspect: george-tanios.jpg
 booking:
-courtroom: george-tanios.png
+courtroom: george-tanios.jpg
 courthouse:
 raid:
 perpwalk:

@@ -18,11 +18,11 @@ age: 57
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/howard-adams.png
-suspect: howard-adams.png
+image: /images/preview/howard-adams.jpg
+suspect: howard-adams.jpg
 booking:
 courtroom:
-courthouse: howard-adams.png
+courthouse: howard-adams.jpg
 raid:
 perpwalk:
 quote: "I went for a, to go hang out with the rest of the crowd, got up too close to the front, and wound up just, just getting caught up. I’ll be honest."

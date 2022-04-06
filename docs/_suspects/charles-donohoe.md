@@ -18,8 +18,8 @@ age: 33
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/charles-donohoe.png
-suspect: charles-donohoe.png
+image: /images/preview/charles-donohoe.jpg
+suspect: charles-donohoe.jpg
 booking: charles-donohoe.jpg
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age: 23
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/007.png
-suspect: 007.png
+image: /images/preview/007.jpg
+suspect: 007.jpg
 booking: william-watson.png
 courtroom:
 courthouse:

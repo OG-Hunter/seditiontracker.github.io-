@@ -18,12 +18,12 @@ age: 35
 occupation: 'Pickup Artist'
 affiliations:
 jurisdiction: Federal
-image: /images/preview/081.png
-suspect: 081.png
+image: /images/preview/081.jpg
+suspect: 081.jpg
 booking:
 courtroom:
 courthouse:
-raid: samuel-fisher.png
+raid: samuel-fisher.jpg
 perpwalk: samuel-fisher.jpg
 quote: 'It’s time to bring the pain upon them.'
 title: Samuel Fisher  charged on January 20, 2021

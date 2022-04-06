@@ -18,8 +18,8 @@ age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
 jurisdiction: Federal
-image: /images/preview/michael-stepakoff.png
-suspect: michael-stepakoff.png
+image: /images/preview/michael-stepakoff.jpg
+suspect: michael-stepakoff.jpg
 booking:
 courtroom:
 courthouse:

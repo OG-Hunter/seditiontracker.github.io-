@@ -18,8 +18,8 @@ age: 56
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/johnny-harris.png
-suspect: johnny-harris.png
+image: /images/preview/johnny-harris.jpg
+suspect: johnny-harris.jpg
 booking:
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age:
 occupation: U.S. Marines (Former)
 affiliations:
 jurisdiction: Federal
-image: /images/preview/083.png
-suspect: 083.png
+image: /images/preview/083.jpg
+suspect: 083.jpg
 booking:
 courtroom:
 courthouse:

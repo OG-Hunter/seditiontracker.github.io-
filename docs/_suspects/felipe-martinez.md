@@ -18,8 +18,8 @@ age: 47
 occupation:
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/felipe-martinez.png
-suspect: felipe-martinez.png
+image: /images/preview/felipe-martinez.jpg
+suspect: felipe-martinez.jpg
 booking:
 courtroom:
 courthouse:

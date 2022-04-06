@@ -18,8 +18,8 @@ age: 37
 occupation:
 affiliations: Proud Boys (Organizer)
 jurisdiction: Federal
-image: /images/preview/082.png
-suspect: 082.png
+image: /images/preview/082.jpg
+suspect: 082.jpg
 booking: joseph-biggs.jpg
 courtroom:
 courthouse: joseph-biggs.jpg

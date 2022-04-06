@@ -18,8 +18,8 @@ age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/zachary-wilson.png
-suspect: zachary-wilson.png
+image: /images/preview/zachary-wilson.jpg
+suspect: zachary-wilson.jpg
 booking:
 courtroom:
 courthouse:

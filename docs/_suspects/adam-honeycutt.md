@@ -18,10 +18,10 @@ age: 39
 occupation: Bail Bondsman
 affiliations:
 jurisdiction: Federal
-image: /images/preview/adam-honeycutt.png
-suspect: adam-honeycutt.png
+image: /images/preview/adam-honeycutt.jpg
+suspect: adam-honeycutt.jpg
 booking:
-courtroom: adam-honeycutt.png
+courtroom: adam-honeycutt.jpg
 courthouse:
 raid:
 perpwalk:

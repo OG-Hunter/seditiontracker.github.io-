@@ -18,8 +18,8 @@ age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters
 jurisdiction: Federal
-image: /images/preview/058.png
-suspect: 058.png
+image: /images/preview/058.jpg
+suspect: 058.jpg
 booking: robert-gieswein.jpg
 courtroom:
 courthouse:

@@ -18,8 +18,8 @@ age: 18
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/bruno-cua.png
-suspect: bruno-cua.png
+image: /images/preview/bruno-cua.jpg
+suspect: bruno-cua.jpg
 booking:
 courtroom: bruno-cua.jpg
 courthouse:

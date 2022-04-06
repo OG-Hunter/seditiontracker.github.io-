@@ -18,8 +18,8 @@ age: 47
 occupation: Traveling Welder
 affiliations:
 jurisdiction: Federal
-image: /images/preview/peter-schwartz.png
-suspect: peter-schwartz.png
+image: /images/preview/peter-schwartz.jpg
+suspect: peter-schwartz.jpg
 booking: peter-schwartz.jpg
 courtroom:
 courthouse:

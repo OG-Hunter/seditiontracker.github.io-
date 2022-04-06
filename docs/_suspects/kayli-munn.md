@@ -18,9 +18,9 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/kayli-munn.png
-suspect: kayli-munn.png
-booking: kayli-munn.png
+image: /images/preview/kayli-munn.jpg
+suspect: kayli-munn.jpg
+booking: kayli-munn.jpg
 courtroom:
 courthouse:
 raid:

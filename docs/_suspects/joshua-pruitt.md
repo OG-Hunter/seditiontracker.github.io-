@@ -18,8 +18,8 @@ age: 39
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
-image: /images/preview/joshua-pruitt.png
-suspect: joshua-pruitt.png
+image: /images/preview/joshua-pruitt.jpg
+suspect: joshua-pruitt.jpg
 booking:
 courtroom:
 courthouse:

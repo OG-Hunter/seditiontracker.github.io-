@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/melanie-archer.png
-suspect: melanie-archer.png
+image: /images/preview/melanie-archer.jpg
+suspect: melanie-archer.jpg
 booking:
 courtroom:
 courthouse:
