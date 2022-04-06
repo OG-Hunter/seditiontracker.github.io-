@@ -4,15 +4,16 @@ lastName: Lindsey
 hashtag: TerryLindsey
 aka:
 residence: Ohio
-status: Charged
+status: Convicted
 date: 2021-02-16
 charged: 2021-02-16
 indicted:
-convicted:
+convicted: 2022-04-05
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-05
+trial_date:
 sentencing:
 age: 53
 occupation:
@@ -34,10 +35,23 @@ published: true
 caseNumber: 1:21-cr-162
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 18 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
 - [News Report](https://www.newsbreak.com/colorado/colorado-springs/news/2166074234842/ohios-terry-lynn-lindsey-yet-to-be-arrested-after-entering-us-capitol-with-colorado-springs-glenn-wes-lee-croy)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371331/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490986/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377836/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490981/download)
