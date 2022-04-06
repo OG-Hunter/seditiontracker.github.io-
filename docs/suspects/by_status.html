@@ -5,40 +5,18 @@ image: /images/suspects.png
 description: Complete listing of all suspects charged in the Jan. 6, 2021 sedition
 ---
 
-{% assign dismissed = ''|split:''%}
-{% assign sentenced = ''|split:''%}
-{% assign convicted = ''|split:''%}
-{% assign indicted = ''|split:''%}
-{% assign charged = ''|split:''%}
-{% assign deceased = ''|split:''%}
-
-{% for suspect in site.suspects %}
-  {% if suspect.sentenced %}
-    {%assign sentenced = sentenced|push:suspect%}
-  {% endif %}
-  {% if suspect.convicted %}
-    {%assign convicted = convicted|push:suspect%}
-  {% endif %}
-  {% if suspect.dismissed %}
-    {%assign dismissed = dismissed|push:suspect%}
-  {% endif %}
-  {% if suspect.indicted %}
-    {%assign indicted = indicted|push:suspect%}
-  {% endif %}
-  {% if suspect.charged %}
-    {%assign charged = charged|push:suspect%}
-  {% endif %}
-  {% if suspect.deceased %}
-    {%assign deceased = deceased|push:suspect%}
-  {% endif %}
-{% endfor %}
-
-{% assign sentenced = sentenced | sort: "sentenced" | reverse %}
-{% assign dismissed = dismissed | sort: "dismissed" | reverse %}
-{% assign convicted = convicted | sort: "convicted" | reverse %}
-{% assign indicted = indicted | sort: "indicted" | reverse %}
-{% assign charged = charged | sort: "charged" | reverse %}
-{% assign deceased = deceased | sort: "deceased" | reverse %}
+{% assign dismissed = ''|split:''%} {% assign sentenced = ''|split:''%} {% assign convicted = ''|split:''%} {% assign
+acquitted = ''|split:''%} {% assign indicted = ''|split:''%} {% assign charged = ''|split:''%} {% assign deceased =
+''|split:''%} {% for suspect in site.suspects %} {% if suspect.sentenced %} {%assign sentenced =
+sentenced|push:suspect%} {% endif %} {% if suspect.convicted %} {%assign convicted = convicted|push:suspect%} {% endif
+%} {% if suspect.acquitted %} {%assign acquitted = acquitted|push:suspect%} {% endif %} {% if suspect.dismissed %}
+{%assign dismissed = dismissed|push:suspect%} {% endif %} {% if suspect.indicted %} {%assign indicted =
+indicted|push:suspect%} {% endif %} {% if suspect.charged %} {%assign charged = charged|push:suspect%} {% endif %} {% if
+suspect.deceased %} {%assign deceased = deceased|push:suspect%} {% endif %} {% endfor %} {% assign sentenced = sentenced
+| sort: "sentenced" | reverse %} {% assign dismissed = dismissed | sort: "dismissed" | reverse %} {% assign convicted =
+convicted | sort: "convicted" | reverse %} {% assign acquitted = acquitted | sort: "acquitted" | reverse %} {% assign
+indicted = indicted | sort: "indicted" | reverse %} {% assign charged = charged | sort: "charged" | reverse %} {% assign
+deceased = deceased | sort: "deceased" | reverse %}
 
 <h2 class="table">Suspects (Sentenced)</h2>
 Total Count: {{ sentenced.size }}
@@ -72,6 +50,24 @@ Total Count: {{ convicted.size }}
     <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
     <td>{{ suspect.residence }}</td>
     <td>{{ suspect.convicted | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2 class="table">Suspects (Aquitted)</h2>
+Total Count: {{ acquitted.size }}
+
+<table class="suspects">
+  <tr>
+    <th><a href="/suspects/by_name">Name</a></th>
+    <th><a href="/suspects/by_state">Residence</a></th>
+    <th><a href="/suspects">Convicted</a></th>
+  </tr>
+  {% for suspect in acquitted %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td>{{ suspect.acquitted | date: "%Y-%m-%d" }}</td>
   </tr>
   {% endfor %}
 </table>
