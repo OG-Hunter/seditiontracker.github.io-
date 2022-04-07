@@ -48,3 +48,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492396/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffery%20Finley%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492371/download)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234656/gov.uscourts.dcd.234656.38.0_1.pdf)

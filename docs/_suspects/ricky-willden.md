@@ -4,16 +4,18 @@ lastName: Willden
 hashtag: GreenCanMan
 aka:
 residence: California
-status: Indicted
+status: Convicted
 date: 2021-06-23
 charged: 2021-06-23
 indicted: 2021-06-23
-convicted:
+convicted: 2022-04-07
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-07
-sentencing:
+trial_date:
+sentencing: 2022-08-05
 age: 39
 occupation:
 affiliations: Proud Boys
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-423
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 

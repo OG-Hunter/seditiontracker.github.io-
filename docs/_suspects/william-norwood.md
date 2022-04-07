@@ -18,7 +18,7 @@ age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/william-norwood.png
+image: /images/preview/william-norwood.jpg
 suspect: william-norwood.jpg
 booking: william-norwood.jpg
 courtroom:
