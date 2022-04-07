@@ -18,8 +18,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest-stottlemyer.jpg
-suspect: arrest-stottlemyer.jpg
+image: /images/preview/tara-stottlemyer.jpg
+suspect: tara-stottlemyer.jpg
 booking:
 courtroom:
 courthouse:
