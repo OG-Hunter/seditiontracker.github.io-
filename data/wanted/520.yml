@@ -2,7 +2,7 @@ id: 520
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #520 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-520a.jpg/@@images/image/preview
 hashtag: null
@@ -12,4 +12,4 @@ mugshot: null
 sedition_link: null
 name: null
 missingImage: false
-identifiedBy: null
+identifiedBy: "@jocejocejo"
