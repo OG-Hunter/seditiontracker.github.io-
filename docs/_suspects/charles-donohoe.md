@@ -57,3 +57,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481016/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)
+- [Statement of Offense](https://www.documentcloud.org/documents/21580937-220408-donohoe-statement-of-offense)
