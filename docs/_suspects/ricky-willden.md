@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-423
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://sacramento.cbslocal.com/2021/06/30/ricky-christopher-willden-oakhurst-capitol-riot-arrest/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461781/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492861/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492866/download)
