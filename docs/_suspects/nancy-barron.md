@@ -9,10 +9,12 @@ date: 2022-03-11
 charged: 2022-03-11
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 46
 occupation:
@@ -40,3 +42,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483506/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483511/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1503796942001872909?s=20&t=OjZoMJYH2I-70qZIAKiD2w)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nancy%20Barron%20Information.pdf)

@@ -9,10 +9,12 @@ date: 2022-01-14
 charged: 2022-01-14
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 36
 occupation:
@@ -38,3 +40,4 @@ sentence:
 ---
 - [News Report](https://www.boston.com/news/local-news/2022/01/18/capitol-riot-two-new-england-women-charged/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481436/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kirstyn%20Niemela%20and%20Stefanie%20Nicole%20Chiguer%20Information.pdf)
