@@ -54,19 +54,19 @@ charges:
     title: Engaging in physitical violence in a restricted building
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
-  - code: 18 USC § 5104(e)(2)(D)
+  - code: 40 USC § 5104(e)(2)(D)
     title: Disorderly Conduct in a Capitol Building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
-  - code: 18 USC § 5104(e)(2)(E)
+  - code: 40 USC § 5104(e)(2)(E)
     title: Impeding passage through the Capitol grounds
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
-  - code: 18 USC § 5104(e)(2)(F)
+  - code: 40 USC § 5104(e)(2)(F)
     title: Act of physical violence on Capitol grounds
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
-  - code: 18 USC § 5104(e)(2)(G)
+  - code: 40 USC § 5104(e)(2)(G)
     title: Parading, demonstrating or picketing in a Capitol building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false

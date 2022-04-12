@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-281
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469306/download)

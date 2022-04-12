@@ -34,16 +34,17 @@ published: true
 caseNumber: 1:21-cr-94
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 36 months of probation
   - $5,000 fine
   - 250 hours of community service
   - $500 restitution
 ---
+
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436776/download)

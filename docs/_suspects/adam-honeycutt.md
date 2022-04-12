@@ -9,8 +9,8 @@ date: 2021-02-11
 charged: 2021-02-11
 indicted:
 convicted: 2022-03-01
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2022-03-01
 sentencing:
@@ -25,7 +25,7 @@ courtroom: adam-honeycutt.jpg
 courthouse:
 raid:
 perpwalk:
-quote: 'Well, made it in.'
+quote: "Well, made it in."
 title: Adam Honeycutt charged on February 11th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-mj-216
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.news4jax.com/news/local/2021/02/11/jacksonville-fbi-agents-arrest-man-on-charges-connected-to-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479321/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1359935620123136000)

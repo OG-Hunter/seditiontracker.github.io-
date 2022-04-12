@@ -34,15 +34,16 @@ published: true
 caseNumber: 1:21-cr-54
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 45 days in prison
   - 60 hours of community service
   - $500 restitution
 ---
+
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)

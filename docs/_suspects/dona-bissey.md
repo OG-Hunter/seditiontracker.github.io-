@@ -34,15 +34,16 @@ published: true
 caseNumber: 1:21-cr-165
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 14 days in prison
   - 60 hours of community service
   - $500 restitution
 ---
+
 - [News Report](https://www.indystar.com/story/news/crime/2021/02/25/fbi-arrests-indiana-women-capitol-riot-charges-aftermath/6822567002/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIIndianapolis/status/1365005756588777476)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415961/download)

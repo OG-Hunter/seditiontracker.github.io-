@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Yeah, that was us today; no that wasn’t Antifa.'
+quote: "Yeah, that was us today; no that wasn’t Antifa."
 title: Andrew Galloway charged on January 4, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:22-cr-12
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://trib.com/news/state-and-regional/crime-and-courts/wyoming-man-charged-with-entering-us-capitol-on-jan-6/article_9478da12-6df0-5881-84a7-ec81701cbad0.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481226/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481541/download)

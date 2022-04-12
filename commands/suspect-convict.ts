@@ -23,7 +23,7 @@ const convict = async () => {
   suspect.plea_hearing = cmd.date;
 
   if (cmd.parading) {
-    const parading: Charge = Charges.find(({ code }) => code === "18 USC § 5104(e)(2)(G)");
+    const parading: Charge = Charges.find(({ code }) => code === "40 USC § 5104(e)(2)(G)");
     info("Adding parading charge");
     suspect.charges = [parading];
   }

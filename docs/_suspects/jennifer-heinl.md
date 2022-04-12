@@ -9,8 +9,8 @@ date: 2021-03-17
 charged: 2021-03-17
 indicted:
 convicted: 2021-11-02
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2021-11-02
 sentencing: 2022-06-08
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-370
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wpxi.com/news/top-stories/ross-township-woman-arrested-connection-with-violence-us-capitol/5C7LELQGNRFCFIJAB6E4N7AHJA/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446241/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Heinl%20Information.pdf)

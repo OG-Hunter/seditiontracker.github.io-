@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-mj-569
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.13abc.com/2021/08/20/swanton-residents-charged-jan-6-riot-us-capitol/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20and%20Gabriel%20Burress%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469106/download)

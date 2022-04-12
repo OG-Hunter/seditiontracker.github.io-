@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-494
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wgrz.com/article/news/crime/4-more-people-from-new-york-arrested-in-connection-with-us-captiol-riot/71-3ad4fafb-a9e2-4653-bec2-a0de96ea60de)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469601/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423511/download)

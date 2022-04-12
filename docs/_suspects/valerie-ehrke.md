@@ -34,15 +34,16 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 3 years probation
   - 120 hours community service
   - $500 restitution
 ---
+
 - [News Report](https://sacramento.cbslocal.com/2021/01/20/fbi-arrest-jorge-riley-valerie-ehrke-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356641/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356646/download)

@@ -34,14 +34,15 @@ published: true
 caseNumber: 1:21-cr-112
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 30 days in prison
   - $500 restitution
 ---
+
 - [News Report](https://www.jsonline.com/story/news/local/2021/01/15/david-charles-mish-west-allis-wisconsin-charged-capitol-riot/4186655001/gs)
 - [Complaint](https://www.justice.gov/opa/page/file/1355491/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430146/download)

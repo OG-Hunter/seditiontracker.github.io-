@@ -34,7 +34,7 @@ published: true
 caseNumber: 1:21-cr-309
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(G)
+  - code: 40 USC § 5104(e)(2)(G)
     title: Parading, Demonstrating or Picketing in a Capitol Building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false

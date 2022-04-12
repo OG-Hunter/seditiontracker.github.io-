@@ -9,8 +9,8 @@ date: 2021-03-15
 charged: 2021-03-15
 indicted:
 convicted: 2022-02-17
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2022-02-17
 sentencing: 2022-06-10
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-362
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.kbzk.com/news/crime-courts/bozeman-man-facing-charges-for-alleged-offenses-at-us-capitol-on-jan-6)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476951/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1397111/download)

@@ -34,12 +34,13 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453446/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453441/download)

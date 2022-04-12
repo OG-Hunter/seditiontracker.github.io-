@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-cr-694
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487271/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457631/download)

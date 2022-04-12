@@ -38,7 +38,7 @@ charges:
     title: Obstruction of an Official Proceding (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
-  - code: 18 USC § 5104(e)(2)(D)
+  - code: 40 USC § 5104(e)(2)(D)
     title: Disorderly Conduct in a Capitol Building
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false

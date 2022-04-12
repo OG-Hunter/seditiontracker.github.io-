@@ -9,8 +9,8 @@ date: 2021-04-30
 charged: 2021-04-30
 indicted:
 convicted: 2021-11-09
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2021-11-09
 sentencing:
@@ -34,12 +34,13 @@ published: true
 caseNumber: 1:21-mj-358
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/man-with-central-ohio-ties-accused-of-entering-capitol-on-jan-6/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Oliver%20Louis%20Sarko%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448071/download)
