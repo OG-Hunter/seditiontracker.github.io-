@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-07-19
 sentencing:
 age: 38
 occupation:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385356/download)

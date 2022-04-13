@@ -8,11 +8,12 @@ status: Indicted
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-26
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-04-12
 sentencing:
 age: 36
 occupation:
@@ -25,7 +26,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Wooooo! ’Merica Hey! This is our house!'
+quote: "Wooooo! ’Merica Hey! This is our house!"
 title: Dustin Thompson charged on January 25th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.fox19.com/2021/01/26/fbi-more-ohioans-charged-violent-us-capitol-protest/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361301/download)
