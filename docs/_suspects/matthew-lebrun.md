@@ -20,8 +20,8 @@ age:
 occupation:
 affiliations: Proud Boys, Oath Keepers
 jurisdiction: Federal
-image: /images/preview/matthew-lebrun.jpg
-suspect: matthew-lebrun.jpg
+image: /images/preview/matt-lebrun.jpg
+suspect: matt-lebrun.jpg
 booking:
 courtroom:
 courthouse:
@@ -32,7 +32,7 @@ title: Matthew Lebrun charged on April 8th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-78
 videos:
 charges:
