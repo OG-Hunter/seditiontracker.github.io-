@@ -4,18 +4,18 @@ lastName: Reed
 hashtag: BlakeReed
 aka:
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-03-10
 convicted: 2022-01-11
 acquitted:
-sentenced:
+sentenced: 2022-04-14
 dismissed:
 deceased:
 plea_hearing: 2022-01-11
 trial_date:
-sentencing: 2022-04-15
+sentencing: 2022-04-14
 age: 35
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-204
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
+  - 42 days in prison
+  - period of home confinement
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)
