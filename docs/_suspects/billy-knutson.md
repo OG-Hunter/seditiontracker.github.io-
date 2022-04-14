@@ -4,16 +4,18 @@ lastName: Knutson
 hashtag: PlayboyTheBeast
 aka: Playboy The Beast
 residence: North Carolina
-status: Charged
+status: Convicted
 date: 2022-01-12
 charged: 2022-01-12
 indicted:
-convicted:
+convicted: 2022-04-13
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-04-13
+trial_date:
+sentencing: 2022-07-22
 age: 36
 occupation:
 affiliations: Proud Boys
@@ -34,9 +36,16 @@ published: true
 caseNumber: 1:22-mj-000
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.billboard.com/music/rb-hip-hop/south-dakota-man-charged-capitol-riot-rap-videos-1235019121/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481301/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Billy%20Knutson%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481306/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239501/gov.uscourts.dcd.239501.23.0.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494346/download)
