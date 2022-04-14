@@ -36,16 +36,17 @@ published: true
 caseNumber: 1:21-cr-75
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of Congress
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360201/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360201/download)

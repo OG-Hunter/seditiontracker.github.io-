@@ -39,7 +39,7 @@ export const Charges: Charge[] = [
   },
   {
     code: "18 USC § 1512(c)(2)",
-    title: "Obstruction of Congress",
+    title: "Obstruction of an Official Proceeding",
     url: "https://www.law.cornell.edu/uscode/text/18/1512",
     felony: true,
   },

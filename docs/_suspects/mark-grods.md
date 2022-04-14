@@ -36,16 +36,17 @@ published: true
 caseNumber: 1:21-cr-437
 videos:
 charges:
-- code: 18 USC § 371
-  title: Conspiracy to commit an offense against the United States
-  url: https://www.law.cornell.edu/uscode/text/18/371
-  felony: true
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of Congress
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 371
+    title: Conspiracy to commit an offense against the United States
+    url: https://www.law.cornell.edu/uscode/text/18/371
+    felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/mark-grods-oath-keeper-capitol-attack-trump_n_60dc7417e4b058eea49d79ad)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408091/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409401/download)
