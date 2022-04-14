@@ -9,10 +9,12 @@ date: 2021-02-22
 charged: 2021-02-22
 indicted:
 convicted: 2021-07-23
+acquitted:
 sentenced: 2021-09-29
 dismissed:
 deceased:
 plea_hearing: 2021-07-23
+trial_date:
 sentencing: 2021-09-29
 age: 39
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-148
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days in prison
 ---
-
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371416/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380676/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415111/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derek%20Jancart%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derek%20Jancart%20Judgment.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415106/download)

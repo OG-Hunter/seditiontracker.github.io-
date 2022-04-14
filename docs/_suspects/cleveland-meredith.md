@@ -9,10 +9,12 @@ date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-02-26
 convicted: 2021-09-10
+acquitted:
 sentenced: 2021-12-14
 dismissed:
 deceased:
 plea_hearing: 2021-09-10
+trial_date:
 sentencing: 2021-12-14
 age: 53
 occupation: Business Owner
@@ -50,3 +52,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432146/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Grover%20Meredith%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Grover%20Meredith%20Judgment.pdf)
+- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cleveland%20Grover%20Meredith%20Statement%20of%20Offense.pdf)

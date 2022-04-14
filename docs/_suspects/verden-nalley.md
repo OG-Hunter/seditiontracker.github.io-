@@ -9,10 +9,12 @@ date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-02-12
 convicted: 2021-12-02
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-02
+trial_date:
 sentencing: 2022-03-11
 age: 49
 occupation:
@@ -46,3 +48,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461521/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461526/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461531/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461526/download)

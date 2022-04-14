@@ -9,10 +9,12 @@ date: 2021-02-19
 charged: 2021-02-19
 indicted:
 convicted: 2022-02-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-02-23
+trial_date:
 sentencing:
 age: 41
 occupation: Former Police Officer, Former U.S. Marine
@@ -42,6 +44,7 @@ sentence:
 ---
 - [News Report](https://www.miamiherald.com/article249418810.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476086/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386241/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476081/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholes%20Lentz%20Information.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476086/download)

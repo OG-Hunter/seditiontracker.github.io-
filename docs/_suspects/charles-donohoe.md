@@ -56,7 +56,7 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481016/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Donohoe%20Government%20Memorandum%20in%20Support%20of%20Pre-trial%20Detention.pdf)
-- [Statement of Offense](https://www.documentcloud.org/documents/21580937-220408-donohoe-statement-of-offense)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492996/download)
 - [DOJ Press Release (Plea Deal)](https://www.justice.gov/usao-dc/pr/leader-north-carolina-chapter-proud-boys-pleads-guilty-conspiracy-and-assault-charges-jan)
 - [Plea Deal](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229064/gov.uscourts.dcd.229064.335.0_2.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492991/download)

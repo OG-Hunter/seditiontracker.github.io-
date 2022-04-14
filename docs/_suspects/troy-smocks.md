@@ -9,10 +9,12 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-03-09
 convicted: 2021-09-29
+acquitted:
 sentenced: 2021-10-21
 dismissed:
 deceased:
 plea_hearing: 2021-09-29
+trial_date:
 sentencing: 2021-10-21
 age: 58
 occupation:
@@ -45,8 +47,9 @@ sentence:
 - [News Report](https://dfw.cbslocal.com/2021/01/19/capitol-rioter-dallas-troy-smocks-plans-return-dc-inauguration-day/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-and-charged-making-threats-regarding-events-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1355891/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438316/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355896/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377816/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438311/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Defense%20Sentencing%20Memorandum.pdf)
 - [Defense Motion to Amend Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Defense%20Motion%20to%20Correct%20Sentence.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438316/download)

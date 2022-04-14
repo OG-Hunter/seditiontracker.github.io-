@@ -9,10 +9,12 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2021-07-02
+acquitted:
 sentenced: 2021-10-04
 dismissed:
 deceased:
 plea_hearing: 2021-07-02
+trial_date:
 sentencing: 2021-10-04
 age: 37
 occupation: "Mortgage Loan Ninja"
@@ -34,20 +36,20 @@ published: true
 caseNumber: 1:21-cr-54
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days in prison
   - 60 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://www.expressnews.com/news/local/article/San-Antonio-suspect-in-CapitolMazzocco-texas-15882523.php)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356786/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356781/download)
 - [FBI Raid (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
 - [FBI Raid (More Video)](https://twitter.com/AmandaHTV/status/1350975973940932613?s=20)
 - [Self Incrimination (VIDEO)](https://foxsanantonio.com/news/local/fbi-agents-raided-home-in-stone-oak-arrest-made)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409091/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417581/download)

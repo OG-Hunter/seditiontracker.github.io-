@@ -9,10 +9,12 @@ date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-24
 convicted: 2022-03-29
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-29
+trial_date:
 sentencing: 2022-06-29
 age: 45
 occupation: State Corrections Officer
@@ -34,15 +36,15 @@ published: true
 caseNumber: 1:21-cr-247
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.jacksonville.com/story/news/courts/2021/03/11/corrections-officer-faces-judge-jacksonville-over-capitol-riot/4650980001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378516/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488551/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378521/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381321/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488546/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488551/download)

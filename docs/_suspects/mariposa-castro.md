@@ -9,10 +9,12 @@ date: 2021-02-09
 charged: 2021-02-09
 indicted:
 convicted: 2021-11-24
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-11-24
+trial_date:
 sentencing: 2022-02-23
 age:
 occupation: Owner, Yoga Studio
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-299
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.ktvu.com/news/gilroy-woman-charged-in-capitol-riot)
 - [Self Incrimination (VIDEO)](https://twitter.com/henrykleeKTVU/status/1360386497577275394)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mariposa%20Castro%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452321/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371311/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1387496/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452316/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mariposa%20Castro%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452321/download)

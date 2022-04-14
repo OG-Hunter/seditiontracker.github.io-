@@ -9,10 +9,12 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-03-10
 convicted: 2022-01-11
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-11
+trial_date:
 sentencing: 2022-04-15
 age: 35
 occupation:
@@ -42,7 +44,8 @@ sentence:
 ---
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469171/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)
 - [DOJ Statement (Twitter)](https://twitter.com/USAO_MDTN/status/1350818029693763586)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377936/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469166/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469171/download)

@@ -9,10 +9,12 @@ date: 2021-06-04
 charged: 2021-06-04
 indicted:
 convicted: 2021-12-01
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-01
+trial_date:
 sentencing: 2022-03-10
 age: 46
 occupation:
@@ -41,7 +43,8 @@ charges:
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452896/download)
+- [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236923/gov.uscourts.dcd.236923.29.0.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/georgia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452891/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452896/download)

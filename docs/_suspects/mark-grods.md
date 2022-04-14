@@ -9,10 +9,12 @@ date: 2021-06-28
 charged: 2021-06-28
 indicted:
 convicted: 2021-06-30
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-06-30
+trial_date:
 sentencing:
 age: 54
 occupation:
@@ -49,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409401/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409406/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408091/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409406/download)

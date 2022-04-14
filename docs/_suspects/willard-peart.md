@@ -9,10 +9,12 @@ date: 2021-04-20
 charged: 2021-04-20
 indicted:
 convicted: 2022-01-12
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-12
+trial_date:
 sentencing: 2022-05-02
 age: 45
 occupation:
@@ -34,15 +36,15 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.abc4.com/news/local-news/southern-utah-man-arrested-after-admitting-to-entering-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389171/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469221/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389176/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459941/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469216/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469221/download)

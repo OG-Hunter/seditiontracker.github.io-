@@ -9,10 +9,12 @@ date: 2021-05-21
 charged: 2021-05-21
 indicted:
 convicted: 2021-10-26
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-26
+trial_date:
 sentencing:
 age: 47
 occupation:
@@ -34,15 +36,15 @@ published: true
 caseNumber: 1:21-mj-004
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445151/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401811/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carey%20Jon%20Walden%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445146/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445151/download)

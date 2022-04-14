@@ -9,10 +9,12 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2021-08-19
+acquitted:
 sentenced: 2021-11-04
 dismissed:
 deceased:
 plea_hearing: 2021-08-19
+trial_date:
 sentencing: 2021-11-04
 age:
 occupation:
@@ -34,20 +36,20 @@ published: true
 caseNumber: 1:21-cr-50
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days in prison
   - $1,000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/jenna-ryan-texas-real-estate-agent-who-flew-to-dc-on-private-jet-arrested-in-capitol-riots)
 - [Self Incrimination](https://twitter.com/NewsJunkieBlu/status/1347634376142630915?s=20)
 - [Complaint](https://www.justice.gov/opa/page/file/1356081/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428191/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356471/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379276/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428186/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ryan%20Government%20Response%20to%20Defense%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428191/download)

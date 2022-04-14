@@ -9,10 +9,12 @@ date: 2021-04-02
 charged: 2021-04-02
 indicted:
 convicted: 2022-01-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-22
+trial_date:
 sentencing: 2022-04-11
 age: 50
 occupation: Retired Police Officer
@@ -38,6 +40,7 @@ sentence:
 ---
 - [News Report](https://www.washingtonpost.com/nation/2021/04/03/former-utah-police-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382931/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469436/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382936/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410226/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469431/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469436/download)

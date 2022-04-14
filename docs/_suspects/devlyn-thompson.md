@@ -9,10 +9,12 @@ date: 2021-07-11
 charged: 2021-07-11
 indicted:
 convicted: 2021-08-06
+acquitted:
 sentenced: 2021-12-20
 dismissed:
 deceased:
 plea_hearing: 2021-08-06
+trial_date:
 sentencing: 2021-12-20
 age:
 occupation:
@@ -49,3 +51,4 @@ sentence:
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-and-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Devlyn%20Thompson%20Defense%20Sentencing%20Memorandum.pdf)
 - [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Devlyn%20Thompson%20Amended%20Judgment.pdf)
+- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Devlyn%20Thompson%20Statement%20of%20Offense.pdf)

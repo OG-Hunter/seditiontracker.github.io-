@@ -9,10 +9,12 @@ date: 2021-03-11
 charged: 2021-03-11
 indicted:
 convicted: 2021-08-05
+acquitted:
 sentenced: 2021-11-12
 dismissed:
 deceased:
 plea_hearing: 2021-08-05
+trial_date:
 sentencing: 2021-11-12
 age: 54
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-325
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.ypradio.org/government-politics/2021-03-14/fifth-montanan-faces-charges-over-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378506/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394541/download)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Plea%20Agreement.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Government%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Boyd%20Allen%20Camper%20Statement%20of%20Offense.pdf)

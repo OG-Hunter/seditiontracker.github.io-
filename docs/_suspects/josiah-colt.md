@@ -9,10 +9,12 @@ date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-03
 convicted: 2021-07-14
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-07-14
+trial_date:
 sentencing:
 age: 34
 occupation:
@@ -48,3 +50,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355481/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366041/download)
 - [Plea Agreement](https://s3.documentcloud.org/documents/21016788/7-26-21-josiah-colt-plea-agreement.pdf)
+- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Josiah%20Colt%20Statement%20of%20Offense.pdf)

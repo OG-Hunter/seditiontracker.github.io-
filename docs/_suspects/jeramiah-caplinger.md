@@ -9,10 +9,12 @@ date: 2021-04-06
 charged: 2021-04-06
 indicted:
 convicted: 2021-11-05
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-11-05
+trial_date:
 sentencing:
 age: 25
 occupation:
@@ -42,7 +44,8 @@ sentence:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384121/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447251/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Information.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeramiah%20Caplinger%20Government%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447256/download)

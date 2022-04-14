@@ -9,10 +9,12 @@ date: 2021-09-23
 charged: 2021-09-23
 indicted:
 convicted: 2021-03-16
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-03-16
+trial_date:
 sentencing: 2022-07-22
 age:
 occupation: Nurse
@@ -42,6 +44,7 @@ sentence:
 ---
 - [News Report](https://wsvn.com/news/local/2-south-floridians-post-photos-videos-of-themselves-at-u-s-capitol-riot/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Moises%20Romero%20Criminal%20Complaint.pdf)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485681/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1440791/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485671/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485676/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485681/download)

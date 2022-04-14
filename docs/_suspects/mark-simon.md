@@ -9,10 +9,12 @@ date: 2021-01-28
 charged: 2021-01-28
 indicted:
 convicted: 2021-08-19
+acquitted:
 sentenced: 2021-12-07
 dismissed:
 deceased:
 plea_hearing: 2021-08-19
+trial_date:
 sentencing: 2021-12-07
 age: 49
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-67
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 35 days in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.ocregister.com/2021/01/28/fbi-arrests-huntington-beach-man-for-suspected-involvement-in-u-s-capitol-siege/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361286/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428196/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1361286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377806/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428201/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428196/download)

@@ -9,10 +9,12 @@ date: 2021-09-23
 charged: 2021-09-23
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 55
 occupation: U.S. Marines (Former); Lieutenant, Broward County (Florida) Sheriff's Office (Retired)
@@ -39,3 +41,4 @@ sentence:
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/former-florida-sheriffs-lieutenant-arrested-charged-in-capitol-riot-julio-chang-january-6-broward-county-tam-dinh-pham-alan-hostetter-law-enforcement/65-9ba268bf-0cc9-4220-971d-cd294d3bea67)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457701/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457691/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457701/download)

@@ -9,10 +9,12 @@ date: 2021-03-17
 charged: 2021-03-17
 indicted: 2021-04-28
 convicted: 2021-10-04
+acquitted:
 sentenced: 2021-12-17
 dismissed:
 deceased:
 plea_hearing: 2021-10-04
+trial_date:
 sentencing: 2021-12-17
 age: 53
 occupation:
@@ -46,6 +48,7 @@ sentence:
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438746/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393431/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438741/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Palmer%20Defense%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438746/download)

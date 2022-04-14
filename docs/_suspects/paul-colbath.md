@@ -9,6 +9,7 @@ date: 2021-10-20
 charged: 2021-10-20
 indicted:
 convicted: 2022-01-10
+acquitted:
 sentenced: 2022-04-06
 dismissed:
 deceased:
@@ -41,9 +42,9 @@ sentence:
   - 60 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://www.postandcourier.com/news/indian-land-man-becomes-11th-south-carolinian-charged-with-storming-us-capitol-on-jan-6/article_010ebe26-37f0-11ec-8430-535d0750cf6d.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458821/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458826/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469136/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458831/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469131/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469136/download)

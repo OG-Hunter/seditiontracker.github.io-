@@ -9,10 +9,12 @@ date: 2021-03-30
 charged: 2021-03-30
 indicted:
 convicted: 2021-10-18
+acquitted:
 sentenced: 2022-01-14
 dismissed:
 deceased:
 plea_hearing: 2021-10-18
+trial_date:
 sentencing: 2022-01-14
 age: 70
 occupation:
@@ -49,3 +51,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443816/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443821/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Tryon%20Defense%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443826/download)

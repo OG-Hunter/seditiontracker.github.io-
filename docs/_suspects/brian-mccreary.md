@@ -9,10 +9,12 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-02-17
 convicted: 2022-04-01
+acquitted:
 sentenced: 2022-04-01
 dismissed:
 deceased:
 plea_hearing: 2022-04-01
+trial_date:
 sentencing: 2022-04-01
 age: 33
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-125
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 36 months probation (w/"intermittent confinement and home detention")
   - $2,500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.berkshireeagle.com/news/local/i-love-our-country-north-adams-man-explains-why-he-documented-riot-from-inside-capitol/article_357939b6-67c1-11eb-a153-878373b1ff53.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442601/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371451/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCreary%20Indictment.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442596/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442601/download)

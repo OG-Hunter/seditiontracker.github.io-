@@ -9,10 +9,12 @@ date: 2021-01-22
 charged: 2021-01-22
 indicted:
 convicted: 2021-12-17
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-17
+trial_date:
 sentencing: 2022-03-07
 age: 44
 occupation: FAA
@@ -34,16 +36,16 @@ published: true
 caseNumber: 1:21-cr-114
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/qanon-faa-employee-capitol-insurrection_n_600b2881c5b6d64153abaf3d)
 - [Complaint](https://www.justice.gov/opa/page/file/1359586/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468916/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1359586/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371671/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468911/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Strong%20Defense%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468916/download)

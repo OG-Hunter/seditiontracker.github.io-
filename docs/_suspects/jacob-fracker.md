@@ -9,10 +9,12 @@ date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
 convicted: 2022-03-18
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-18
+trial_date:
 sentencing:
 age: 29
 occupation: Police Officer (Former Military)
@@ -44,7 +46,8 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)
 - [Self Incrimination](https://www.thedailybeast.com/jacob-fracker-bragged-he-pissed-in-nancy-pelosis-toilet-during-capitol-riot-feds-say)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484886/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353461/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364781/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484891/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484886/download)

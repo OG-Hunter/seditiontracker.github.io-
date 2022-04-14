@@ -9,10 +9,12 @@ date: 2021-02-01
 charged: 2021-02-01
 indicted:
 convicted: 2022-01-07
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-07
+trial_date:
 sentencing: 2022-05-10
 age: 32
 occupation: Music Teacher
@@ -34,15 +36,15 @@ published: true
 caseNumber: 1:21-cr-273
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470031/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384336/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470026/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470031/download)

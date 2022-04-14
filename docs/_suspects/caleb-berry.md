@@ -9,10 +9,12 @@ date: 2021-07-09
 charged: 2021-07-09
 indicted:
 convicted: 2021-07-20
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-07-20
+trial_date:
 sentencing:
 age: 20
 occupation:
@@ -49,3 +51,4 @@ sentence:
 - [DOJ Statement (Twitter)](https://twitter.com/FBIWFO/status/1417871768736370693)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413726/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413731/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413731/download)

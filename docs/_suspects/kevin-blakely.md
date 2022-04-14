@@ -9,10 +9,12 @@ date: 2021-03-19
 charged: 2021-03-19
 indicted:
 convicted: 2021-10-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-10-22
+trial_date:
 sentencing: 2022-05-04
 age: 55
 occupation:
@@ -34,15 +36,15 @@ published: true
 caseNumber: 1:21-cr-356
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/2584604/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380351/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1444306/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380356/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394051/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1444301/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1444306/download)

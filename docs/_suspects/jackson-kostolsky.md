@@ -9,10 +9,12 @@ date: 2021-02-23
 charged: 2021-02-23
 indicted:
 convicted: 2021-09-28
+acquitted:
 sentenced: 2022-01-11
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
+trial_date:
 sentencing: 2022-01-11
 age: 32
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-197
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days home confinement
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.wfmz.com/news/area/lehighvalley/paperwork-video-shows-lehigh-county-man-was-at-u-s-capitol-during-riot/article_540d8556-7dee-11eb-845a-c3b80faa77ff.html)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438206/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393611/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jackson%20Kostolsky%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438201/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438206/download)

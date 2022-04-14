@@ -9,10 +9,12 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted:
 convicted: 2021-09-14
+acquitted:
 sentenced: 2021-12-16
 dismissed:
 deceased:
 plea_hearing: 2021-09-14
+trial_date:
 sentencing: 2021-12-16
 age:
 occupation:
@@ -34,17 +36,17 @@ published: true
 caseNumber: 1:21-cr-98
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://abcnews4.com/news/local/fbi-sc-man-suspected-of-attending-capitol-protest-taking-picture-with-calhoun-statue)
 - [Complaint](https://www.justice.gov/file/1360781/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433356/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1360781/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377736/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433351/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433356/download)

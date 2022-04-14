@@ -9,10 +9,12 @@ date: 2021-03-08
 charged: 2021-03-08
 indicted: 2021-05-26
 convicted: 2022-03-02
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-02
+trial_date:
 sentencing:
 age: 33
 occupation:
@@ -45,8 +47,9 @@ charges:
 sentence:
 ---
 - [News Report](https://www.nbcnews.com/news/us-news/alabama-man-ties-oath-keepers-militia-arrested-connection-capitol-riot-n1260499)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479561/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378886/download)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Govt%20Opposition%20to%20Defendants%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470996/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20James%20Govt%20Opposition%20to%20Defendants%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479556/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479561/download)

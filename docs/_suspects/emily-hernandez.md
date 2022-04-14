@@ -9,10 +9,12 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted:
 convicted: 2022-01-10
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-10
+trial_date:
 sentencing:
 age: 20
 occupation:
@@ -41,9 +43,10 @@ charges:
 sentence:
 ---
 - [News Report](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469126/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357301/download)
 - [Perp Walk (PHOTO)](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
 - [Complaint](https://www.justice.gov/opa/page/file/1357296/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Emily%20Hernandez%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469121/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Emily%20Hernandez%20Government%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469126/download)

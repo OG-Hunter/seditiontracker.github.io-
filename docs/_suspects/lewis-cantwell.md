@@ -9,10 +9,12 @@ date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-02-05
 convicted: 2022-03-24
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-24
+trial_date:
 sentencing: 2022-09-22
 age: 35
 occupation:
@@ -46,3 +48,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/north-carolina-man-pleads-guilty-felony-charge-offenses-committed-during-jan-6-capitol)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486921/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486926/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486926/download)

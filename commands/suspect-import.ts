@@ -370,7 +370,6 @@ const linkType = (description: string, lastName?: string) => {
     case /plea agreement/.test(description):
     case /.* Plea/.test(description):
     case /.*plea_agreement/.test(description):
-    case /.*statement_of_offense.pdf/.test(description):
       return "Plea Agreement";
 
     case /Affidavit/.test(description):
@@ -384,14 +383,15 @@ const linkType = (description: string, lastName?: string) => {
     case /affadavit/.test(description):
     case /Charging Documents/.test(description):
     case /mchugh/.test(description):
-    case /Statement of Offense/.test(description):
-    case /statement of offense/.test(description):
     case /Factual Profile/.test(description):
     case /charging_documents.pdf/.test(description):
     case /statement_of_offense/.test(description):
     case /Panayiotou Marcos/.test(description):
       return "Statement of Facts";
-
+    case /Statement of Offense/.test(description):
+    case /statement of offense/.test(description):
+    case /.*statement_of_offense.pdf/.test(description):
+      return "Statement of Offense";
     case /Indictment/.test(description):
     case /indictment/.test(description):
     case /caldwell_et_al.*/.test(description):

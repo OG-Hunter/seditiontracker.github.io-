@@ -9,10 +9,12 @@ date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-12
 convicted: 2021-08-06
+acquitted:
 sentenced: 2021-11-10
 dismissed:
 deceased:
 plea_hearing: 2021-08-06
+trial_date:
 sentencing: 2021-11-10
 age: 43
 occupation: Gym Owner (Former MMA Fighter)
@@ -57,7 +59,7 @@ sentence:
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359221/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430296/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1359221/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385116/download)
 - [Bodycam Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1413913408198483972?s=20)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/washington-state-anyd-new-jersey-men-are-first-plead-guilty-assaulting-law-enforcement-jan)
@@ -67,3 +69,4 @@ sentence:
 - [Order Granting Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Memorandum%20Opinion.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Government%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Scott%20Kevin%20Fairlamb%20Judgment.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430296/download)

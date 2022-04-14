@@ -9,10 +9,12 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-03
 convicted: 2021-08-04
+acquitted:
 sentenced: 2021-08-04
 dismissed:
 deceased:
 plea_hearing: 2021-08-04
+trial_date:
 sentencing: 2021-08-04
 age: 40
 occupation:
@@ -34,20 +36,20 @@ published: true
 caseNumber: 1:21-cr-71
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 6 months and 21 days jail time (time served)
   - $500 restitution
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/01/19/feds-arrest-michigan-man-capitol-mob-riots-insurrection/4224979001/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421976/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1357311/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357306/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366081/download)
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Government%20Response%20to%20Defendants%20Motion%20for%20Bond.pdf)
 - [Sentencing Memo](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421966/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421971/download)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Judgment.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421976/download)

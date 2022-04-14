@@ -9,10 +9,12 @@ date: 2021-03-24
 charged: 2021-03-24
 indicted:
 convicted: 2022-01-20
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-01-20
+trial_date:
 sentencing: 2022-04-26
 age:
 occupation:
@@ -37,6 +39,7 @@ charges:
 sentence:
 ---
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469401/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469396/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469401/download)

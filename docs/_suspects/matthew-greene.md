@@ -9,10 +9,12 @@ date: 2021-04-21
 charged: 2021-04-21
 indicted: 2021-04-20
 convicted: 2021-12-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-12-22
+trial_date:
 sentencing: 2022-03-10
 age: 33
 occupation:
@@ -52,3 +54,4 @@ sentence:
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Greene%20Government%20Opposition%20to%20Motion%20to%20Revoke%20Detention%20Order.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468986/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468986/download)

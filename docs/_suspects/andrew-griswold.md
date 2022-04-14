@@ -9,10 +9,12 @@ date: 2021-03-05
 charged: 2021-03-05
 indicted: 2021-07-09
 convicted: 2022-03-30
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-30
+trial_date:
 sentencing: 2022-07-13
 age: 28
 occupation:
@@ -41,8 +43,9 @@ charges:
 sentence:
 ---
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488791/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412506/download)
 - [DOJ Press Release](https://twitter.com/USAO_DC/status/1509263471992582151?s=20&t=3X3c-76uXxSEfoz6e8Dm0A)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488781/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488786/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1488791/download)

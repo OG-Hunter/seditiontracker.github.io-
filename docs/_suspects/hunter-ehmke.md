@@ -9,10 +9,12 @@ date: 2021-01-13
 charged: 2021-01-28
 indicted: 2021-01-27
 convicted: 2022-01-14
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-01-14
+trial_date:
 sentencing: 2022-05-11
 age: 20
 occupation:
@@ -46,3 +48,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353881/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364761/download)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Plea%20Agreement.pdf)
+- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Statement%20of%20Offense.pdf)

@@ -9,10 +9,12 @@ date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
 convicted: 2021-06-02
+acquitted:
 sentenced: 2021-07-19
 dismissed:
 deceased:
 plea_hearing: 2021-06-02
+trial_date:
 sentencing: 2021-07-19
 age: 38
 occupation:
@@ -44,9 +46,10 @@ sentence:
   - $2,000 restitution
 ---
 - [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415531/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371411/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/opa/pr/man-pleads-guilty-obstruction-official-proceeding-breaching-us-capitol-jan-6)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415526/download)
 - [Judgement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415521/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Allard%20Hodgkins%20Amended%20Defense%20Sentencing%20Memorandum.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415531/download)

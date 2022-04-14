@@ -9,10 +9,12 @@ date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
 convicted: 2021-09-15
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2021-09-15
+trial_date:
 sentencing:
 age:
 occupation: Security Guard
@@ -53,3 +55,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433071/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433076/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/florida-man-pleads-guilty-oath-keeper-affiliated-conspiracy-case-related-jan-6-capitol)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433076/download)
