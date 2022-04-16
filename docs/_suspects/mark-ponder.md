@@ -12,9 +12,9 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-22
 sentencing:
-trial_date: 2022-06-21
+trial_date:
 age: 55
 occupation:
 affiliations:
