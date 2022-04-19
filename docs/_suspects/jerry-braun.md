@@ -39,4 +39,4 @@ charges:
 sentence:
 ---
 - [News Report](https://www.nbcnews.com/politics/justice-department/uber-driver-turns-jan-6-rioter-bragged-capitol-attack-dashcam-rcna25023)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242111/gov.uscourts.dcd.242111.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1495341/download)
