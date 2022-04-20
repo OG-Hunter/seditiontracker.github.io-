@@ -44,6 +44,7 @@ sentence:
   - 30 days home detention
   - $2,000 fine
   - 24 months probation
+  - 50 hours community service
   - $500 restitution
 ---
 

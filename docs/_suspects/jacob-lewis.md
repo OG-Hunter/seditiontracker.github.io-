@@ -4,18 +4,18 @@ lastName: Lewis
 hashtag: JacobLewis
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-02-09
 convicted: 2022-01-06
 acquitted:
-sentenced:
+sentenced: 2022-04-20
 dismissed:
 deceased:
 plea_hearing: 2022-01-06
 trial_date:
-sentencing: 2022-04-14
+sentencing: 2022-04-20
 age: 37
 occupation: Gym Owner
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-100
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 2 years probation
+  - 60 hours community service
+  - $3,000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.washingtonpost.com/nation/2021/01/29/jacob-lewis-capitol-riot-gym/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361031/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361031/download)
