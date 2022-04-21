@@ -4,15 +4,17 @@ lastName: Watson
 hashtag: SeanWatson
 aka:
 residence: Texas
-status: Charged
+status: Convicted
 date: 2021-04-23
 charged: 2021-04-23
 indicted:
-convicted:
+convicted: 2022-04-21
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-21
+trial_date:
 sentencing:
 age:
 occupation:
@@ -34,10 +36,15 @@ published: true
 caseNumber: 1:21-cr-422
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390656/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390661/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461566/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496026/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496031/download)

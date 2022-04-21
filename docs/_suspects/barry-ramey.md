@@ -39,4 +39,5 @@ charges:
 sentence:
 ---
 
+- [News Report](https://www.nbcnews.com/politics/justice-department/fbi-says-proud-boy-tried-derail-jan-6-investigating-menacing-agent-rcna25418)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242488/gov.uscourts.dcd.242488.1.1.pdf)
