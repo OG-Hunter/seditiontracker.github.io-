@@ -4,15 +4,17 @@ lastName: Carollo
 hashtag:
 aka:
 residence: Illinois
-status: Charged
+status: Convicted
 date: 2022-01-19
 charged: 2022-01-19
 indicted:
-convicted:
+convicted: 2022-04-21
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-21
+trial_date:
 sentencing:
 age: 45
 occupation:
@@ -34,9 +36,15 @@ published: true
 caseNumber: 1:22-mj-000
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/glen-carbon-man-faces-capitol-riot-charge/article_b02213cd-4f1a-51e7-91d2-1c5e3fadb628.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481601/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Vollan%20Anthony%20Carollo%20Jeremiah%20Carollo%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496121/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481606/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496126/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496131/download)
