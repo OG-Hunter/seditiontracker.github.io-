@@ -12,11 +12,11 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-05-11
 sentencing:
 age: 33
 occupation:
-affiliations:
+affiliations: Groypers
 jurisdiction: Federal
 image: /images/preview/023.png
 suspect: 023.png
