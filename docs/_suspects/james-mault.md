@@ -4,15 +4,17 @@ lastName: Mault
 hashtag: IronWorkerGuy
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-10-05
 charged: 2021-10-05
 indicted: 2021-11-05
-convicted:
+convicted: 2022-04-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-04-08
+plea_hearing: 2022-04-22
+trial_date:
 sentencing:
 age:
 occupation: Ironworker
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-mj-622
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 

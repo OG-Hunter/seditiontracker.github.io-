@@ -4,15 +4,17 @@ lastName: Mattice
 hashtag: FenceSnatcher
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-10-05
 charged: 2021-10-05
 indicted: 2021-11-05
-convicted:
+convicted: 2022-04-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-22
+trial_date:
 sentencing:
 age: 28
 occupation:
@@ -34,8 +36,13 @@ published: true
 caseNumber: 1:21-mj-622
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Mattice%20Detention%20Order.pdf)
