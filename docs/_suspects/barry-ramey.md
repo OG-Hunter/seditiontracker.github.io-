@@ -22,7 +22,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/barry-ramey.jpg
 suspect: barry-ramey.jpg
-booking:
+booking: barry-ramey.jpg
 courtroom:
 courthouse:
 raid:
@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-says-proud-boy-tried-derail-jan-6-investigating-menacing-agent-rcna25418)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496006/download)
