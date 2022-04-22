@@ -4,17 +4,18 @@ lastName: Ponder
 hashtag: BeigeSweaterWrestler
 aka:
 residence: Washington, DC
-status: Indicted
+status: Convicted
 date: 2021-03-12
 charged: 2021-03-12
 indicted: 2021-03-26
-convicted:
+convicted: 2022-04-22
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-22
-sentencing:
 trial_date:
+sentencing:
 age: 55
 occupation:
 affiliations:
@@ -35,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-259
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
@@ -42,3 +47,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379086/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379091/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459961/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/district-columbia-man-pleads-guilty-felony-charge-offenses-committed-during-jan-6-capitol)
