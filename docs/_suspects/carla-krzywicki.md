@@ -4,18 +4,18 @@ lastName: Krzywicki
 hashtag: CarlaKrzywicki
 aka:
 residence: Connecticut
-status: Convicted
+status: Sentenced
 date: 2021-09-09
 charged: 2021-09-09
 indicted:
 convicted: 2022-01-11
 acquitted:
-sentenced:
+sentenced: 2022-04-22
 dismissed:
 deceased:
 plea_hearing: 2022-01-11
 trial_date:
-sentencing:
+sentencing: 2022-04-22
 age: 19
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-mj-594
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 90 days home confinement
+  - 3 years probation
+  - mandatory mental health treatment
+  - $500 restitution
 ---
+
 - [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433371/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Information.pdf)
