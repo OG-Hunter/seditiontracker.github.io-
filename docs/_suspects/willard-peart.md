@@ -48,3 +48,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459941/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469216/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469221/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Willard%20Peart%20Defense%20Sentencing%20Memorandum.pdf)

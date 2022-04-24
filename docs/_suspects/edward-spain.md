@@ -48,3 +48,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469576/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469581/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469581/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Government%20Sentencing%20Memorandum.pdf)

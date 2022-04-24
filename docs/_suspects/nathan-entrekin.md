@@ -49,3 +49,4 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469286/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469291/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nathan%20Wayne%20Entrekin%20Government%20Sentencing%20Memorandum.pdf)

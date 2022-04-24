@@ -43,3 +43,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469396/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469401/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Von%20Bernewitz%20Government%20Sentencing%20Memorandum.pdf)

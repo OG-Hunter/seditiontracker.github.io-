@@ -43,3 +43,4 @@ sentence:
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Plea%20Agreement.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Statement%20of%20Offense.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Statement%20of%20Offense.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Defense%20Sentencing%20Memorandum.pdf)
