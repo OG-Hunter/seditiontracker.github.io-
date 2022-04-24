@@ -4,15 +4,17 @@ lastName: Stoll
 hashtag: JustinStoll
 aka: Th3Real Huckleberry
 residence: Ohio
-status: Charged
+status: Convicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted: 2022-01-20
+acquitted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-01-20
+trial_date:
 sentencing:
 age: 40
 occupation:
@@ -34,8 +36,14 @@ published: true
 caseNumber: 1:21-mj-30
 videos:
 charges:
+  - code: 18 USC § 875(c)
+    title: Interstate Communication of Threats
+    url: https://www.law.cornell.edu/uscode/text/18/875
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371536/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBICincinnati/status/1350161035492290565?s=20)
+- [DOJ Press Release](https://www.justice.gov/usao-sdoh/pr/wilmington-man-pleads-guilty-making-online-threats-relating-his-participation-us)
