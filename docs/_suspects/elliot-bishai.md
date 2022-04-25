@@ -4,15 +4,17 @@ lastName: Bishai
 hashtag: ElliotBishai
 aka:
 residence: South Carolina
-status: Indicted
+status: Convicted
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-12-15
-convicted:
+convicted: 2022-04-25
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-25
+trial_date:
 sentencing:
 age: 20
 occupation:
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-282
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 
