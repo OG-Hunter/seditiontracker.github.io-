@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-26
 sentencing:
 age: 71
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459061/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459051/download)

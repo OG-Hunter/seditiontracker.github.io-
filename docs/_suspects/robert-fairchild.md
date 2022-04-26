@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-26
 sentencing:
 age: 40
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-orlando-robert-fairchild--20210828-6yj67m4mlfapnefejh5yr3sjga-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
