@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-05-03
 sentencing:
 age: 25
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We goin? ... Cause hot damn son i [sic] really wanna crack some commie skulls.'
+quote: "We goin? ... Cause hot damn son i [sic] really wanna crack some commie skulls."
 title: Marshall Neefe charged on September 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432686/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20Government%20Opposition%20to%20Motion%20to%20Appeal%20Detention%20Order.pdf)
