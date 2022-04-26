@@ -4,15 +4,17 @@ lastName: Ticas
 hashtag: DavidTicas
 aka:
 residence: California
-status: Charged
+status: Convicted
 date: 2021-09-21
 charged: 2021-09-21
 indicted:
-convicted:
+convicted: 2022-04-26
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-26
+trial_date:
 sentencing:
 age: 39
 occupation:
@@ -34,8 +36,14 @@ published: true
 caseNumber: 1:21-cr-601
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.ocregister.com/2021/10/07/2-more-with-southern-california-ties-charged-in-jan-6-storming-of-u-s-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457581/download)
-- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457586/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497006/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497011/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497016/download)

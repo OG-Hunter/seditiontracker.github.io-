@@ -8,12 +8,12 @@ status: Convicted
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-12-15
-convicted: 2022-04-25
+convicted: 2022-04-26
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-04-25
+plea_hearing: 2022-04-26
 trial_date:
 sentencing:
 age: 20
@@ -47,3 +47,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386291/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460131/download)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229793/gov.uscourts.dcd.229793.71.0.pdf)

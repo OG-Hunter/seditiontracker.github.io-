@@ -42,6 +42,6 @@ charges:
   felony: false
 sentence:
 ---
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Reva%20Vincent%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Reva%20Vincent%20Plea%20Agreement.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Reva%20Vincent%20Statement%20of%20Offense.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496526/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496531/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496536/download)
