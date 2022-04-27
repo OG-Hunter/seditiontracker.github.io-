@@ -39,8 +39,8 @@ charges:
 sentence:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2021/11/23/22799088/lake-forest-man-to-plead-guilty-to-charges-in-jan-6-capitol-riot-feds)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Plea%20Agreement.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496991/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496996/download)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Statement%20of%20Offense.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Statement%20of%20Offense.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497001/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Kulas%20Defense%20Sentencing%20Memorandum.pdf)
