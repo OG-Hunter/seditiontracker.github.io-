@@ -4,15 +4,17 @@ lastName: Colon
 hashtag: ColonPB
 aka:
 residence: Missouri
-status: Indicted
+status: Convicted
 date: 2021-02-11
 charged: 2021-02-11
 indicted: 2021-02-26
-convicted:
+convicted: 2022-04-27
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-04-26
+plea_hearing: 2022-04-27
+trial_date:
 sentencing:
 age: 44
 occupation:
@@ -34,6 +36,9 @@ published: true
 caseNumber: 1:21-cr-160
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
 sentence:
 ---
 
