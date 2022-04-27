@@ -36,8 +36,8 @@ published: true
 caseNumber: 1:21-cr-160
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
+  - code: 18 USC § 231(a)(3),2
+    title: Civil Disorder (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/231
 sentence:
 ---
