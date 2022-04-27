@@ -4,15 +4,17 @@ lastName: Richardson
 hashtag: SwingerGramps
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-11-22
 charged: 2021-11-22
 indicted: 2021-12-08
-convicted:
+convicted: 2022-04-26
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-26
+trial_date:
 sentencing:
 age: 71
 occupation:
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-721
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
@@ -42,4 +48,6 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459051/download)
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Richardson%20Defense%20Motion%20for%20Bail.pdf)
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Richardson%20Government%20Opposition%20to%20Defense%20Motion%20for%20Bail.pdf)
-- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Richardson%20Memorandum%20Opinion%20Denying%20Defense%20Motion%20for%20Bail.pdf)
+- [DOJ Press Release (Plead Deal)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-pleads-guilty-assaulting-law-enforcement-officer-during-jan-6-capitol)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497606/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497611/download)
