@@ -51,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497606/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497611/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Richardson%20Memorandum%20Opinion%20Denying%20Defense%20Motion%20for%20Bail.pdf)
+- [Order Denying Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Howard%20Richardson%20Memorandum%20Opinion%20Denying%20Defense%20Motion%20for%20Bail.pdf)

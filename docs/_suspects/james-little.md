@@ -50,3 +50,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450201/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Memorandum%20Opinion%20on%20Split%20Sentence.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450206/download)
+- [Memorandum Opinion on Split Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Memorandum%20Opinion%20on%20Split%20Sentence.pdf)

@@ -360,8 +360,18 @@ const linkType = (description: string, lastName?: string) => {
   description = unescape(description);
   description = description.replace(/&#39;/g, "'");
 
+  if (description === "Memorandum") {
+    return null;
+  }
+
   switch (true) {
     // standard documents
+    case /Memorandum Opinion on Split Sentence/.test(description):
+      return "Memorandum Opinion on Split Sentence";
+
+    case /Memorandum Opinion Denying Motion to Dismiss/.test(description):
+      return "Memorandum Opinion Denying Motion to Dismiss";
+
     case /Detention Order/.test(description):
     case /Order of Detention/.test(description):
       return "Detention Order";
@@ -425,7 +435,6 @@ const linkType = (description: string, lastName?: string) => {
     case /Memorandum in Aid of Sentencing/.test(description):
     case /.*Government Sentencing Memorandum.*/.test(description):
     case /.*Sentencing Memo.*/.test(description):
-    case /Memorandum/.test(description):
       return "Sentencing Memo";
 
     case /Detention Hearing Transcript/.test(description):
@@ -444,6 +453,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Ammended Judgement";
 
     case /Order Denying Defendant's Motion for Conditional Release/.test(description):
+    case /Memorandum Opinion Denying Defense Motion for Bail/.test(description):
       return "Order Denying Bond";
 
     case /Order Setting Conditions of Release/.test(description):

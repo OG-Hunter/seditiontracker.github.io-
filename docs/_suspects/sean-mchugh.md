@@ -9,10 +9,12 @@ date: 2021-05-27
 charged: 2021-05-27
 indicted: 2021-07-07
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 34
 occupation:
@@ -65,3 +67,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410721/download)
 - [Denial of Defense Motion to Dismiss](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20McHugh%20Memorandum%20Opinion%20Denying%20Motion%20to%20Dismiss.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20McHugh%20Memorandum%20Opinion%20Denying%20Motion%20to%20Dismiss.pdf)
+- [Memorandum Opinion Denying Motion to Dismiss](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20McHugh%20Memorandum%20Opinion%20Denying%20Motion%20to%20Dismiss.pdf)
