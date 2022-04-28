@@ -54,3 +54,5 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
 - [Defense Objection to Sentencing Guidelines](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422526/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Sentencing%20Hearing%20Transcript.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Glenn%20Croy%20Judgment.pdf)

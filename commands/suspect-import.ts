@@ -472,6 +472,12 @@ const linkType = (description: string, lastName?: string) => {
     case /Sentencing Guidelines/.test(description):
       return "Sentencing Guidelines";
 
+    case /Sentencing Hearing Transcript/.test(description):
+      return "Sentencing Hearing Transcript";
+
+    case /Plea Hearing Transcript/.test(description):
+      return "Plea Hearing Transcript";
+
     // government motions
     case /Government's Motion to Continue/.test(description):
       return "Government motion to Continue";

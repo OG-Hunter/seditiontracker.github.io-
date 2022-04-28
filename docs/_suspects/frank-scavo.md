@@ -51,3 +51,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380716/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431441/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431446/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Frank%20Scavo%20Defense%20Response%20to%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Frank%20Scavo%20Judgment.pdf)

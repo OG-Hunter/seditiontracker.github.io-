@@ -52,3 +52,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Carlo%20Cordon%20Defense%20Sentencing%20Memorandum.pdf)
 - [News Report (Guilty Plea)](https://www.buzzfeednews.com/article/zoetillman/molotov-cocktails-jan-6-capitol-guilty-plea)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428556/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Sean%20Carlo%20Cordon%20Judgment.pdf)

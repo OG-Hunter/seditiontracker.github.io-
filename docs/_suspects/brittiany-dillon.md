@@ -52,3 +52,5 @@ sentence:
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Superseding%20Indictment.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Government%20Supplemental%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437351/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Sentencing%20Hearing%20Transcript.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brittiany%20Dillon%20Judgment.pdf)

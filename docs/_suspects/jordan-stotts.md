@@ -50,3 +50,5 @@ sentence:
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Kenneth%20Stotts%20Plea%20Agreement.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Kenneth%20Stotts%20Defense%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Kenneth%20Stotts%20Statement%20of%20Offense.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Kenneth%20Stotts%20Sentencing%20Hearing%20Transcript.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jordan%20Kenneth%20Stotts%20Judgment.pdf)

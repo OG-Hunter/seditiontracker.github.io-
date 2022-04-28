@@ -51,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430151/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Mish%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430146/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Mish%20Judgment.pdf)

@@ -55,3 +55,5 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Judgment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430996/download)
+- [Plea Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Plea%20Hearing%20Transcript.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Anthony%20Chansley%20Sentencing%20Hearing%20Transcript.pdf)

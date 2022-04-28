@@ -53,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421971/download)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Judgment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421976/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karl%20Dresch%20Sentencing%20Hearing%20Transcript.pdf)
