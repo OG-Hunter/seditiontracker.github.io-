@@ -4,18 +4,18 @@ lastName: Kulas
 hashtag:
 aka:
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2021-11-19
 charged: 2021-11-19
 indicted:
 convicted: 2021-12-06
 acquitted:
-sentenced:
+sentenced: 2022-04-26
 dismissed:
 deceased:
 plea_hearing: 2021-12-06
 trial_date:
-sentencing: 2022-03-07
+sentencing: 2022-04-26
 age: 27
 occupation:
 affiliations:
@@ -37,7 +37,11 @@ caseNumber: 1:21-cr-693
 videos:
 charges:
 sentence:
+  - 60 days home detention
+  - 6 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://chicago.suntimes.com/crime/2021/11/23/22799088/lake-forest-man-to-plead-guilty-to-charges-in-jan-6-capitol-riot-feds)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496991/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496996/download)
