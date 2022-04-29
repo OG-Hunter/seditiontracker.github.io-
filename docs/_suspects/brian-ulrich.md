@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-04-29
 sentencing:
 age: 43
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nytimes.com/interactive/2021/02/14/us/roger-stone-capitol-riot.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471036/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/fifth-superseding-indictment-unsealed-oath-keeper-conspiracy-case-related-jan-6-capitol)
