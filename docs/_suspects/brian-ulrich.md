@@ -50,3 +50,4 @@ sentence:
 - [News Report](https://www.nytimes.com/interactive/2021/02/14/us/roger-stone-capitol-riot.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471036/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/fifth-superseding-indictment-unsealed-oath-keeper-conspiracy-case-related-jan-6-capitol)
+- [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/member-georgia-chapter-oath-keepers-pleads-guilty-seditious-conspiracy-and-obstruction)
