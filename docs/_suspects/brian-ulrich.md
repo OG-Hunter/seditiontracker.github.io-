@@ -4,15 +4,17 @@ lastName: Ulrich
 hashtag: FlagOK
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-08-04
 charged: 2021-08-04
 indicted: 2021-08-04
-convicted:
+convicted: 2022-04-29
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-29
+trial_date:
 sentencing:
 age: 43
 occupation:
@@ -34,6 +36,14 @@ published: true
 caseNumber: 1:22-cr-15
 videos:
 charges:
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 
