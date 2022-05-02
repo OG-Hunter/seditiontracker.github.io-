@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-21
 trial_date:
-sentencing: 2022-05-03
+sentencing: 2022-05-04
 age:
 occupation:
 affiliations: Former U.S. Military
