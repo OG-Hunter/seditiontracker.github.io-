@@ -46,5 +46,5 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391811/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413556/download)
-- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443391/download)
-- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443396/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498016/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498021/download)
