@@ -51,3 +51,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/georgia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452891/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452896/download)
+- [DOJ Press Release (Sentencing)](https://twitter.com/FBIWFO/status/1521179102044209153?s=20&t=VEttZYywzOgHbmbNdWj3-Q)

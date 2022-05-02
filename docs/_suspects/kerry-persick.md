@@ -43,7 +43,7 @@ charges:
 sentence:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/05/18/tarrant-county-man-recorded-video-from-inside-us-capitol-during-mob-siege-feds-say/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kerry%20Wayne%20Persick%20Statement%20of%20Facts.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kerry%20Wayne%20Persick%20Information.pdf)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kerry%20Wayne%20Persick%20Plea%20Agreement.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kerry%20Wayne%20Persick%20Statement%20of%20Offense.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498166/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498171/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498176/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498181/download)

@@ -2,15 +2,15 @@
 name: Willard Peart
 lastName: Peart
 hashtag: WillardPeart
-aka:
+aka: Jake Peart
 residence: Utah
-status: Convicted
+status: Sentenced
 date: 2021-04-20
 charged: 2021-04-20
 indicted:
 convicted: 2022-01-12
 acquitted:
-sentenced:
+sentenced: 2022-05-02
 dismissed:
 deceased:
 plea_hearing: 2022-01-12
@@ -36,12 +36,17 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days home detention
+  - 3 years probation
+  - $500 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.abc4.com/news/local-news/southern-utah-man-arrested-after-admitting-to-entering-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389171/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389176/download)
