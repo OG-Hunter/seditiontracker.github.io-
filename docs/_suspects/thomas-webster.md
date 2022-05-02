@@ -4,17 +4,18 @@ lastName: Webster
 hashtag: EyeGouger
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-02-22
 charged: 2021-02-22
 indicted: 2021-03-12
-convicted:
+convicted: 2022-05-02
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-05-02
 trial_date: 2022-04-25
+sentencing:
 age: 54
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:
@@ -37,6 +38,34 @@ videos:
   - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
     url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1752(a)(2) and (b)(1)(A)
+    title: Entering and Remaining in a restricted building or grounds (with a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
+  - code: 18 USC § 1752(a)(2) and (b)(1)(A)
+    title: Disorderly and disruptive conduct in a restricted building or grounds (with a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
+  - code: 18 USC § 1752(a)(4) and (b)(1)(A)
+    title: Engaging in Physical Violence in a Restricted Building (with a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(F)
+    title: Act of physical violence on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
