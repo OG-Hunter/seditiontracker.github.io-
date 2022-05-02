@@ -4,13 +4,13 @@ lastName: Creek
 hashtag: MadMongrel
 aka:
 residence: Georgia
-status: Convicted
+status: Sentenced
 date: 2021-06-04
 charged: 2021-06-04
 indicted:
 convicted: 2021-12-01
 acquitted:
-sentenced:
+sentenced: 2022-05-02
 dismissed:
 deceased:
 plea_hearing: 2021-12-01
@@ -18,7 +18,7 @@ trial_date:
 sentencing: 2022-05-02
 age: 46
 occupation:
-affiliations:
+affiliations: Former USMC
 jurisdiction: Federal
 image: /images/preview/kevin-creek.jpg
 suspect: kevin-creek.jpg
@@ -36,12 +36,15 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 27 months in prison
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236923/gov.uscourts.dcd.236923.29.0.pdf)
