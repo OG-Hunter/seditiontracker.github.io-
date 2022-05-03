@@ -50,3 +50,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377806/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428201/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428196/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Simon%20Defense%20Sentencing%20Memorandum.pdf)

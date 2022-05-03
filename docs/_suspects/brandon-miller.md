@@ -50,3 +50,5 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383066/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433291/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433296/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Miller%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Miller%20Judgment.pdf)

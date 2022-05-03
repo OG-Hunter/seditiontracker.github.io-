@@ -51,3 +51,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424651/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456081/download)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Ericson%20Statement%20of%20Offense.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Ericson%20Defense%20Sentencing%20Memorandum.pdf)

@@ -51,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432421/download)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Felipe%20Marquez%20Judgment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432426/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Felipe%20Marquez%20Defense%20Sentencing%20Memorandum.pdf)

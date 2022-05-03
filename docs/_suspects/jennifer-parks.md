@@ -50,3 +50,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413541/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438181/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438186/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ruth%20Parks%20Defense%20Sentencing%20Memorandum.pdf)
