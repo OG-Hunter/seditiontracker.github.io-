@@ -46,3 +46,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359596/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379936/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498516/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498521/download)

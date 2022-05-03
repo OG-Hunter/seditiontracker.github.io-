@@ -36,18 +36,17 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 27 months in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236923/gov.uscourts.dcd.236923.29.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498286/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/georgia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452891/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452896/download)

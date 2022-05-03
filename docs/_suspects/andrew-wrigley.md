@@ -50,3 +50,5 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371681/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431471/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431476/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Wrigley%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Wrigley%20Judgment.pdf)
