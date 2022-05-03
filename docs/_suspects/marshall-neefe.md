@@ -4,15 +4,17 @@ lastName: Neefe
 hashtag: MarshallNeefe
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-09-08
 charged: 2021-09-08
 indicted:
-convicted:
+convicted: 2022-05-03
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-05-03
+trial_date:
 sentencing:
 age: 25
 occupation:
@@ -34,6 +36,14 @@ published: true
 caseNumber: 1:21-cr-567
 videos:
 charges:
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 

@@ -49,3 +49,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388656/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431466/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431461/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Russell%20James%20Peterson%20Sentencing%20Hearing%20Transcript.pdf)
