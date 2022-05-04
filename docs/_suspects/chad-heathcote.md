@@ -1,9 +1,9 @@
 ---
-name: Justin Smith
-lastName: Smith
+name: Chad Heathcote
+lastName: Heathcote
 hashtag:
 aka:
-residence: Ohio
+residence:
 status: Charged
 date: 2022-05-03
 charged: 2022-05-03
@@ -20,23 +20,24 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/justin-smith.jpg
-suspect: justin-smith.jpg
+image: /images/preview/chad-heathcote.jpg
+suspect: chad-heathcote.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Justin Smith charged on May 3, 2022
+title: Chad Heathcote charged on May 3rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber: 1:22-mj-94
+caseNumber: 1:22-mj-91
 videos:
 charges:
 sentence:
 ---
 - [News Report]()
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499036/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499041/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499046/download)
