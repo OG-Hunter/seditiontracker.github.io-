@@ -4,16 +4,16 @@ lastName: Wilson
 hashtag: ToddOK
 aka:
 residence: North Carolina
-status: Charged
+status: Convicted
 date: 2022-05-03
 charged: 2022-05-03
 indicted:
-convicted:
+convicted: 2022-05-04
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-05-03
+plea_hearing: 2022-05-04
 trial_date:
 sentencing:
 age:
@@ -36,6 +36,14 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 
