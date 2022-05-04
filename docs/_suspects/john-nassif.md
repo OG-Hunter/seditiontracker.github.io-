@@ -8,12 +8,13 @@ status: Charged
 date: 2021-05-10
 charged: 2021-05-10
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-09-26
 age: 55
 occupation:
 affiliations:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/05/10/winter-springs-man-charged-in-capitol-riot-after-tipsters-alerted-fbi-to-his-facebook-posts/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1392876/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1392881/download)
