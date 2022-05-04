@@ -4,13 +4,13 @@ lastName: Spain
 hashtag:
 aka:
 residence: Oklahoma
-status: Convicted
+status: Sentenced
 date: 2021-10-05
 charged: 2021-10-05
 indicted:
 convicted: 2022-02-01
 acquitted:
-sentenced:
+sentenced: 2022-05-04
 dismissed:
 deceased:
 plea_hearing: 2022-02-01
@@ -36,12 +36,15 @@ published: true
 caseNumber: 1:21-mj-624
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.oklahoman.com/story/news/2021/10/07/trump-supporter-oklahoma-admits-poor-judgment-capitol-breach-faces-charge/6040173001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Criminal%20Complaint.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20Spain%20Jr%20Information.pdf)
