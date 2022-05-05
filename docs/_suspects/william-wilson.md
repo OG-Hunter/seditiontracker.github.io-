@@ -1,8 +1,8 @@
 ---
-name: Todd Wilson
+name: William Wilson
 lastName: Wilson
 hashtag: ToddOK
-aka:
+aka: Todd Wilson
 residence: North Carolina
 status: Convicted
 date: 2022-05-03

@@ -3,7 +3,7 @@ name: Jennifer Horvath
 lastName: Horvath
 hashtag:
 aka:
-residence:
+residence: Colorado
 status: Charged
 date: 2022-03-10
 charged: 2022-03-10
@@ -38,7 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://denver.cbslocal.com/2022/05/03/jennifer-horvath-girlfriend-wes-croy-capitol-riot-january-6-2021-insurrection-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499086/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499091/download)
