@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-291
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/04/16/kyle-james-young-charged-with-assaulting-washington-dc-police-officer-capitol-riot-attack/7262650002/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1501336/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1501341/download)
