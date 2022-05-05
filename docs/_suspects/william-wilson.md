@@ -36,17 +36,16 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 2384
-    title: Seditious Conspiracy
-    url: https://www.law.cornell.edu/uscode/text/18/2384
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 2384
+  title: Seditious Conspiracy
+  url: https://www.law.cornell.edu/uscode/text/18/2384
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
-- [Information](https://s3.documentcloud.org/documents/21863357/5-3-22-us-v-william-todd-wilson-information.pdf)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242905/gov.uscourts.dcd.242905.3.0.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242905/gov.uscourts.dcd.242905.4.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499021/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499181/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499186/download)
