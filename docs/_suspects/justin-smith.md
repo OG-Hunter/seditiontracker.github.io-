@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 20
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -38,5 +38,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.cleveland.com/court-justice/2022/05/feds-charge-north-olmsted-mother-westlake-son-in-jan-6-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499036/download)
