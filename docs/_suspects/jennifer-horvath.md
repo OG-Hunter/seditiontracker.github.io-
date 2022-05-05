@@ -3,7 +3,7 @@ name: Jennifer Horvath
 lastName: Horvath
 hashtag:
 aka:
-residence:
+residence: Colorado
 status: Charged
 date: 2022-03-10
 charged: 2022-03-10
