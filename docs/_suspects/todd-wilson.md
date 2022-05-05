@@ -48,3 +48,5 @@ sentence:
 ---
 
 - [Information](https://s3.documentcloud.org/documents/21863357/5-3-22-us-v-william-todd-wilson-information.pdf)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242905/gov.uscourts.dcd.242905.3.0.pdf)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.242905/gov.uscourts.dcd.242905.4.0.pdf)
