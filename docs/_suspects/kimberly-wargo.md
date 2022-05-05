@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 55
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -39,5 +39,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.cleveland.com/court-justice/2022/05/feds-charge-north-olmsted-mother-westlake-son-in-jan-6-capitol-riot.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colton%20and%20Kimberly%20Wargo%20Statement%20of%20Facts.pdf)

@@ -3,7 +3,7 @@ name: Chad Heathcote
 lastName: Heathcote
 hashtag:
 aka:
-residence:
+residence: Iowa
 status: Charged
 date: 2022-05-03
 charged: 2022-05-03
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499041/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499046/download)
