@@ -4,13 +4,13 @@ lastName: Mostofsky
 hashtag: FurryFoxGuy
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-01-11
 charged: 2021-01-11
 indicted: 2021-02-19
 convicted: 2022-02-02
 acquitted:
-sentenced:
+sentenced: 2022-05-06
 dismissed:
 deceased:
 plea_hearing: 2022-02-02
@@ -36,16 +36,20 @@ published: true
 caseNumber: 1:21-cr-138
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
-- code: 18 USC § 641
-  title: Theft of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/641
-  felony: false
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
+  - 8 months in prison
+  - 200 hours community service
+  - $2000 restitution
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355521/download)
