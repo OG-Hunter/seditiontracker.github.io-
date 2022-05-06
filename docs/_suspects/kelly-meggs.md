@@ -8,12 +8,13 @@ status: Indicted
 date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-02-19
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-09-26
 age: 52
 occupation: General Manager, Car Dealership
 affiliations: Oath Keepers
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470971/download)
