@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-02-11
-sentencing: 2022-05-13
+sentencing: 2022-05-20
 age: 25
 occupation: DJ
 affiliations:
