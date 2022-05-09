@@ -4,13 +4,13 @@ lastName: Kidd
 hashtag: NolanKidd
 aka:
 residence: Georgia
-status: Convicted
+status: Sentenced
 date: 2021-06-11
 charged: 2021-06-11
 indicted:
 convicted: 2022-01-07
 acquitted:
-sentenced:
+sentenced: 2022-05-09
 dismissed:
 deceased:
 plea_hearing: 2022-01-07
@@ -36,12 +36,15 @@ published: true
 caseNumber: 1:21-cr-429
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 45 days in prison
+  - $500 restitution
 ---
+
 - [News Report](https://www.emptywheel.net/2021/06/15/the-delayed-trespassing-charges-against-savanah-mcdonald-and-nolan-kidd/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404531/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410706/download)
