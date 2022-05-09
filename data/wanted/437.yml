@@ -2,7 +2,7 @@ id: 437
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #437 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/437.png/@@images/image/preview
 hashtag: SmilesPB
@@ -10,6 +10,6 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Tucker
 missingImage: false
 identifiedBy: null
