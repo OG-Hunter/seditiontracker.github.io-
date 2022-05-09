@@ -1,8 +1,8 @@
 id: 102
 aom: false
 afo: true
-arrested: true
-identified: false
+arrested: false
+identified: true
 label: "Photograph #102 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-102.jpg/@@images/image/preview
 hashtag: SwedishScarf
