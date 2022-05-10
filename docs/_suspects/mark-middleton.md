@@ -14,6 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-12-13
 age: 51
 occupation: Volunteer Firefighter, Pilot
 affiliations:
@@ -25,7 +26,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We helped push down the barriers. Jalise and I got pepper sprayed, clubbed, and tear gassed.'
+quote: "We helped push down the barriers. Jalise and I got pepper sprayed, clubbed, and tear gassed."
 title: Mark Middleton arrested on April 21, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388956/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388961/download)
