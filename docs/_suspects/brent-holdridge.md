@@ -14,6 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-08-29
 age: 56
 occupation:
 affiliations:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/eureka-man-linked-to-jan-6-riot-to-appear-in-dc-court/ar-AARtjTH)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459121/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459111/download)
