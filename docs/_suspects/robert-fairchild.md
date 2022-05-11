@@ -4,19 +4,21 @@ lastName: Fairchild
 hashtag: AllGreenGuy
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-08-24
 charged: 2021-08-24
 indicted: 2021-09-01
-convicted:
+convicted: 2022-05-11
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-05-11
-sentencing:
+trial_date:
+sentencing: 2022-08-22
 age: 40
 occupation:
-affiliations:
+affiliations: USMC
 jurisdiction: Federal
 image: /images/preview/robert-fairchild.jpg
 suspect: robert-fairchild.jpg
@@ -34,6 +36,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
