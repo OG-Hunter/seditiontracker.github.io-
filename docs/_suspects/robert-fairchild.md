@@ -36,14 +36,15 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-orlando-robert-fairchild--20210828-6yj67m4mlfapnefejh5yr3sjga-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Flynt%20Fairchild%20Jr%20Indictment.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505081/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505086/download)
