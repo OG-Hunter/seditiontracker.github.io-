@@ -1,15 +1,15 @@
 id: 217
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #217 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/217.png/@@images/image/preview
-hashtag: YellowLensAOM
+arrested: true
+identified: true
+label: "Photograph #217 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-217arrest.jpg/@@images/image/preview
+hashtag: GreenHoodlum
 duplicate: false
-charged: null
+charged: 2022-03-25
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/david-gietzen
+name: David Gietzen
 missingImage: false
 identifiedBy: null

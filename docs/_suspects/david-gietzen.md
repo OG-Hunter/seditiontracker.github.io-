@@ -1,7 +1,7 @@
 ---
 name: David Gietzen
 lastName: Gietzen
-hashtag:
+hashtag: GreenHoodlum
 aka:
 residence:
 status: Charged
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505026/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505036/download)
