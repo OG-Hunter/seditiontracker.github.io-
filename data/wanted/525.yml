@@ -6,7 +6,7 @@ identified: false
 label: "Photograph #525 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-525a.jpg/@@images/image/preview
 hashtag: null
-duplicate: false
+duplicate: true
 charged: null
 mugshot: null
 sedition_link: null
