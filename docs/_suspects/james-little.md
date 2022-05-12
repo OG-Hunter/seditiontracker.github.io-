@@ -4,13 +4,13 @@ lastName: Little
 hashtag: JamesLeslieLittle
 aka:
 residence: North Carolina
-status: Convicted
+status: Sentenced
 date: 2021-03-25
 charged: 2021-03-25
 indicted: 2021-04-21
 convicted: 2021-11-16
 acquitted:
-sentenced:
+sentenced: 2022-03-14
 dismissed:
 deceased:
 plea_hearing: 2021-11-16
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-315
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days in prison
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385926/download)
