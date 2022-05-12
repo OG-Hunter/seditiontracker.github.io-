@@ -3,7 +3,7 @@ name: David Gietzen
 lastName: Gietzen
 hashtag: GreenHoodlum
 aka:
-residence:
+residence: North Carolina
 status: Charged
 date: 2022-03-25
 charged: 2022-03-25
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -39,7 +39,8 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.shorenewsnetwork.com/2022/05/11/north-carolina-man-arrested-for-assaulting-law-enforcement-officers-during-jan-6-capitol-breach-2/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505026/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505036/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505041/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/north-carolina-man-arrested-assaulting-law-enforcement-officers-during-jan-6-capitol)

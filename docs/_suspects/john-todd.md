@@ -2,8 +2,8 @@
 name: John Todd
 lastName: Todd
 hashtag:
-aka:
-residence:
+aka: John George Todd III
+residence: Missouri
 status: Charged
 date: 2022-05-03
 charged: 2022-05-03
@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I swear to God, I’ll hip toss your ass into the fuckin’ crowd, mother fucker!'
 title: John Todd charged on May 3rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
