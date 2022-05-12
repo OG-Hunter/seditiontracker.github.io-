@@ -32,7 +32,7 @@ title: David Gietzen charged on March 25th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-cr-116
 videos:
 charges:
