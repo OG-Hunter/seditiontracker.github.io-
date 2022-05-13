@@ -33,11 +33,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-93
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cleveland.com/court-justice/2022/05/feds-charge-north-olmsted-mother-westlake-son-in-jan-6-capitol-riot.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colton%20and%20Kimberly%20Wargo%20Statement%20of%20Facts.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505781/download)

@@ -47,5 +47,5 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1353886/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353881/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364761/download)
-- [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Plea%20Agreement.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Statement%20of%20Offense.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505716/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505721/download)
