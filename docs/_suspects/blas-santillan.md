@@ -4,15 +4,17 @@ lastName: Santillan
 hashtag: BlasSantillan
 aka:
 residence: Georgia
-status: Charged
+status: Convicted
 date: 2021-08-10
 charged: 2021-08-10
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-05-17
+trial_date:
 sentencing:
 age:
 occupation:
@@ -36,6 +38,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.11alive.com/article/news/crime/georgia-man-arrested-blas-santillan-capitol-riots/85-30452bf1-b52b-4e1c-bc8d-f50609749e23)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428516/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506791/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506806/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506811/download)
