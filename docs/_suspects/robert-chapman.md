@@ -4,18 +4,18 @@ lastName: Chapman
 hashtag: RobertChapman
 aka: Robert Erick
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-04-13
 charged: 2021-04-13
 indicted:
 convicted: 2021-12-16
 acquitted:
-sentenced:
+sentenced: 2022-05-18
 dismissed:
 deceased:
 plea_hearing: 2021-12-16
 trial_date:
-sentencing: 2022-04-04
+sentencing: 2022-05-18
 age: 50
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 90 days home confinement
+  - 18 months of probation
+  - 60 hours community service
+  - $742 fines and restitution
 ---
+
 - [News Report](https://www.cnn.com/2021/04/23/politics/bumble-capitol-riot-robert-chapman/index.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389161/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389166/download)
