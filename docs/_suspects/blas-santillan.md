@@ -8,7 +8,7 @@ status: Convicted
 date: 2021-08-10
 charged: 2021-08-10
 indicted:
-convicted:
+convicted: 2022-05-17
 acquitted:
 sentenced:
 dismissed:
@@ -36,6 +36,10 @@ published: true
 caseNumber: 1:21-mj-559
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.11alive.com/article/news/crime/georgia-man-arrested-blas-santillan-capitol-riots/85-30452bf1-b52b-4e1c-bc8d-f50609749e23)
