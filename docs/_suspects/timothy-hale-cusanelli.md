@@ -9,10 +9,12 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
@@ -36,11 +38,10 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356061/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356066/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364776/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506931/download)
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Hale-Cusanelli%20Govt%20Opposition%20to%20Motion%20for%20Conditional%20Release.pdf)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Louis%20Hale-Cusanelli%20Defense%20Motion%20for%20Modification%20of%20Bond%20to%20Place%20the%20Defendant%20on%20Conditional%20Release.pdf)
 - [Defense Reply to Opposition to Motion for Release from Custody](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Timothy%20Louis%20Hale-Cusanelli%20Defense%20Reply%20to%20Opposition%20to%20Motion%20for%20Conditional%20Release.pdf)
