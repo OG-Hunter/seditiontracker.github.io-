@@ -4,13 +4,13 @@ lastName: Ehmke
 hashtag: HunterEhmke
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-13
 charged: 2021-01-28
 indicted: 2021-01-27
 convicted: 2022-01-14
 acquitted:
-sentenced:
+sentenced: 2022-05-13
 dismissed:
 deceased:
 plea_hearing: 2021-01-14
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-29
 videos:
 charges:
-- code: 18 USC § 1361
-  title: Destruction of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/1361
-  felony: true
+  - code: 18 USC § 1361
+    title: Destruction of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
 sentence:
+  - 4 months in prison
+  - 3 years probation
+  - $2281 restitution
 ---
+
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)
 - [Complaint](https://www.justice.gov/opa/page/file/1353886/download)
