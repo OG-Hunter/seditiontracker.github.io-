@@ -239,9 +239,9 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Niemela, Kirstyn";
     }
 
-    const nameChunks = name.split(",");
+    let nameChunks = name.split(",");
 
-    const lastName = toLower(nameChunks[0])
+    let lastName = toLower(nameChunks[0])
       .replace("jr.", "")
       .replace("sr.", "")
       .replace("iii", "")
@@ -250,6 +250,19 @@ const importDoj = async (nameSet: Set<string>) => {
       .replace("sr", "")
       .replace(/\w+/g, capitalize)
       .trim();
+
+    /** Special hack for linwood robinson since 2 of them were charged */
+    if (name.match(/Linwood Alan, Sr\./)) {
+      name = "Robinson Sr, Linwood";
+      lastName = "Robinson Sr";
+      nameChunks = name.split(",");
+    }
+
+    if (name.match(/Linwood Alan II/)) {
+      name = "Robinson II, Linwood";
+      lastName = "Robinson II";
+      nameChunks = name.split(",");
+    }
 
     const firstName = nameChunks[1].trim().split(" ")[0];
 

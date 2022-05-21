@@ -1,6 +1,6 @@
 ---
-name: Linwood Robinson
-lastName: Robinson
+name: Linwood Robinson II
+lastName: Robinson II
 hashtag:
 aka:
 residence:
@@ -20,15 +20,15 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/linwood-robinson.jpg
-suspect: linwood-robinson.jpg
+image: /images/preview/linwood-robinson-ii.jpg
+suspect: linwood-robinson-ii.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Linwood Robinson charged on May 16th, 2022
+title: Linwood Robinson II charged on May 16th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -39,5 +39,5 @@ charges:
 sentence:
 ---
 - [News Report]()
-- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507556/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507561/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507576/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507581/download)
