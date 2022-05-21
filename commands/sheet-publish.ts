@@ -159,9 +159,13 @@ const publishSheet = async () => {
     "Identified",
     "Arrested",
     "Charged",
+    "Minor",
+    "Fugitive",
+    "Deceased",
     "Sedition Track",
     "AFO",
     "AOM",
+    "Notes",
   ];
 
   const wantedData = [];
@@ -173,7 +177,23 @@ const publishSheet = async () => {
       continue;
     }
 
-    const { src, id, missingImage, hashtag, charged, name, afo, aom, arrested, identified, sedition_link } = perp;
+    const {
+      src,
+      id,
+      missingImage,
+      hashtag,
+      charged,
+      name,
+      afo,
+      aom,
+      arrested,
+      identified,
+      sedition_link,
+      notes,
+      minor,
+      fugitive,
+      deceased,
+    } = perp;
 
     const perpData = {
       Number: src ? `=HYPERLINK("${perp.src.replace("@@images/image/pre", "")}", ${id})` : id,
@@ -184,11 +204,15 @@ const publishSheet = async () => {
       Name: charged ? name : "",
       AFO: afo ? "yes" : "no",
       AOM: aom ? "yes" : "no",
-      Arrested: arrested || charged ? "yes" : "no",
+      Arrested: arrested ? "yes" : "no",
       Identified: identified ? "yes" : "no",
-      Charged: charged,
+      Charged: charged ? "yes" : "no",
+      Minor: minor ? "yes" : "no",
+      Fugitive: fugitive ? "yes" : "no",
+      Deceased: deceased ? "yes" : "no",
       Hashtag: hashtag ? `=HYPERLINK("https://twitter.com/hashtag/${hashtag}", "#${hashtag}")` : "",
       "Sedition Track": sedition_link,
+      Notes: notes,
     };
 
     wantedData.push(perpData);

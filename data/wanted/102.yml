@@ -3,6 +3,7 @@ aom: false
 afo: true
 arrested: false
 identified: true
+fugitive: true
 label: "Photograph #102 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-102.jpg/@@images/image/preview
 hashtag: SwedishScarf
@@ -13,3 +14,4 @@ sedition_link: null
 name: null
 missingImage: true
 identifiedBy: null
+notes: Wanted fugitive. Identity known to the FBI.

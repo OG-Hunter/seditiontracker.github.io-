@@ -6,6 +6,9 @@ export interface Wanted {
   id: number;
   arrested: boolean;
   identified: boolean;
+  fugitive: boolean;
+  minor: boolean;
+  deceased: boolean;
   aom: boolean;
   afo: boolean;
   label: string;
@@ -18,6 +21,7 @@ export interface Wanted {
   duplicate: boolean;
   missingImage?: boolean;
   identifiedBy?: string;
+  notes?: string;
 }
 
 export const updateWanted = (wanted: Wanted) => {
@@ -43,6 +47,19 @@ export const updateWanted = (wanted: Wanted) => {
     wanted.name ||= oldWanted.name;
     wanted.missingImage = false;
     wanted.identifiedBy ||= oldWanted.identifiedBy;
+    wanted.notes ||= oldWanted.notes;
+
+    if (oldWanted.minor) {
+      wanted.minor = true;
+    }
+
+    if (oldWanted.fugitive) {
+      wanted.fugitive = true;
+    }
+
+    if (oldWanted.deceased) {
+      wanted.deceased = true;
+    }
 
     if (oldWanted.identified) {
       wanted.identified = true;

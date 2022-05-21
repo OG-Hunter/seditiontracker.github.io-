@@ -3,6 +3,7 @@ aom: false
 afo: true
 arrested: false
 identified: true
+deceased: true
 label: "Photograph #250 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/250a.png/@@images/image/preview
 hashtag: BlueSquirtle
@@ -13,3 +14,4 @@ sedition_link: null
 name: Michael Harber
 missingImage: false
 identifiedBy: null
+notes: Deceased
