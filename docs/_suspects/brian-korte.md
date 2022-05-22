@@ -3,10 +3,10 @@ name: Brian Korte
 lastName: Korte
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
-date: 2020-05-11
-charged: 2020-05-11
+date: 2020-05-20
+charged: 2020-05-20
 indicted:
 convicted:
 acquitted:
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Brian Korte charged on May 11th, 2020
+title: Brian Korte charged on May 20th, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
