@@ -1,5 +1,5 @@
 ---
-name: Lynnwood Nester
+name: Lynwood Nester
 lastName: Nester
 hashtag:
 aka:

@@ -1,5 +1,5 @@
 ---
-name: Douglas Macrae
+name: Doug Macrae
 lastName: Macrae
 hashtag:
 aka:
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Douglas Macrae charged on May 12th, 2022
+title: Doug Macrae charged on May 12th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/fbi-arrests-arlington-man-who-bragged-he-made-it-deep-in-to-capitol-building-doug-macrae-riot-january-6/65-fa5da457-fe00-4183-a90b-ad929d6cc674)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505926/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505931/download)

@@ -239,6 +239,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Niemela, Kirstyn";
     }
 
+    if (name == "NESTER, Lynnwood") {
+      name = "Nester, Lynwood";
+    }
+
     let nameChunks = name.split(",");
 
     let lastName = toLower(nameChunks[0])
@@ -331,6 +335,7 @@ const falsePositives = (site: string) => {
       set.add("Rubenacker");
       set.add("Zoyganeles");
       set.add("Riddle");
+      set.add("Robinson");
       break;
     case "DOJ":
       set.add("Capsel");
