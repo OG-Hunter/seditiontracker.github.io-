@@ -14,7 +14,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-05-23
 sentencing:
 age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356061/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356066/download)
