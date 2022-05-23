@@ -4,13 +4,13 @@ lastName: Miller
 hashtag: BabyMachoMan
 aka:
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-03
 convicted: 2022-02-09
 acquitted:
-sentenced:
+sentenced: 2022-05-23
 dismissed:
 deceased:
 plea_hearing: 2022-02-09
@@ -45,6 +45,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 33 months in prison
+  - 100 hours community service
+  - $2000 restitution
 ---
 
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
