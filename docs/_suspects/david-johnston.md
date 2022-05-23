@@ -32,7 +32,7 @@ title: David Johnston charged on May 16th, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-109
 videos:
 charges:

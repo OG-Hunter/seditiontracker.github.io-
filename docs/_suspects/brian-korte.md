@@ -32,12 +32,12 @@ title: Brian Korte charged on May 20th, 2020
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-104
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507501/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507506/download)
