@@ -3,10 +3,10 @@ name: Michael Pomeroy
 lastName: Pomeroy
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
-date: 2022-05-11
-charged: 2022-05-11
+date: 2022-05-20
+charged: 2022-05-20
 indicted:
 convicted:
 acquitted:
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Michael Pomeroy charged on May 11th, 2022
+title: Michael Pomeroy charged on May 20th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

@@ -3,7 +3,7 @@ name: David Johnston
 lastName: Johnston
 hashtag:
 aka:
-residence:
+residence: South Carolina
 status: Charged
 date: 2020-05-16
 charged: 2020-05-16
@@ -16,8 +16,8 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
-occupation:
+age: 69
+occupation: Attorney
 affiliations:
 jurisdiction: Federal
 image: /images/preview/david-johnston.jpg
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507411/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507416/download)
