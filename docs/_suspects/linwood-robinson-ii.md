@@ -5,8 +5,8 @@ hashtag: BuffaloCheckMate
 aka:
 residence: South Carolina
 status: Charged
-date: 2022-05-19
-charged: 2022-05-19
+date: 2022-05-16
+charged: 2022-05-16
 indicted:
 convicted:
 acquitted:
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Linwood Robinson II charged on May 19th, 2022
+title: Linwood Robinson II charged on May 16th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
