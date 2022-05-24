@@ -247,6 +247,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "Macrae, Doug";
     }
 
+    if (name == "CLIFTON, Chadwick") {
+      name = "Clifton, Chad";
+    }
+
     let nameChunks = name.split(",");
 
     let lastName = toLower(nameChunks[0])
