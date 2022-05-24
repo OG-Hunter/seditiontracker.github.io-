@@ -4,18 +4,18 @@ lastName: Hemphill
 hashtag: IAmPamHemphill
 aka:
 residence: Idaho
-status: Convicted
+status: Sentenced
 date: 2021-08-02
 charged: 2021-08-02
 indicted:
 convicted: 2022-01-21
 acquitted:
-sentenced:
+sentenced: 2022-05-24
 dismissed:
 deceased:
 plea_hearing: 2022-01-21
 trial_date:
-sentencing: 2022-05-18
+sentencing: 2022-05-24
 age:
 occupation:
 affiliations:
@@ -36,12 +36,16 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days in prison
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.idahostatesman.com/news/local/crime/article253237378.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469476/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Information.pdf)
