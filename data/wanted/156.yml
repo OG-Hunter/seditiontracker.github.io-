@@ -1,16 +1,16 @@
 id: 156
 aom: true
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #156 - AFO and AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-156a.png/@@images/image/preview
 hashtag: UnderArmourDarkShades
 duplicate: false
-charged: null
+charged: 2022-05-18
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/rodney-milstreed
+name: Rodney Milstreed
 missingImage: false
 identifiedBy: null
 notes: null

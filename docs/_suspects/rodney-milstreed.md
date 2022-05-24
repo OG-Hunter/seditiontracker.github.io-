@@ -1,7 +1,7 @@
 ---
 name: Rodney Milstreed
 lastName: Milstreed
-hashtag: UnderArmorDarkShades
+hashtag: UnderArmourDarkShades
 aka:
 residence: Maryland
 status: Charged
@@ -18,7 +18,7 @@ trial_date:
 sentencing:
 age: 55
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/rodney-milstreed.jpg
 suspect: rodney-milstreed.jpg
