@@ -1,4 +1,4 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:4.2.0
 
 # Install Jekyll
 RUN gem install bundler jekyll
