@@ -2,7 +2,7 @@ id: 192
 aom: true
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #192 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-192a.jpg/@@images/image/preview
 hashtag: GreenBandanaMan
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Jonathan Joseph Copeland
 missingImage: false
-identifiedBy: null
+identifiedBy: sh
 notes: null

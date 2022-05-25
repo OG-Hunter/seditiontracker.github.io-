@@ -2,7 +2,7 @@ id: 361
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #361 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-361a.jpg/@@images/image/preview
 hashtag: VestedMess
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Matthew Carver
 missingImage: false
-identifiedBy: null
+identifiedBy: k2thesky
 notes: null

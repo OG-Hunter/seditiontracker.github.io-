@@ -2,7 +2,7 @@ id: 404
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #404 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/404a.png/@@images/image/preview
 hashtag: IgorTheGrey
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Troy Slavant
 missingImage: false
-identifiedBy: null
+identifiedBy: k2thesky
 notes: null

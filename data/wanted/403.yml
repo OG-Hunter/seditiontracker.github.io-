@@ -2,7 +2,7 @@ id: 403
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #403 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/403a.png/@@images/image/preview
 hashtag: MoleyRoller
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Kevin Kennedy
 missingImage: false
-identifiedBy: null
+identifiedBy: k2thesky
 notes: null

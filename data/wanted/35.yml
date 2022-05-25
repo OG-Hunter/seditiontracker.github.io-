@@ -2,7 +2,7 @@ id: 35
 aom: false
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #35"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-35.png/@@images/image/preview
 hashtag: ToothScraggle
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Matthew Thomas Mglej
 missingImage: false
-identifiedBy: null
+identifiedBy: joce
 notes: null

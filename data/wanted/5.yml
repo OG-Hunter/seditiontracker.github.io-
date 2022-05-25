@@ -2,7 +2,7 @@ id: 5
 aom: false
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #5"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-5.jpg/@@images/image/preview
 hashtag: AuntRageFace
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Adrienne DiCioccio
 missingImage: false
 identifiedBy: null
 notes: null

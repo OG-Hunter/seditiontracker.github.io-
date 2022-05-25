@@ -2,7 +2,7 @@ id: 33
 aom: false
 afo: false
 arrested: false
-identified: false
+identified: true
 label: "Photograph #33"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-33.png/@@images/image/preview
 hashtag: SmugMugInsider
@@ -10,7 +10,7 @@ duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Xyan Clary
 missingImage: false
 identifiedBy: null
 notes: null
