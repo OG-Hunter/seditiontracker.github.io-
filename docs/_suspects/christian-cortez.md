@@ -4,16 +4,18 @@ lastName: Cortez
 hashtag: ChristianCortez
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-03-12
 charged: 2021-03-12
 indicted: 2021-04-23
-convicted:
+convicted: 2022-05-25
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-05-25
+trial_date:
+sentencing: 2022-08-31
 age:
 occupation:
 affiliations:
@@ -34,8 +36,17 @@ published: true
 caseNumber: 1:21-cr-317
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.khou.com/article/news/nation-world/details-houston-residents-arrested-capitol-riots/285-0fb5c466-4f23-4131-a53f-5b3a6fd508c6)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390346/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390351/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508291/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508296/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508306/download)
+- [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/texas-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach)
