@@ -4,15 +4,17 @@ lastName: Rubenacker
 hashtag: GregRubenacker
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-05
 convicted: 2022-02-11
-sentenced:
+acquitted:
+sentenced: 2022-05-26
 dismissed:
 deceased:
 plea_hearing: 2022-02-11
+trial_date:
 sentencing: 2022-05-26
 age: 25
 occupation: DJ
@@ -71,6 +73,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 41 months in prison
+  - $2000 restitution
 ---
 
 - [News Report](https://www.washingtontimes.com/news/2021/feb/9/greg-rubenacker-new-yorker-arrested-in-capitol-rio/)
