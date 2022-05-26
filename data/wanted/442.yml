@@ -2,7 +2,7 @@ id: 442
 aom: false
 afo: true
 arrested: false
-identified: false
+identified: true
 label: "Photograph #442 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/442a.png/@@images/image/preview
 hashtag: CapitolWorm

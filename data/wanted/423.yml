@@ -1,16 +1,16 @@
 id: 423
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #423A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-423a.jpg/@@images/image/preview
 hashtag: SenatePenguin
 duplicate: false
-charged: null
+charged: 2021-09-09
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/gary-wilson
+name: Gary Wilson
 missingImage: false
 identifiedBy: null
 notes: null
