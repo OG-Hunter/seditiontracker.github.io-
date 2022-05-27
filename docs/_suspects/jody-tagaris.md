@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-01
 trial_date:
-sentencing: 2022-02-16
+sentencing: 2022-06-06
 age:
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(C)
-  title: Entering and Remaining in Certain Rooms in the Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(C)
+    title: Entering and Remaining in Certain Rooms in the Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/got-tear-gassed-but-okay-woman-charged-with-entering-u-s-capitol-building-through-broken-window-during-siege/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)
