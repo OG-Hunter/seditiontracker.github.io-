@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-34
 videos:
 charges:
   - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding and Aiding and Abetting
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
   - code: 18 USC § 231(a)(3),2
