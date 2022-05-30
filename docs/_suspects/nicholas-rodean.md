@@ -8,11 +8,12 @@ status: Indicted
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-07-11
 sentencing:
 age: 26
 occupation:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://baltimore.cbslocal.com/2021/01/13/maryland-man-nicholas-rodean-who-went-into-us-capitol-during-riots-wearing-work-badge-arrested-on-federal-charges/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353226/download)

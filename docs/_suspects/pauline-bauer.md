@@ -11,6 +11,7 @@ indicted: 2021-06-04
 convicted:
 sentenced:
 dismissed:
+trial_date: 2023-01-11
 deceased:
 plea_hearing:
 sentencing:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/they-need-to-hang-pennsylvania-woman-arrested-in-capitol-riot-investigation/ar-BB1gV8Pd)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395396/download)
