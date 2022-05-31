@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #411A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/411a.png/@@images/image/preview
 hashtag: ParrotMediaGuy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

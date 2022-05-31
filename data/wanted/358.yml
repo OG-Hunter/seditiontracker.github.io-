@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #358"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-358.jpg/@@images/image/preview
 hashtag: SnapOnStork
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

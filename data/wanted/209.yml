@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #209 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-209a.jpg/@@images/image/preview
 hashtag: MediaCartWheelerAOM
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

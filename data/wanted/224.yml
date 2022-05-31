@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #224 A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-224a.png/@@images/image/preview
 hashtag: AirHeadBoy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-09-01
 mugshot: null

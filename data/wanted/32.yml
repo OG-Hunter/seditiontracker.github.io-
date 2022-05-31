@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #32 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-32arrest.jpg/@@images/image/preview
 hashtag: WildProtestBro
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-02
 mugshot: null

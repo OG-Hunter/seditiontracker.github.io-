@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #266 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-266a.jpg/@@images/image/preview
 hashtag: ScaryCherry3P
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #449 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/449a.png/@@images/image/preview
 hashtag: AngryGourd
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

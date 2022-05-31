@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #48 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-48arrest.jpg/@@images/image/preview
 hashtag: BetaKappaMaga
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-05-24
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #147 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-147arrest.jpg/@@images/image/preview
 hashtag: BluePatch
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-11
 mugshot: null

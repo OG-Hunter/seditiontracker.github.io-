@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #296 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/296aarrested.png/@@images/image/preview
 hashtag: MadMongrel
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-04
 mugshot: null

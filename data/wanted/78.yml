@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #78 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-78-arrested.png/@@images/image/preview
 hashtag: PeterHarding
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-14
 mugshot: peter-harding.jpg

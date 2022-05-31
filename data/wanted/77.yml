@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #77 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-77arrest.jpg/@@images/image/preview
 hashtag: CapitolBoyBand
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-02-02
 mugshot: null

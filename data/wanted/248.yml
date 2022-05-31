@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #248 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/248.png/@@images/image/preview
 hashtag: NineLineBlue
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #430 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/430a.png/@@images/image/preview
 hashtag: TBChucker
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

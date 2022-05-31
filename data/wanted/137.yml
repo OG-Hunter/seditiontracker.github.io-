@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #137 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-137arrest.jpg/@@images/image/preview
 hashtag: CapitolWig
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-03-23
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #352 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/352a.png/@@images/image/preview
 hashtag: TwoPackBatter
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

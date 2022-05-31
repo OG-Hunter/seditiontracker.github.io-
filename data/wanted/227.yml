@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #227 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/227a.jpg/@@images/image/preview
 hashtag: Individual4
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

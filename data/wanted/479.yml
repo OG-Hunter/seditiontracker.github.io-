@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #479 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-479a.jpg/@@images/image/preview
 hashtag: CueANone
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

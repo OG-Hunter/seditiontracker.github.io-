@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #422 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/422a.png/@@images/image/preview
 hashtag: BlowfishAFO
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

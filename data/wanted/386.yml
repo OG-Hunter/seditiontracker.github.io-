@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #386 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/386a.png/@@images/image/preview
 hashtag: GooberKnocker
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

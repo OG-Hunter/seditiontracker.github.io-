@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #46 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-46-arrested.png/@@images/image/preview
 hashtag: MichaelSparks
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-18
 mugshot: michael-sparks.jpg

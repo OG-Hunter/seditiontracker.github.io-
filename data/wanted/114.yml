@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #114 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-114-afo.png/@@images/image/preview
 hashtag: MarineHatMask
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

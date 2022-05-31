@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #511 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-511a.jpg/@@images/image/preview
 hashtag: ThugCoupleHat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

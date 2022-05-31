@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #403 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/403a.png/@@images/image/preview
 hashtag: MoleyRoller
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

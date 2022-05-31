@@ -3,10 +3,12 @@ aom: false
 afo: false
 arrested: false
 identified: true
-minor: true
 label: "Photograph #331A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-331a.jpg/@@images/image/preview
 hashtag: UndercoverThumb
+fugitive: false
+minor: true
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #168 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-168arrest.jpg/@@images/image/preview
 hashtag: GrayCarharttHat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-20
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #448 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/448a.png/@@images/image/preview
 hashtag: TiltedTrumper
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

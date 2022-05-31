@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #349 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/349b.png/@@images/image/preview
 hashtag: BluePlaidHobgoblin
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

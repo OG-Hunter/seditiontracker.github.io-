@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #366 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-366a.jpg/@@images/image/preview
 hashtag: WeekendAtErnies
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

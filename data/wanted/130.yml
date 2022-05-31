@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #130 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/130aarrested.png/@@images/image/preview
 hashtag: Scallops
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-03-12
 mugshot: null

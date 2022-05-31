@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #189 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-189.png/@@images/image/preview
 hashtag: Zionor
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

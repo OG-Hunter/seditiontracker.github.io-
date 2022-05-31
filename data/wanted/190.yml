@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #190 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/190aarrested.png/@@images/image/preview
 hashtag: MuttonTrump
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-03-15
 mugshot: null

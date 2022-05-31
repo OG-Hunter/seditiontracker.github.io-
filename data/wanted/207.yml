@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #207 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-207a.jpg/@@images/image/preview
 hashtag: MaroonBinocularBoy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

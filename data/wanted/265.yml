@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #265 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-265a.jpg/@@images/image/preview
 hashtag: BlackCrowdSurfer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

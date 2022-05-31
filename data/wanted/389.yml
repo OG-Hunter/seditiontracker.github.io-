@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #389 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/389a.png/@@images/image/preview
 hashtag: OakleyBro
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

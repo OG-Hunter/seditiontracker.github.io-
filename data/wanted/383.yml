@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #383 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/383a.png/@@images/image/preview
 hashtag: RottenOlive
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

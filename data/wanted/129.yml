@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #129 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-129arrest.jpg/@@images/image/preview
 hashtag: TweedleDumb
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-11-17
 mugshot: mason-courson.jpg

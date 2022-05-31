@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #391 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/391a.png/@@images/image/preview
 hashtag: LemonGrey
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

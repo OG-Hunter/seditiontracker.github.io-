@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #438 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/438a.png/@@images/image/preview
 hashtag: TealScrambler
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

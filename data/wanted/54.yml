@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #54 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-54-afo.png/@@images/image/preview
 hashtag: GreenGramps
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

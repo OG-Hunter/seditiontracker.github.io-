@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #256 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-256aarrest.jpg/@@images/image/preview
 hashtag: TexasPleather
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-02-17
 mugshot: null

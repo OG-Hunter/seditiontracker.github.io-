@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #61 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-61aarrest-1.jpg/@@images/image/preview
 hashtag: UglyGunSweater
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-10-29
 mugshot: null

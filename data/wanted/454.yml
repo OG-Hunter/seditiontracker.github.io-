@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #454 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/454a.png/@@images/image/preview
 hashtag: TrumpZombie
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

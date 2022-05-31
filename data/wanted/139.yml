@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #139 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/139-arrested.png/@@images/image/preview
 hashtag: BloodyHeadWound
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-02-04
 mugshot: null

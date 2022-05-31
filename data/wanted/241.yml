@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #241 - AFO A  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-241aarrest.jpg/@@images/image/preview
 hashtag: YellowZipSkulker
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-05-13
 mugshot: christopher-warnagiris.png

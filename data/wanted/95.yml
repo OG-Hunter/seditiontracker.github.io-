@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #95 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-95a.jpg/@@images/image/preview
 hashtag: GreenPufferUndercover
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

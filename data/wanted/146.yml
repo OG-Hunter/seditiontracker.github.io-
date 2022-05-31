@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #146 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-146aarrest.jpg/@@images/image/preview
 hashtag: OuttaHereGreyHood
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-23
 mugshot: null

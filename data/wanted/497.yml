@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #497 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-497a.jpg/@@images/image/preview
 hashtag: ShaggyMAGAElf
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

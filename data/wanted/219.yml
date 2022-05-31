@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #219 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-219-afo-a.png/@@images/image/preview
 hashtag: KingstonAsh
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-09-24
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #195 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/195aarrested.png/@@images/image/preview
 hashtag: CamoCrazyEyes
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-08-19
 mugshot: benjamin-burlew.jpg

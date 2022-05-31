@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #330 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-330a.jpg/@@images/image/preview
 hashtag: SkulkingSprayer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

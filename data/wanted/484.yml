@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #484 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-484.jpg/@@images/image/preview
 hashtag: PippiSprayer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

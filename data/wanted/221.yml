@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #221 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-221-afo.png/@@images/image/preview
 hashtag: TricornTraitor
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

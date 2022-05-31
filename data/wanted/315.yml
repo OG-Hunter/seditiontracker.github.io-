@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #315A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-315a.jpg/@@images/image/preview
 hashtag: MagaButtonMan
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

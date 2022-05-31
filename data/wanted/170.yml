@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #170 - AFO A  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-170aarrest.jpg/@@images/image/preview
 hashtag: BoyInTheHood
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-23
 mugshot: null

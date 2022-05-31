@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #368 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-368a.jpg/@@images/image/preview
 hashtag: StarsNGripes
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

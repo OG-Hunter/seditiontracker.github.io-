@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #65 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-65-arrest.png/@@images/image/preview
 hashtag: HeadBandage
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-29
 mugshot: null

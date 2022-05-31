@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #156 - AFO and AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-156a.png/@@images/image/preview
 hashtag: UnderArmourDarkShades
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-05-18
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #47 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-47.png/@@images/image/preview
 hashtag: null
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

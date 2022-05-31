@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #390"
 src: https://www.fbi.gov/wanted/capitol-violence-images/390.jpg/@@images/image/preview
 hashtag: DaltonCrase
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-02-01
 mugshot: null

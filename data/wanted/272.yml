@@ -3,9 +3,12 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #272A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-272a.jpg/@@images/image/preview
+label: "Photograph #272A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-272aarrest.jpg/@@images/image/preview
 hashtag: ZZTopPB
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-12-01
 mugshot: null

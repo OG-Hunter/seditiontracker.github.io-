@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #5"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-5.jpg/@@images/image/preview
 hashtag: AuntRageFace
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

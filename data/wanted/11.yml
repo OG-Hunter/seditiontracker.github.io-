@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #11 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-11arrest.jpg/@@images/image/preview
 hashtag: OregonFordLover
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-03-05
 mugshot: richard-harris.jpg

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #302A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-302a.png/@@images/image/preview
 hashtag: TwoBlueJacket
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

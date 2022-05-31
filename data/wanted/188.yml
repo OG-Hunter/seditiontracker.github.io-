@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #188 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-188arrest.jpg/@@images/image/preview
 hashtag: ClipperGlitch
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-22
 mugshot: null

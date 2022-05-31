@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #486 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-486.jpg/@@images/image/preview
 hashtag: GreyDoorSprayer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

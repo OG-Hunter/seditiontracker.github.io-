@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #370 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/370a.png/@@images/image/preview
 hashtag: SilverGizzard
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

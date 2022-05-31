@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #264 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-264a.jpg/@@images/image/preview
 hashtag: BeardedHammer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

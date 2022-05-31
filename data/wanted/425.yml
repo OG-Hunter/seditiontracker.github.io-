@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #425 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/425a.png/@@images/image/preview
 hashtag: SteamPunkLunk
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

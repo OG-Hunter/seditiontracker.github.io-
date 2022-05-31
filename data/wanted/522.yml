@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #522 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-522a.jpg/@@images/image/preview
 hashtag: BlueSuperBeard
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #450 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/450a.png/@@images/image/preview
 hashtag: FrizzySwimmer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

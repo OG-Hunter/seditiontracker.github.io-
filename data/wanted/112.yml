@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #112 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-112-afo.png/@@images/image/preview
 hashtag: HitlerStalinMaoTshirt
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

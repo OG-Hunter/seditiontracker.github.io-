@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #210 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-210a.jpg/@@images/image/preview
 hashtag: DirtyPhoneCallerAOM
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

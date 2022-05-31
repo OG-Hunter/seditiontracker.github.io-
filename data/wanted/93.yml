@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #93 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/93arrested.png/@@images/image/preview
 hashtag: SeriousForehead
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-22
 mugshot: null

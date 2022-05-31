@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #476A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-476a.jpg/@@images/image/preview
 hashtag: TartanTyrant
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #481 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-481.jpg/@@images/image/preview
 hashtag: DroopyDrizzles
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

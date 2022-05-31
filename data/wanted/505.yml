@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #505 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-505.jpg/@@images/image/preview
 hashtag: GreenPackTosser
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

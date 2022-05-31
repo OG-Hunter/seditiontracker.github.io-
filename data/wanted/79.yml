@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #79A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-79a-arrested.png/@@images/image/preview
 hashtag: HelmetBoy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-30
 mugshot: null

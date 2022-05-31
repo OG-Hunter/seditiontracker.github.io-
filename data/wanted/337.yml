@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #337 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-337arrest.jpg/@@images/image/preview
 hashtag: BlackPufferWhiteScarf
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-11-09
 mugshot: null

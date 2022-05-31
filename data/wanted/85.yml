@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #85 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-85-afo.png/@@images/image/preview
 hashtag: PeeweeGrayMan
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

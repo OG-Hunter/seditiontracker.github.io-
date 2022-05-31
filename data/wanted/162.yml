@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #162 A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-162a.jpg/@@images/image/preview
 hashtag: TexasFlagPole
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

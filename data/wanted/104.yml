@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #104 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-104arrest.jpg/@@images/image/preview
 hashtag: SideEyeGrayHat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-02-05
 mugshot: null

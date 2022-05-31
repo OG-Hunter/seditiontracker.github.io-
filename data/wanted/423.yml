@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #423A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-423a.jpg/@@images/image/preview
 hashtag: SenatePenguin
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-09-09
 mugshot: null

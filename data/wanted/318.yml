@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #318A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-318a.png/@@images/image/preview
 hashtag: NeedsPruneJuice
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

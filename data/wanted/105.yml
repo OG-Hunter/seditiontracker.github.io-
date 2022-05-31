@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #105 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-105-afo-arrested.png/@@images/image/preview
 hashtag: CraigBingert
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-17
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #9"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-9.jpg/@@images/image/preview
 hashtag: MAGAmessagetaker
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

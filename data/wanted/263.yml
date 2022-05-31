@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #263 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-263a.jpg/@@images/image/preview
 hashtag: BadSamaritanGrey
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-10-21
 mugshot: null

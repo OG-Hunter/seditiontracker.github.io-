@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #94 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-94aarrest.png/@@images/image/preview
 hashtag: PinStripeBoilerSuit
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-11-23
 mugshot: josiah-kenyon.jpg

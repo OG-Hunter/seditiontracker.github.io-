@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #152 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-152.jpg/@@images/image/preview
 hashtag: StarSpangledEar
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

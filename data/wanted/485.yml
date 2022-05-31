@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #485 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-485a.jpg/@@images/image/preview
 hashtag: UnaClobber
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

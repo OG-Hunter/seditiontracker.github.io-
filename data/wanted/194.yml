@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #194 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-194a.jpg/@@images/image/preview
 hashtag: GreyRangeAOM
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

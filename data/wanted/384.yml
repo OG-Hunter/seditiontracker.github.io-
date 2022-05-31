@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #384 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-384aarrest.jpg/@@images/image/preview
 hashtag: LynyrdSinner
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-03-01
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #325 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/325aarrested.png/@@images/image/preview
 hashtag: DJBrawnyBaton
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-29
 mugshot: null

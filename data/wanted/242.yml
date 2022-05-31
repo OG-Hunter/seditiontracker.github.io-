@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #242 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/242a.png/@@images/image/preview
 hashtag: FreshmanFlagger
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

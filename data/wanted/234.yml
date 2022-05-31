@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #234 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/234a.png/@@images/image/preview
 hashtag: VinnieVegemite
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

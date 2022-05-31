@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #41 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-41-arrested.png/@@images/image/preview
 hashtag: HunterSeefried
+fugitive: false
+minor: false
+deceased: false
 duplicate: true
 charged: 2021-01-14
 mugshot: null

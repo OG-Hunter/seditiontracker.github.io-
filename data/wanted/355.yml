@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #355 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/355arrested.png/@@images/image/preview
 hashtag: WildDog
+fugitive: false
+minor: false
+deceased: false
 duplicate: true
 charged: 2021-01-16
 mugshot: robert-gieswein.jpg

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #76 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-76arrest.jpg/@@images/image/preview
 hashtag: TreasonIsTiring
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-02-09
 mugshot: null

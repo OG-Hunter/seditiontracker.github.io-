@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #235 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/235a.png/@@images/image/preview
 hashtag: BugGoggles
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

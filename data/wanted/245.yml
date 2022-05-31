@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #245 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/245a.png/@@images/image/preview
 hashtag: MuttonTail
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #396 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/396a.png/@@images/image/preview
 hashtag: FieryQuakerOats
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #153 A - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/153aarrested.png/@@images/image/preview
 hashtag: EmoNazi
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-06-16
 mugshot: null

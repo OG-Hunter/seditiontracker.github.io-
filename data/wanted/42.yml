@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #42 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/42-arrested.png/@@images/image/preview
 hashtag: ElfNazi
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-28
 mugshot: joshua-hughes.jpg

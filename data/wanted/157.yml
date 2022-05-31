@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #157 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-157arrest.jpg/@@images/image/preview
 hashtag: RedPlaidPylonThrower
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-02-14
 mugshot: null

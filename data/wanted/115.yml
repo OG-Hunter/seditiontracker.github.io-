@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #115 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/115arrested.png/@@images/image/preview
 hashtag: BuffaloBreacher
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-03-12
 mugshot: null

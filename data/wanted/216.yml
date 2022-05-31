@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #216 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-216-afo-a.png/@@images/image/preview
 hashtag: GreenFlagGloves
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #10 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-10-arrested.png/@@images/image/preview
 hashtag: WildDog
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-16
 mugshot: robert-gieswein.jpg

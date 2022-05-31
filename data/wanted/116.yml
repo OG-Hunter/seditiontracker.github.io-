@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #116 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/116arrested.png/@@images/image/preview
 hashtag: AscendDad
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-09
 mugshot: kyle-young.jpg

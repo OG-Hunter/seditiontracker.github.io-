@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #444 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/444.png/@@images/image/preview
 hashtag: MessyGuessy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

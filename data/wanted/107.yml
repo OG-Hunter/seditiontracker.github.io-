@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #107 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/107-a.png/@@images/image/preview
 hashtag: ChairGuy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-03-01
 mugshot: null

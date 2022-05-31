@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #1"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-1.jpg/@@images/image/preview
 hashtag: BurlyTheFirst
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

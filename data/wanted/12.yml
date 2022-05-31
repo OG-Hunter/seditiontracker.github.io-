@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #12 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-12-arrested.png/@@images/image/preview
 hashtag: JosiahColt
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-12
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #113 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-113-afoa.png/@@images/image/preview
 hashtag: TheWincer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #160"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-160.jpg/@@images/image/preview
 hashtag: BlueSteelWorker
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

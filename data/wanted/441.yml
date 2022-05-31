@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #441 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/441a.png/@@images/image/preview
 hashtag: PlaidShowdown
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

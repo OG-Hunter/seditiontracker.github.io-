@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #21 (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/21-arrested.png/@@images/image/preview
 hashtag: JohnStrand
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-18
 mugshot: null

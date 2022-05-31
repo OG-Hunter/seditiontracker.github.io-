@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #336 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/336a.png/@@images/image/preview
 hashtag: YellowTipSprayer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

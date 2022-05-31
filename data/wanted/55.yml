@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #55 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-55-afo-arrested.png/@@images/image/preview
 hashtag: MissingToothMarine
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-19
 mugshot: null

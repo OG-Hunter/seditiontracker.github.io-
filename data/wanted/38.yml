@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #38"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-38.png/@@images/image/preview
 hashtag: GrandpaFlagScarf
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

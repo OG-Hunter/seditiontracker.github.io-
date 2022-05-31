@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #447 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/447a.png/@@images/image/preview
 hashtag: WhiteHorn
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

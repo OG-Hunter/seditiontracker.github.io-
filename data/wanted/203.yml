@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #203 - AOM A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/203aarrested.png/@@images/image/preview
 hashtag: HarleySmashAOM
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-07-01
 mugshot: joshua-haynes.jpg

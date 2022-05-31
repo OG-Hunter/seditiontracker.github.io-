@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #122 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-122a.png/@@images/image/preview
 hashtag: SweatyTanCoat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

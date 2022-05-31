@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #443 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/443a.png/@@images/image/preview
 hashtag: ShawlBrawl
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

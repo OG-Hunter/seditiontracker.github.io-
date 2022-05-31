@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #141 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-141arrest.jpg/@@images/image/preview
 hashtag: SweaterHead
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-02-17
 mugshot: null

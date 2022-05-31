@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #327 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-327.jpg/@@images/image/preview
 hashtag: SunshineBeanie
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

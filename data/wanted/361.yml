@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #361 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-361a.jpg/@@images/image/preview
 hashtag: VestedMess
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

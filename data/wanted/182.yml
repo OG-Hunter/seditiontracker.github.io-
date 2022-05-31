@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #182 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-182.png/@@images/image/preview
 hashtag: BuffLightYear
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

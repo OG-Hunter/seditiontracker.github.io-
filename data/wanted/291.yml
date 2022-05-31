@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #291 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-291aarrest.jpg/@@images/image/preview
 hashtag: PapaGruntStick
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-01-26
 mugshot: null

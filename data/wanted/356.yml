@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #356"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-356.jpg/@@images/image/preview
 hashtag: Beardvana
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

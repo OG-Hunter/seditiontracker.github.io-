@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #199 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-199a.jpg/@@images/image/preview
 hashtag: BlackBonoHelmet
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

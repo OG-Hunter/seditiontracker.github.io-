@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #293 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/293a.png/@@images/image/preview
 hashtag: MAGAlagoDad
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

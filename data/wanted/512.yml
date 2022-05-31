@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #512"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-512.jpg/@@images/image/preview
 hashtag: null
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

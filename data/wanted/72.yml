@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #72"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-72.png/@@images/image/preview
 hashtag: OhBoyInsider
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

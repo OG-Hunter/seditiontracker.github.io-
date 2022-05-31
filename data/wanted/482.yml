@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #482 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-482.jpg/@@images/image/preview
 hashtag: NautiTrumper
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

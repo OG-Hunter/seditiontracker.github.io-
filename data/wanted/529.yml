@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #529 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-529a.jpg/@@images/image/preview
 hashtag: BarrierBandit
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

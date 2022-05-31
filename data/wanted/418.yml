@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #418 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/418a.png/@@images/image/preview
 hashtag: BringEnoughGunVet
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #58 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-58aarrest.jpg/@@images/image/preview
 hashtag: MAGAFlagShirt
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-04-06
 mugshot: null

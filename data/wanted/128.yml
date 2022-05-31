@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #128 - AFO A (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/128aarrested.png/@@images/image/preview
 hashtag: CatSweat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-08-04
 mugshot: null

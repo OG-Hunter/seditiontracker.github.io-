@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #45 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-45.png/@@images/image/preview
 hashtag: FuzzyPinhead
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-28
 mugshot: jerod-hughes.jpg

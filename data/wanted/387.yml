@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #387 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-387aarrest.jpg/@@images/image/preview
 hashtag: CoveredDragon
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-12-10
 mugshot: avery-maccracken.jpg

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #500 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-500a.jpg/@@images/image/preview
 hashtag: BigGreenScream
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

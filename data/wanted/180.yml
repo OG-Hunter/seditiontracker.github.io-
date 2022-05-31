@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #180 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-180a.png/@@images/image/preview
 hashtag: NelsonPostThrower
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

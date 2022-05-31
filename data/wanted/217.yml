@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #217 - AFO  (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-217arrest.jpg/@@images/image/preview
 hashtag: GreenHoodlum
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-03-25
 mugshot: null

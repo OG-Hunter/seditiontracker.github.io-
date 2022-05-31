@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #155A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-155-a.png/@@images/image/preview
 hashtag: FlagCapeInsider
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

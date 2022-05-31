@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #196 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-196a.jpg/@@images/image/preview
 hashtag: DisgruntledNonVoter
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #528 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-528a.jpg/@@images/image/preview
 hashtag: BlackTunnelBeard
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

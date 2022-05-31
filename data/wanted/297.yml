@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #297 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/297a.png/@@images/image/preview
 hashtag: LeatherCandyStripes
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

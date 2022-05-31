@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #89 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-89-arrested.png/@@images/image/preview
 hashtag: CryBeardBrawler
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-19
 mugshot: null

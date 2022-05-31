@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #345 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/345a.png/@@images/image/preview
 hashtag: WrigleyFieldGuy
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #27"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-27.jpg/@@images/image/preview
 hashtag: RedBucketHat
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2022-02-09
 mugshot: null

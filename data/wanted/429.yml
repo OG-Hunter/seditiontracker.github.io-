@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #429 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/429a.png/@@images/image/preview
 hashtag: JesusBeater
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

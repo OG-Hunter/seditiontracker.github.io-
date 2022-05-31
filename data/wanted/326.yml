@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #326 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-326aarrest.jpg/@@images/image/preview
 hashtag: GreyscaleScreamer
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-05-27
 mugshot: null

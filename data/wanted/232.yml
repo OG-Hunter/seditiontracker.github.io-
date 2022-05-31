@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #232 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/232a.png/@@images/image/preview
 hashtag: HellishHansen
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

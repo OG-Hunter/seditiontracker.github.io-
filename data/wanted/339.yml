@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #339 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/339a.png/@@images/image/preview
 hashtag: ParadeCharade
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null

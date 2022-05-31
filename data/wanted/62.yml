@@ -6,6 +6,9 @@ identified: true
 label: "Photograph #62 - AFO (Arrested)"
 src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-62-afo-arrested.png/@@images/image/preview
 hashtag: ThePinMan
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: 2021-01-19
 mugshot: null

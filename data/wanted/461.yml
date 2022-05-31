@@ -6,6 +6,9 @@ identified: false
 label: "Photograph #461 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/461a-1.png/@@images/image/preview
 hashtag: BlueShadyFox
+fugitive: false
+minor: false
+deceased: false
 duplicate: false
 charged: null
 mugshot: null
