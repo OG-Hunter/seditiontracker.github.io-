@@ -4,18 +4,18 @@ lastName: Buhler
 hashtag: JanetBuhler
 aka:
 residence: Utah
-status: Convicted
+status: Sentenced
 date: 2021-07-28
 charged: 2021-07-28
 indicted:
 convicted: 2022-01-13
 acquitted:
-sentenced:
+sentenced: 2022-06-1
 dismissed:
 deceased:
 plea_hearing: 2022-01-13
 trial_date:
-sentencing:
+sentencing: 2022-06-1
 age:
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-mj-546
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days in prison
+  - 36 months probation
+  - $10 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.sltrib.com/news/2021/08/02/two-more-utahns-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421591/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Janet%20Buhler%20Information.pdf)
