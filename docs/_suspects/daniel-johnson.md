@@ -4,18 +4,18 @@ lastName: Johnson
 hashtag: DanielJohnson
 aka:
 residence: Minnesota
-status: Convicted
+status: Sentenced
 date: 2021-06-04
 charged: 2021-06-04
 indicted:
 convicted: 2022-01-04
 acquitted:
-sentenced:
+sentenced: 2022-06-01
 dismissed:
 deceased:
 plea_hearing: 2022-01-04
 trial_date:
-sentencing: 2022-04-12
+sentencing: 2022-06-01
 age: 29
 occupation:
 affiliations:
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-00407
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 120 days in prison
+  - $2000 restitution
+  - 1 year probation
 ---
+
 - [News Report](https://www.kaaltv.com/austin-minnesota-news/austin-man-arrested-in-connection-to-capitol-riots-in-january/6137943/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)
