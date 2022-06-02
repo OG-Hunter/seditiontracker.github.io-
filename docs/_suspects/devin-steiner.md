@@ -33,11 +33,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-191
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.beaconjournal.com/story/news/2022/05/26/devin-steiner-wooster-ohio-charged-breaching-us-capitol-jan-6-2021-insurrection/9941693002/)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.ohnd.287962/gov.uscourts.ohnd.287962.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509941/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509916/download)

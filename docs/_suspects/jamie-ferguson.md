@@ -1,7 +1,7 @@
 ---
 name: Jamie Ferguson
 lastName: Ferguson
-hashtag: 
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-06
 trial_date:
 sentencing:
 age: 44
@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://richmond.com/news/state-and-regional/virginia-woman-charged-in-jan-6-riots-at-u-s-capitol/article_f7ba5140-d0b3-54ac-88c4-3eb7b161a956.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506801/download)
