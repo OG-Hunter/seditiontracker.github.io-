@@ -3,7 +3,7 @@ name: Kimberly Difrancesco
 lastName: Difrancesco
 hashtag:
 aka:
-residence:
+residence: Illinois
 status: Charged
 date: 2022-05-27
 charged: 2022-05-27
@@ -32,12 +32,13 @@ title: Kimberly Difrancesco charged on May 27th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-121
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://chicago.suntimes.com/crime/2022/6/2/23151660/capitol-riot-illinois-women-charges-trudy-castle-kimberly-difrancesco)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510191/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510196/download)
