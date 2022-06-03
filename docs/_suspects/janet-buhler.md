@@ -10,12 +10,12 @@ charged: 2021-07-28
 indicted:
 convicted: 2022-01-13
 acquitted:
-sentenced: 2022-06-1
+sentenced: 2022-06-01
 dismissed:
 deceased:
 plea_hearing: 2022-01-13
 trial_date:
-sentencing: 2022-06-1
+sentencing: 2022-06-01
 age:
 occupation:
 affiliations:
