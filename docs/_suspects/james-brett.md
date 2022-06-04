@@ -1,9 +1,9 @@
 ---
-name: Brian Boele
-lastName: Boele
-hashtag: StuporHeroPB
+name: James Brett
+lastName: Brett
+hashtag:
 aka:
-residence: Florida
+residence:
 status: Indicted
 date: 2022-05-25
 charged: 2022-05-25
@@ -18,17 +18,17 @@ trial_date:
 sentencing:
 age:
 occupation:
-affiliations:
+affiliations: Proud Boys, Former USMC
 jurisdiction: Federal
-image: /images/preview/brian-boele.jpg
-suspect: brian-boele.jpg
+image: /images/preview/james-brett.jpg
+suspect: james-brett.jpg
 booking:
 courtroom:
 courthouse:
 raid:
 perpwalk:
 quote:
-title: Brian Boele charged on 5/25/2022
+title: James Brett charged on May 25th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -40,4 +40,4 @@ sentence:
 ---
 
 - [News Report](https://www.tampabay.com/news/clearwater/2022/06/03/men-from-clearwater-lakeland-latest-florida-arrests-in-us-capitol-riot/)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510571/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510576/download)
