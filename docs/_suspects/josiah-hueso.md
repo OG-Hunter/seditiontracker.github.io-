@@ -33,11 +33,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-mj-111
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.sandiegouniontribune.com/news/courts/story/2022-05-27/hueso-capitol-arrest)
-- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243405/gov.uscourts.dcd.243405.1.1.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509781/download)

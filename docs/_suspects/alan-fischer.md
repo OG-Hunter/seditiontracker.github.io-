@@ -4,10 +4,10 @@ lastName: Fischer
 hashtag: RaybanTerrorist
 aka: AJ Fischer
 residence: Florida
-status: Charged
+status: Indicted
 date: 2022-01-12
 charged: 2022-01-12
-indicted:
+indicted: 2022-05-25
 convicted:
 sentenced:
 dismissed:

@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "Getting ready for these clowns on wednesday. Wrong patriot to fk with"
+quote: "You want to arrest Enrique, fuck you, you have got to arrest all of us."
 title: Joshua Pruitt charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
