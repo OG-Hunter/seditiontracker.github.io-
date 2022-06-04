@@ -3,7 +3,7 @@ name: James Brett
 lastName: Brett
 hashtag:
 aka:
-residence:
+residence: Florida
 status: Indicted
 date: 2022-05-25
 charged: 2022-05-25
