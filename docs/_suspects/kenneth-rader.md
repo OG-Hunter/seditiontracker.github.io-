@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-07
 sentencing:
 age: 54
 occupation: Viera High School P.E. Teacher
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We’re not done! ... Watch what ‘we’ do after Trump is gone.'
+quote: "We’re not done! ... Watch what ‘we’ do after Trump is gone."
 title: Kenneth Rader charged on January 11, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.mynews13.com/fl/orlando/news/2021/07/07/kenneth-reda-viera-high-school-teacher-charged-in-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481456/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Rader%20Information.pdf)

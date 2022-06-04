@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-08
 sentencing:
 age: 38
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wfmj.com/story/43229774/warren-man-arrested-by-fbi-after-involvement-in-us-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360951/download)

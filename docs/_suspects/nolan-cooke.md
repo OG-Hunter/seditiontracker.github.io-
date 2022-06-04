@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-09
 trial_date:
-sentencing:
+sentencing: 2022-06-10
 age: 22
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-mj-143
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)
