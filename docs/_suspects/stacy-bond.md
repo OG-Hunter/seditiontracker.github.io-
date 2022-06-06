@@ -3,7 +3,7 @@ name: Stacy Bond
 lastName: Bond
 hashtag:
 aka:
-residence:
+residence: Maryland
 status: Charged
 date: 2022-05-18
 charged: 2022-05-18
