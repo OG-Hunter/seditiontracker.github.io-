@@ -33,7 +33,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-62
+caseNumber: 1:22-cr-123
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

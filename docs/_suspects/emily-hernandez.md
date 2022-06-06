@@ -33,18 +33,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-73
+caseNumber: 1:21-cr-747
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 30 days in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357301/download)
 - [Perp Walk (PHOTO)](https://www.ksdk.com/article/news/local/missouri-woman-capitol-riot-turns-herself-in/63-8f78e65f-b006-406e-b3d3-6ff3315efb03)

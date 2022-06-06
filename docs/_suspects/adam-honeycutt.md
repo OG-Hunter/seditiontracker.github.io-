@@ -33,18 +33,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-216
+caseNumber: 1:22-cr-50
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days in prison
   - $500 restitution
 ---
-
 - [News Report](https://www.news4jax.com/news/local/2021/02/11/jacksonville-fbi-agents-arrest-man-on-charges-connected-to-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366581/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIJacksonville/status/1359935620123136000)

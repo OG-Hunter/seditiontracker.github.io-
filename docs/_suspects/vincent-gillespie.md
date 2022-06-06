@@ -9,10 +9,12 @@ date: 2022-02-17
 charged: 2022-02-17
 indicted: 2022-02-25
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 60
 occupation:
@@ -31,12 +33,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-31
+caseNumber: 1:22-cr-60
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/man-accused-of-using-police-shield-to-ram-cops-during-capitol-riot-arrested/ar-AAU2N7i)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475401/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475406/download)

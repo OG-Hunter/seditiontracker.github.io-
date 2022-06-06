@@ -733,7 +733,7 @@ const addData = (suspectData) => {
     updateSuspect(suspect);
   }
 
-  if (isEmpty(suspect.caseNumber) && !isEmpty(caseNumber)) {
+  if (caseNumber && suspect.caseNumber !== caseNumber) {
     console.log(`${suspect.name}: Case Number ${caseNumber}`);
     suspect.caseNumber = caseNumber;
     updateSuspect(suspect);

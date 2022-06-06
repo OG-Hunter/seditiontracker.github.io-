@@ -4,15 +4,17 @@ lastName: Uptmore
 hashtag: JamesUptmore
 aka: Sonny Uptmore
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-02-24
-convicted: 
+convicted: 2022-06-06
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-06
+trial_date:
 sentencing:
 age: 63
 occupation:
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-149
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
@@ -41,3 +47,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377851/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377851/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510796/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510801/download)

@@ -9,10 +9,12 @@ date: 2021-07-16
 charged: 2021-07-16
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 38
 occupation: Plumber
@@ -31,7 +33,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-529
+caseNumber: 1:21-cr-502
 videos:
 charges:
 sentence:

@@ -9,10 +9,12 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 43
 occupation: Former Military (Marines)
@@ -31,7 +33,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-52
+caseNumber: 1:21-cr-175
 videos:
 charges:
 sentence:

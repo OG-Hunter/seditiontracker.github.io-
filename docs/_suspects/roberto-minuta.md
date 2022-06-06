@@ -9,10 +9,12 @@ date: 2021-03-06
 charged: 2021-03-06
 indicted: 2021-05-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 36
 occupation: Owner, Tattoo Parlor
@@ -31,7 +33,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-28
+caseNumber: 1:22-cr-15
 videos:
 charges:
 sentence:

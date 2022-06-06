@@ -33,16 +33,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-641
+caseNumber: 1:21-cr-689
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.thedenverchannel.com/news/local-news/colorado-man-charged-accused-of-fighting-with-police-at-jan-6-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448036/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506936/download)
