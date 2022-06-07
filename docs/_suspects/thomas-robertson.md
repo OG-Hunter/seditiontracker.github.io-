@@ -20,7 +20,7 @@ age: 47
 occupation: Police Officer (Sergeant)
 affiliations: Rocky Mount Police Department
 jurisdiction: Federal
-image: /images/preview/019-convicted.jpg
+image: /images/preview/019.jpg
 suspect: 019.jpg
 booking:
 courtroom:

@@ -9,10 +9,12 @@ date: 2021-02-03
 charged: 2021-02-03
 indicted: 2021-03-10
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 30
 occupation:
@@ -33,16 +35,15 @@ layout: suspect
 published: true
 caseNumber: 1:21-cr-175
 videos:
-  - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
+- title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
-
 - [News Report](https://nytimes.com/live/2021/02/03/us/biden-administration#federal-officials-arrested-another-leader-of-the-proud-boys-ethan-nordean-in-the-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364196/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/member-proud-boys-charged-obstructing-official-proceeding-other-charges-related-jan-6)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480996/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510971/download)
 - [Government Response to Alleged Violation of Due Process](/filings/nordean-government-response.pdf)
 - [Government Opposition to Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Government%20Opposition%20to%20Defendants%20Motion%20to%20Lift%20Stay%20on%20Release%20Order.pdf)
 - [Motion to Revoke Pretrial Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ethan%20Nordean%20Govt%20Motion%20to%20Revoke%20Pretrial%20Release.pdf)
