@@ -4,13 +4,13 @@ lastName: Tagaris
 hashtag: JodyTagaris
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-05-14
 charged: 2021-05-14
 indicted:
 convicted: 2021-12-01
 acquitted:
-sentenced:
+sentenced: 2022-06-06
 dismissed:
 deceased:
 plea_hearing: 2021-12-01
@@ -33,19 +33,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-368
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(C)
-    title: Entering and Remaining in Certain Rooms in the Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(C)
+  title: Entering and Remaining in Certain Rooms in the Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
+  - 24 months probation
+  - 60 hours of community service
+  - $2000 restitution
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/got-tear-gassed-but-okay-woman-charged-with-entering-u-s-capitol-building-through-broken-window-during-siege/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Information.pdf)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.231365/gov.uscourts.dcd.231365.12.0.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Statement%20of%20Offense.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510836/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510841/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510846/download)
