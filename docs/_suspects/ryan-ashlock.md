@@ -37,6 +37,6 @@ charges:
 sentence:
 ---
 
-- [News Report](https://www.wral.com/kansas-man-linked-to-proud-boys-arrested-in-capitol-riot/19540752/)
+- [News Report](https://apnews.com/article/donald-trump-capitol-siege-kansas-city-kansas-riots-df58bb36cd2a6d74438f94af2c03451f)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

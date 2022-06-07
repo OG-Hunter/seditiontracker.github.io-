@@ -4,15 +4,17 @@ lastName: Rader
 hashtag:
 aka:
 residence: Iowa
-status: Charged
+status: Convicted
 date: 2022-01-11
 charged: 2022-01-11
 indicted:
-convicted:
+convicted: 2022-06-07
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-06-07
+trial_date:
 sentencing:
 age: 54
 occupation: Viera High School P.E. Teacher
@@ -25,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: "We’re not done! ... Watch what ‘we’ do after Trump is gone."
+quote: "When the judge says you're going to prison, I'm going to say, no disrespect, your honor, but I made peace with God before I left, so let's do this."
 title: Kenneth Rader charged on January 11, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,9 +36,13 @@ published: true
 caseNumber: 1:22-mj-000
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.mynews13.com/fl/orlando/news/2021/07/07/kenneth-reda-viera-high-school-teacher-charged-in-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481456/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Rader%20Information.pdf)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.240373/gov.uscourts.dcd.240373.21.0.pdf)
