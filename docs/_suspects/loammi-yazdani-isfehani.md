@@ -33,7 +33,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-33
+caseNumber: 1:21-cr-543
 videos:
 charges:
 sentence:

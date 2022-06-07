@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-14
 sentencing:
 age: 22
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wral.com/kansas-man-linked-to-proud-boys-arrested-in-capitol-riot/19540752/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

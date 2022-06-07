@@ -734,9 +734,11 @@ const addData = (suspectData) => {
   }
 
   if (caseNumber && suspect.caseNumber !== caseNumber) {
-    console.log(`${suspect.name}: Case Number ${caseNumber}`);
-    suspect.caseNumber = caseNumber;
-    updateSuspect(suspect);
+    if (!["1:21-mj-006", "1:22-mj-33"].includes(caseNumber)) {
+      console.log(`${suspect.name}: Case Number ${caseNumber}`);
+      suspect.caseNumber = caseNumber;
+      updateSuspect(suspect);
+    }
   }
 
   // pick up any new links
