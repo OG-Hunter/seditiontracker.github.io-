@@ -33,7 +33,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-000
+caseNumber: 1:22-cr-57
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
@@ -45,4 +45,5 @@ sentence:
 - [News Report](https://www.mynews13.com/fl/orlando/news/2021/07/07/kenneth-reda-viera-high-school-teacher-charged-in-capitol-riot-investigation)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481456/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Rader%20Information.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.240373/gov.uscourts.dcd.240373.21.0.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511206/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511201/download)
