@@ -4,15 +4,17 @@ lastName: Ayres
 hashtag: StephenMichaelAyres
 aka:
 residence: Ohio
-status: Indicted
+status: Convicted
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-25
-convicted:
+convicted: 2022-06-08
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-06-08
+trial_date:
 sentencing:
 age: 38
 occupation:
@@ -34,6 +36,9 @@ published: true
 caseNumber: 1:21-cr-156
 videos:
 charges:
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
 sentence:
 ---
 
@@ -41,3 +46,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360721/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360951/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377916/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511636/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511641/download)

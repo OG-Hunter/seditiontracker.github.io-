@@ -9,10 +9,12 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 37
 occupation: U.S. Marines (Former)
@@ -36,9 +38,8 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.pnj.com/story/news/2021/01/20/jesus-rivera-pensacola-man-arrested-capitol-siege-grew-agitated-over-summer/4235901001/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357281/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357276/download)
 - [Court Appearance (Image)](https://www.gannett-cdn.com/presto/2021/01/20/PPEN/38e02794-b30f-426d-9a97-c6a344f5de7e-Jesus_D._Rivera-01.jpg)
-- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377951/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511461/download)
