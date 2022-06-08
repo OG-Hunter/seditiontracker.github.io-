@@ -3,7 +3,7 @@ name: Brian Jackson
 lastName: Jackson
 hashtag:
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2022-06-02
 charged: 2022-06-02
@@ -27,17 +27,18 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: “Adam got a god-damned shield, stole it from the fucking popo!”
 title: Brian Jackson charged on June 2nd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-127
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://www.thedailybeast.com/texas-brothers-brian-and-adam-jackson-arrested-after-trying-to-unsend-messages-bragging-about-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511166/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511171/download)

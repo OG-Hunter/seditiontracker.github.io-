@@ -3,7 +3,7 @@ name: Adam Jackson
 lastName: Jackson
 hashtag:
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2022-06-02
 charged: 2022-06-02
@@ -32,12 +32,13 @@ title: Adam Jackson charged on June 2nd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-127
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://www.thedailybeast.com/texas-brothers-brian-and-adam-jackson-arrested-after-trying-to-unsend-messages-bragging-about-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511146/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511151/download)
