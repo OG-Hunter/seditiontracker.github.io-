@@ -4,13 +4,13 @@ lastName: Michael Sywak
 hashtag: WilliamMichaelSywak
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-05-19
 charged: 2021-05-19
 indicted:
 convicted: 2022-02-02
 acquitted:
-sentenced:
+sentenced: 2022-06-09
 dismissed:
 deceased:
 plea_hearing: 2022-02-02
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 4 months home confinement
+  - 24 months probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.wgrz.com/article/news/crime/4-more-people-from-new-york-arrested-in-connection-with-us-captiol-riot/71-3ad4fafb-a9e2-4653-bec2-a0de96ea60de)
