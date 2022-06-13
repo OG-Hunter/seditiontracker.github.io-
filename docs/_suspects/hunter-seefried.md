@@ -8,13 +8,13 @@ status: Indicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-04-07
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-06-13
 sentencing:
 age: 23
 occupation:
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.delawareonline.com/story/news/2021/01/14/delaware-father-son-arrested-involvement-capitol-riot-kevin-seefried-confederate-flag/4160104001/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-delaware-men-charged-federal-court-following-events-united-states-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1354301/download)
