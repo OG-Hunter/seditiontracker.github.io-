@@ -44,7 +44,7 @@ sentence:
 ---
 - [News Report](https://www.walb.com/2021/01/19/pelham-man-charged-capitol-incident/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356031/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482056/download)
+- [Statement of Facts](https://www.justice.gov/opa/page/file/1356026/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377691/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482051/download)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Shane%20Daughtry%20Statement%20of%20Offense.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482056/download)

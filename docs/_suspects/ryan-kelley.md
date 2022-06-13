@@ -3,7 +3,7 @@ name: Ryan Kelley
 lastName: Kelley
 hashtag: IAmRyanKelley
 aka:
-residence:
+residence: Michigan
 status: Charged
 date: 2022-06-07
 charged: 2022-06-07
@@ -38,7 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-raids-home-michigan-gop-gubernatorial-candidate-rcna32761)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511816/download)
