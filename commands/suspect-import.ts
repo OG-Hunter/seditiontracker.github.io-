@@ -284,6 +284,12 @@ const importDoj = async (nameSet: Set<string>) => {
       nameChunks = name.split(",");
     }
 
+    if (name.match(/CRONIN, Kevin II/)) {
+      name = "Cronin II, Kevin";
+      lastName = "Cronin II";
+      nameChunks = name.split(",");
+    }
+
     const firstName = nameChunks[1].trim().split(" ")[0];
 
     if (falsePositives("DOJ").has(lastName)) {
