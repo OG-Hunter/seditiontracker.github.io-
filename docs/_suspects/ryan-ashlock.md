@@ -4,16 +4,18 @@ lastName: Ashlock
 hashtag: YellowSwimGoggles
 aka:
 residence: Kansas
-status: Indicted
+status: Convicted
 date: 2021-02-18
 charged: 2021-02-18
 indicted: 2021-02-26
-convicted:
+convicted: 2022-06-14
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-06-14
-sentencing:
+trial_date:
+sentencing: 2022-11-10
 age: 22
 occupation:
 affiliations:
@@ -34,9 +36,15 @@ published: true
 caseNumber: 1:21-cr-160
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 
 - [News Report](https://apnews.com/article/donald-trump-capitol-siege-kansas-city-kansas-riots-df58bb36cd2a6d74438f94af2c03451f)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228131/gov.uscourts.dcd.228131.147.0.pdf)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228131/gov.uscourts.dcd.228131.148.0.pdf)
