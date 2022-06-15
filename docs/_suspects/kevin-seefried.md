@@ -4,18 +4,18 @@ lastName: Seefried
 hashtag: KevinSeefried
 aka:
 residence: Delaware
-status: Indicted
+status: Convicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-04-07
-convicted:
+convicted: 2022-06-15
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-15
 trial_date: 2022-06-13
-sentencing:
+sentencing: 2022-09-16
 age: 51
 occupation:
 affiliations:
