@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.miamiherald.com/news/local/crime/article248608940.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356776/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356771/download)
@@ -43,3 +44,4 @@ sentence:
 - [Media Interview](https://twitter.com/MIAagainstFash/status/1422591337782779911)
 - [Government's Opposition to Modifying Conditions of Release](/filings/gabriel-garcia-government-opposition.pdf)
 - [Order Denying Defense Motion to Modify Conditions of Release](/filings/gabriel-garcia-motion-denied.pdf)
+- [Government's Opposition to Modifying Conditions of Release (Guns)](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227707/gov.uscourts.dcd.227707.79.0.pdf)
