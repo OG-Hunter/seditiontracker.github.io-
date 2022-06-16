@@ -4,15 +4,17 @@ lastName: Witcher
 hashtag: JeffreyWitcher
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-19
 convicted: 2021-10-20
-sentenced:
+acquitted:
+sentenced: 2022-02-04
 dismissed:
 deceased:
 plea_hearing: 2021-10-20
+trial_date:
 sentencing: 2022-02-04
 age: 58
 occupation: Veteran, U.S. Marine Corps
@@ -39,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 12 months probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.msn.com/en-us/news/us/capitol-rioters-posted-video-claiming-they-crashed-the-white-house/ar-BB1ezT8G)
