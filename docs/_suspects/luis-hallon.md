@@ -3,7 +3,7 @@ name: Luis Hallon
 lastName: Hallon
 hashtag:
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2022-06-06
 charged: 2022-06-06
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 67
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
+- [News Report](https://www.fox35orlando.com/news/3-more-arrested-in-central-florida-connected-to-capitol-riot-officials-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513221/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513226/download)

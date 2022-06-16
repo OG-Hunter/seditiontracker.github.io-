@@ -3,7 +3,7 @@ name: Frank Bratjan
 lastName: Bratjan
 hashtag: Insider0285
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2022-06-09
 charged: 2022-06-09
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 sentencing:
 age:
-occupation:
+occupation: Postal worker
 affiliations:
 jurisdiction: Federal
 image: /images/preview/frank-bratjan.jpg
@@ -39,6 +39,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.thedailybeast.com/usps-employee-and-van-life-enthusiast-frank-joseph-bratjan-jr-charged-in-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513246/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513256/download)
