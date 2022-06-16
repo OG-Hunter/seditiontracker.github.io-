@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-02-03
 trial_date:
-sentencing: 2022-05-06
+sentencing: 2022-06-17
 age: 28
 occupation: Peace Corps
 affiliations:
