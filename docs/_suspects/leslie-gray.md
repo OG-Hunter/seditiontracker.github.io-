@@ -18,7 +18,7 @@ trial_date:
 sentencing:
 age: 56
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/leslie-gray.jpg
 suspect: leslie-gray.jpg

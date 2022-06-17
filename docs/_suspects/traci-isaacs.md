@@ -18,7 +18,7 @@ trial_date:
 sentencing:
 age: 52
 occupation:
-affiliations:
+affiliations: Oath Keepers
 jurisdiction: Federal
 image: /images/preview/traci-isaacs.jpg
 suspect: traci-isaacs.jpg
