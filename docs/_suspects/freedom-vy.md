@@ -16,7 +16,7 @@ plea_hearing:
 sentencing:
 age: 36
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/freedom-vy.png
 suspect: freedom-vy.png
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480331/download)

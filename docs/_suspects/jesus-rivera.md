@@ -4,16 +4,16 @@ lastName: Rivera
 hashtag: JDRivera
 aka: JD Rivera, Jesus Delmora Rivera
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted:
-convicted:
+convicted: 2022-06-17
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-17
 trial_date:
 sentencing:
 age: 37
@@ -36,8 +36,25 @@ published: true
 caseNumber: 1:21-cr-60
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.pnj.com/story/news/2021/01/20/jesus-rivera-pensacola-man-arrested-capitol-siege-grew-agitated-over-summer/4235901001/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357281/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357276/download)
