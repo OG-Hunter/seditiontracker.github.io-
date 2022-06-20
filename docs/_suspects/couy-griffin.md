@@ -4,15 +4,17 @@ lastName: Griffin
 hashtag: CouyGriffin
 aka:
 residence: New Mexico
-status: Convicted
+status: Sentenced
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-02-08
 convicted: 2022-03-22
-sentenced:
+acquitted:
+sentenced: 2022-06-17
 dismissed:
 deceased:
 plea_hearing: 2022-03-22
+trial_date:
 sentencing: 2022-06-17
 age: 47
 occupation: County Commissioner
@@ -39,6 +41,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 14 days in prison
+  - $3000 fine
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
