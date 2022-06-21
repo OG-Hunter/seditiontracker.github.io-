@@ -13,9 +13,9 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-06-17
-trial_date:
-sentencing:
+plea_hearing:
+trial_date: 2022-06-14
+sentencing: 2022-06-22
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776

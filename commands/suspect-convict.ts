@@ -20,7 +20,9 @@ const convict = async () => {
   info("Changing status to convicted");
   suspect.status = "Convicted";
   suspect.convicted = cmd.date;
-  suspect.plea_hearing = cmd.date;
+  if (!suspect.trial_date) {
+    suspect.plea_hearing = cmd.date;
+  }
 
   if (cmd.parading) {
     const parading: Charge = Charges.find(({ code }) => code === "40 USC § 5104(e)(2)(G)");

@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-03
 trial_date:
-sentencing: 2022-06-17
+sentencing: 2022-06-16
 age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
 affiliations:
