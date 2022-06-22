@@ -17,7 +17,7 @@ trial_date: 2022-07-19
 sentencing:
 age: 38
 occupation:
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/shawn-witzemann.jpg
 suspect: shawn-witzemann.jpg

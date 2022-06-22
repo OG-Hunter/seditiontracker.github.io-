@@ -32,7 +32,7 @@ title: Todd Tilley charged on 6/16/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-140
 videos:
 charges:
