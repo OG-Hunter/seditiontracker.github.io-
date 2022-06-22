@@ -4,13 +4,13 @@ lastName: Evans
 hashtag: DerrickEvans
 aka:
 residence: West Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-06-30
 convicted: 2022-03-18
 acquitted:
-sentenced:
+sentenced: 2022-06-22
 dismissed:
 deceased:
 plea_hearing: 2022-03-18
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-337
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 90 days in prison
+  - $2000 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
