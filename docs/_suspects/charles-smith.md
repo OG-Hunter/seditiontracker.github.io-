@@ -4,15 +4,17 @@ lastName: Smith
 hashtag: CharlesSmith
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-09-08
 charged: 2021-09-08
 indicted:
-convicted:
+convicted: 2022-06-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-06-23
+trial_date:
 sentencing:
 age: 25
 occupation:
@@ -25,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We stormed the gates of the Capitol.'
+quote: "We stormed the gates of the Capitol."
 title: Charles Smith charged on September 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,7 +36,18 @@ published: true
 caseNumber: 1:21-cr-567
 videos:
 charges:
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1), 2
+    title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432686/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514731/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514736/download)

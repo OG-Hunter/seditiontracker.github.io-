@@ -17,8 +17,8 @@ plea_hearing:
 trial_date:
 sentencing:
 age:
-occupation:
-affiliations:
+occupation: US Navy (Reserves)
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/hatchet-speed.jpg
 suspect: hatchet-speed.jpg
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514546/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download)
