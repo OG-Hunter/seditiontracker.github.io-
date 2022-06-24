@@ -9,12 +9,13 @@ date: 2022-01-12
 charged: 2022-01-12
 indicted: 2022-01-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: 2022-09-26
+sentencing:
 age: 56
 occupation:
 affiliations: Oath Keepers
@@ -37,6 +38,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470536/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514876/download)
