@@ -3,7 +3,7 @@ name: Hatchet Speed
 lastName: Speed
 hashtag:
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2022-06-21
 charged: 2022-06-21
@@ -17,8 +17,8 @@ plea_hearing:
 trial_date:
 sentencing:
 age:
-occupation: US Navy (Reserves)
-affiliations: Proud Boys
+occupation: Defense Contractor (Software Developer)
+affiliations: Proud Boys, United States Naval Reserves
 jurisdiction: Federal
 image: /images/preview/hatchet-speed.jpg
 suspect: hatchet-speed.jpg
@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'I’m going in there. Like I have no respect for people in this building. They have no respect for me. I have no respect for them.'
 title: Hatchet Speed charged on June 21st, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -38,7 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/fbi-navy-petty-officer-arrested-on-capitol-riot-charges-had-arsenal-of-guns-praised-unabomber/ar-AAYNcvq)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514546/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download)
