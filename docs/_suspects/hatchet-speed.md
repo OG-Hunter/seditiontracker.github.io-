@@ -18,7 +18,7 @@ trial_date:
 sentencing:
 age:
 occupation: Defense Contractor (Software Developer)
-affiliations: United States Naval Reserves
+affiliations: Proud Boys, United States Naval Reserves
 jurisdiction: Federal
 image: /images/preview/hatchet-speed.jpg
 suspect: hatchet-speed.jpg
