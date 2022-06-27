@@ -53,3 +53,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436741/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515666/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235627/gov.uscourts.dcd.235627.74.0_2.pdf)
+- [DOJ Press Release (Plea Agreement)](https://www.justice.gov/usao-dc/pr/nevada-man-pleads-guilty-felony-charges-actions-during-jan-6-capitol-breach)
