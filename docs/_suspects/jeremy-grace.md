@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-08
 trial_date:
-sentencing:
+sentencing: 2022-07-08
 age: 38
 occupation: Electrician, Former US Navy
 affiliations: Proud Boys
