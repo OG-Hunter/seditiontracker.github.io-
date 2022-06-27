@@ -14,6 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2023-01-03
 age: 19
 occupation: Student at The Citadel
 affiliations:

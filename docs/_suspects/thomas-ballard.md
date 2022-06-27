@@ -14,6 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-08-01
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:

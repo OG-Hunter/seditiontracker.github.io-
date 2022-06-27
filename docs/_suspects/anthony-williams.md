@@ -12,6 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
+trial_date: 2022-06-27
 plea_hearing:
 sentencing:
 age: 45
@@ -25,7 +26,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: '... we took this fucking building.'
+quote: "... we took this fucking building."
 title: Anthony Williams charged on March 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.clickondetroit.com/news/defenders/2021/03/26/southgate-man-charged-in-connection-with-deadly-attack-on-us-capitol/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380641/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380286/download)
