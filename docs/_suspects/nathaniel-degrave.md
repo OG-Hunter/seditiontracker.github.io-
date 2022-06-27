@@ -1,8 +1,8 @@
 ---
-name: Nathaniel Degrave
-lastName: Degrave
-hashtag: NathanDegrave
-aka: Nathan Degrave
+name: Nathaniel DeGrave
+lastName: DGgrave
+hashtag: NathanDeGrave
+aka: Nathan DeGrave
 residence: Nevada
 status: Convicted
 date: 2021-01-28

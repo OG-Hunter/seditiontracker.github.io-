@@ -4,13 +4,13 @@ lastName: Prenzlin
 hashtag: BrandonPrenzlin
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-09-17
 charged: 2021-09-17
 indicted:
 convicted: 2022-03-25
 acquitted:
-sentenced:
+sentenced: 2022-06-27
 dismissed:
 deceased:
 plea_hearing: 2022-03-25
@@ -41,6 +41,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 10 months probation
+  - $2500 fine
+  - 120 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
