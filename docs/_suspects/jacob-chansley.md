@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-3
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
-  - 41 months in prison
+  - 41 months incarceration
   - $500 restitution
 ---
+
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [News Report](https://www.azcentral.com/story/news/local/arizona-breaking/2021/01/11/jake-angeli-arizona-seen-us-capitol-raid-fur-hat-horns-federal-court-hearing/6625619002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364486/download)

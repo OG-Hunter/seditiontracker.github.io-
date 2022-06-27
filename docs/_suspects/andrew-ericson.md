@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-506
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 20 days in prison (weekends)
+  - 20 days incarceration (weekends)
   - 2 years probation
   - $500 restitution
 ---
+
 - [News Report](https://tulsaworld.com/news/local/oklahoma-man-faces-charges-in-connection-with-capitol-riot/article_1afe3f28-5d08-11eb-ad02-77c1bc298fa5.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456076/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359591/download)

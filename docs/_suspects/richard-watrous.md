@@ -41,8 +41,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 14 days in jail
-  - 60 days home detention
+  - 14 days incarceration
+  - 60 days home confinement
   - $2,500 fine
   - $500 restitution
 ---

@@ -43,7 +43,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/641
     felony: false
 sentence:
-  - 90 days in prison
+  - 90 days incarceration
   - 36 months probation
   - mandatory mental health and alcohol abuse treatment
   - $754 restitution

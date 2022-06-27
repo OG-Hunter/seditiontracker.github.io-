@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 14 days in prison (intermittment)
+  - 14 days intermittent confinement
   - 36 months probation
   - $500 restitution
 ---

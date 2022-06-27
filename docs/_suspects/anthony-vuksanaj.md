@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 42 days jail time
+  - 42 days incarceration
   - 36 months probation
   - $2,000 fine
   - $500 restitution

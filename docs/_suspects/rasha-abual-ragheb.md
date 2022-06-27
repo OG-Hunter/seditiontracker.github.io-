@@ -37,10 +37,11 @@ caseNumber: 1:21-cr-43
 videos:
 charges:
 sentence:
-  - 60 days home detention
+  - 60 days home confinement
   - 36 months probation
   - $500 restitution
 ---
+
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357076/download)

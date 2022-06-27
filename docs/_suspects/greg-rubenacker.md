@@ -73,7 +73,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 41 months in prison
+  - 41 months incarceration
   - $2000 restitution
 ---
 

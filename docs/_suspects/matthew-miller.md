@@ -45,7 +45,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
-  - 33 months in prison
+  - 33 months incarceration
   - 100 hours community service
   - $2000 restitution
 ---

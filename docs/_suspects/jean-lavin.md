@@ -36,17 +36,18 @@ published: true
 caseNumber: 1:21-cr-596
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 10 days jail (to be served on weekends)
-  - 60 days home detention
+  - 60 days home confinement
   - 3 years probation
   - $2,500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.huffpost.com/entry/jean-lavin-carla-krzywicki-arrested-capitol-attack_n_6140e900e4b09519c50adbe5)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433371/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Information.pdf)

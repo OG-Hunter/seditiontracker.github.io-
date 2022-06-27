@@ -36,16 +36,17 @@ published: true
 caseNumber: 1:21-cr-579
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 3 months home detention
+  - 3 months home confinement
   - 3 years probation
   - $5,000 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/brandon-straka-right-wing-activist-banned-from-airline-is-charged-in-riots)
 - [Complaint](https://assets.documentcloud.org/documents/20463392/1-20-21-us-v-brandon-straka-complaint-affidavit.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360091/download)

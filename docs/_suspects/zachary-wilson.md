@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-578
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 45 days home detention
+  - 45 days home confinement
   - 24 months probation
   - $500 restitution
 ---
+
 - [News Report](https://www.komu.com/news/state/two-missouri-men-arrested-for-alleged-involvement-in-capitol-riots/article_d19e425a-72fc-11eb-a3bc-5f2e15451854.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371571/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437016/download)

@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-748
 videos:
 charges:
-- code: 18 USC § 641
-  title: Theft of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/641
-  felony: false
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
-  - 45 days in prison
+  - 45 days incarceration
   - $500 restitution
 ---
+
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/st-louis-county-man-accused-of-role-in-capitol-riot-released-from-jail/article_6b5119e8-6368-5621-bfe0-8da222eb185c.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365726/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461896/download)

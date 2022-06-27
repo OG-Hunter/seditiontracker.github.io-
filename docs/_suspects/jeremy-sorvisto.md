@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-320
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 30 days in prison
+  - 30 days incarceration
   - $500 restitution
 ---
+
 - [News Report](https://www.metrotimes.com/news-hits/archives/2021/04/12/up-man-arrested-for-allegedly-participating-in-deadly-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385571/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385576/download)

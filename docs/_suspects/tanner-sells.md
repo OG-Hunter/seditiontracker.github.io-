@@ -37,11 +37,12 @@ caseNumber: 1:21-cr-549
 videos:
 charges:
 sentence:
-  - 90 days home detention
+  - 90 days home confinement
   - 24 months probation
   - $1,500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.oklahoman.com/story/news/2021/05/17/fifth-oklahoman-charged-us-capitol-attack-jan-6/5137167001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437041/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437036/download)

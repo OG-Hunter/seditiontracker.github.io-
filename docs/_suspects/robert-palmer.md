@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-328
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
-  - 63 months in prison
+  - 63 months incarceration
   - 36 months probation
   - $500 restitution
 ---
+
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393421/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393426/download)

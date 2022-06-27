@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 30 days home detention
+  - 30 days home confinement
   - 36 months of probation
   - $500 restitution
 ---
+
 - [News Report](https://www.wtkr.com/news/mathews-co-man-arrested-during-capitol-riot-trump-asked-all-the-patriots-to-show-up-so-i-did)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

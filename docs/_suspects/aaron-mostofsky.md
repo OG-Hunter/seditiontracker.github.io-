@@ -45,7 +45,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/641
     felony: false
 sentence:
-  - 8 months in prison
+  - 8 months incarceration
   - 200 hours community service
   - $2000 restitution
 ---

@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-461
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
-  - 46 months in prison
+  - 46 months incarceration
   - $500 restitution
 ---
+
 - [Information](https://www.justice.gov/usao-dc/press-release/file/1422296/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1422286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/press-release/file/1422291/download)

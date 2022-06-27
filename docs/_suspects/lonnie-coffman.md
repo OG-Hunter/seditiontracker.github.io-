@@ -36,22 +36,23 @@ published: true
 caseNumber: 1:21-cr-4
 videos:
 charges:
-- code: 26 USC § 5861(d)
-  title: Possession of an Unregistered Firearm
-  url: https://www.law.cornell.edu/uscode/text/26/5861
-  felony: true
-- code: 22 DC Code § 4504(a)
-  title: Carrying a Pistol Without a License
-  url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
-  felony: true
-- code: 26 USC § 5861(d)
-  title: Possession of an Unregistered Firearm
-  url: https://www.law.cornell.edu/uscode/text/26/5861
-  felony: true
+  - code: 26 USC § 5861(d)
+    title: Possession of an Unregistered Firearm
+    url: https://www.law.cornell.edu/uscode/text/26/5861
+    felony: true
+  - code: 22 DC Code § 4504(a)
+    title: Carrying a Pistol Without a License
+    url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
+    felony: true
+  - code: 26 USC § 5861(d)
+    title: Possession of an Unregistered Firearm
+    url: https://www.law.cornell.edu/uscode/text/26/5861
+    felony: true
 sentence:
-  - 46 months prison time
+  - 46 months incarceration
   - $500 restitution
 ---
+
 - [News Report](https://www.montgomeryadvertiser.com/story/news/crime/2021/01/27/feds-seize-items-lonnie-coffman-falkville-home-capitol-riot-case/4281963001/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351661/download)

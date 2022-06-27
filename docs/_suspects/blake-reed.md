@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
-  - 42 days in prison
+  - 42 days incarceration
   - period of home confinement
   - 36 months probation
   - $500 restitution
