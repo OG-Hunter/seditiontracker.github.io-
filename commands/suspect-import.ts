@@ -358,6 +358,7 @@ const falsePositives = (site: string) => {
       set.add("Zoyganeles");
       set.add("Riddle");
       set.add("Robinson");
+      set.add("Gray");
       break;
     case "DOJ":
       set.add("Capsel");
@@ -679,6 +680,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Reply to Opposition to Motion for Release from Custody/.test(description):
     case /Defense Reply to Opposition to Motion for Conditional Release/.test(description):
     case /Defense Reply to Government Opposition to Motion for Reconsideration of Pretrial Detention/.test(description):
+    case /Reply to Government Opposition to Motion for Reconsideration of Motion for Conditional Release/.test(
+      description,
+    ):
       return "Defense Reply to Opposition to Motion for Release from Custody";
 
     case /Defense Response to Motion for Appeal of Release Order/.test(description):

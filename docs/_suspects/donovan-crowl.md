@@ -9,10 +9,12 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-27
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 50
 occupation: Former U.S. Military (Marines)
@@ -41,6 +43,6 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1356121/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/three-individuals-affiliated-oath-keepers-indicted-federal-court-conspiracy-obstruct)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471056/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515116/download)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donovan%20Crowl%20Governments%20Opposition%20to%20Defendants%20Motion%20for%20Reconsideration%20of%20Detention%20Order.pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donovan%20Crowl%20Governments%20Opposition%20to%20Defendants%20Motion%20for%20Reconsideration%20of%20Detention%20Order.pdf)

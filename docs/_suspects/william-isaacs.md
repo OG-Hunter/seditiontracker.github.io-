@@ -9,10 +9,12 @@ date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age:
 occupation:
@@ -37,4 +39,4 @@ charges:
 sentence:
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/05/31/grand-jury-indicts-kissimmee-man-for-alleged-role-in-capitol-riot/)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471106/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515141/download)

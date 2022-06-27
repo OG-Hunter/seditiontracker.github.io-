@@ -33,11 +33,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-28
 videos:
 charges:
 sentence:
 ---
-
-- [Indictment](https://www.documentcloud.org/documents/22067285-greene_michael_et_al_-_indictment_6-22-22_0)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515111/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/member-oath-keepers-indicted-conspiracy-and-other-offenses-related-us-capitol-breach)

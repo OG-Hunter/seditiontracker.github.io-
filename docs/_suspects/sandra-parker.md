@@ -9,10 +9,12 @@ date: 2021-02-18
 charged: 2021-02-18
 indicted: 2021-02-19
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 62
 occupation:
@@ -40,4 +42,4 @@ sentence:
 - [Complaint](https://htv-prod-media.s3.amazonaws.com/files/morrow-couple-1613747755.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369066/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471061/download)
-- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-individuals-affiliated-oath-keepers-indicted-federal-grand-jury-conspiracy-obstruct)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515126/download)

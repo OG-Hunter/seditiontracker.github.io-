@@ -9,10 +9,12 @@ date: 2021-05-17
 charged: 2021-05-17
 indicted: 2021-07-28
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 41
 occupation:
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.news4jax.com/news/local/2021/05/19/neptune-beach-man-involved-in-altercation-that-led-to-officer-getting-hurt-during-jan-6-capitol-riot-court-documents-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1395251/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421286/download)
