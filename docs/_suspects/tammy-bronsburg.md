@@ -4,15 +4,17 @@ lastName: Bronsburg
 hashtag: TammyBronsburg
 aka: Tammy Butry
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
-convicted:
+convicted: 2022-06-07
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-06-27
+plea_hearing: 2022-06-07
+trial_date:
 sentencing:
 age: 49
 occupation:
@@ -34,10 +36,15 @@ published: true
 caseNumber: 1:21-cr-144
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.northcentralpa.com/news/two-lycoming-county-individuals-charged-with-breaking-into-u-s-capitol/article_266b3682-67c5-11eb-a73d-9336a612db11.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Aungst%20and%20Tammy%20Bronsburg%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365926/download)
-- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377901/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516001/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516006/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516011/download)

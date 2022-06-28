@@ -36,13 +36,12 @@ published: true
 caseNumber: 1:21-cr-74
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://wgntv.com/news/josiah-colt-man-seen-hanging-from-senate-balcony-turns-himself-in/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Self Incrimination Pt. 1](https://idahonews.com/more-to-watch/boise-man-goes-viral-after-making-his-way-onto-senate-floor?utm_source=t.co&utm_medium=referral&utm_campaign=socialflow)
@@ -50,5 +49,5 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1355476/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355481/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366041/download)
-- [Plea Agreement](https://s3.documentcloud.org/documents/21016788/7-26-21-josiah-colt-plea-agreement.pdf)
-- [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Josiah%20Colt%20Statement%20of%20Offense.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515931/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515936/download)

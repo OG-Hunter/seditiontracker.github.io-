@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-27
 trial_date:
-sentencing:
+sentencing: 2022-10-21
 age: 33
 occupation:
 affiliations:
@@ -56,3 +56,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459411/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515711/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515716/download)
+- [DOJ Press Release (Plea Agreement)](https://www.justice.gov/usao-dc/pr/florida-man-pleads-guilty-three-felony-charges-actions-jan-6-capitol-breach)
