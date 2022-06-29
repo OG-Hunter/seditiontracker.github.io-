@@ -1,19 +1,19 @@
 id: 249
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #249 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/249a.png/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #249 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-249aarrest.jpg/@@images/image/preview
 hashtag: ViperCap
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-06-21
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/bernard-sirr
+name: Bernard Sirr
 missingImage: false
 identifiedBy: null
 notes: null
