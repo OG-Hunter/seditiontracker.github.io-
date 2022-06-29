@@ -3,7 +3,7 @@ name: Bernard Sirr
 lastName: Sirr
 hashtag: ViperCap
 aka:
-residence:
+residence: Rhode Island
 status: Charged
 date: 2022-06-21
 charged: 2022-06-21
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 47
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -39,6 +39,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.abc6.com/north-kingstown-man-charged-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516326/download)
