@@ -3,7 +3,7 @@ name: Paul Kovacik
 lastName: Kovacik
 hashtag:
 aka:
-residence:
+residence: Indiana
 status: Charged
 date: 2022-05-10
 charged: 2022-05-10
@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://fox59.com/indiana-news/southern-indiana-man-arrested-jan-6-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516076/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516081/download)
