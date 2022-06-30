@@ -36,19 +36,18 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.postandcourier.com/news/south-carolina-men-charged-in-riot-at-u-s-capitol/article_defc5150-d907-11eb-997d-9353862128d9.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412476/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459296/download)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236782/gov.uscourts.dcd.236782.51.0.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236782/gov.uscourts.dcd.236782.52.0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516791/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516796/download)
