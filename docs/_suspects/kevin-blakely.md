@@ -48,3 +48,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394051/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1444301/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1444306/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Sam%20Blakely%20Government%20Reply%20Sentencing%20Memorandum.pdf)
