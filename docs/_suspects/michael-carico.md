@@ -47,3 +47,5 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468961/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Aaron%20Carico%20Information.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Aaron%20Carico%20Statement%20of%20Offense.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Aaron%20Carico%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Aaron%20Carico%20Judgment.pdf)

@@ -48,3 +48,5 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Madison%20Pettit%20and%20Gabriel%20Burress%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469111/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469116/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gabriel%20Burress%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gabriel%20Burress%20Judgment.pdf)

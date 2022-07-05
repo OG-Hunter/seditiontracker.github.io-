@@ -47,3 +47,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1397111/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476946/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476951/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Cavanaugh%20Addendum%20to%20Government%20Sentencing%20Memorandum.pdf)

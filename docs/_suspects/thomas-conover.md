@@ -43,3 +43,5 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459186/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469081/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469086/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Paul%20Conover%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20Paul%20Conover%20Judgment.pdf)
