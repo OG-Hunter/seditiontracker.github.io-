@@ -790,8 +790,8 @@ const addData = (suspectData) => {
         }
       }
 
-      if (type == "Judgement") {
-        suspect.status = "Sentenced";
+      if (type == "Judgement" && suspect.status != "Convicted" && suspect.status != "Sentenced") {
+        suspect.status = "Convicted";
         updatePreview(suspect);
       }
     }

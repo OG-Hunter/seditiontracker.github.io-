@@ -48,3 +48,5 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384336/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470026/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470031/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Maury%20Baker%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Maury%20Baker%20Judgment.pdf)

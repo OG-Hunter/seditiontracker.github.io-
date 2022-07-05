@@ -64,3 +64,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412756/download)
+- [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/michigan-man-found-guilty-charges-actions-related-capitol-breach)
