@@ -36,18 +36,18 @@ published: true
 caseNumber: 1:21-cr-603
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 90 days home confinement
   - 12 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.wkrn.com/news/nashville-man-faces-several-charges-following-breach-of-u-s-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475916/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475921/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480391/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480396/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christopher%20Michael%20Cunningham%20Defense%20Sentencing%20Memorandum.pdf)

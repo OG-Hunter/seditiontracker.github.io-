@@ -4,13 +4,13 @@ lastName: Cooke
 hashtag: NolanCooke
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-21
 charged: 2021-01-21
 indicted:
 convicted: 2022-03-09
 acquitted:
-sentenced:
+sentenced: 2022-06-10
 dismissed:
 deceased:
 plea_hearing: 2022-03-09
@@ -36,15 +36,20 @@ published: true
 caseNumber: 1:22-cr-52
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 12 months in prison
+  - 36 months probation
+  - $2000 restitution
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481756/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nolan%20Bernard%20Cooke%20Information.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481761/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nolan%20Bernard%20Cooke%20Defense%20Sentencing%20Memorandum.pdf)

@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-72
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 30 days incarceration
   - 12 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/latest-round-of-capitol-riot-arrests-outed-themselves-on-social-media)
 - [Complaint](https://www.courtlistener.com/recap/gov.uscourts.dcd.226140/gov.uscourts.dcd.226140.1.1.pdf?fbclid=IwAR3-9Irq5mTP7Byu1S7TYTAzPr0yHYf1q9x5jEu_9EcltQfOaBb7DsjvJHI)
 - [Self Incrimination](https://twitter.com/GarrettWKYT/status/1350966875136667654?s=20)
@@ -55,3 +54,5 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gracyn%20Courtright%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430131/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430136/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gracyn%20Courtright%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Gracyn%20Courtright%20Judgment.pdf)

@@ -4,18 +4,18 @@ lastName: Crase
 hashtag: DaltonCrase
 aka:
 residence: Kentucky
-status: Convicted
+status: Sentenced
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
 convicted: 2021-10-14
 acquitted:
-sentenced:
+sentenced: 2022-01-20
 dismissed:
 deceased:
 plea_hearing: 2021-10-14
 trial_date:
-sentencing: 2022-01-13
+sentencing: 2022-01-20
 age: 21
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-82
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 15 days incarceration
+  - 60 hours community service
+  - 36 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.kentucky.com/news/local/crime/article248923359.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371326/download)
@@ -49,3 +54,5 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443366/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Information.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443361/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Ray%20Crase%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Ray%20Crase%20Judgment.pdf)

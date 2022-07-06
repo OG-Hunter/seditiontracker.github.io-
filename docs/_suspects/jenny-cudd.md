@@ -53,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442571/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jenny%20Louise%20Cudd%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442576/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jenny%20Louise%20Cudd%20Judgment.pdf)
