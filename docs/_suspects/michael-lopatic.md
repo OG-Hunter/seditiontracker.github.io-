@@ -4,14 +4,14 @@ lastName: Lopatic
 hashtag: PTSDPuncher
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Deceased
 date: 2021-02-03
 charged: 2021-02-03
 indicted: 2021-01-29
 convicted:
 sentenced:
 dismissed:
-deceased:
+deceased: 2022-07-03
 plea_hearing:
 sentencing:
 age: 57
