@@ -4,13 +4,13 @@ lastName: Snow
 hashtag:
 aka: Bob Snow
 residence: Arkansas
-status: Convicted
+status: Sentenced
 date: 2021-12-29
 charged: 2021-12-29
 indicted:
 convicted: 2022-03-24
 acquitted:
-sentenced:
+sentenced: 2022-07-07
 dismissed:
 deceased:
 plea_hearing: 2022-03-24
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:22-cr-30
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 12 months probation
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.nwaonline.com/news/2022/jan/06/heber-springs-man-faces-federal-charges-in-2021/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481146/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486931/download)
