@@ -41,3 +41,4 @@ sentence:
 - [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20John%20Lopatic%20Govt%20Motion%20for%20Pretrial%20Detention.pdf)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20John%20Lopatic%20Govt%20Motion%20for%20Pretrial%20Detention.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371441/download)
+- [Death](https://www.ydr.com/story/news/nation/2022/07/06/michael-lopatic-of-lancaster-dead-one-year-after-insurrection-arrest/65367853007/)
