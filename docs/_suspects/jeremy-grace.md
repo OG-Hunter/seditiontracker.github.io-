@@ -4,13 +4,13 @@ lastName: Grace
 hashtag: GrayUAPB
 aka:
 residence: Oregon
-status: Convicted
+status: Sentenced
 date: 2021-05-24
 charged: 2021-05-24
 indicted:
 convicted: 2022-04-08
 acquitted:
-sentenced:
+sentenced: 2022-07-08
 dismissed:
 deceased:
 plea_hearing: 2022-04-08
@@ -41,6 +41,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 21 days incarceration
+  - 12 months probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.oregonlive.com/crime/2021/05/battle-ground-man-caught-on-video-with-dad-repeating-our-house-while-inside-us-capitol-during-jan-6-incursion-feds-say.html)
