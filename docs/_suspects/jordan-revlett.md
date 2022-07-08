@@ -4,18 +4,18 @@ lastName: Revlett
 hashtag: JordanRevlett
 aka:
 residence: Kentucky
-status: Convicted
+status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
 convicted: 2021-01-14
 acquitted:
-sentenced:
+sentenced: 2022-07-07
 dismissed:
 deceased:
 plea_hearing: 2021-01-14
 trial_date:
-sentencing: 2022-07-06
+sentencing: 2022-07-07
 age: 23
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-281
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 14 days incarceration
+  - 12 months probation
+  - 80 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.wkyt.com/2021/01/26/feds-charge-5th-kentucky-resident-in-capitol-violence/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361051/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361051/download)

@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-10-05
 sentencing:
 age: 51
 occupation: Owner, Global Enlightenment Radio Network (GERN)
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457771/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457766/download)
