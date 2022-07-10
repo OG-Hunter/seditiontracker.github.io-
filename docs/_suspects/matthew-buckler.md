@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-27
 trial_date:
-sentencing:
+sentencing: 2022-07-21
 age:
 occupation:
 affiliations:
