@@ -1,8 +1,8 @@
 id: 499
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #499 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-499a.jpg/@@images/image/preview
 hashtag: GasMaskBlue
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-07-01
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/eric-cramer
+name: Eric Cramer
 missingImage: false
 identifiedBy: null
 notes: null
