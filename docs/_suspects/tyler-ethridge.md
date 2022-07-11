@@ -32,7 +32,7 @@ title: Tyler Ethridge charged on July 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-154
 videos:
 charges:
