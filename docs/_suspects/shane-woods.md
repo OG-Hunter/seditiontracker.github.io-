@@ -9,10 +9,12 @@ date: 2021-06-21
 charged: 2021-06-21
 indicted: 2021-07-16
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 43
 occupation:
@@ -31,12 +33,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-476
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413656/download)
