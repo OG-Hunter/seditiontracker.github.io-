@@ -4,18 +4,18 @@ lastName: Sidorski
 hashtag: DennisSidorski
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-20
 charged: 2021-01-20
 indicted:
 convicted: 2022-01-21
 acquitted:
-sentenced:
+sentenced: 2022-07-11
 dismissed:
 deceased:
 plea_hearing: 2022-01-21
 trial_date:
-sentencing: 2022-06-28
+sentencing: 2022-07-11
 age: 46
 occupation:
 affiliations:
@@ -37,7 +37,11 @@ caseNumber: 1:21-cr-48
 videos:
 charges:
 sentence:
+  - 100 days incarceration
+  - 12 months probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.newsweek.com/dennis-sidorski-american-supremacist-rioter-charged-employee-fbi-1566787)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371516/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377856/download)
