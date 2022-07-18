@@ -4,15 +4,17 @@ lastName: Capsel
 hashtag: MathewCapsel
 aka: Mateo Q Capsel
 residence: Illinois
-status: Charged
+status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
-indicted:
+indicted: 2022-03-01
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 27
 occupation:
@@ -39,3 +41,4 @@ sentence:
 - [News Report](https://abc7chicago.com/capitol-riot-dc-riots-matthew-capsel-tik-tok/10079241/)
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mathew%20Capsel%20Indictment.pdf)

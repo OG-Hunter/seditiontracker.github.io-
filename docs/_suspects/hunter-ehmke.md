@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-29
 videos:
 charges:
-  - code: 18 USC § 1361
-    title: Destruction of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/1361
-    felony: true
+- code: 18 USC § 1361
+  title: Destruction of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/1361
+  felony: true
 sentence:
   - 4 months incarceration
   - 3 years probation
   - $2281 restitution
 ---
-
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)
 - [Complaint](https://www.justice.gov/opa/page/file/1353886/download)
@@ -53,3 +52,5 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364761/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505716/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505721/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Ehmke%20Judgment.pdf)

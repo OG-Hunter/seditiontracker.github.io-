@@ -9,10 +9,12 @@ date: 2022-03-07
 charged: 2022-03-07
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 51
 occupation:
@@ -39,3 +41,4 @@ sentence:
 - [News Report](https://www.wishtv.com/news/crime-watch-8/3-cousins-from-central-indiana-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481971/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481976/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Quentin%20and%20Jared%20Cantrell%20Information.pdf)

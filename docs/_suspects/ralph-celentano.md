@@ -4,15 +4,17 @@ lastName: Celentano
 hashtag: ChairGuy
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2022-03-01
 charged: 2022-03-01
-indicted:
+indicted: 2022-05-25
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 54
 occupation:
@@ -40,3 +42,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481346/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481351/download)
 - [FBI Raid (Video)](https://twitter.com/jocejocejoe/status/1503468283453915142)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Ralph%20Joseph%20Celentano%20Indictment.pdf)

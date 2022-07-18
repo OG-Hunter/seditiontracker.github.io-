@@ -41,3 +41,4 @@ sentence:
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507411/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507416/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Chad%20Clifton%20and%20David%20Johnston%20Information.pdf)

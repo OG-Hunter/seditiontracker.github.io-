@@ -4,15 +4,17 @@ lastName: Clayton
 hashtag: MAGAHotDog
 aka:
 residence: Missouri
-status: Charged
+status: Indicted
 date: 2022-03-28
 charged: 2022-03-28
-indicted:
+indicted: 2022-04-22
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 41
 occupation:
@@ -40,3 +42,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1489216/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1489221/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/missouri-man-arrested-charges-assault-law-enforcement-officers-during-jan-6-capitol)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cale%20Clayton%20Indictment.pdf)

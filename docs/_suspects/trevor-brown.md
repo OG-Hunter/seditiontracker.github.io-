@@ -4,15 +4,17 @@ lastName: Brown
 hashtag: TrevorBrown
 aka:
 residence: Michigan
-status: Charged
+status: Indicted
 date: 2021-07-01
 charged: 2021-07-01
-indicted:
+indicted: 2022-05-18
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age:
 occupation: Business Consultant at KCO Credit
@@ -38,3 +40,4 @@ sentence:
 ---
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/07/02/feds-bust-michigan-man-u-s-capitol-siege-crackdown-continues/7839249002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408656/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Trevor%20Brown%20Indictment.pdf)

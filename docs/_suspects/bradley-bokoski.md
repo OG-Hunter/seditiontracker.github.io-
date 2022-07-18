@@ -38,7 +38,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ksl.com/article/50411869/eagle-mountain-man-arrested-charged-in-connection-with-jan-6-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508471/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508476/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bradley%20and%20Matthew%20Bokoski%20Information.pdf)

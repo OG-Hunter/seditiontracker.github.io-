@@ -38,7 +38,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507421/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507426/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Chad%20Clifton%20and%20David%20Johnston%20Information.pdf)

@@ -9,10 +9,12 @@ date: 2022-03-07
 charged: 2022-03-07
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 38
 occupation:
@@ -39,3 +41,4 @@ sentence:
 - [News Report](https://dailyjournal.net/2022/03/10/fbi-arrests-greenwood-man-for-role-in-capitol-insurrection/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481931/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481936/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Eric%20Quentin%20and%20Jared%20Cantrell%20Information.pdf)

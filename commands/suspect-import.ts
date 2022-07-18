@@ -614,6 +614,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Opposition to Motion to Suppress Evidence/.test(description):
       return "Government Opposition to Motion to Suppress Evidence";
 
+    case /Government Opposition to Motion for Extension of Time to File Sentencing Material/.test(description):
+      return "Government Opposition to Motion for Extension of Time to File Sentencing Material";
+
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
       return "Defendant's Notice of Government's Violation of Due Process Protections Act";
@@ -670,6 +673,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Preliminary Guideline Analysis/.test(description):
       return "Defense Analysis of Sentencing Guidelines";
 
+    case /Defense Motion for Extension of Time to File Sentencing Material/.test(description):
+      return "Defense Motion for Extension of Time to File Sentencing Material";
+
     // defense response
     case /Defense Opposition to Government's Motion to Continue/.test(description):
       return "Defense Opposition to Continue";
@@ -700,6 +706,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Defense Objection to Government Summary of Sentencing Range/.test(description):
     case /Defense Response to Government/.test(description) && lastName === "Croy":
       return "Defense Objection to Sentencing Guidelines";
+
+    case /Defense Response to Government Split Sentence Request/.test(description):
+      return "Defense Response to Government Split Sentence Request";
 
     // press release
     case /Charged/.test(description):

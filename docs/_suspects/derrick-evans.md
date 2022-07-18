@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-337
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 90 days incarceration
   - $2000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351946/download)
@@ -56,3 +55,4 @@ sentence:
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derrick%20Evans%20Superseding%20Indictment.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484896/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484901/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Derrick%20Evans%20Government%20Sentencing%20Memorandum.pdf)
