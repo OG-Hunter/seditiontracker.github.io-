@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-17
 trial_date:
-sentencing:
+sentencing: 2022-09-30
 age: 56
 occupation:
 affiliations:
@@ -53,3 +53,4 @@ sentence:
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238499/gov.uscourts.dcd.238499.12.0.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513816/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513821/download)
+- [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Andrew%20Mazza%20Motion%20for%20Detention.pdf)

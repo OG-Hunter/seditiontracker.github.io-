@@ -405,6 +405,10 @@ const linkType = (description: string, lastName?: string) => {
     return null;
   }
 
+  if (/Jury Trial Transcript/.test(description)) {
+    return null;
+  }
+
   switch (true) {
     // standard documents
     case /Memorandum Opinion on Split Sentence/.test(description):
@@ -530,6 +534,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Plea Hearing Transcript/.test(description):
       return "Plea Hearing Transcript";
 
+    case /Jury Verdict Form/.test(description):
+      return "Jury Verdict Form";
+
     // government motions
     case /Government's Motion to Continue/.test(description):
       return "Government motion to Continue";
@@ -545,6 +552,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Memorandum in Support of Detention/.test(description):
     case /Motion for Pretrial Detention/.test(description):
     case /Memorandum in Support of Pre-Trial Detention/.test(description):
+    case /Motion for Detention/.test(description):
       return "Detention Memo";
 
     case /Government Motion for Emergency Appeal of Release Order/.test(description):
@@ -616,6 +624,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Government Opposition to Motion for Extension of Time to File Sentencing Material/.test(description):
       return "Government Opposition to Motion for Extension of Time to File Sentencing Material";
+
+    case /Government Omnibus Opposition to Defense Post-Trial Motions/.test(description):
+      return "Government Omnibus Opposition to Defense Post-Trial Motions";
 
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):

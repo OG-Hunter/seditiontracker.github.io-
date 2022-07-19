@@ -9,11 +9,13 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-27
 convicted: 2022-03-08
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-03-08
-sentencing: 2022-06-08
+plea_hearing:
+trial_date: 2022-02-28
+sentencing: 2022-08-01
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force
@@ -61,3 +63,7 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356111/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473241/download)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Government%20Opposition%20to%20Defense%20Motion%20to%20Reconsider%20Detention%20Order.pdf)
+- [Jury Verdict Form](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Jury%20Verdict%20Form.pdf)
+- [Government Omnibus Opposition to Defense Post-Trial Motions](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Government%20Omnibus%20Opposition%20to%20Defense%20Post-Trial%20Motions.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Government%20Sentencing%20Memorandum.pdf)
