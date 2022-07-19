@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-19
 sentencing:
 age: 58
 occupation: Home Health Aide
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We busted in the Capitol.'
+quote: "We busted in the Capitol."
 title: Marilyn Fassell charged on September 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.tampabay.com/news/crime/2021/09/17/largo-woman-smoked-in-capitol-during-riot-now-she-husband-face-charges/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Information.pdf)

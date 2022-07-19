@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-18
 sentencing:
 age:
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.mercurynews.com/2021/12/03/man-arrested-in-orange-in-connection-with-capitol-insurrection/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459001/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458996/download)
