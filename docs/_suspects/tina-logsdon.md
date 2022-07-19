@@ -1,7 +1,7 @@
 ---
 name: Tina Logsdon
 lastName: Logsdon
-hashtag: 
+hashtag:
 aka:
 residence: Illinois
 status: Charged
@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-20
 sentencing:
 age:
 occupation:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/metro-state/2022/2/16/22938068/brazilian-citizen-from-indian-head-park-charged-in-capitol-breach)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471146/download)

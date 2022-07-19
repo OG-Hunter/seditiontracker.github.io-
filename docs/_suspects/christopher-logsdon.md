@@ -1,7 +1,7 @@
 ---
 name: Christopher Logsdon
 lastName: Logsdon
-hashtag: 
+hashtag:
 aka:
 residence: Illinois
 status: Charged
@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-20
 sentencing:
 age:
 occupation:
@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471141/download)
