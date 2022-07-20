@@ -36,18 +36,18 @@ published: true
 caseNumber: 1:21-mj-466
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453436/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453431/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20and%20Stacie%20Getsinger%20Information.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453436/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Getsinger%20Defense%20Sentencing%20Memorandum.pdf)
