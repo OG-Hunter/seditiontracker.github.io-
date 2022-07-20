@@ -4,15 +4,17 @@ lastName: Fassell
 hashtag: MarilynFassell
 aka:
 residence: Florida
-status: Charged
+status: Convicted
 date: 2021-09-09
 charged: 2021-09-09
 indicted:
-convicted:
+convicted: 2022-07-19
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-07-19
+trial_date:
 sentencing:
 age: 58
 occupation: Home Health Aide
@@ -31,12 +33,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-692
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.tampabay.com/news/crime/2021/09/17/largo-woman-smoked-in-capitol-during-riot-now-she-husband-face-charges/)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Statement%20of%20Facts.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20and%20Marilyn%20Fassell%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520861/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520866/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520871/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520876/download)

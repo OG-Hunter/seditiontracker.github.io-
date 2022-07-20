@@ -36,13 +36,12 @@ published: true
 caseNumber: 1:21-cr-157
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://losangeles.cbslocal.com/2021/02/17/fbi-arrests-costa-mesa-man-christian-secor-charged-in-us-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Affidavit%20in%20Support%20of%20Criminal%20Complaint%20and%20Arrest%20Warrant.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460111/download)
@@ -50,3 +49,4 @@ sentence:
 - [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Govt%20Opposition%20to%20Motion%20for%20Review%20of%20Bond%20Decision.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507211/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507216/download)
+- [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Defense%20Motion%20for%20Review%20and%20Revocation%20of%20Detention%20Order.pdf)

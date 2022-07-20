@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-cr-52
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://spectrumlocalnews.com/nys/central-ny/public-safety/2021/04/21/syracuse--proud-boy--charged-in-jan--6-capitol-riot)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388681/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAlbany/status/1384996862026035205)
@@ -56,3 +55,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468986/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468986/download)
+- [Plea Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Greene%20Plea%20Hearing%20Transcript.pdf)

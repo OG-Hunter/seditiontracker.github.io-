@@ -535,6 +535,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Plea Hearing Transcript";
 
     case /Jury Verdict Form/.test(description):
+    case /Verdict Form/.test(description):
       return "Jury Verdict Form";
 
     // government motions

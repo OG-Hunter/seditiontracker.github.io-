@@ -36,20 +36,19 @@ published: true
 caseNumber: 1:21-cr-138
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 641
-    title: Theft of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 231(a)(3)
+  title: Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 641
+  title: Theft of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
   - 8 months incarceration
   - 200 hours community service
   - $2000 restitution
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355521/download)
@@ -61,3 +60,5 @@ sentence:
 - [Defendant's Motion for a Bill of Particulars](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Motion%20for%20a%20Bill%20of%20Particulars.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469586/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469591/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Aaron%20Mostofsky%20Judgment.pdf)

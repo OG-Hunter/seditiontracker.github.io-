@@ -36,23 +36,24 @@ published: true
 caseNumber: 1:21-cr-75
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 33 months incarceration
   - 100 hours community service
   - $2000 restitution
 ---
-
 - [News Report](https://www.wbaltv.com/article/fbi-charge-matthew-miller-cooksville-us-capitol-riot/35312595)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360201/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360201/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461761/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470771/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470776/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Judgment.pdf)
