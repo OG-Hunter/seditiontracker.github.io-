@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 41
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2022/05/05/chad-heathcote-adel-iowa-charged-two-offenses-january-6-2021-us-capitol-riot-washington-dc/9655987002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499041/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499046/download)

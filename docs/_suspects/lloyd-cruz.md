@@ -14,7 +14,7 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
-age:
+age: 39
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.kansascity.com/news/politics-government/article259374669.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481061/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481066/download)

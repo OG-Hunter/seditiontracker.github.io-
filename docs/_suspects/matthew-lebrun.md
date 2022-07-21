@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 33
 occupation:
 affiliations: Proud Boys, Oath Keepers
 jurisdiction: Federal
@@ -39,7 +39,7 @@ charges:
 sentence:
 ---
 
-- [News Story](https://www.wtsp.com/article/news/crime/steven-miles-florida-jan-6-capitol-riot/67-f7854f44-8475-48b8-bb71-034c1d956d8e)
+- [News Report](https://www.wtsp.com/article/news/crime/steven-miles-florida-jan-6-capitol-riot/67-f7854f44-8475-48b8-bb71-034c1d956d8e)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charges-assault-law-enforcement-officers-during-jan-6-capitol-breach)

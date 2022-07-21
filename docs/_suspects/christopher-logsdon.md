@@ -42,6 +42,7 @@ charges:
   felony: false
 sentence:
 ---
+- [News Report](https://chicago.suntimes.com/crime/2022/7/20/23271604/capitol-riot-southern-illinois-couple-pleads-guilty-christopher-tina-logsdon)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471141/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520771/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520781/download)

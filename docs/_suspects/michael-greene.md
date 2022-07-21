@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.indystar.com/story/news/local/2022/06/24/oath-keeper-michael-greene-from-indianapolis-arrested-alleged-role-capitol-riot/7723352001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515111/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/member-oath-keepers-indicted-conspiracy-and-other-offenses-related-us-capitol-breach)

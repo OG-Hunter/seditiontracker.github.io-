@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.click2houston.com/news/local/2022/03/11/houston-man-arrested-in-connection-to-jan-6-capitol-riots-allegedly-seen-on-video-taking-photos-inside-breached-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481476/download)
