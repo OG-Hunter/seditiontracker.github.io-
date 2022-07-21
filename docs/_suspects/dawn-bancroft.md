@@ -4,13 +4,13 @@ lastName: Bancroft
 hashtag: DawnBancroft
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-01-29
 charged: 2021-01-29
 indicted:
 convicted: 2021-09-28
 acquitted:
-sentenced:
+sentenced: 2022-07-21
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 60 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
