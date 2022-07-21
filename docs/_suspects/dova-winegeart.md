@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 49
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'It got crazy. I did shit.'
 title: Dova Winegeart charged on July 14th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://kfor.com/news/local/oklahoma-woman-arrested-for-storming-of-u-s-capitol/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520761/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520766/download)

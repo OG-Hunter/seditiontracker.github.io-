@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 30
 occupation: Application Security Engineer
 affiliations:
 jurisdiction: Federal
@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.kptv.com/2022/07/13/portland-woman-arrested-charged-connection-with-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518561/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518566/download)

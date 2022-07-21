@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.cbsnews.com/dfw/news/facebook-posts-lead-to-arrest-of-burleson-man-charged-in-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1486336/download)

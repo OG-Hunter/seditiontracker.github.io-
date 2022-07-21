@@ -36,5 +36,5 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.whec.com/livingston-county-ny-news/livingston-county-woman-indicted-for-capitol-riot/6426541/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473421/download)

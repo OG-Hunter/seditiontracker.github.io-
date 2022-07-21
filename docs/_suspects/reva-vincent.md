@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-04-22
 trial_date:
 sentencing:
-age:
+age: 57
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,7 @@ charges:
   felony: false
 sentence:
 ---
+- [News Report](https://www.courier-journal.com/story/news/crime/2022/05/05/us-capitol-riot-kentucky-woman-reva-vincent-pleads-guilty-jan-6-case/9657373002/)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496526/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496531/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496536/download)

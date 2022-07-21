@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-05-04
 trial_date:
 sentencing:
-age:
+age: 44
 occupation:
 affiliations: Oath Keepers
 jurisdiction: Federal
@@ -46,6 +46,7 @@ charges:
   felony: true
 sentence:
 ---
+- [News Report](https://www.washingtonpost.com/dc-md-va/2022/05/04/wilson-pleads-guilty/)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499021/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499181/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499186/download)

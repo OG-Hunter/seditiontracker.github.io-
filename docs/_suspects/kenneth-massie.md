@@ -36,4 +36,5 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://www.daytondailynews.com/crime/man-arrested-in-dayton-facing-capitol-riot-charges/T5GHGW44QVGKDFTUOV4GRLSGLM/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481626/download)

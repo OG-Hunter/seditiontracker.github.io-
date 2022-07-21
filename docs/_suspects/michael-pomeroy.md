@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.ydr.com/story/news/2022/05/24/brian-korte-york-haven-lynwood-nester-dillsburg-charged-capitol-riots/65357319007/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507521/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507526/download)

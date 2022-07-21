@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-
+- [News Report](https://www.wtkr.com/news/third-member-of-local-family-charged-in-connection-to-riots-at-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509026/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509031/download)
