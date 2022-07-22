@@ -33,7 +33,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-14
+caseNumber: 1:22-cr-132
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
@@ -47,3 +47,6 @@ sentence:
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355771/download)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1355776/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521526/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521531/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521536/download)
