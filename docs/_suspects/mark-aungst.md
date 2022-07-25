@@ -4,7 +4,7 @@ lastName: Aungst
 hashtag: MarkAungst
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Deceased
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
