@@ -4,15 +4,17 @@ lastName: Byerly
 hashtag: GreyBeanieMeanie
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-06-25
 charged: 2021-06-25
 indicted: 2021-08-20
-convicted:
+convicted: 2022-07-25
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-25
+trial_date:
 sentencing:
 age: 54
 occupation:
@@ -31,14 +33,25 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-527
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 113(a)(4)
+    title: Assault by striking, beating or wounding
+    url: https://www.law.cornell.edu/uscode/text/18/113
+    felony: false
 sentence:
 ---
+
 - [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409211/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/capitolhunters/status/1412810756236595201)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alan%20Byerly%20Government%20Motion%20and%20Memorandum%20for%20Pretrial%20Detention.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alan%20Byerly%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521751/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Alan%20Byerly%20Government%20Motion%20and%20Memorandum%20for%20Pretrial%20Detention.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521796/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521801/download)
