@@ -3,7 +3,7 @@ name: Samuel Rodriguez
 lastName: Rodriguez
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
 date: 2022-07-06
 charged: 2022-07-06
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 33
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.mcall.com/news/breaking/mc-nws-lehigh-valley-man-arrest-jan-6-riot-20220724-3m2q2nkx4rgxne3ozyljiec4ra-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521511/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1521516/download)
