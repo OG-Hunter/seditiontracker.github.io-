@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-10-05
 sentencing:
 age: 32
 occupation:
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)

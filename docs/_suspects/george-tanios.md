@@ -4,15 +4,17 @@ lastName: Tanios
 hashtag: TrumpUGrad
 aka: Sandwich Nazi
 residence: West Virginia
-status: Indicted
+status: Convicted
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-03-17
-convicted:
+convicted: 2022-07-27
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-07-27
+trial_date:
 sentencing:
 age: 39
 occupation: Owner, Sandwich Shop
@@ -54,6 +56,14 @@ videos:
   - title: Exhibit 12 - Video Upper Terrace West-2.mp4 (0:02:50)
     url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/2388d310ce2b013960702cde48001122.mp4
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 
@@ -67,3 +77,4 @@ sentence:
 - [Defense Reply to Opposition to Motion for Release from Custody](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Pierre%20Tanios%20Defense%20Reply%20to%20Opposition%20to%20Motion%20for%20Release%20from%20Custody.pdf)
 - [Appeals Court Ruling](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/George%20Pierre%20Tanios%20Appeals%20Court%20Judgment%20on%20Pretrial%20Release.pdf)
 - [Jail Release (Video)](https://twitter.com/EricFlackTV/status/1428845957488291840)
+- [Superseding Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228981/gov.uscourts.dcd.228981.72.0_2.pdf)
