@@ -4,15 +4,17 @@ lastName: McCormick
 hashtag:
 aka:
 residence: California
-status: Charged
+status: Convicted
 date: 2021-11-16
 charged: 2021-11-16
 indicted:
-convicted:
+convicted: 2022-07-18
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-07-18
+trial_date:
 sentencing:
 age:
 occupation:
@@ -34,10 +36,15 @@ published: true
 caseNumber: 1:21-cr-710
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.mercurynews.com/2021/12/03/man-arrested-in-orange-in-connection-with-capitol-insurrection/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459001/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458996/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459006/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1522211/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1522216/download)
