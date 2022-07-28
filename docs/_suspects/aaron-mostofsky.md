@@ -36,19 +36,20 @@ published: true
 caseNumber: 1:21-cr-138
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
-- code: 18 USC § 641
-  title: Theft of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/641
-  felony: false
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
 sentence:
   - 8 months incarceration
   - 200 hours community service
   - $2000 restitution
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/brooklyn-judges-son-arrested-for-participating-in-capitol-riots-source-says/2826102/?_osource=db_npd_nbc_wnbc_twt_shr)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353206/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1355521/download)
