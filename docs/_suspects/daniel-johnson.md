@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-00407
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
   - 120 days incarceration
   - $2000 restitution
   - 1 year probation
 ---
+
 - [News Report](https://www.kaaltv.com/austin-minnesota-news/austin-man-arrested-in-connection-to-capitol-riots-in-january/6137943/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)

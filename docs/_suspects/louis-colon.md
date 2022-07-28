@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-160
 videos:
 charges:
-- code: 18 USC § 231(a)(3),2
-  title: Civil Disorder (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony:
+  - code: 18 USC § 231(a)(3),2
+    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony:
 sentence:
 ---
+
 - [News Report](https://www.washingtonpost.com/local/legal-issues/kansas-city-proud-boys-charged-capitol-riots/2021/02/11/389d47b6-6c73-11eb-9ead-673168d5b874_story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)

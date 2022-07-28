@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-193
 videos:
 charges:
   - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
+    title: Obstruction of Law Enforcement During Civil Disorder
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
   - code: 18 USC § 1512(c)(2)

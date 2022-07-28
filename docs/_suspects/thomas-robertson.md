@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
   - code: 18 USC § 231(a)(3),2
-    title: Civil Disorder and Aiding and Abetting
+    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
   - code: 18 USC § 1752(a)(1) and b(1)(A)

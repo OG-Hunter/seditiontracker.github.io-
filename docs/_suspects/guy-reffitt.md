@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-32
 videos:
 charges:
   - code: 18 USC § 231(a)(2)
-    title: Civil Disorder (w/a firearm)
+    title: Use of Firearm in Furtherance of a Civil Disorder
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
   - code: 18 USC § 1512(c)(2)
@@ -49,7 +49,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true
   - code: 18 USC § 231(a)(3)
-    title: Civil Disorder
+    title: Obstruction of Law Enforcement During Civil Disorder
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
   - code: 18 USC § 1512(a)(2)(C)

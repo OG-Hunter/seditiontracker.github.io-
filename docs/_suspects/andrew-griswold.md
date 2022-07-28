@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-459
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412506/download)
