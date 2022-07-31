@@ -4,18 +4,18 @@ lastName: Griswold
 hashtag: AndrewGriswold
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-03-05
 charged: 2021-03-05
 indicted: 2021-07-09
 convicted: 2022-03-30
 acquitted:
-sentenced:
+sentenced: 2022-07-14
 dismissed:
 deceased:
 plea_hearing: 2022-03-30
 trial_date:
-sentencing: 2022-07-13
+sentencing: 2022-07-14
 age: 28
 occupation:
 affiliations:
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
+  - 75 days incareration
+  - 2 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)

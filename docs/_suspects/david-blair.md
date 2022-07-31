@@ -4,18 +4,18 @@ lastName: Blair
 hashtag: DavidAlanBlair
 aka:
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-05
 convicted: 2022-03-29
 acquitted:
-sentenced:
+sentenced: 2022-07-13
 dismissed:
 deceased:
 plea_hearing: 2022-03-29
 trial_date:
-sentencing: 2022-07-13
+sentencing: 2022-07-21
 age:
 occupation:
 affiliations:
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
+  - 5 months incarceration
+  - 18 months probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-blair-capitol-search-warrant-20210202-x4uzotfxhng5ddglhnl5npeonu-story.html)
