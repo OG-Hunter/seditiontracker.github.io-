@@ -8,11 +8,11 @@ status: Indicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-03-10
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-10
 sentencing:
 age: 49
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](http://www.innercitypress.com/ddc1insurrectionbluescouncili012121.html)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351706/download)

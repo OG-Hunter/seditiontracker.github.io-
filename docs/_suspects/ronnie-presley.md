@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-257
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/03/08/tennessee-man-ronnie-b-presley-arrested-capitol-riot-investigation/4629102001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1375166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380416/download)
 - [DOJ Press Release (Plea Agreement)](https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-guilty-felony-charge-actions-jan-6-capitol-breach)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1522796/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1522801/download)
