@@ -20,8 +20,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/eric-von-bernewitz.jpg
+suspect: eric-von-bernewitz.jpg
 booking:
 courtroom:
 courthouse:
