@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-28
 trial_date:
-sentencing: 2022-08-02
+sentencing: 2022-08-09
 age: 37
 occupation: Real Estate Agent
 affiliations:

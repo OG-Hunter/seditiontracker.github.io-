@@ -20,8 +20,8 @@ age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/convicted.jpg
-suspect: convicted.jpg
+image: /images/preview/carson-lucard.jpg
+suspect: carson-lucard.jpg
 booking:
 courtroom:
 courthouse:
