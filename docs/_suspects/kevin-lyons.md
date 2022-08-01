@@ -23,7 +23,7 @@ suspect: 026.png
 booking: kevin-lyons.jpg
 courtroom:
 courthouse:
-raid:
+raid: kevin-lyons.jpg
 perpwalk:
 quote: 'Wow you are pretty good that was up for only an hour'
 title: Kevin Lyons charged on January 13, 2021

@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-11
 trial_date: 2022-04-06
-sentencing:
+sentencing: 2022-08-11
 age: 47
 occupation: Police Officer (Sergeant)
 affiliations: Rocky Mount Police Department
