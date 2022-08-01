@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-516
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - (2) years probation
-  - (60) hours community service
+  - 2 years probation
+  - 60 hours community service
   - $500 restitution
 ---
+
 - [News Report](https://dailyvoice.com/pennsylvania/lancaster/news/pa-man-running-for-judge-of-elections-charged-by-fbi-for-role-in-capitol-riot/814669/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450521/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439616/download)

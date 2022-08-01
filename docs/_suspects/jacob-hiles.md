@@ -36,14 +36,16 @@ published: true
 caseNumber: 1:21-cr-155
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 24 months probation
+  - 60 hours community service
   - $500 restitution
 ---
+
 - [News Report](https://www.wtvr.com/news/local-news/jacob-giles-turns-himself-in-to-fbi-for-alleged-role-in-capitol-attack)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356971/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356976/download)

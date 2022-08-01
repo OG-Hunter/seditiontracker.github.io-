@@ -4,13 +4,13 @@ lastName: Reffitt
 hashtag: GuyReffitt
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-01-27
 convicted: 2022-03-08
 acquitted:
-sentenced:
+sentenced: 2022-08-01
 dismissed:
 deceased:
 plea_hearing:
@@ -36,29 +36,29 @@ published: true
 caseNumber: 1:21-cr-32
 videos:
 charges:
-  - code: 18 USC § 231(a)(2)
-    title: Use of Firearm in Furtherance of a Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1512(a)(2)(C)
-    title: Obstruction of Justice through Physical Force (or threat of Force)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 231(a)(2)
+  title: Use of Firearm in Furtherance of a Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(1), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1512(a)(2)(C)
+  title: Obstruction of Justice through Physical Force (or threat of Force)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
+  - $500 restitution
 ---
-
 - [News Report](https://nypost.com/2021/01/18/rioter-guy-reffitt-threatened-to-shoot-kids-if-they-talked-to-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356111/download)

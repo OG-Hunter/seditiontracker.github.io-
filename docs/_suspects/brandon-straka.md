@@ -43,7 +43,8 @@ charges:
 sentence:
   - 3 months home confinement
   - 3 years probation
-  - $5,000 fine
+  - $5000 fine
+  - 60 hours community service
   - $500 restitution
 ---
 

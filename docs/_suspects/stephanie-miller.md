@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 20 days incarceration
+  - 14 days incarceration
   - 60 hours of community service
   - $500 restitution
 ---

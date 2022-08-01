@@ -43,6 +43,7 @@ charges:
 sentence:
   - 1 month home confinement
   - 36 months probation
+  - 60 hours community service
   - $500 restitution
 ---
 

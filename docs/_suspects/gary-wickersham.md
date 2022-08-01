@@ -36,16 +36,17 @@ published: true
 caseNumber: 1:21-cr-606
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 90 days home confinement
   - 36 months probation
-  - $2,000 fine
+  - $2000 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/pennsylvania-man-gary-wickersham-arrested-in-capitol-riot-i-can-enter-the-capitol-because-i-pay-my-taxes)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443386/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439596/download)
