@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2022-06-14
-sentencing: 2022-06-22
+trial_date: 2022-06-15
+sentencing:
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776, Proud Boys
