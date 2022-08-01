@@ -4,13 +4,13 @@ lastName: Kelley
 hashtag: KariKelley
 aka:
 residence: Alabama
-status: Convicted
+status: Sentenced
 date: 2021-02-10
 charged: 2021-02-10
 indicted:
 convicted: 2021-12-28
 acquitted:
-sentenced:
+sentenced: 2022-03-17
 dismissed:
 deceased:
 plea_hearing: 2021-12-28
@@ -36,12 +36,15 @@ published: true
 caseNumber: 1:21-cr-201
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/alabama-woman-accused-of-climbing-through-capitol-window-during-dc-riot/ar-BB1dQ3au)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379286/download)
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)
