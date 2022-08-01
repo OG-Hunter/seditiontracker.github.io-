@@ -43,7 +43,7 @@ charges:
 sentence:
   - 2 years probation
   - 60 hours community service
-  - $3,000 fine
+  - $3000 fine
   - $500 restitution
 ---
 

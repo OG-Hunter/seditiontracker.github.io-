@@ -36,16 +36,17 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 60 days home confinement
-  - 36 months probation
+  - 3 years probation
   - $2,500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)

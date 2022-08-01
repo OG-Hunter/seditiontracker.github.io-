@@ -43,7 +43,7 @@ charges:
 sentence:
   - 42 days incarceration
   - period of home confinement
-  - 36 months probation
+  - 3 years probation
   - $500 restitution
 ---
 

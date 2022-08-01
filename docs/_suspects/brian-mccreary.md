@@ -43,8 +43,8 @@ charges:
 sentence:
   - 42 days intermittent confinement
   - 60 days home confinement
-  - 36 months probation
-  - $2,500 fine
+  - 3 years probation
+  - $2500 fine
   - $500 restitution
 ---
 

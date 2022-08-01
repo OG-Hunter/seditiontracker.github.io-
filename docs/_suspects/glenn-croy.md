@@ -43,7 +43,7 @@ charges:
 sentence:
   - 90 days home confinement
   - 14 days residential reentry center
-  - 36 months probation
+  - 3 years probation
   - $500 restitution
 ---
 

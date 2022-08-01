@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 42 days incarceration
-  - 36 months probation
+  - 3 years probation
   - $2,000 fine
   - $500 restitution
 ---

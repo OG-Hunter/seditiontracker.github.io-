@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-267
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 36 months of probation
+  - 3 years probation
   - regular drug testing and mental health treatment
   - $500 restitution
 ---
+
 - [News Report](https://www.newschannel5.com/news/crossville-man-arrested-on-charges-relating-to-january-6-capitol-riots)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378876/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378881/download)

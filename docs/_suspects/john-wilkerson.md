@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 36 months probation
+  - 3 years probation
   - 60 hours community service
   - $2500 fine
   - $500 restitution

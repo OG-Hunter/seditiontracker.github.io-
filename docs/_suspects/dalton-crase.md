@@ -43,7 +43,7 @@ charges:
 sentence:
   - 15 days incarceration
   - 60 hours community service
-  - 36 months probation
+  - 3 years probation
   - $500 restitution
 ---
 

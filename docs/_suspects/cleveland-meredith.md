@@ -42,7 +42,7 @@ charges:
     felony: true
 sentence:
   - 28 months incarceration
-  - 36 months probation
+  - 3 years probation
 ---
 
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
