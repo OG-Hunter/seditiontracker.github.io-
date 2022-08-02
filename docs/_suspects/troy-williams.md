@@ -4,18 +4,18 @@ lastName: Williams
 hashtag: TroyWilliams
 aka:
 residence: Kentucky
-status: Convicted
+status: Sentenced
 date: 2021-02-01
 charged: 2021-02-01
 indicted:
 convicted: 2021-10-14
 acquitted:
-sentenced:
+sentenced: 2022-01-20
 dismissed:
 deceased:
 plea_hearing: 2021-10-14
 trial_date:
-sentencing: 2022-01-13
+sentencing: 2022-01-20
 age: 25
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 15 days intermittent confinement
+  - 3 years probatoin
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469526/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469531/download)

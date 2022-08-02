@@ -42,8 +42,9 @@ charges:
     felony: true
 sentence:
   - 6 months incarceration
-  - 3 years probation
-  - $500 restitution
+  - 2 years probation
+  - 200 hours community service
+  - $2000 restitution
 ---
 
 - [News Report](https://www.seattletimes.com/seattle-news/crime/ex-washington-national-guardsman-among-first-indicted-in-attack-on-u-s-capitol/)

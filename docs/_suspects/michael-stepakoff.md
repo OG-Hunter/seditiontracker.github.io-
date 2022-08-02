@@ -41,8 +41,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 60 days home confinement
   - 1 year probation
-  - $722 fine
+  - $742 fine
+  - 60 hours community service
   - $500 restitution
 ---
 
@@ -53,3 +55,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366131/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436781/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436786/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227275/gov.uscourts.dcd.227275.43.0.pdf)

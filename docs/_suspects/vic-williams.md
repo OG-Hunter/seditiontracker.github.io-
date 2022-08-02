@@ -4,13 +4,13 @@ lastName: Williams
 hashtag: VicWilliams
 aka: Stiemy Vic
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-05-10
 charged: 2021-05-10
 indicted:
 convicted: 2021-10-28
 acquitted:
-sentenced:
+sentenced: 2022-02-07
 dismissed:
 deceased:
 plea_hearing: 2021-10-28
@@ -36,12 +36,18 @@ published: true
 caseNumber: 1:21-cr-388
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days home confinement
+  - 1 year probation
+  - $1500 fine
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/an-accused-capitol-rioter-nicknamed-stiemy-vic-gave-fbi-agents-two-bags-of-coffee-they-gave-him-four-federal-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445706/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445696/download)

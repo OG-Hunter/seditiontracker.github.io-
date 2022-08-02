@@ -44,7 +44,7 @@ sentence:
   - 10 days jail (to be served on weekends)
   - 60 days home confinement
   - 3 years probation
-  - $2,500 fine
+  - $2500 fine
   - $500 restitution
 ---
 

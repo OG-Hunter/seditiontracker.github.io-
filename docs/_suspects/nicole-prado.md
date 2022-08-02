@@ -42,7 +42,9 @@ charges:
     felony: false
 sentence:
   - 1 year probation
-  - 60 days curfew (7:00 PM)
+  - 60 day curfew (7:00 PM)
+  - $742 fine
+  - 60 hours community service
   - $500 restitution
 ---
 

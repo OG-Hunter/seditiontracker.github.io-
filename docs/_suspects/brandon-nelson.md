@@ -42,7 +42,8 @@ charges:
     felony: false
 sentence:
   - 2 years probation
-  - $2,500 fine
+  - $2500 fine
+  - 50 hours community service
   - $500 restitution
 ---
 

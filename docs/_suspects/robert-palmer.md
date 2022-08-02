@@ -43,7 +43,7 @@ charges:
 sentence:
   - 63 months incarceration
   - 3 years probation
-  - $500 restitution
+  - $2000 restitution
 ---
 
 - [News Report](https://www.justice.gov/usao-dc/pr/florida-man-arrested-charged-federal-court-assaulting-mpd-officers-during-us-capitol)

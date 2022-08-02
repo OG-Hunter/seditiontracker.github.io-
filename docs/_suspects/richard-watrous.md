@@ -43,7 +43,7 @@ charges:
 sentence:
   - 14 days incarceration
   - 60 days home confinement
-  - $2,500 fine
+  - $2500 fine
   - $500 restitution
 ---
 
