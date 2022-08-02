@@ -4,16 +4,18 @@ lastName: Schaefer
 hashtag: Insider723
 aka:
 residence: Delaware
-status: Charged
+status: Convicted
 date: 2022-01-11
 charged: 2022-01-11
 indicted:
-convicted:
+convicted: 2022-08-02
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-08-02
+trial_date:
+sentencing: 2022-11-18
 age:
 occupation:
 affiliations:
@@ -25,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'THE CAPITOL HAS BEEN BREACHED - IT IS FILLING UP - THEY CAN’T STOP US'
+quote: "THE CAPITOL HAS BEEN BREACHED - IT IS FILLING UP - THEY CAN’T STOP US"
 title: Jeffrey Schaefer charged on 1/11/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -34,7 +36,12 @@ published: true
 caseNumber: 1:22-mj-000
 videos:
 charges:
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.delawareonline.com/story/news/2022/01/14/jeffrey-schaefer-arrested-jan-6-capitol-riots-washington-facebook/6528740001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481446/download)
