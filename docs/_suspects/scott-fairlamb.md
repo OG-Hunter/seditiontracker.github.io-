@@ -55,6 +55,7 @@ charges:
 sentence:
   - 41 months incarceration
   - 36 months supervised release
+  - $2000 restitution
 ---
 
 - [News Report](https://abc7ny.com/local-dc-riot-arrests-nyc-sanitation-worker-arrested/9900913/)

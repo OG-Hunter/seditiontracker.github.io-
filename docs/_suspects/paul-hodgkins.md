@@ -42,8 +42,8 @@ charges:
     felony: true
 sentence:
   - 8 months incarceration
-  - 24 months probation
-  - $2,000 restitution
+  - 2 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)

@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 60 days home confinement
-  - 12 months probation
+  - 1 year probation
   - 60 hours community service
   - $742 fine
   - $500 restitution

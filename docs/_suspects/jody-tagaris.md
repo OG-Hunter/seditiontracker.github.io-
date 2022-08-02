@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-368
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(C)
-  title: Entering and Remaining in Certain Rooms in the Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(C)
+    title: Entering and Remaining in Certain Rooms in the Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 24 months probation
+  - 2 years probation
   - 60 hours of community service
   - $2000 restitution
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/got-tear-gassed-but-okay-woman-charged-with-entering-u-s-capitol-building-through-broken-window-during-siege/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jody%20Lynn%20Tagaris%20Criminal%20Complaint.pdf)

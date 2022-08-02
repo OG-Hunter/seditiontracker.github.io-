@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 14 days incarceration
-  - 12 months probation
+  - 1 year probation
   - 80 hours community service
   - $500 restitution
 ---

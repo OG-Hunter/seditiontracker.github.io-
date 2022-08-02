@@ -70,3 +70,4 @@ sentence:
 - [Jury Verdict Form](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Jury%20Verdict%20Form.pdf)
 - [Government Omnibus Opposition to Defense Post-Trial Motions](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Government%20Omnibus%20Opposition%20to%20Defense%20Post-Trial%20Motions.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Guy%20Wesley%20Reffitt%20Government%20Sentencing%20Memorandum.pdf)
+- [DOJ Statement (Sentencing)](https://twitter.com/FBI/status/1554218828044935168?s=20&t=FQkXex_lrMJFivZK8xO_kA)

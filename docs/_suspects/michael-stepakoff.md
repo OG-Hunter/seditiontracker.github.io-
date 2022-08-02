@@ -36,15 +36,16 @@ published: true
 caseNumber: 1:21-cr-96
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 12 months probation
+  - 1 year probation
   - $722 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.wfla.com/news/pinellas-county/palm-harbor-rabbi-arrested-accused-of-storming-us-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362386/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362386/download)

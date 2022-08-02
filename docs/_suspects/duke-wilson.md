@@ -47,7 +47,7 @@ charges:
 sentence:
   - 51 months incarceration (4.25 years)
   - 3 years probation
-  - $2,000 restitution
+  - $2000 restitution
 ---
 
 - [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)

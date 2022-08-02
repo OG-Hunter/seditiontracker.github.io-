@@ -42,7 +42,8 @@ charges:
     felony: true
 sentence:
   - 41 months incarceration
-  - $500 restitution
+  - 3 years probation
+  - $2000 restitution
 ---
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

@@ -42,6 +42,7 @@ charges:
     felony: false
 sentence:
   - 45 days incarceration
+  - $500 restitution
 ---
 
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)

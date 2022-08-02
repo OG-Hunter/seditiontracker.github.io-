@@ -42,6 +42,7 @@ charges:
     felony: false
 sentence:
   - 60 days incarceration
+  - 60 hours community service
   - $500 restitution
 ---
 

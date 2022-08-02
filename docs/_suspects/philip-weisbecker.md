@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 30 days intermittent confinement
-  - 12 months probation
+  - 1 year probation
   - $500 restitution
 ---
 

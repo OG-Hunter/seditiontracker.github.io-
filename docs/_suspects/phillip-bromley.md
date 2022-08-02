@@ -36,16 +36,17 @@ published: true
 caseNumber: 1:21-cr-250
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
   - 90 days incarceration
   - $4000 fine
-  - 12 months probation
+  - 1 year probation
   - $500 restitution
 ---
+
 - [News Report](https://www.al.com/news/2021/02/alabama-medical-worker-arrested-in-dc-riot-witnessed-ashli-babbitts-fatal-shooting.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Phillip%20Andrew%20Bromley%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371306/download)

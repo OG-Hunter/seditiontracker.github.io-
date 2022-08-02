@@ -38,7 +38,7 @@ videos:
 charges:
 sentence:
   - 100 days incarceration
-  - 12 months probation
+  - 1 year probation
   - $500 restitution
 ---
 

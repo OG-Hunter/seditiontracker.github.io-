@@ -42,6 +42,7 @@ charges:
     felony: false
 sentence:
   - 45 days incarceration
+  - $500 restitution
 ---
 
 - [News Report](https://www.nbc4i.com/news/local-news/columbus/central-ohio-resident-arrested-in-jan-6-breach-of-u-s-capitol/)

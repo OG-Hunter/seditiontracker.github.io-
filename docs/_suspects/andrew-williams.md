@@ -36,14 +36,15 @@ published: true
 caseNumber: 1:21-cr-45
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 24 months probation
+  - 2 years probation
   - $500 restitution
 ---
+
 - [News Report](https://people.com/crime/fbi-arrests-florida-firefighter-seen-in-videos-at-capitol-riots/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Courthouse Steps [Video]](https://twitter.com/EricMockTV/status/1349127558709866502?s=20)

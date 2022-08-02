@@ -38,7 +38,7 @@ videos:
 charges:
 sentence:
   - 90 days home confinement
-  - 24 months probation
+  - 2 years probation
   - $1,500 fine
   - $500 restitution
 ---

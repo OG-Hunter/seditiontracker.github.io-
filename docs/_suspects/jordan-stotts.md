@@ -36,14 +36,17 @@ published: true
 caseNumber: 1:21-cr-272
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, Demonstrating or Picketing in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, Demonstrating or Picketing in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 24 months probation
+  - 60 days home confinement
+  - 2 years probation
+  - 60 hours community service
   - $500 restitution
 ---
+
 - [News Report](https://www.startribune.com/prosecutors-charge-minnesota-man-in-capitol-siege/600036333/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377866/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384366/download)
