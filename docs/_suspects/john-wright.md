@@ -4,15 +4,17 @@ lastName: Wright
 hashtag: JohnWright
 aka:
 residence: Ohio
-status: Indicted
+status: Convicted
 date: 2021-04-26
 charged: 2021-04-26
 indicted: 2021-05-05
-convicted:
+convicted: 2022-08-02
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-02
+trial_date:
 sentencing:
 age: 54
 occupation: Owner, Motor-Coach Business
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-341
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 
@@ -41,3 +47,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460186/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/ohio-man-pleads-guilty-felony-charge-actions-jan-6-capitol-breach)
