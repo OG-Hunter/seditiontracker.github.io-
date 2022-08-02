@@ -22,7 +22,7 @@ affiliations: Three Percenters, Texas Freedom Force
 jurisdiction: Federal
 image: /images/preview/063.jpg
 suspect: 063.jpg
-booking:
+booking: guy-reffitt.jpg
 courtroom: guy-reffitt.jpg
 courthouse:
 raid:
