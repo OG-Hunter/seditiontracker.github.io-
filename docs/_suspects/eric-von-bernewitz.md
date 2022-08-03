@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-307
 videos:
 charges:
 sentence:
-  - 60 days home confinement
+  - 60 days home detention
   - 2 years probation
   - $1000 fine
   - $500 restitution

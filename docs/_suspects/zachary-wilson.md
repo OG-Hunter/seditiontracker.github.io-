@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 45 days home confinement
+  - 45 days home detention
   - 2 years probation
   - 60 hours community service
   - $500 restitution

@@ -41,8 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 60 days in local jail (to be served in 10 days at a time)
+  - 60 days intermittment incarceration
   - 3 years probation
+  - 60 hours community service
   - $500 restitution
 ---
 

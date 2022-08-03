@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 10 days jail (to be served on weekends)
-  - 60 days home confinement
+  - 60 days home detention
   - 3 years probation
   - $2500 fine
   - $500 restitution

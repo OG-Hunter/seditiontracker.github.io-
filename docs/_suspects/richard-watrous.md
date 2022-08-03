@@ -42,7 +42,7 @@ charges:
     felony: false
 sentence:
   - 14 days incarceration
-  - 60 days home confinement
+  - 60 days home detention
   - $2500 fine
   - $500 restitution
 ---

@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-549
 videos:
 charges:
 sentence:
-  - 90 days home confinement
+  - 90 days home detention
   - 2 years probation
   - $1500 fine
   - 50 hours community service

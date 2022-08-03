@@ -37,7 +37,7 @@ caseNumber: 1:21-cr-650
 videos:
 charges:
 sentence:
-  - 30 days home confinement
+  - 30 days home detention
   - 3 years probation
   - 60 hours of community service
   - $500 restitution
