@@ -1,7 +1,7 @@
 ---
 name: Jerod Bargar
 lastName: Bargar
-hashtag:
+hashtag: Yellow45
 aka:
 residence:
 status: Charged
@@ -38,6 +38,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523986/download)
+- [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/missouri-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
