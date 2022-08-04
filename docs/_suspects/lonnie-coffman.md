@@ -50,6 +50,7 @@ charges:
     felony: true
 sentence:
   - 46 months incarceration
+  - 3 years probation
   - $500 restitution
 ---
 

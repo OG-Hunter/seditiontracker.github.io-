@@ -44,7 +44,7 @@ sentence:
   - 10 days incarceration
   - 1 year probation
   - $1000 fine
-  - $500 restitution
+  - $938 restitution
 ---
 
 - [News Report](https://www.nj.com/news/2021/05/grandmother-helped-tip-off-fbi-about-nj-man-charged-with-being-at-capitol-riot-feds-say.html)

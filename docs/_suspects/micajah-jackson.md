@@ -4,18 +4,18 @@ lastName: Jackson
 hashtag: TartanPlaidPB
 aka:
 residence: Arizona
-status: Convicted
+status: Sentenced
 date: 2021-05-14
 charged: 2021-05-14
 indicted:
 convicted: 2021-11-22
 acquitted:
-sentenced:
+sentenced: 2022-03-10
 dismissed:
 deceased:
 plea_hearing: 2021-11-22
 trial_date:
-sentencing: 2022-02-25
+sentencing: 2022-03-10
 age:
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-484
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 90 days residential halfway house
+  - 3 years probation
+  - $1000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.azcentral.com/story/news/local/phoenix/2021/05/19/micajah-jackson-arizona-faces-federal-charges-us-capitol-riot/5164968001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395291/download)
