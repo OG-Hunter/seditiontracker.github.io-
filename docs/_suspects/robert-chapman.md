@@ -44,7 +44,8 @@ sentence:
   - 90 days home detention
   - 18 months of probation
   - 60 hours community service
-  - $742 fines and restitution
+  - $742 fine
+  - $500 restitution
 ---
 
 - [News Report](https://www.cnn.com/2021/04/23/politics/bumble-capitol-riot-robert-chapman/index.html)

@@ -44,7 +44,7 @@ sentence:
   - 30 days home detention
   - $2000 fine
   - 2 years probation
-  - 50 hours community service
+  - 60 hours community service
   - $500 restitution
 ---
 
@@ -53,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452906/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Roger%20Rebegila%20Information.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452911/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.230226/gov.uscourts.dcd.230226.44.0_3.pdf)

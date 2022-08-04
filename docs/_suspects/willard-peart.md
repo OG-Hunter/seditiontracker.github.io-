@@ -43,6 +43,7 @@ charges:
 sentence:
   - 60 days home detention
   - 3 years probation
+  - 240 hours community service
   - $500 fine
   - $500 restitution
 ---

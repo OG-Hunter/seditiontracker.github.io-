@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
-  - 45 days incarceration
+  - 90 days incarceration
   - $500 restitution
 ---
 
@@ -51,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479316/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Adam%20Avery%20Honeycutt%20Information.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479321/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.240138/gov.uscourts.dcd.240138.41.0.pdf)

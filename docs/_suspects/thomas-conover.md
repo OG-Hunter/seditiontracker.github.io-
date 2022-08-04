@@ -4,18 +4,18 @@ lastName: Conover
 hashtag: GreyScaredZombie
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-12-03
 charged: 2021-12-03
 indicted:
 convicted: 2022-01-07
 acquitted:
-sentenced:
+sentenced: 2022-04-22
 dismissed:
 deceased:
 plea_hearing: 2022-01-07
 trial_date:
-sentencing: 2022-04-08
+sentencing: 2022-04-22
 age: 53
 occupation:
 affiliations:
@@ -37,7 +37,13 @@ caseNumber: 1:21-cr-743
 videos:
 charges:
 sentence:
+  - 30 days residential reentry center
+  - 3 years probation
+  - $2500 fine
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459196/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459186/download)

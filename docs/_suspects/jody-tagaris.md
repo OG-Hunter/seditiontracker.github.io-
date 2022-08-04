@@ -44,6 +44,7 @@ sentence:
   - 2 years probation
   - 60 hours of community service
   - $2000 restitution
+  - $500 fine
 ---
 
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/got-tear-gassed-but-okay-woman-charged-with-entering-u-s-capitol-building-through-broken-window-during-siege/)

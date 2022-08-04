@@ -43,7 +43,6 @@ charges:
 sentence:
   - 30 days incarceration
   - 3 years probation
-  - $10 fine
   - $500 restitution
 ---
 

@@ -52,3 +52,4 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carla%20Krzywicki%20and%20Jean%20Lavin%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469186/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469191/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235842/gov.uscourts.dcd.235842.72.0_1.pdf)

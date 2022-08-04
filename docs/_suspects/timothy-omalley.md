@@ -4,18 +4,18 @@ lastName: O'Malley
 hashtag: TimothyOMalley
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-06-28
 charged: 2021-06-28
 indicted:
 convicted: 2021-12-15
 acquitted:
-sentenced:
+sentenced: 2022-04-12
 dismissed:
 deceased:
 plea_hearing: 2021-12-15
 trial_date:
-sentencing:
+sentencing: 2022-04-12
 age:
 occupation:
 affiliations: Proud Boys
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-704
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 2 years probation
+  - 20 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.wkrg.com/northwest-florida/okaloosa-county-man-charged-with-taking-part-in-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408321/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1460316/download)

@@ -41,7 +41,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
-  - 120 days incarceration
+  - 4 months incarceration
   - $2000 restitution
   - 1 year probation
 ---
