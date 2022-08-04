@@ -3,10 +3,10 @@ name: Jerod Bargar
 lastName: Bargar
 hashtag: Yellow45
 aka:
-residence:
+residence: Missouri
 status: Charged
-date: 2022-07-29
-charged: 2022-07-29
+date: 2022-08-03
+charged: 2022-08-03
 indicted:
 convicted:
 acquitted:
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 36
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Jerod Bargar charged on July 29th, 2022
+title: Jerod Bargar charged on August 3rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -39,7 +39,7 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.kctv5.com/2022/08/03/missouri-man-arrested-accused-carrying-gun-us-capitol-during-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523986/download)
 - [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/missouri-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
