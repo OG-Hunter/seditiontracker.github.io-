@@ -42,6 +42,8 @@ charges:
     felony: false
 sentence:
   - 45 days incarceration
+  - 9 months probation
+  - 80 hours community service
   - $500 restitution
 ---
 
@@ -51,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461901/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Merry%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461906/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238794/gov.uscourts.dcd.238794.49.0.pdf)

@@ -53,3 +53,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1414716/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469061/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469066/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232044/gov.uscourts.dcd.232044.56.0.pdf)

@@ -46,6 +46,7 @@ sentence:
   - 90 days incarceration
   - 3 years probation
   - mandatory mental health and alcohol abuse treatment
+  - 60 hours community service
   - $754 restitution
 ---
 

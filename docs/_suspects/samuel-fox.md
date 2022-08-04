@@ -4,18 +4,18 @@ lastName: Fox
 hashtag: SamuelFox
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-06-23
 charged: 2021-06-23
 indicted:
 convicted: 2021-11-05
 acquitted:
-sentenced:
+sentenced: 2022-04-05
 dismissed:
 deceased:
 plea_hearing: 2021-11-05
 trial_date:
-sentencing:
+sentencing: 2022-04-05
 age:
 occupation:
 affiliations:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-mj-479
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days home detention
+  - 3 years probation
+  - $2500 fine
+  - $500 restitution
 ---
+
 - [News Report](https://triblive.com/local/westmoreland/3-more-western-pa-residents-including-scottdale-man-charged-in-capitol-riots/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437321/download)
@@ -49,4 +54,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447241/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1447246/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Defense%20Sentencing%20Memorandum.pdf)
-- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Samuel%20Christopher%20Fox%20Judgment.pdf)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232802/gov.uscourts.dcd.232802.40.0_2.pdf)
