@@ -42,6 +42,7 @@ charges:
     felony: true
 sentence:
   - 90 days incarceration
+  - 3 years probation
   - $2000 fine
   - $2000 restitution
 ---

@@ -4,14 +4,14 @@ lastName: Suarez
 hashtag: MarissaSuarez
 aka:
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-03-10
 convicted: 2022-05-02
 acquitted:
-sentenced: 
-dismissed: 
+sentenced: 2022-07-12
+dismissed:
 deceased:
 plea_hearing: 2022-05-02
 trial_date:
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-205
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - 60 hours community service
+  - $2000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.nj.com/news/2021/01/jail-guard-from-nj-took-time-off-to-riot-in-dc-fbi-says.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359596/download)

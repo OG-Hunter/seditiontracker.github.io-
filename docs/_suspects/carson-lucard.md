@@ -42,6 +42,7 @@ charges:
     felony: false
 sentence:
   - 21 days intermitent confinement
+  - 60 days home detention
   - 3 years probation
   - $500 restitution
 ---

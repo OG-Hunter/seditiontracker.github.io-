@@ -44,7 +44,7 @@ sentence:
   - 90 days incarceration
   - $4000 fine
   - 1 year probation
-  - $500 restitution
+  - $2000 restitution
 ---
 
 - [News Report](https://www.al.com/news/2021/02/alabama-medical-worker-arrested-in-dc-riot-witnessed-ashli-babbitts-fatal-shooting.html)

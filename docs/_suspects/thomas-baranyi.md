@@ -4,13 +4,13 @@ lastName: Baranyi
 hashtag: ThomasBaranyi
 aka:
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-02
 convicted: 2022-02-03
 acquitted:
-sentenced:
+sentenced: 2022-06-17
 dismissed:
 deceased:
 plea_hearing: 2022-02-03
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-62
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: null
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: null
 sentence:
+  - 90 days incarceration
+  - 1 year probation
+  - $500 restitution
 ---
+
 - [News Report](https://apnews.com/article/capitol-siege-shootings-new-jersey-c9bcea4917ebe6c07d6e2f45286c5d8a)
 - [Self Incrimination](https://twitter.com/shaunking/status/1347257804244082695?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355731/download)

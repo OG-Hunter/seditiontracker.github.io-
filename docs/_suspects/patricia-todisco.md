@@ -4,13 +4,13 @@ lastName: Todisco
 hashtag: PatriciaTodisco
 aka:
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-03-10
 convicted: 2022-04-27
 acquitted:
-sentenced:
+sentenced: 2022-07-12
 dismissed:
 deceased:
 plea_hearing: 2022-04-27
@@ -36,12 +36,17 @@ published: true
 caseNumber: 1:21-cr-205
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - 60 hours community service
+  - $2000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://philadelphia.cbslocal.com/2021/01/22/marissa-suarez-us-capitol-riots-five-arrests-new-jersey-marissa-suarez-correctional-police-officer/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359596/download)
