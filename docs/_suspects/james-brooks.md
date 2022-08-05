@@ -4,15 +4,17 @@ lastName: Brooks
 hashtag:
 aka:
 residence: Tennessee
-status: Charged
+status: Convicted
 date: 2022-01-03
 charged: 2022-01-03
 indicted:
-convicted:
+convicted: 2022-08-04
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-04
+trial_date:
 sentencing:
 age:
 occupation:
@@ -31,11 +33,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-000
+caseNumber: 1:22-cr-18
 videos:
 charges:
+  - code: 18 USC § 5104(e)(2)(C)
+    title: Entering and Remaining in Certain Rooms in the Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481136/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Wayne%20Brooks%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524271/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524276/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524281/download)

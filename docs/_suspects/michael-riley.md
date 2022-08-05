@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-09-19
 sentencing:
 age:
 occupation: U.S. Capitol Police K-9 Officer
