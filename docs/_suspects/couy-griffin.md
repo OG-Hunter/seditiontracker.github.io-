@@ -42,6 +42,7 @@ charges:
     felony: false
 sentence:
   - 14 days incarceration
+  - 1 year probation
   - $3000 fine
   - 60 hours community service
   - $500 restitution
@@ -57,3 +58,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365786/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482896/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Couy%20Griffin%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227183/gov.uscourts.dcd.227183.119.0.pdf)

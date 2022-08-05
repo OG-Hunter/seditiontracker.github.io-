@@ -43,8 +43,7 @@ charges:
 sentence:
   - 45 days incarceration
   - 2 years probation
-  - $500 restitution
-  - $52.95 restitution (C-SPAN)
+  - $552.95 restitution
 ---
 
 - [News Report](https://www.msn.com/en-us/news/us/west-virginia-man-charged-with-stealing-cspan-equipment-during-capitol-riots/ar-BB1efFsk)
