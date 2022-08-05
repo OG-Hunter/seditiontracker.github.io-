@@ -42,7 +42,8 @@ charges:
     felony: true
 sentence:
   - 63 months incarceration
-  - $500 restitution
+  - 3 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/outnumbered-police-had-to-release-a-man-accused-of-assaulting-them-with-a-metal-pole-during-the-capitol-riot-hours-later-he-joined-back-in/65-4ec014a1-3a18-4cac-9829-108f658ebf62)

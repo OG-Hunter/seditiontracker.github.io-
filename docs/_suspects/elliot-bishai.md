@@ -4,18 +4,18 @@ lastName: Bishai
 hashtag: ElliotBishai
 aka:
 residence: South Carolina
-status: Convicted
+status: Sentenced
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-12-15
 convicted: 2022-04-26
 acquitted:
-sentenced:
+sentenced: 2022-07-29
 dismissed:
 deceased:
 plea_hearing: 2022-04-26
 trial_date:
-sentencing:
+sentencing: 2022-07-29
 age: 20
 occupation:
 affiliations:
@@ -41,6 +41,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 14 days incarceration
+  - 1 year probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.thestate.com/news/local/crime/article249973884.html)

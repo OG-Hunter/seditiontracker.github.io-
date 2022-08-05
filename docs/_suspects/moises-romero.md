@@ -4,13 +4,13 @@ lastName: Romero
 hashtag:
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-09-23
 charged: 2021-09-23
 indicted:
 convicted: 2021-03-16
 acquitted:
-sentenced:
+sentenced: 2022-07-22
 dismissed:
 deceased:
 plea_hearing: 2021-03-16
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
+  - 1 year incarceration
+  - 1 year probation
+  - $2000 restitution
 ---
 
 - [News Report](https://wsvn.com/news/local/2-south-floridians-post-photos-videos-of-themselves-at-u-s-capitol-riot/)

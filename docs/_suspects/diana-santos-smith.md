@@ -4,18 +4,18 @@ lastName: Santos-Smith
 hashtag: DianaSantosSmith
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-01-29
 charged: 2021-01-29
 indicted:
 convicted: 2021-09-28
 acquitted:
-sentenced:
+sentenced: 2022-07-22
 dismissed:
 deceased:
 plea_hearing: 2021-09-28
 trial_date:
-sentencing: 2022-07-21
+sentencing: 2022-07-22
 age: 31
 occupation:
 affiliations:
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 20 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
@@ -49,3 +52,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383076/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438266/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438271/download)
+- [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229605/gov.uscourts.dcd.229605.64.0_1.pdf)
