@@ -5,8 +5,8 @@ hashtag:
 aka:
 residence: South Carolina
 status: Charged
-date: 2020-05-16
-charged: 2020-05-16
+date: 2022-05-16
+charged: 2022-05-16
 indicted:
 convicted:
 acquitted:
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: David Johnston charged on May 16th, 2020
+title: David Johnston charged on May 16th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507411/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507416/download)

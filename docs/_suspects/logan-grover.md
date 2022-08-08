@@ -8,12 +8,12 @@ status: Convicted
 date: 2021-04-28
 charged: 2021-04-28
 indicted:
-convicted: 2020-07-20
+convicted: 2022-07-20
 acquitted:
 sentenced:
-dismissed: 
+dismissed:
 deceased:
-plea_hearing: 2020-07-20
+plea_hearing: 2022-07-20
 trial_date:
 sentencing:
 age:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-374
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.fortmorgantimes.com/2021/04/28/logan-grover-colorado-capitol-riot-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390406/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390411/download)
