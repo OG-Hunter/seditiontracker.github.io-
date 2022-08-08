@@ -3,7 +3,7 @@ name: Derek Sulenta
 lastName: Sulenta
 hashtag:
 aka:
-residence:
+residence: California
 status: Charged
 date: 2022-06-06
 charged: 2022-06-06
@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Inside the capital building. This is wild!'
 title: Derek Sulenta charged on June 6th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/politics/doj-says-man-arrested-in-long-beach-bragged-dude-we-breached-the-capital/ar-AA10mJsN)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524371/download)

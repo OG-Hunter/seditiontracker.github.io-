@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-18
 trial_date:
-sentencing:
+sentencing: 2022-08-16
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military
