@@ -4,13 +4,13 @@ lastName: Willden
 hashtag: GreenCanMan
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-06-23
 charged: 2021-06-23
 indicted: 2021-06-23
 convicted: 2022-04-07
 acquitted:
-sentenced:
+sentenced: 2022-08-05
 dismissed:
 deceased:
 plea_hearing: 2022-04-07
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-423
 videos:
 charges:
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 2 years incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://sacramento.cbslocal.com/2021/06/30/ricky-christopher-willden-oakhurst-capitol-riot-arrest/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461781/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1492861/download)
