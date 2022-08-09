@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-30
 sentencing:
 age: 66
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Spent about 30 minutes inside and got out before the swat team went in.'
+quote: "Spent about 30 minutes inside and got out before the swat team went in."
 title: David Wiersma charged on September 13, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/crime/2021/9/21/22686870/like-going-shopping-mall-two-arrested-suburbs-alleged-role-us-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Wiersma%20and%20Dawn%20Frankowski%20Information.pdf)
