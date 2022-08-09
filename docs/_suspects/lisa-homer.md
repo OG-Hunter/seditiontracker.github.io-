@@ -36,9 +36,9 @@ published: true
 caseNumber: 1:21-mj-657
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
   - 3 years probation
@@ -50,3 +50,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458991/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.34.0_1.pdf)
 - [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.35.0_1.pdf)
+- [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.29.0.pdf)
