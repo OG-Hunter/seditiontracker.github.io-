@@ -36,20 +36,21 @@ published: true
 caseNumber: 1:21-cr-278
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 14 days incarceration
   - 60 days home detention
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/03/18/us-capitol-riot-leads-charges-against-two-more-michigan-men/4746118001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378831/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378836/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384351/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468926/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468931/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20Supplement%20to%20Amended%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20Judgment.pdf)

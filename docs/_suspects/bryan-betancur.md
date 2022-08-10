@@ -4,13 +4,13 @@ lastName: Betancur
 hashtag: BryanBetancur
 aka: Bryan Clooney, Maximo Clooney
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2021-01-17
 charged: 2021-01-17
 indicted:
 convicted: 2022-05-05
 acquitted:
-sentenced:
+sentenced: 2022-08-10
 dismissed:
 deceased:
 plea_hearing: 2022-05-05
@@ -41,6 +41,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 4 months incarceration
+  - 1 year probation
+  - $500 restitution
 ---
 
 - [News Report](https://baltimore.cbslocal.com/2021/01/18/maryland-man-bryan-betancur-arrested-after-gps-monitor-places-him-at-us-capitol-during-riots-prosecutors-say/)
