@@ -33,21 +33,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-657
+caseNumber: 1:22-cr-238
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - $5000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.yakimaherald.com/news/local/former-yakima-resident-lisa-homer-charged-with-entering-u-s-capitol-during-jan-6-insurrection/article_ad58c5ea-1f5d-51b5-b564-84ef95306a12.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458991/download)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.34.0_1.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.35.0_1.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524986/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524991/download)
 - [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245347/gov.uscourts.dcd.245347.29.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524981/download)

@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-cr-303
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days home detention
   - 2 years probation
   - $2000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.wnep.com/article/news/local/lackawanna-county/olyphant-man-charged-for-role-in-capitol-riot/523-ca785ac4-a026-400e-9517-7efebb9c0d6a)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385906/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413356/download)
@@ -54,3 +53,5 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432556/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Statement%20of%20Offense.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Sentencing%20Hearing%20Transcript.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Judgment.pdf)

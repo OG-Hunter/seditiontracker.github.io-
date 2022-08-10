@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-cr-139
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 10 days intermittent confinement
   - 1 year probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360796/download)
@@ -56,3 +55,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dana%20Winn%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dana%20Winn%20Judgment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1440126/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rachael%20Pert%20and%20Dana%20Joe%20Winn%20Sentencing%20Hearing%20Transcript.pdf)

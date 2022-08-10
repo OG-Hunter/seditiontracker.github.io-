@@ -36,10 +36,10 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days intermittent confinement
   - 60 days home detention
@@ -47,7 +47,6 @@ sentence:
   - $2500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)
@@ -56,3 +55,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Defense%20Response%20to%20Government%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.233158/gov.uscourts.dcd.233158.38.0.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448106/download)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Stenz%20Sentencing%20Hearing%20Transcript.pdf)
