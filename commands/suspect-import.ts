@@ -629,6 +629,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Omnibus Opposition to Defense Post-Trial Motions/.test(description):
       return "Government Omnibus Opposition to Defense Post-Trial Motions";
 
+    case /Memorandum Opinion Rejecting Defense Motion to Correct Sentence/.test(description):
+      return "Memorandum Opinion Rejecting Defense Motion to Correct Sentence";
+
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):
       return "Defendant's Notice of Government's Violation of Due Process Protections Act";

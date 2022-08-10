@@ -51,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433351/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433356/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Hatley%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Andrew%20Hatley%20Judgment.pdf)

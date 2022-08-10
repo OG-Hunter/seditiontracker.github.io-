@@ -42,10 +42,11 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.washingtonpost.com/nation/2021/04/03/former-utah-police-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382931/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382936/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410226/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469431/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469436/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Lee%20Hardin%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Lee%20Hardin%20Judgment.pdf)
