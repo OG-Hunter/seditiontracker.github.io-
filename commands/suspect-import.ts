@@ -565,6 +565,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Application for Search Warrant/.test(description):
       return "Application for Search Warrant";
 
+    case /Government Supplemental Sentencing Brief/.test(description):
+      return "Government Supplemental Sentencing Brief";
+
     // government response
     case /Government Reply to Opposition to Motion to Continue/.test(description):
       return "Government's reploy to Defense Opposition to Continue";
@@ -663,6 +666,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Motion to Reopen Detention Hearing and for Release on Conditions/.test(description):
     case /Defense Motion for Reconsideration of Revocation of Bond/.test(description):
     case /Defense Motion for Reconsideration of Pretrial Detention/.test(description):
+    case /Motion for Reconsideration of Detention/.test(description):
       return "Defense Motion for Reconsideration of Release";
 
     case /Defendant's Motion for a Bill of Particulars/.test(description):
