@@ -49,3 +49,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456066/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456071/download)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232553/gov.uscourts.dcd.232553.34.0_1.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Philip%20Kramer%20Defense%20Sentencing%20Memorandum.pdf)

@@ -36,19 +36,20 @@ published: true
 caseNumber: 1:21-cr-581
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 90 days home detention
   - 3 years probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.sltrib.com/news/2021/08/02/two-more-utahns-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442611/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1442606/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Wiedrich%20Information.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Wiedrich%20Statement%20of%20Offense.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Wiedrich%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jacob%20Wiedrich%20Judgment.pdf)

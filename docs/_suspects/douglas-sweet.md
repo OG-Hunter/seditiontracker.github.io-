@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-cr-41
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days home detention
   - 3 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.wtkr.com/news/mathews-co-man-arrested-during-capitol-riot-trump-asked-all-the-patriots-to-show-up-so-i-did)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
@@ -56,3 +55,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423421/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Sweet%20Defense%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423416/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Sweet%20Judgment.pdf)

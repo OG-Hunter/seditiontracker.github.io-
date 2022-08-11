@@ -36,15 +36,14 @@ published: true
 caseNumber: 1:21-cr-67
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 35 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.ocregister.com/2021/01/28/fbi-arrests-huntington-beach-man-for-suspected-involvement-in-u-s-capitol-siege/)
 - [Complaint](https://www.justice.gov/opa/page/file/1361286/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361286/download)
@@ -52,3 +51,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428201/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428196/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Simon%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Simon%20Judgment.pdf)

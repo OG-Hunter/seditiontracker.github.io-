@@ -49,3 +49,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405766/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405771/download)
+- [Plea Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Graydon%20Young%20Plea%20Hearing%20Transcript.pdf)

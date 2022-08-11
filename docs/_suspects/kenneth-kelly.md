@@ -36,19 +36,19 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days home detention
   - 1 year probation
   - $500 restitution
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2021/04/23/tip-from-family-member-leads-to-arrest-of-capitol-riot-suspect-in-marion-county-fbi-says/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Statement%20of%20Facts.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Information.pdf)
 - [Plea Agreement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Plea%20Agreement.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Statement%20of%20Offense.pdf)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.230844/gov.uscourts.dcd.230844.45.0_2.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Defense%20Sentencing%20Memorandum.pdf)

@@ -36,17 +36,18 @@ published: true
 caseNumber: 1:21-cr-429
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.emptywheel.net/2021/06/15/the-delayed-trespassing-charges-against-savanah-mcdonald-and-nolan-kidd/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404531/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410706/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470036/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470041/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nolan%20Kidd%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nolan%20Kidd%20Judgment.pdf)

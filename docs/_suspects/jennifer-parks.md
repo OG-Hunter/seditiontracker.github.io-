@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-363
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389181/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389186/download)
@@ -53,3 +52,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438181/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438186/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ruth%20Parks%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jennifer%20Ruth%20Parks%20Judgment.pdf)

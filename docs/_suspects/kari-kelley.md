@@ -36,15 +36,14 @@ published: true
 caseNumber: 1:21-cr-201
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/alabama-woman-accused-of-climbing-through-capitol-window-during-dc-riot/ar-BB1dQ3au)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379286/download)
 - [Affidavit](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)
@@ -52,3 +51,6 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379291/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469011/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469016/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Judgment.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Amended%20Judgment.pdf)

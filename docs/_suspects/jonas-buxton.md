@@ -33,18 +33,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-006
+caseNumber: 1:21-cr-739
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.kmov.com/news/st-louis-man-faces-federal-charges-for-involvement-in-january-6-capitol-riot/article_456b66e6-5a14-11ec-bbcd-a7b1b51ac5a6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468836/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonas%20Buxton%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525331/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468841/download)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238646/gov.uscourts.dcd.238646.25.0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525336/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525341/download)

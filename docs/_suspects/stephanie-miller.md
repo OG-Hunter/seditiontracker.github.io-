@@ -36,18 +36,20 @@ published: true
 caseNumber: 1:21-cr-266
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days incarceration
   - 60 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://www.springfieldnewssun.com/crime/2-more-area-residents-charged-in-us-capitol-riot/N6YW6VWHSFA67OMQO5TNR7GFUE/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378966/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383071/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433301/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1433306/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephanie%20Miller%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephanie%20Miller%20Judgment.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephanie%20Miller%20Amended%20Judgment.pdf)

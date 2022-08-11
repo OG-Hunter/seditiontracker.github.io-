@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-81
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://wqow.com/2021/01/12/what-we-know-about-kevin-loftus-man-charged-for-connection-to-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365401/download)
@@ -55,3 +54,5 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443831/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Indictment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1443836/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Daniel%20Loftus%20Judgment.pdf)

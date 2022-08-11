@@ -47,3 +47,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487226/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507451/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507456/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeffrey%20Munger%20Information.pdf)

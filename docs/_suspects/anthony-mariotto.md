@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-cr-94
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - $5000 fine
   - 250 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://floridadailypost.com/fort-pierce-man-faces-capitol-riot-charges-posting-images/)
 - [Complaint](https://www.justice.gov/opa/page/file/1359631/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359631/download)
@@ -55,3 +54,4 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Mariotto%20Information.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Mariotto%20Defense%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436776/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Anthony%20Mariotto%20Judgment.pdf)

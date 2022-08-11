@@ -36,17 +36,16 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 15 days intermittent confinement
   - 3 years probatoin
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469526/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469531/download)
@@ -54,3 +53,5 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469536/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469541/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Williams%20Government%20Supplemental%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Williams%20Judgment.pdf)

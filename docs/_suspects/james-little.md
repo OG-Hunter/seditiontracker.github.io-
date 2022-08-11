@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-315
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.charlotteobserver.com/news/local/article250201455.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385921/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385926/download)
@@ -55,3 +54,5 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Memorandum%20Opinion%20on%20Split%20Sentence.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450206/download)
 - [Memorandum Opinion on Split Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Memorandum%20Opinion%20on%20Split%20Sentence.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Judgment.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/James%20Little%20Amended%20Judgment.pdf)

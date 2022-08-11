@@ -49,3 +49,4 @@ sentence:
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371651/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469556/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469561/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Robert%20Keith%20Packer%20Government%20Sentencing%20Memorandum.pdf)

@@ -4,15 +4,17 @@ lastName: Roche
 hashtag: MichaelRoche
 aka:
 residence: Tennessee
-status: Charged
+status: Indicted
 date: 2021-04-13
 charged: 2021-04-13
-indicted:
+indicted: 2022-03-16
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 26
 occupation:
@@ -39,3 +41,4 @@ sentence:
 - [News Report](https://www.tennessean.com/story/news/crime/2021/04/13/murfreesboro-man-michael-roche-arrested-u-s-capitol-riot-case/7205782002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386731/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386736/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Roche%20Indictment.pdf)

@@ -36,16 +36,15 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - $1000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.channel3000.com/dane-co-la-crosse-co-men-charged-for-entering-u-s-capitol-during-january-6th-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391401/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391406/download)
@@ -54,3 +53,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Markofski%20Defense%20Sentencing%20Memo.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430176/download)
 - [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Nelson%20and%20Abram%20Markofski%20Sentencing%20Hearing%20Transcript.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Abram%20Markofski%20Judgment.pdf)

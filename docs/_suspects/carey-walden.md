@@ -36,17 +36,16 @@ published: true
 caseNumber: 1:21-mj-441
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days home detention
   - 3 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.kansascity.com/news/local/crime/article251913838.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401811/download)
@@ -54,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445146/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1445151/download)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235143/gov.uscourts.dcd.235143.33.0.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Carey%20Jon%20Walden%20Defense%20Sentencing%20Memorandum.pdf)

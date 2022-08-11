@@ -36,16 +36,15 @@ published: true
 caseNumber: 1:21-cr-365
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.wcia.com/news/two-central-illinois-men-charged-in-january-6-capitol-attack/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1394446/download)
@@ -53,3 +52,5 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432386/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bruce%20Harrison%20and%20Douglas%20Wangler%20Supplemental%20Defense%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Statement%20of%20Offense.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Judgment.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Douglas%20Wangler%20Amended%20Judgment.pdf)

@@ -9,10 +9,12 @@ date: 2021-11-04
 charged: 2021-11-04
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age:
 occupation:
@@ -38,3 +40,4 @@ sentence:
 ---
 - [News Report](https://news.yahoo.com/bremerton-man-accused-being-jan-175708598.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Criminal%20Complaint.pdf)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Information.pdf)

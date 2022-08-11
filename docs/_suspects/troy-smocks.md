@@ -55,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438316/download)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Judgment.pdf)
 - [Memorandum Opinion Rejecting Defense Motion to Correct Sentence](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Memorandum%20Opinion%20Rejecting%20Defense%20Motion%20to%20Correct%20Sentence.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Troy%20Smocks%20Sentencing%20Hearing%20Transcript.pdf)

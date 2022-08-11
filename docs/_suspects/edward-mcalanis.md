@@ -36,18 +36,20 @@ published: true
 caseNumber: 1:21-cr-516
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://dailyvoice.com/pennsylvania/lancaster/news/pa-man-running-for-judge-of-elections-charged-by-fbi-for-role-in-capitol-riot/814669/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450521/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439616/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450526/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1450521/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Government%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Judgment.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Edward%20McAlanis%20Amended%20Judgment.pdf)

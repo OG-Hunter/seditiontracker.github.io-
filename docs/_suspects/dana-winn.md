@@ -56,3 +56,4 @@ sentence:
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dana%20Winn%20Judgment.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1440126/download)
 - [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rachael%20Pert%20and%20Dana%20Joe%20Winn%20Sentencing%20Hearing%20Transcript.pdf)
+- [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dana%20Winn%20Amended%20Judgment.pdf)
