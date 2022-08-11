@@ -4,13 +4,13 @@ lastName: Caplinger
 hashtag: JeramiahCaplinger
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-04-06
 charged: 2021-04-06
 indicted:
 convicted: 2021-11-05
 acquitted:
-sentenced:
+sentenced: 2022-08-01
 dismissed:
 deceased:
 plea_hearing: 2021-11-05
@@ -36,12 +36,16 @@ published: true
 caseNumber: 1:21-cr-342
 videos:
 charges:
-- code: 18 USC § 5104(d)
-  title: Injury to property on Capitol grounds
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(d)
+    title: Injury to property on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 35 days incarceration
+  - 2 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.detroitnews.com/story/news/local/wayne-county/2021/04/06/taylor-man-charged-storming-capitol-during-deadly-riot/7106429002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384116/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384121/download)

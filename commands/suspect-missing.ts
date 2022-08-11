@@ -1,3 +1,4 @@
+import { isNull } from "lodash";
 import { Command } from "commander";
 import { info } from "./common/console";
 import { getSuspects } from "./common/suspect";
@@ -58,15 +59,15 @@ const unpublished = async () => {
   if (cmd.sentence) {
     info("Missing Sentence");
     for (const suspect of suspects) {
-      const { links, sentenced, sentencing } = suspect;
-      if (links["Judgement"] && !sentenced) {
+      const { deceased, links, sentenced, sentencing } = suspect;
+      if (links["Judgement"] && isNull(sentenced)) {
         console.log(`${suspect.name}: ${links["Judgement"]}`);
         continue;
       }
 
       if (sentencing) {
         const sentenceDate = Date.parse(`${sentencing}T05:00`);
-        if (sentenceDate < todaysDate && !sentenced) {
+        if (sentenceDate < todaysDate && !sentenced && !deceased) {
           console.log(suspect.name);
         }
       }
@@ -77,7 +78,7 @@ const unpublished = async () => {
     info("Missing Sentencing Date");
     for (const suspect of suspects) {
       const { convicted, sentencing } = suspect;
-      if (convicted && !!sentencing) {
+      if (convicted && isNull(sentencing)) {
         console.log(suspect.name);
       }
     }

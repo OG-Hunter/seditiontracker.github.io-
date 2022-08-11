@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-09
 trial_date:
-sentencing: 2022-08-04
+sentencing: 2022-08-30
 age: 50
 occupation:
 affiliations: U.S. Army Veteran, Boogaloo Bois
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-615
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.macombdaily.com/2021/06/30/st-clair-shores-man-accused-of-participating-in-jan-6-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1407971/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461546/download)

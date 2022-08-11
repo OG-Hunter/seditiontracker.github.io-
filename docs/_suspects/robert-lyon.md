@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-14
 trial_date:
-sentencing: 2022-06-03
+sentencing: 2022-09-22
 age: 27
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-161
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wfmj.com/story/43232086/feds-accuse-3-ohio-men-of-illegally-entering-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361301/download)

@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-03-17
-sentencing: 2022-07-21
+sentencing: 2022-09-28
 age: 44
 occupation:
 affiliations: Patriot Boys (President), Three Percenters, Texas Nationalist Movement
