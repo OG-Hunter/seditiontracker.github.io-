@@ -4,15 +4,17 @@ lastName: Buxton
 hashtag:
 aka:
 residence: Missouri
-status: Charged
+status: Convicted
 date: 2021-12-08
 charged: 2021-12-08
 indicted:
-convicted:
+convicted: 2022-08-10
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-10
+trial_date:
 sentencing:
 age: 25
 occupation:
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-mj-006
 videos:
 charges:
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
@@ -41,3 +47,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468836/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jonas%20Buxton%20Information.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468841/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238646/gov.uscourts.dcd.238646.25.0.pdf)
