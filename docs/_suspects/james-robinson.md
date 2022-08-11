@@ -1,0 +1,44 @@
+---
+name: James Robinson
+lastName: Robinson
+hashtag: SilverSleazy
+aka: Master J
+residence: Pennsylvania
+status: Charged
+date: 2022-07-29
+charged: 2022-07-29
+indicted:
+convicted:
+acquitted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+trial_date:
+sentencing:
+age: 60
+occupation: Martial arts gym owner
+affiliations: Three Percenters
+jurisdiction: Federal
+image: /images/preview/james-robinson.jpg
+suspect: james-robinson.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: James Robinson charged on July 29th, 2022
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber: 1:22-cr-267
+videos:
+charges:
+sentence:
+---
+- [News Report](https://www.inquirer.com/news/james-jim-robinson-capitol-riot-pennsylvania-martial-arts-20220809.html)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525361/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525366/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525371/download)
