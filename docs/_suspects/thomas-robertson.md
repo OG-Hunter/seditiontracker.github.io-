@@ -4,13 +4,13 @@ lastName: Robertson
 hashtag: ThomasRobertson
 aka: TJ Robertson
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-01-29
 convicted: 2022-04-11
 acquitted:
-sentenced:
+sentenced: 2022-08-11
 dismissed:
 deceased:
 plea_hearing: 2022-04-11
@@ -61,6 +61,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
+  - 87 months incarceration
+  - $2000 restitution
 ---
 
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
