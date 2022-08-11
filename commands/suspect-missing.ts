@@ -35,7 +35,17 @@ const unpublished = async () => {
   if (cmd.conviction) {
     info("Missing Conviction");
     for (const suspect of suspects) {
-      const { convicted, plea_hearing } = suspect;
+      const { convicted, links, plea_hearing } = suspect;
+      if (links["Sentencing Memo"] && !convicted) {
+        console.log(suspect.name);
+        continue;
+      }
+
+      if (links["Judgement"] && !convicted) {
+        console.log(`${suspect.name}: ${links["Judgement"]}`);
+        continue;
+      }
+
       if (plea_hearing) {
         const pleaDate = Date.parse(`${plea_hearing}T05:00`);
         if (pleaDate < todaysDate && !convicted) {
@@ -48,7 +58,12 @@ const unpublished = async () => {
   if (cmd.sentence) {
     info("Missing Sentence");
     for (const suspect of suspects) {
-      const { sentenced, sentencing } = suspect;
+      const { links, sentenced, sentencing } = suspect;
+      if (links["Judgement"] && !sentenced) {
+        console.log(`${suspect.name}: ${links["Judgement"]}`);
+        continue;
+      }
+
       if (sentencing) {
         const sentenceDate = Date.parse(`${sentencing}T05:00`);
         if (sentenceDate < todaysDate && !sentenced) {

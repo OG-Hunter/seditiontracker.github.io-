@@ -36,10 +36,10 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://www.justice.gov/opa/page/file/1354776/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-charged-federal-court-following-events-united-states-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354781/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Earle%20Sullivan%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415026/download)
-- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Earle%20Sullivan%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

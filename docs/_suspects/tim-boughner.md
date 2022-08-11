@@ -36,7 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/12/08/tim-boughner-us-capitol-siege-michigan-man-charged-assaulting-police/6438758001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459236/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-charged-assault-law-enforcement-during-jan-6-capitol-breach)
-- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Joseph%20Rusyn%20Government%20Sentencing%20Memorandum.pdf)

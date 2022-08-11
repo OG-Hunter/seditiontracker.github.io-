@@ -38,8 +38,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.theguardian.com/us-news/2022/mar/08/enrique-tarrio-proud-boys-leader-arrested-us-capitol-attack-conspiracy)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480986/download)
 - [Detention Memo](https://s3.documentcloud.org/documents/21417131/3-14-22-us-detention-memo-enrique-tarrio.pdf)
-- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Enrique%20Tarrio%20Government%20Detention%20Memorandum.pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Enrique%20Tarrio%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)
