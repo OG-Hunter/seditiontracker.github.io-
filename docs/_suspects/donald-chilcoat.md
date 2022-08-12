@@ -22,7 +22,7 @@ affiliations:
 jurisdiction: Federal
 image: /images/preview/donald-chilcoat.jpg
 suspect: donald-chilcoat.jpg
-booking:
+booking: donald-chilcoat.jpg
 courtroom:
 courthouse:
 raid:
@@ -38,5 +38,6 @@ videos:
 charges:
 sentence:
 ---
+- [News Report](https://mercercountyoutlook.net/2022/08/12/celina-residents-arrested-on-january-6th-capitol-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525756/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525761/download)
