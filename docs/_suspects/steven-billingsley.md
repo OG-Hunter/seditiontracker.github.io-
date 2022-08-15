@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-15
 sentencing:
 age: 45
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wtrf.com/jefferson-county/jefferson-county-man-charged-with-crimes-related-to-the-jan-6-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457636/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457641/download)

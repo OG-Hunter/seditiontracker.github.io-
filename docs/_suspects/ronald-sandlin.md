@@ -8,11 +8,11 @@ status: Indicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-15
 sentencing:
 age: 31
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We are not terrorists. We occupied and for the most part left that place relatively put together all things considered'
+quote: "We are not terrorists. We occupied and for the most part left that place relatively put together all things considered"
 title: Ronald Sandlin charged on January 28th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://wreg.com/news/fbi-says-social-media-posts-link-man-charged-in-capitol-riot-to-memphis/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362396/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362396/download)
