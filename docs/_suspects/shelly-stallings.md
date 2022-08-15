@@ -4,15 +4,17 @@ lastName: Stallings
 hashtag: GreenPlaidLady
 aka: Shelly Schwartz
 residence: Kentucky
-status: Indicted
+status: Convicted
 date: 2022-02-09
 charged: 2022-02-09
 indicted: 2022-02-09
-convicted:
+convicted: 2022-08-12
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-08-12
+plea_hearing: 2022-08-24
+trial_date:
 sentencing:
 age: 42
 occupation:
@@ -39,3 +41,4 @@ sentence:
 
 - [News Report](https://www.courier-journal.com/story/news/crime/2022/02/16/morganfield-kentucky-woman-shelly-stallings-charged-jan-6-us-capitol-riot/6815764001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473366/download)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.240030/gov.uscourts.dcd.240030.111.0_1.pdf)

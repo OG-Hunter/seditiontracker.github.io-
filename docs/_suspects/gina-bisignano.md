@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-08-04
+plea_hearing:
 trial_date:
 sentencing: 2022-07-12
 age: 52
@@ -37,7 +37,9 @@ caseNumber: 1:21-cr-36
 videos:
 charges:
 sentence:
+notes: Attempting to withdraw her guilty plea
 ---
+
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Video)](https://twitter.com/waterspider__/status/1349422388396494850)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
