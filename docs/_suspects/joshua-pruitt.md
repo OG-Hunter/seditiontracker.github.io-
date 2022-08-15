@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-03
 trial_date:
-sentencing:
+sentencing: 2022-08-26
 age: 39
 occupation:
 affiliations: Proud Boys
