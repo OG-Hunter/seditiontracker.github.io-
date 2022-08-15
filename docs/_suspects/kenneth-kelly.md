@@ -52,3 +52,4 @@ sentence:
 - [Statement of Offense](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Statement%20of%20Offense.pdf)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.230844/gov.uscourts.dcd.230844.45.0_2.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Defense%20Sentencing%20Memorandum.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Kelly%20Sentencing%20Hearing%20Transcript.pdf)

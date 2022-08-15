@@ -55,3 +55,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Verden%20Andrew%20Nalley%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Verden%20Andrew%20Nalley%20Judgment.pdf)
 - [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Verden%20Andrew%20Nalley%20Amended%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Verden%20Andrew%20Nalley%20Sentencing%20Hearing%20Transcript.pdf)
