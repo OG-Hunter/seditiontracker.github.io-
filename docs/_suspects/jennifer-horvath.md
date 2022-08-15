@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-12
 trial_date:
 sentencing:
 age:
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://denver.cbslocal.com/2022/05/03/jennifer-horvath-girlfriend-wes-croy-capitol-riot-january-6-2021-insurrection-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499086/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499091/download)
