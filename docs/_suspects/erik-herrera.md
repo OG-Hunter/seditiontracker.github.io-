@@ -9,12 +9,13 @@ date: 2021-08-06
 charged: 2021-08-06
 indicted: 2021-10-06
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: 2022-08-15
+sentencing:
 age:
 occupation:
 affiliations:
@@ -32,12 +33,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-619
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ocregister.com/2021/10/07/2-more-with-southern-california-ties-charged-in-jan-6-storming-of-u-s-capitol/)
-- [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Criminal%20Complaint.pdf)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Erik%20Herrera%20Indictment.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526501/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526511/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526506/download)

@@ -9,10 +9,12 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-02-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 sentencing:
 age: 37
 occupation: Butcher
@@ -41,4 +43,4 @@ sentence:
 - [Self Incrimination (Interview)](https://www.therochestervoice.com/west-lebanon-man-recounts-the-hope-then-terror-he-encountered-on-jan-6-cms-15693)
 - [Racist Speech (Video)](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maine-man-charged-federal-court-assaulting-and-impeding-law-enforcement-officers-during)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371366/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526446/download)
