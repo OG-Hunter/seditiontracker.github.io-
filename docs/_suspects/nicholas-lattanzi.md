@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-30
 sentencing:
 age:
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'New jacket who wants to commit war crimes in Bosnia with me?'
+quote: "New jacket who wants to commit war crimes in Bosnia with me?"
 title: Nicholas Lattanzi charged on January 10, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2656379230/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481341/download)
