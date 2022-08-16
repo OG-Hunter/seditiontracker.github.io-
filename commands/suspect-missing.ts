@@ -7,7 +7,8 @@ const cmd = new Command("missing")
   .option("--news", "missing news report")
   .option("--conviction", "scheduled plea date but no conviction")
   .option("--sentence", "scheduled sentencing date but no sentencing info")
-  .option("--sentencing_date", "convicted but no sentencing date");
+  .option("--sentencing_date", "convicted but no sentencing date")
+  .option("--stalled", "show suspects charged more than six months ago but no conviction or trial date");
 
 cmd.parse(process.argv);
 
@@ -79,6 +80,20 @@ const unpublished = async () => {
     for (const suspect of suspects) {
       const { convicted, sentencing } = suspect;
       if (convicted && isNull(sentencing)) {
+        console.log(suspect.name);
+      }
+    }
+  }
+
+  if (cmd.stalled) {
+    info("Stalled suspects");
+    for (const suspect of suspects) {
+      const { charged, convicted, indicted, plea_hearing, trial_date } = suspect;
+      if (convicted || indicted || plea_hearing || trial_date) {
+        continue;
+      }
+
+      if (charged.includes("2021")) {
         console.log(suspect.name);
       }
     }
