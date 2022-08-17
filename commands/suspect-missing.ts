@@ -49,7 +49,7 @@ const unpublished = async () => {
       }
 
       if (plea_hearing) {
-        const pleaDate = Date.parse(`${plea_hearing}T05:00`);
+        const pleaDate = Date.parse(`${plea_hearing}T12:00`);
         if (pleaDate < todaysDate && !convicted) {
           console.log(suspect.name);
         }
@@ -67,7 +67,7 @@ const unpublished = async () => {
       }
 
       if (sentencing) {
-        const sentenceDate = Date.parse(`${sentencing}T05:00`);
+        const sentenceDate = Date.parse(`${sentencing}T12:00`);
         if (sentenceDate < todaysDate && !sentenced && !deceased) {
           console.log(suspect.name);
         }

@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-sentencing: 2022-07-12
+sentencing:
 age: 52
 occupation: Salon Owner
 affiliations:
