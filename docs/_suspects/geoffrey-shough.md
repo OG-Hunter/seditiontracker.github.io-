@@ -49,3 +49,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526846/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526851/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526856/download)
+- [DOJ Statement (Conviction)](https://twitter.com/FBI/status/1559927100181815296?s=20&t=WaNPKRZKWXP8Ko5o9hJESA)
