@@ -3,7 +3,7 @@ name: Antonio Lamotta
 lastName: Lamotta
 hashtag:
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2022-08-08
 charged: 2022-08-08
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 63
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -38,6 +38,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/qanon-supporter-arrested-over-firearms-near-2020-vote-counting-center-now-faces-jan-6-charges/ar-AA10Jpe4)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526736/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526741/download)
