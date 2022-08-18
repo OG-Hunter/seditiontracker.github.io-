@@ -4,15 +4,17 @@ lastName: Dressel
 hashtag: JoshuaDressel
 aka:
 residence: Missouri
-status: Charged
+status: Convicted
 date: 2021-06-29
 charged: 2021-06-29
 indicted:
-convicted:
+convicted: 2022-08-18
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-18
+trial_date:
 sentencing:
 age: 31
 occupation:
@@ -31,13 +33,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-510
+caseNumber: 1:21-cr-572
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/festus-man-streamed-capitol-riot-video-to-facebook-court-documents-say/article_15c8ff19-3032-5486-8a23-ba88d225f092.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412326/download)
 - [Incriminating Evidence (Video)](https://youtu.be/MDg1NG4C2Z0)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Dressel%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527256/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527261/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527266/download)
