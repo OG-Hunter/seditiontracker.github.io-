@@ -1,7 +1,7 @@
 ---
 name: Landon Manwaring
 lastName: Manwaring
-hashtag: 
+hashtag:
 aka:
 residence: Utah
 status: Charged
@@ -38,4 +38,5 @@ videos:
 charges:
 sentence:
 ---
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.246138/gov.uscourts.dcd.246138.1.0.pdf)
+
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527176/download)

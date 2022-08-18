@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-18
 sentencing:
 age: 32
 occupation: Real Estate Agent
