@@ -4,13 +4,13 @@ lastName: Lazo
 hashtag: Walistambo
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-05-28
 charged: 2021-05-28
 indicted:
 convicted: 2022-03-08
 acquitted:
-sentenced:
+sentenced: 2022-08-18
 dismissed:
 deceased:
 plea_hearing: 2022-03-08
@@ -41,6 +41,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 45 days incarceration
+  - $500 restitution
 ---
 
 - [News Report](https://news.abs-cbn.com/news/05/29/21/walis-tambo-man-arrested-virginia-capitol-riot)
