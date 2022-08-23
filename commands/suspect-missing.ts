@@ -9,7 +9,8 @@ const cmd = new Command("missing")
   .option("--sentence", "scheduled sentencing date but no sentencing info")
   .option("--sentencing_date", "convicted but no sentencing date")
   .option("--stalled", "show suspects charged more than six months ago but no conviction or trial date")
-  .option("--all", "show all missing info (excludes stalled)");
+  .option("--all", "show all missing info (excludes stalled)")
+  .option("--trial_date", "trial type but no date");
 
 cmd.parse(process.argv);
 
@@ -81,6 +82,16 @@ const unpublished = async () => {
     for (const suspect of suspects) {
       const { convicted, sentencing } = suspect;
       if (convicted && !sentencing) {
+        console.log(suspect.name);
+      }
+    }
+  }
+
+  if (cmd.trial_date || cmd.all) {
+    info("Missing Trial Date");
+    for (const suspect of suspects) {
+      const { trial_type, trial_date } = suspect;
+      if (trial_type && !trial_date) {
         console.log(suspect.name);
       }
     }

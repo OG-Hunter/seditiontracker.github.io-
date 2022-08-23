@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-16
+trial_type: Bench Trial
 sentencing:
 age: 37
 occupation: Butcher

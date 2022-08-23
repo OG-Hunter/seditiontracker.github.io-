@@ -13,8 +13,8 @@ acquitted:
 sentenced: 2022-06-17
 dismissed:
 deceased:
-plea_hearing: 2022-03-22
-trial_date:
+plea_hearing:
+trial_date: 2022-03-21
 trial_type: Bench Trial
 sentencing: 2022-06-17
 age: 47

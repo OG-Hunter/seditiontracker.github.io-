@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-27
 trial_date: 2022-05-23
+trial_type: Jury
 sentencing:
 age: 30
 occupation: U.S. Army Reserves, U.S. Navy Contractor
