@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-11
 trial_date:
-sentencing: 2022-08-22
+sentencing: 2022-10-13
 age: 40
 occupation:
 affiliations: USMC
