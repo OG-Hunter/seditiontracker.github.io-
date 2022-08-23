@@ -8,12 +8,14 @@ status: Charged
 date: 2021-06-11
 charged: 2021-06-11
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2023-05-01
+trial_type: Jury
 age:
 occupation: Police Officer
 affiliations:
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://chicago.cbslocal.com/2021/06/11/cpd-officer-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Motion%20to%20Mofidy%20Conditions%20of%20Release.pdf)

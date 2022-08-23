@@ -50,3 +50,4 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Daniel%20Andries%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528276/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528281/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/maryland-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach)
