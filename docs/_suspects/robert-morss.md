@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-23
-sentencing:
+sentencing: 2023-01-06
 age:
 occupation: Substitute Teacher
 affiliations:
