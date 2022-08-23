@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-21
 trial_date:
-sentencing:
+sentencing: 2022-09-13
 age: 45
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-44
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/glen-carbon-man-faces-capitol-riot-charge/article_b02213cd-4f1a-51e7-91d2-1c5e3fadb628.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481601/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496121/download)
