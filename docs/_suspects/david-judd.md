@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-23
+trial_type: Stipulated Bench Trial
 sentencing: 2023-02-27
 age: 35
 occupation:
@@ -54,3 +55,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
 - [Arraignment and Status Conference Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Arraignment%20Hearing%20Status%20and%20Conference%20Transcript.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528246/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/three-men-found-guilty-assaulting-officers-during-jan-6-capitol-breach)

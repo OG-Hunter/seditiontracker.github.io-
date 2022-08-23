@@ -38,6 +38,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528156/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528161/download)
+- [DOJ Statement (Arrest)](https://www.justice.gov/usao-dc/pr/illinois-men-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)

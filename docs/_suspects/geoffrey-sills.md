@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-23
+trial_type: Stipulated Bench Trial
 sentencing: 2022-11-18
 age: 30
 occupation:
@@ -59,3 +60,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528261/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/three-men-found-guilty-assaulting-officers-during-jan-6-capitol-breach)

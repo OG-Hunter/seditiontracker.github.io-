@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-23
+trial_type: Stipulated Bench Trial
 sentencing: 2023-01-06
 age:
 occupation: Substitute Teacher
@@ -88,3 +89,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
 - [Closed Circuit Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1417578495291576322)
 - [Body Camera Evidence (Video)](https://twitter.com/ZoeTillman/status/1417586917458292738)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/three-men-found-guilty-assaulting-officers-during-jan-6-capitol-breach)

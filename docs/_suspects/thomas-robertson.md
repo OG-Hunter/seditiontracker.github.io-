@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-11
 trial_date: 2022-04-06
+trial_type: Jury
 sentencing: 2022-08-11
 age: 47
 occupation: Police Officer (Sergeant)
@@ -57,7 +58,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
   - code: 18 USC § 1512(c)(1)
-    title: Obstruction of an Official Proceeding
+    title: Corruptly Altering, Destroying, Mutilating, or Concealing a Record, Document or Other Object
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:

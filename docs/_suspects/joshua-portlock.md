@@ -13,6 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_type: Jury
 sentencing:
 age:
 occupation:

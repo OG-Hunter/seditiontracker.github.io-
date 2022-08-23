@@ -38,6 +38,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528271/download)
+- [DOJ Statement (Arrest)](https://www.justice.gov/usao-dc/pr/alabama-man-arrested-assaulting-law-enforcement-officers-during-jan-6-capitol-breach)

@@ -32,6 +32,8 @@ layout: default
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_date %}
   <div>Trial Date: <small>{{ page.trial_date | date: "%Y-%m-%d"}}</small></div>
+  {% endif %} {% if page.trial_type %}
+  <div>Trial Type: <small>{{ page.trial_type }}</small></div>
   {% endif %} {% if page.acquitted %}
   <div>Acquitted: <small>{{ page.acquitted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.convicted %}

@@ -43,6 +43,7 @@ const publishSheet = async () => {
     "Indicted",
     "Plea Hearing",
     "Trial Date",
+    "Trial Type",
     "Convicted",
     "Sentencing",
     "Sentenced",
@@ -66,7 +67,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AB1");
+  await suspectSheet.loadCells("A1:AC1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -106,6 +107,7 @@ const publishSheet = async () => {
       Indicted: suspect.indicted,
       "Plea Hearing": suspect.plea_hearing,
       "Trial Date": suspect.trial_date,
+      "Trial Type": suspect.trial_type,
       Convicted: suspect.convicted,
       Sentencing: suspect.sentencing,
       Sentenced: suspect.sentenced,

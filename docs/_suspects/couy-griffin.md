@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-22
 trial_date:
+trial_type: Bench Trial
 sentencing: 2022-06-17
 age: 47
 occupation: County Commissioner
