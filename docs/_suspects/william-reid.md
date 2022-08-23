@@ -4,15 +4,16 @@ lastName: Reid
 hashtag: WilliamRoganReid
 aka: blumpkinvice
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2021-03-26
 charged: 2021-03-26
 indicted: 2021-04-23
-convicted:
+convicted: 2022-08-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-23
 trial_date: 2022-08-23
 trial_type: Stipulated Bench Trial
 sentencing: 2022-12-07
@@ -36,7 +37,6 @@ published: true
 caseNumber: 1:21-cr-316
 videos:
 charges:
-sentence:
   - code: 18 USC § 1752(a)(1)
     title: Entering a restricted building or grounds
     url: https://www.law.cornell.edu/uscode/text/18/1752
@@ -57,6 +57,7 @@ sentence:
     title: Corruptly Altering, Destroying, Mutilating, or Concealing a Record, Document or Other Object
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
+sentence:
 ---
 
 - [News Report](https://www.nbcmiami.com/news/local/davie-man-arrested-in-capitol-riot-faces-cyberstalking-charge-in-south-florida/2420522/)
