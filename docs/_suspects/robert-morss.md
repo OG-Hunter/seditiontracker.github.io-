@@ -4,15 +4,17 @@ lastName: Morss
 hashtag: BluePatch
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-06-11
 charged: 2021-06-11
 indicted: 2021-06-16
-convicted:
+convicted: 2022-08-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-08-23
+plea_hearing:
+trial_date: 2022-08-23
 sentencing:
 age:
 occupation: Substitute Teacher
@@ -66,11 +68,23 @@ videos:
   - title: Exhibit Q-Par 36.asf (0:02:32)
     url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8feb62f0ce2c013960702cde48001122.mp4
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 2112
+    title: Robbery of personal property of the United States
+    url: https://www.law.cornell.edu/uscode/text/18/2112
+    felony: true
 sentence:
 ---
 
 - [News Report](https://www.newsweek.com/robert-morss-teacher-seen-trying-rip-away-officers-baton-during-capitol-riot-others-charged-1599974)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403446/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528241/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
 - [Closed Circuit Evidence (Video)](https://twitter.com/MacFarlaneNews/status/1417578495291576322)
 - [Body Camera Evidence (Video)](https://twitter.com/ZoeTillman/status/1417586917458292738)

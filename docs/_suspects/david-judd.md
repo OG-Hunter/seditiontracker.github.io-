@@ -4,15 +4,17 @@ lastName: Judd
 hashtag: CapitolWig
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-03-23
 charged: 2021-03-23
 indicted: 2021-06-16
-convicted:
+convicted: 2022-08-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-08-23
 sentencing:
 age: 35
 occupation:
@@ -34,6 +36,14 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
@@ -43,3 +53,4 @@ sentence:
 - [Closed Circuit Evidence (Video)](https://twitter.com/ryanjreilly/status/1417812077616435201)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410701/download)
 - [Arraignment and Status Conference Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCaughey%20III%20et%20al%20Arraignment%20Hearing%20Status%20and%20Conference%20Transcript.pdf)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528246/download)

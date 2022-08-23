@@ -4,15 +4,17 @@ lastName: Sills
 hashtag: EmoNazi
 aka:
 residence: Virginia
-status: Indicted
+status: Convicted
 date: 2021-06-16
 charged: 2021-06-16
 indicted: 2021-06-16
-convicted:
+convicted: 2022-08-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-08-23
+plea_hearing:
+trial_date: 2022-08-23
 sentencing:
 age: 30
 occupation:
@@ -34,9 +36,26 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 2112
+    title: Robbery of personal property of the United States
+    url: https://www.law.cornell.edu/uscode/text/18/2112
+    felony: true
 sentence:
 ---
 
 - [News Report](https://www.msn.com/en-us/news/us/virginia-man-assaulted-police-with-baton-poles-in-capitol-tunnel-doj-says/ar-AALp292)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405881/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528261/download)

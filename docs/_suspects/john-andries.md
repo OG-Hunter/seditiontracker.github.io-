@@ -36,8 +36,8 @@ published: true
 caseNumber: 1:21-cr-93
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
@@ -48,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371276/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404256/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Daniel%20Andries%20Information.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528276/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528281/download)
