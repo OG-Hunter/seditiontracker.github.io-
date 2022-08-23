@@ -4,15 +4,17 @@ lastName: Andries
 hashtag: JohnAndries
 aka:
 residence: Maryland
-status: Indicted
+status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted: 2021-05-26
-convicted:
+convicted: 2022-08-23
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-23
+trial_date:
 sentencing:
 age: 35
 occupation: U.S. Military (former)
@@ -34,6 +36,10 @@ published: true
 caseNumber: 1:21-cr-93
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 

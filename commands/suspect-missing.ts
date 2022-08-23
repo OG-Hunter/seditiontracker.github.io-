@@ -80,7 +80,7 @@ const unpublished = async () => {
     info("Missing Sentencing Date");
     for (const suspect of suspects) {
       const { convicted, sentencing } = suspect;
-      if (convicted && isNull(sentencing)) {
+      if (convicted && !sentencing) {
         console.log(suspect.name);
       }
     }
