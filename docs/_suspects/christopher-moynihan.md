@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-23
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-20
 age: 30
 occupation:
 affiliations:
@@ -67,6 +67,6 @@ sentence:
 - [News Report](https://nypost.com/2021/02/26/feds-bust-ny-capitol-rioter-who-photographed-congressional-documents/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379041/download)
 - [FBI Statement (Twitter)](https://twitter.com/NewYorkFBI/status/1365060189255311367)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379046/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528296/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379051/download)
 - [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/new-york-man-found-guilty-felony-charge-actions-during-jan-6-capitol-breach)

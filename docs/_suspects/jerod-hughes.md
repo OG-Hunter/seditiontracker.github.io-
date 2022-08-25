@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-08-24
+plea_hearing: 2022-08-25
 sentencing:
 age: 36
 occupation:

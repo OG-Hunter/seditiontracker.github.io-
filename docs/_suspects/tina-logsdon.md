@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-20
 trial_date:
-sentencing:
+sentencing: 2022-10-28
 age:
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-23
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/metro-state/2022/2/16/22938068/brazilian-citizen-from-indian-head-park-charged-in-capitol-breach)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471146/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520786/download)

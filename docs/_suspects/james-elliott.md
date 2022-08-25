@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 24
 occupation:

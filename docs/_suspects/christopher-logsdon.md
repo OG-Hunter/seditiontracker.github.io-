@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-20
 trial_date:
-sentencing:
+sentencing: 2022-10-28
 age:
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-000
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/crime/2022/7/20/23271604/capitol-riot-southern-illinois-couple-pleads-guilty-christopher-tina-logsdon)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471141/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520771/download)
