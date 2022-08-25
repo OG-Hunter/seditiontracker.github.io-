@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-16
 trial_date:
-sentencing:
+sentencing: 2022-12-08
 age: 37
 occupation:
 affiliations: Oath Keepers
