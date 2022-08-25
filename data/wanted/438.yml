@@ -1,8 +1,8 @@
 id: 438
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #438 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/438a.png/@@images/image/preview
 hashtag: TealScrambler
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-08-10
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/daniel-leyden
+name: Daniel Leyden
 missingImage: false
 identifiedBy: null
 notes: null

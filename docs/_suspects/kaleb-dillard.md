@@ -1,7 +1,7 @@
 ---
 name: Kaleb Dillard
 lastName: Dillard
-hashtag:
+hashtag: SmokeyInsider
 aka:
 residence: Alabama
 status: Charged
@@ -32,7 +32,7 @@ title: Kaleb Dillard charged on August 23rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-189
 videos:
 charges:

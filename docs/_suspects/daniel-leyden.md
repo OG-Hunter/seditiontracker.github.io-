@@ -1,7 +1,7 @@
 ---
 name: Daniel Leyden
 lastName: Leyden
-hashtag:
+hashtag: TealScrambler
 aka:
 residence: Illinois
 status: Charged
@@ -32,7 +32,7 @@ title: Daniel Leyden charged on August 10th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-180
 videos:
 charges:

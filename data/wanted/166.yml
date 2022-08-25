@@ -1,7 +1,7 @@
 id: 166
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #166 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-166a.jpg/@@images/image/preview
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-08-23
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/kaleb-dillard
+name: Kaleb Dillard
 missingImage: false
 identifiedBy: "@rocketman2001"
 notes: null

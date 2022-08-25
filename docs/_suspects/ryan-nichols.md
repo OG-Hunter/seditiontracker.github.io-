@@ -8,11 +8,12 @@ status: Indicted
 date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-12
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-11-01
 sentencing:
 age: 30
 occupation: U.S. Marines (Former)
@@ -25,7 +26,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'If you have a weapon, you need to get your weapon!'
+quote: "If you have a weapon, you need to get your weapon!"
 title: Ryan Nichols charged on January 18, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +37,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356241/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356236/download)

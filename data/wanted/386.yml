@@ -1,8 +1,8 @@
 id: 386
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #386 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/386a.png/@@images/image/preview
 hashtag: GooberKnocker
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-08-10
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/joseph-leyden
+name: Joseph Leyden
 missingImage: false
 identifiedBy: null
 notes: null

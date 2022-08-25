@@ -1,7 +1,7 @@
 ---
 name: Bobby Russell
 lastName: Russell
-hashtag:
+hashtag: BamaRammer
 aka:
 residence: Alabama
 status: Charged
@@ -33,11 +33,12 @@ title: Bobby Russell charged on August 23rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-194
 videos:
 charges:
 sentence:
 ---
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528476/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528481/download)

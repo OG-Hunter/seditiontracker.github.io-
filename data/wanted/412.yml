@@ -1,8 +1,8 @@
 id: 412
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #412A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/412a.png/@@images/image/preview
 hashtag: NotGrizzly
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-07-28
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/ian-horvath
+name: Ian Horvath
 missingImage: false
 identifiedBy: null
 notes: null

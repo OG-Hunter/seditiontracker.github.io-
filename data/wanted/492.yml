@@ -1,8 +1,8 @@
 id: 492
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #492 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-492a.jpg/@@images/image/preview
 hashtag: BamaRammer
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-08-23
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/bobby-russell
+name: Bobby Russell
 missingImage: false
 identifiedBy: null
 notes: null
