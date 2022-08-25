@@ -19,7 +19,7 @@ trial_type:
 sentencing:
 age: 38
 occupation:
-affiliations: B Squad Militia
+affiliations: B Squad Militia, Three Percenters
 jurisdiction: Federal
 image: /images/preview/benjamin-cole.jpg
 suspect: benjamin-cole.jpg
@@ -39,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://abcnews.go.com/US/wireStory/fbi-militia-members-charged-storming-capitol-88818164)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1528526/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1528531/download)
