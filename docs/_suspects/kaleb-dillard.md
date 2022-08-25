@@ -3,10 +3,10 @@ name: Kaleb Dillard
 lastName: Dillard
 hashtag:
 aka:
-residence:
+residence: Alabama
 status: Charged
-date: 2022-08-19
-charged: 2022-08-19
+date: 2022-08-23
+charged: 2022-08-23
 indicted:
 convicted:
 acquitted:
@@ -16,9 +16,9 @@ deceased:
 plea_hearing:
 trial_date:
 sentencing:
-age:
+age: 26
 occupation:
-affiliations:
+affiliations: Former Marine
 jurisdiction: Federal
 image: /images/preview/kaleb-dillard.jpg
 suspect: kaleb-dillard.jpg
@@ -28,7 +28,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Kaleb Dillard charged on August 19th, 2022
+title: Kaleb Dillard charged on August 23rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
