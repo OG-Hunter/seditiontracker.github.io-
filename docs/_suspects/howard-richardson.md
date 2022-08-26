@@ -4,17 +4,18 @@ lastName: Richardson
 hashtag: SwingerGramps
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-11-22
 charged: 2021-11-22
 indicted: 2021-12-08
 convicted: 2022-04-26
 acquitted:
-sentenced:
+sentenced: 2022-08-26
 dismissed:
 deceased:
 plea_hearing: 2022-04-26
 trial_date:
+trial_type:
 sentencing: 2022-08-26
 age: 71
 occupation:
@@ -36,12 +37,16 @@ published: true
 caseNumber: 1:21-cr-721
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 46 months incarceration
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459061/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459051/download)
