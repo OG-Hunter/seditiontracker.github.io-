@@ -44,7 +44,7 @@ charges:
 sentence:
   - 46 months incarceration
   - 3 years probation
-  - $500 restitution
+  - $5000 restitution
 ---
 
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
