@@ -4,16 +4,19 @@ lastName: Baouche
 hashtag: DickRobin
 aka:
 residence: Connecticut
-status: Charged
+status: Convicted
 date: 2021-11-02
 charged: 2021-11-02
 indicted:
-convicted:
+convicted: 2022-08-25
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-25
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2023-01-10
 age: 24
 occupation:
 affiliations:
@@ -31,12 +34,16 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-733
 videos:
 charges:
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
 - [News Report](https://www.courant.com/breaking-news/hc-br-new-london-man-arrested-capitol-riot-20211112-34gykmlotvhs7drrykkdl6g4pi-story.html)
-- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Baouche%20Statement%20of%20Facts.pdf)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Baouche%20Information.pdf)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528881/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528886/download)
