@@ -4,17 +4,18 @@ lastName: Manwaring
 hashtag:
 aka:
 residence: Utah
-status: Charged
+status: Convicted
 date: 2022-08-10
 charged: 2022-08-10
 indicted:
-convicted:
+convicted: 2022-08-26
 acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-08-26
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -36,7 +37,12 @@ published: true
 caseNumber: 1:22-cr-270
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527176/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529131/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529136/download)
