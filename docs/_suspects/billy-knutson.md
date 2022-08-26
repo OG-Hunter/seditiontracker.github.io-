@@ -4,17 +4,18 @@ lastName: Knutson
 hashtag: PlayboyTheBeast
 aka: Playboy The Beast
 residence: North Carolina
-status: Convicted
+status: Sentenced
 date: 2022-01-12
 charged: 2022-01-12
 indicted:
 convicted: 2022-04-13
 acquitted:
-sentenced:
+sentenced: 2022-08-26
 dismissed:
 deceased:
 plea_hearing: 2022-04-13
 trial_date:
+trial_type:
 sentencing: 2022-08-26
 age: 36
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 6 months incarceration
+  - 1 year probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.billboard.com/music/rb-hip-hop/south-dakota-man-charged-capitol-riot-rap-videos-1235019121/)
