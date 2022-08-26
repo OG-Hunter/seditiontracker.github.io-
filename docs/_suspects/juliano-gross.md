@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-29
 trial_date:
-sentencing:
+sentencing: 2022-12-09
 age:
 occupation:
 affiliations:
@@ -27,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We are gonna to head out because we just got an emergency alert that they have mobilized the National Guard, so I’m heading out.'
+quote: "We are gonna to head out because we just got an emergency alert that they have mobilized the National Guard, so I’m heading out."
 title: Juliano Gross charged on January 11, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-56
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.yahoo.com/news/capitol-riot-suspect-livestreamed-insurrection-172911142.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481381/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524826/download)

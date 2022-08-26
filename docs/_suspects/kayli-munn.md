@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-sentencing:
+sentencing: 2022-09-30
 age:
 occupation:
 affiliations:
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cnn.com/2021/07/13/politics/munn-family-texas-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415406/download)

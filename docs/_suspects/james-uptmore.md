@@ -10,12 +10,12 @@ charged: 2021-01-26
 indicted: 2021-02-24
 convicted: 2022-06-06
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2022-06-06
 trial_date:
-sentencing:
+sentencing: 2022-09-16
 age: 63
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-149
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360731/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)

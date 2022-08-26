@@ -53,3 +53,4 @@ sentence:
 - [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-pleads-guilty-assaulting-law-enforcement-officers-during-jan-6-capitol)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498596/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498601/download)
+- [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235383/gov.uscourts.dcd.235383.84.0.pdf)

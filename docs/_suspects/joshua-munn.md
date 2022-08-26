@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-28
 trial_date:
-sentencing:
+sentencing: 2022-09-30
 age:
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-004
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.cnn.com/2021/07/13/politics/munn-family-texas-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415406/download)

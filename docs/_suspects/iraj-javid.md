@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-12
 trial_date:
-sentencing:
+sentencing: 2022-11-04
 age: 31
 occupation: Washington Metropolitan Area Transit Authority IT Specialist
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-77
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.wusa9.com/article/news/local/dc/metro-employee-arrested-capitol-riot-involvement-january-6-department-of-justice/65-d3734cf3-da22-4330-8287-c9b1ce95b0fa)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479821/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479826/download)
