@@ -1,9 +1,9 @@
 ---
 name: Brandon Cavanaugh
 lastName: Cavanaugh
-hashtag:
+hashtag: LetsGoOtherBrandon
 aka:
-residence:
+residence: California
 status: Charged
 date: 2022-08-16
 charged: 2022-08-16
@@ -19,7 +19,7 @@ trial_type:
 sentencing:
 age:
 occupation:
-affiliations:
+affiliations: Groypers
 jurisdiction: Federal
 image: /images/preview/brandon-cavanaugh.jpg
 suspect: brandon-cavanaugh.jpg
@@ -39,6 +39,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/crime/huntington-beach-man-who-allegedly-bragged-about-breaching-the-capitol-is-arrested-charged/ar-AA119aFD)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529221/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529226/download)
