@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-02
 trial_date: 2022-04-25
-sentencing: 2022-09-02
+sentencing: 2022-09-01
 age: 54
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:
