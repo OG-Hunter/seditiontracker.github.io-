@@ -4,17 +4,18 @@ lastName: Pruitt
 hashtag: BaldBullDog
 aka: JackedBeast
 residence: Washington, DC
-status: Convicted
+status: Sentenced
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-03-19
 convicted: 2022-06-03
 acquitted:
-sentenced:
+sentenced: 2022-08-29
 dismissed:
 deceased:
 plea_hearing: 2022-06-03
 trial_date:
+trial_type:
 sentencing: 2022-08-29
 age: 39
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
+  - 55 months incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/08/954940681/man-who-posed-for-photos-sitting-at-desk-in-pelosis-office-has-been-arrested)
