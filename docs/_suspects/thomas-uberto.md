@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-02
 sentencing:
 age:
 occupation:
@@ -36,5 +36,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481286/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481291/download)

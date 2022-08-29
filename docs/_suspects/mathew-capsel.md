@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-02
 trial_date:
 sentencing:
 age: 27
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://abc7chicago.com/capitol-riot-dc-riots-matthew-capsel-tik-tok/10079241/)
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)
