@@ -16,10 +16,10 @@ deceased:
 plea_hearing: 2022-08-25
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-22
 age: 36
 occupation:
-affiliations: Proud Boys (likely)
+affiliations:
 jurisdiction: Federal
 image: /images/preview/jerod-hughes.png
 suspect: jerod-hughes.png

@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-22
 trial_date:
-sentencing:
+sentencing: 2022-09-14
 age: 32
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-210
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/e2-80-98i-e2-80-99m-so-irresponsible-yesterday-it-felt-amazing-e2-80-99-suburban-woman-from-brazil-arrested-in-us-capitol-breach/ar-AATXOz8)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473451/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473456/download)
