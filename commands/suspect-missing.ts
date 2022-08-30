@@ -80,8 +80,8 @@ const unpublished = async () => {
   if (cmd.sentencing_date || cmd.all) {
     info("Missing Sentencing Date");
     for (const suspect of suspects) {
-      const { convicted, sentencing } = suspect;
-      if (convicted && !sentencing) {
+      const { convicted, deceased, sentencing } = suspect;
+      if (convicted && !sentencing && !deceased) {
         console.log(suspect.name);
       }
     }

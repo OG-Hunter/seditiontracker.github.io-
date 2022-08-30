@@ -4,17 +4,18 @@ lastName: Carlton
 hashtag: DannyCarlton
 aka: Danny Carlton
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-02-24
 charged: 2021-02-24
 indicted: 2021-03-24
 convicted: 2022-03-29
 acquitted:
-sentenced:
+sentenced: 2022-08-26
 dismissed:
 deceased:
 plea_hearing: 2022-03-29
 trial_date:
+trial_type:
 sentencing: 2022-08-26
 age: 45
 occupation: State Corrections Officer
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 3 years probation
+  - 40 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.jacksonville.com/story/news/courts/2021/03/11/corrections-officer-faces-judge-jacksonville-over-capitol-riot/4650980001/)
