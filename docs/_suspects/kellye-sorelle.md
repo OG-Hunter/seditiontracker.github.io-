@@ -34,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-290
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/oath-keeper-lawyer-kellye-sorelle-charged-jan-6-conspiracy-case-rcna45873)
-- [Indictment](https://www.documentcloud.org/documents/22273656-sorelle-kellye-indictment)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530526/download)

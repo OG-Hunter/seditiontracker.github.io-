@@ -53,3 +53,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20Defense%20Memorandum%20in%20Support%20of%20Pretrial%20Release.pdf)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20and%20George%20Pierre%20Tanios%20Government%20Omnibus%20Opposition%20to%20Motions%20for%20Release%20from%20Custody.pdf)
+- [DOJ statement (Guilty Plea)](https://www.justice.gov/usao-dc/pr/new-jersey-man-pleads-guilty-assaulting-officers-dangerous-weapon-during-jan-6-capitol)
