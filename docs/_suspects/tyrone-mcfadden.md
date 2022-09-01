@@ -21,8 +21,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/tyrone-mcfadden.jpg
+suspect: tyrone-mcfadden.jpg
 booking:
 courtroom:
 courthouse:
