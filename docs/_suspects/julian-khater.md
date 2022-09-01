@@ -4,17 +4,19 @@ lastName: Khater
 hashtag: MuttonTrump
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-03-17
-convicted:
+convicted: 2022-09-01
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-01
-trial_date: 2022-10-05
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2021-12-13
 age: 32
 occupation:
 affiliations:
@@ -35,6 +37,14 @@ published: true
 caseNumber: 1:21-cr-222
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b) and (2)
+    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b) and (2)
+    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
