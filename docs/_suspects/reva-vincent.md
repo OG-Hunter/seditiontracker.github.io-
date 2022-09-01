@@ -15,7 +15,8 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-22
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-09-21
 age: 57
 occupation:
 affiliations:
@@ -36,12 +37,13 @@ published: true
 caseNumber:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.courier-journal.com/story/news/crime/2022/05/05/us-capitol-riot-kentucky-woman-reva-vincent-pleads-guilty-jan-6-case/9657373002/)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496526/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496531/download)

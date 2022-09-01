@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-29
 trial_date:
-sentencing:
+sentencing: 2022-09-27
 age: 38
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:22-cr-62
 videos:
 charges:
-- code: 18 USC § 1752(a)(2)
-  title: Disorderly and disruptive conduct in a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](http://levittownnow.com/2021/02/25/bristol-twp-woman-charged-as-part-of-capitol-insurrection-investigation/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raechel%20Genco%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371391/download)
