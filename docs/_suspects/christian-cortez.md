@@ -4,17 +4,18 @@ lastName: Cortez
 hashtag: ChristianCortez
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-03-12
 charged: 2021-03-12
 indicted: 2021-04-23
 convicted: 2022-05-25
 acquitted:
-sentenced:
+sentenced: 2022-08-31
 dismissed:
 deceased:
 plea_hearing: 2022-05-25
 trial_date:
+trial_type:
 sentencing: 2022-08-31
 age:
 occupation:
@@ -41,6 +42,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
+  - 4 months incarceration
+  - 3 years probation
+  - 60 hours of community service
+  - $2000 restitution
 ---
 
 - [News Report](https://www.khou.com/article/news/nation-world/details-houston-residents-arrested-capitol-riots/285-0fb5c466-4f23-4131-a53f-5b3a6fd508c6)
