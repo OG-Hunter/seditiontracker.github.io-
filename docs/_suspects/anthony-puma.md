@@ -4,15 +4,18 @@ lastName: Puma
 hashtag: AnthonyPuma
 aka:
 residence: Michigan
-status: Indicted
+status: Convicted
 date: 2021-05-27
 charged: 2021-05-27
 indicted: 2021-07-07
-convicted:
+convicted: 2022-08-30
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-08-30
+trial_date:
+trial_type:
 sentencing:
 age: 49
 occupation:
@@ -34,6 +37,10 @@ published: true
 caseNumber: 1:21-cr-454
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 
@@ -41,3 +48,5 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399291/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413341/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530206/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530211/download)
