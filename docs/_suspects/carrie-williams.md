@@ -21,8 +21,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
-suspect: arrest.jpg
+image: /images/preview/carrie-williams.jpg
+suspect: carrie-williams.jpg
 booking:
 courtroom:
 courthouse:
