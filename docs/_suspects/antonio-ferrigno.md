@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-28
 trial_date:
-sentencing: 2022-09-01
+sentencing: 2022-09-15
 age: 26
 occupation:
 affiliations:
@@ -36,12 +36,13 @@ published: true
 caseNumber: 1:21-cr-586
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.dailymail.co.uk/news/article-9945027/Two-Brooklyn-men-arrested-January-6-Capitol-riot-appeared-livestream-video.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457646/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457651/download)

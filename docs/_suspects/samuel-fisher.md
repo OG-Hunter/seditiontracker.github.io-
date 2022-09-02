@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-06
 trial_date:
-sentencing:
+sentencing: 2022-10-07
 age: 35
 occupation: "Pickup Artist"
 affiliations:
