@@ -4,17 +4,18 @@ lastName: Capsel
 hashtag: MathewCapsel
 aka: Mateo Q Capsel
 residence: Illinois
-status: Indicted
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2022-03-01
-convicted:
+convicted: 2022-09-02
 acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-02
 trial_date:
+trial_type:
 sentencing:
 age: 27
 occupation:
@@ -36,6 +37,10 @@ published: true
 caseNumber:
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
@@ -43,3 +48,4 @@ sentence:
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mathew%20Capsel%20Indictment.pdf)
+- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241871/gov.uscourts.dcd.241871.51.0.pdf)
