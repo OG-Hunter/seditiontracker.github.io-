@@ -541,6 +541,9 @@ const linkType = (description: string, lastName?: string) => {
     case /Verdict Form/.test(description):
       return "Jury Verdict Form";
 
+    case /Proffer/.test(description):
+      return "Proffer of Evidence";
+
     // government motions
     case /Government's Motion to Continue/.test(description):
       return "Government motion to Continue";

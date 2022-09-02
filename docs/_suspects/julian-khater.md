@@ -37,20 +37,21 @@ published: true
 caseNumber: 1:21-cr-222
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)
 - [Defense Motion for Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20Defense%20Memorandum%20in%20Support%20of%20Pretrial%20Release.pdf)
 - [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Julian%20Elie%20Khater%20and%20George%20Pierre%20Tanios%20Government%20Omnibus%20Opposition%20to%20Motions%20for%20Release%20from%20Custody.pdf)
 - [DOJ statement (Guilty Plea)](https://www.justice.gov/usao-dc/pr/new-jersey-man-pleads-guilty-assaulting-officers-dangerous-weapon-during-jan-6-capitol)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530701/download)
+- [Proffer of Evidence](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530706/download)
