@@ -13,7 +13,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+sentencing: 2022-09-06
 age:
 occupation:
 affiliations:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Hold your ground'
+quote: "Hold your ground"
 title: John Lammons charged on March 1st, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.khou.com/article/news/local/fbi-agents-arrest-galveston-county-man-capitol-riot/285-38904ed4-0723-4e3e-886f-2892b41d1a9d)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487231/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487236/download)

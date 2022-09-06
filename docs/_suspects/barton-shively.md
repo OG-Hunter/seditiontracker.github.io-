@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-09-21
 sentencing:
 age: 53
 occupation: U.S. Marines (Former)
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.fox43.com/article/news/local/central-pennsylvania-man-arrested-for-role-in-riot-at-us-capitol/521-578d8b83-fed6-4768-95a5-29526f1ebe90)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357006/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357011/download)

@@ -8,12 +8,14 @@ status: Indicted
 date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-05
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-09-19
+trial_type: Jury
 age: 37
 occupation: Model
 affiliations:
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356546/download)

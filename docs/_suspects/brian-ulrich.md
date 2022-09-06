@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-04-29
-trial_date:
+trial_date: 2022-09-26
+trial_type: Jury
 sentencing:
 age: 43
 occupation:
@@ -36,16 +37,17 @@ published: true
 caseNumber: 1:22-cr-15
 videos:
 charges:
-- code: 18 USC § 2384
-  title: Seditious Conspiracy
-  url: https://www.law.cornell.edu/uscode/text/18/2384
-  felony: true
-- code: 18 USC § 1512(k)
-  title: Conspiracy to Obstruct an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.nytimes.com/interactive/2021/02/14/us/roger-stone-capitol-riot.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471036/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/fifth-superseding-indictment-unsealed-oath-keeper-conspiracy-case-related-jan-6-capitol)

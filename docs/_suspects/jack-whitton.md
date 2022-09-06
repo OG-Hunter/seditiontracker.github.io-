@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-13
 sentencing:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor

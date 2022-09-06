@@ -8,11 +8,11 @@ status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-03
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+sentenced:
+dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-09
 sentencing:
 age: 30
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.latimes.com/world-nation/story/2021-02-04/reporting-or-rioting-grand-jury-indicts-capitol-rioters-who-claim-theyre-journalists)
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)

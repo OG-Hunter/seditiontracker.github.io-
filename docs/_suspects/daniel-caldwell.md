@@ -14,6 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-09-26
+trial_type: Jury
 age: 49
 occupation: Equipment Engineering Technician
 affiliations:
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378486/download)

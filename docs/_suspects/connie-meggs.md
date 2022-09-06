@@ -8,13 +8,14 @@ status: Indicted
 date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-02-19
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-09-26
+trial_type: Jury
 sentencing:
 age: 59
 occupation:
@@ -38,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515136/download)

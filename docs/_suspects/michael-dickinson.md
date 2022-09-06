@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-06
 sentencing:
 age: 30
 occupation:
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439961/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Dickinson%20Indictment.pdf)

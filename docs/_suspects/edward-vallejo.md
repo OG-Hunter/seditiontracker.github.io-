@@ -1,7 +1,7 @@
 ---
 name: Edward Vallejo
 lastName: Vallejo
-hashtag: 
+hashtag:
 aka:
 residence: Arizona
 status: Indicted
@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-09-26
+trial_type: Jury
 sentencing:
 age: 63
 occupation:
@@ -38,5 +39,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.azcentral.com/story/news/local/phoenix-breaking/2022/01/13/phoenix-man-edward-vallejo-charged-relation-jan-6-capitol-breach/6516426001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514921/download)

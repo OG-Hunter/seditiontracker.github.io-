@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-08
 sentencing:
 age: 38
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: '[I] would not do it again if I could go back.'
+quote: "[I] would not do it again if I could go back."
 title: Marcos Gleffe charged on September 1, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/crime/2021/9/2/22655069/elk-grove-village-man-charged-breaching-capitol-fbi-made-biggest-mistake-going-through-that-door)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457656/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457661/download)

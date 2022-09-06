@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-09-26
+trial_type: Jury
 sentencing:
 age: 36
 occupation: Owner, Tattoo Parlor
@@ -38,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/investigations/roger-stone-associate-with-oath-keepers-ties-arrested-on-capitol-riot-charges/2930533/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1374966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514896/download)

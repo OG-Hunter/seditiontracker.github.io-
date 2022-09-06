@@ -12,8 +12,8 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing: 2022-09-08
+plea_hearing: 2022-09-08
+sentencing:
 age: 55
 occupation: Fire Fighter (Retired)
 affiliations:

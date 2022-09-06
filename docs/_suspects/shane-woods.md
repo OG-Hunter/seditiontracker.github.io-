@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-09-19
+trial_type: Jury
 sentencing:
 age: 43
 occupation:
@@ -38,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413656/download)
