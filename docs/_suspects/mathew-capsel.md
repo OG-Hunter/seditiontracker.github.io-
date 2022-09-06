@@ -49,3 +49,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mathew%20Capsel%20Indictment.pdf)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241871/gov.uscourts.dcd.241871.51.0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1532816/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1532811/download)
