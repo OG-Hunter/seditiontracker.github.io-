@@ -4,17 +4,18 @@ lastName: Michetti
 hashtag: RichardMichetti
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-02-17
 charged: 2021-02-17
 indicted: 2021-03-19
 convicted: 2022-05-31
 acquitted:
-sentenced:
+sentenced: 2022-09-06
 dismissed:
 deceased:
 plea_hearing: 2022-05-31
 trial_date:
+trial_type:
 sentencing: 2022-09-06
 age:
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1512
     felony: true
 sentence:
+  - 9 months incarceration
+  - 2 years probation
+  - $20000 restitution
 ---
 
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-pennsylvania-man-charged-capitol-ex-girlfriend-fbi-20210224-ykcigqstwvdvnaric6chlxrqxy-story.html)
