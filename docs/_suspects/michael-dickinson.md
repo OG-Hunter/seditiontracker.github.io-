@@ -4,16 +4,19 @@ lastName: Dickinson
 hashtag: UnluckyWaterman
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-09-30
 charged: 2021-09-30
 indicted: 2021-10-29
-convicted:
+convicted: 2022-09-06
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-06
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2023-02-16
 age: 30
 occupation:
 affiliations:
@@ -34,6 +37,10 @@ published: true
 caseNumber: 1:21-mj-621
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
