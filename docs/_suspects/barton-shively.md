@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2021-09-21
+plea_hearing: 2022-09-21
 sentencing:
 age: 53
 occupation: U.S. Marines (Former)
