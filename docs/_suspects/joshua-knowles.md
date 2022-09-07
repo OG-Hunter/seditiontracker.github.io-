@@ -33,7 +33,7 @@ title: Joshua Knowles charged on August 15th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-182
 videos:
 charges:
