@@ -34,16 +34,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-621
+caseNumber: 1:21-cr-649
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439961/download)
-- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Dickinson%20Indictment.pdf)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533116/download)
+- [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-pleads-guilty-assaulting-officers-during-jan-6-capitol-breach)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533121/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533126/download)
