@@ -4,17 +4,18 @@ lastName: McNicoll
 hashtag: LoisMcNicoll
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-06-23
 charged: 2021-06-23
 indicted:
 convicted: 2022-05-23
 acquitted:
-sentenced:
+sentenced: 2022-09-06
 dismissed:
 deceased:
 plea_hearing: 2022-05-23
 trial_date:
+trial_type:
 sentencing: 2022-09-06
 age: 69
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 2 years probation
+  - 80 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.msn.com/en-us/news/crime/la-county-employee-charged-for-allegedly-breaching-capitol/ar-AALyJCO)

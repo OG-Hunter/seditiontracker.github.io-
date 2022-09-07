@@ -4,17 +4,18 @@ lastName: Watson
 hashtag: SeanWatson
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-04-23
 charged: 2021-04-23
 indicted:
 convicted: 2022-04-21
 acquitted:
-sentenced:
+sentenced: 2022-09-06
 dismissed:
 deceased:
 plea_hearing: 2022-04-21
 trial_date:
+trial_type:
 sentencing: 2022-09-06
 age:
 occupation:
@@ -41,6 +42,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 7 days incarceration
+  - 2 years probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
