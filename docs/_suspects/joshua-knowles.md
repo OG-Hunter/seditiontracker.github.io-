@@ -3,7 +3,7 @@ name: Joshua Knowles
 lastName: Knowles
 hashtag: SmoggySprayer
 aka:
-residence:
+residence: Arizona
 status: Charged
 date: 2022-08-15
 charged: 2022-08-15
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-age:
+age: 31
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -40,6 +40,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.12news.com/article/news/crime/2-arizonans-arrested-during-us-capitol-riot/75-4a732b64-9442-4b03-9e47-c8d1b87413a1)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530561/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530566/download)
