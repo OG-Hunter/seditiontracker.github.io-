@@ -4,15 +4,18 @@ lastName: Gleffe
 hashtag: MarcosGleffe
 aka:
 residence: Illinois
-status: Charged
+status: Convicted
 date: 2021-09-01
 charged: 2021-09-01
 indicted:
-convicted:
+convicted: 2022-09-08
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-08
+trial_date:
+trial_type:
 sentencing:
 age: 38
 occupation:
@@ -34,9 +37,14 @@ published: true
 caseNumber: 1:21-cr-698
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2021/9/2/22655069/elk-grove-village-man-charged-breaching-capitol-fbi-made-biggest-mistake-going-through-that-door)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457656/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457661/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533731/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533736/download)

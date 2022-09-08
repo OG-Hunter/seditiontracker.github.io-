@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2023-02-27
+trial_type: Jury
 sentencing:
 age: 41
 occupation:
@@ -38,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/luke-coffee-fledgling-actor-from-texas-bashed-a-cop-during-capitol-riot-prosecutors-allege)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378546/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404986/download)
