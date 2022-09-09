@@ -4,15 +4,18 @@ lastName: Ochs
 hashtag: NickOchs
 aka:
 residence: Hawaii
-status: Indicted
+status: Convicted
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-02-03
-convicted:
+convicted: 2022-09-09
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-09
+trial_date:
+trial_type:
 sentencing:
 age: 34
 occupation:
@@ -25,7 +28,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: "We're not supposed to be here, this is beyond the fence"
 title: Nicholas Ochs charged on January 7, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -34,6 +37,10 @@ published: true
 caseNumber: 1:21-cr-73
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
 
@@ -42,4 +49,6 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1353336/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353341/download)
 - [DOJ Press Release (Indictment)](https://www.justice.gov/usao-dc/pr/texas-man-self-proclaimed-leader-honolulu-proud-boys-now-indicted-federal-grand-jury)
-- [Indictment](https://www.justice.gov/usao-dc/press-release/file/1364371/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533911/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533916/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533921/download)
