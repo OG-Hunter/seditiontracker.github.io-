@@ -4,17 +4,18 @@ lastName: Youngers
 hashtag: DarrellYoungers
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-06-29
 charged: 2021-06-29
 indicted: 2021-10-22
 convicted: 2022-03-30
 acquitted:
-sentenced:
+sentenced: 2022-09-08
 dismissed:
 deceased:
 plea_hearing: 2022-03-30
 trial_date:
+trial_type:
 sentencing: 2022-09-08
 age:
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 3 years probation
+  - $1000 fine
+  - $500 restitution
 ---
 
 - [News Report](https://abc13.com/houston-man-arrested-arrest-in-capitol-riot-darrell-youngers-january-6/10844224/)
