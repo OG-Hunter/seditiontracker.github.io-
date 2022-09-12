@@ -37,17 +37,18 @@ published: true
 caseNumber: 1:21-cr-476
 videos:
 charges:
-  - code: 18 USC § 113(a)(4)
-    title: Assault by striking, beating or wounding
-    url: https://www.law.cornell.edu/uscode/text/18/113
-    felony: false
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 113(a)(4)
+  title: Assault by striking, beating or wounding
+  url: https://www.law.cornell.edu/uscode/text/18/113
+  felony: false
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/news/us-news/illinois-man-charged-capitol-riot-first-accused-assaulting-media-member-n1272403)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405966/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413656/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1534116/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1534106/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1534111/download)
