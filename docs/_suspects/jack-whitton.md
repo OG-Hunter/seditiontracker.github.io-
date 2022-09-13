@@ -4,15 +4,18 @@ lastName: Whitton
 hashtag: Scallops
 aka:
 residence: Georgia
-status: Indicted
+status: Convicted
 date: 2021-03-12
 charged: 2021-03-12
 indicted: 2021-03-12
-convicted:
+convicted: 2022-09-13
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-13
+trial_date:
+trial_type:
 sentencing:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor
@@ -46,6 +49,10 @@ videos:
   - title: Ex. 6 - Defendant Cell Phone Video.mov (0:00:48)
     url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a0993630ce2a013960702cde48001122.mp4
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 

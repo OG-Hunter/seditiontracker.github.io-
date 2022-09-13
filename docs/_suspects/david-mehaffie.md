@@ -4,18 +4,19 @@ lastName: Mehaffie
 hashtag: TunnelCommander
 aka:
 residence: Ohio
-status: Indicted
+status: Convicted
 date: 2021-08-12
 charged: 2021-08-12
 indicted: 2021-08-12
-convicted:
+convicted: 2022-09-13
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: 2022-08-29
 trial_type: Bench Trial
+sentencing:
 age:
 occupation:
 affiliations:
@@ -36,6 +37,22 @@ published: true
 caseNumber: 1:21-cr-40
 videos:
 charges:
+  - code: 18 USC § 111(a)(1), 2
+    title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(F)
+    title: Act of physical violence on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
