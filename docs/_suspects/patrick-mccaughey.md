@@ -53,8 +53,8 @@ charges:
     title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
   - code: 18 USC § 1512(c)(2),2
@@ -65,11 +65,11 @@ charges:
     title: Obstruction of Law Enforcement During Civil Disorder
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
+  - code: 18 USC § 1752(a)(2), (b)(1)(A)
     title: Entering a restricted building or grounds with a dangerous or deadly weapon
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
+  - code: 18 USC § 1752(a)(4), (b)(1)(A)
     title: Entering a restricted building or grounds with a dangerous or deadly weapon
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true
