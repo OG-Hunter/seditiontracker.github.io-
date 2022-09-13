@@ -4,10 +4,10 @@ lastName: Chilcoat
 hashtag:
 aka:
 residence: Ohio
-status: Charged
+status: Indicted
 date: 2022-08-10
 charged: 2022-08-10
-indicted:
+indicted: 2022-09-09
 convicted:
 acquitted:
 sentenced:
@@ -27,17 +27,19 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'OK so antifa is being blamed for breaking windows and storming congress. Um no, it was us I was with them and couldn’t be more proud. Please stop giving them credit and realize trumps side has crazies too and they should stew on that for awhile.'
+quote: "OK so antifa is being blamed for breaking windows and storming congress. Um no, it was us I was with them and couldn’t be more proud. Please stop giving them credit and realize trumps side has crazies too and they should stew on that for awhile."
 title: Shawndale Chilcoat charged on August 10th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-179
+caseNumber: 1:22-cr-299
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://mercercountyoutlook.net/2022/08/12/celina-residents-arrested-on-january-6th-capitol-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525766/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525771/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247218/gov.uscourts.dcd.247218.20.0.pdf)

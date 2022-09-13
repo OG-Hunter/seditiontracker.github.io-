@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-20
 sentencing:
 age: 26
 occupation: US Marine Corps Reserve
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.amny.com/news/queens-man-cuffed-for-role-in-attack-on-capitol-building-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458871/download)
