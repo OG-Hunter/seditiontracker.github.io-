@@ -4,17 +4,18 @@ lastName: Carollo
 hashtag:
 aka:
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2022-01-19
 charged: 2022-01-19
 indicted:
 convicted: 2022-04-21
 acquitted:
-sentenced:
+sentenced: 2022-09-13
 dismissed:
 deceased:
 plea_hearing: 2022-04-21
 trial_date:
+trial_type:
 sentencing: 2022-09-13
 age: 23
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 1 year probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://chicago.suntimes.com/crime/2022/1/19/22891618/feds-charge-three-illinois-men-us-capitol-breach-investigation)
