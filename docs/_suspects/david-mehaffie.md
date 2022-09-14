@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-08-29
 trial_type: Bench Trial
-sentencing:
+sentencing: 2023-01-27
 age:
 occupation:
 affiliations:

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-299
+caseNumber: 1:22-mj-179
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://mercercountyoutlook.net/2022/08/12/celina-residents-arrested-on-january-6th-capitol-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525766/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525771/download)
