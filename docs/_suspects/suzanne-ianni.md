@@ -4,16 +4,19 @@ lastName: Ianni
 hashtag: SueIanni
 aka:
 residence: Massachusetts
-status: Charged
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
-convicted:
+convicted: 2022-09-14
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-sentencing:
+plea_hearing: 2022-09-14
+trial_date:
+trial_type:
+sentencing: 2022-12-02
 age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
@@ -34,6 +37,10 @@ published: true
 caseNumber: 1:21-cr-451
 videos:
 charges:
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
 
