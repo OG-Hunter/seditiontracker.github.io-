@@ -13,6 +13,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-12-07
+trial_type: Jury
 sentencing:
 age: 34
 occupation:
@@ -25,7 +27,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Nah we stormed it'
+quote: "Nah we stormed it"
 title: Garret Miller charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359601/download)

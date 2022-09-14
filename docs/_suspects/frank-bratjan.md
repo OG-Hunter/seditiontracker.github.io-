@@ -4,18 +4,19 @@ lastName: Bratjan
 hashtag: Insider0285
 aka:
 residence: New York
-status: Charged
+status: Sentenced
 date: 2022-06-09
 charged: 2022-06-09
 indicted:
 convicted:
 acquitted:
-sentenced:
+sentenced: 2022-09-14
 dismissed:
 deceased:
 plea_hearing: 2022-09-14
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-09-14
 age:
 occupation: Postal worker
 affiliations:
@@ -37,6 +38,9 @@ caseNumber: 1:22-mj-134
 videos:
 charges:
 sentence:
+  - 6 months probation
+  - $1500 fine
+  - $500 restitution
 ---
 
 - [News Report](https://www.thedailybeast.com/usps-employee-and-van-life-enthusiast-frank-joseph-bratjan-jr-charged-in-capitol-riot)
