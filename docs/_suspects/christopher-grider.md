@@ -13,6 +13,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-12-12
+trial_type: Bench Trial
 sentencing:
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
@@ -36,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)
