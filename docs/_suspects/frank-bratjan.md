@@ -8,7 +8,7 @@ status: Sentenced
 date: 2022-06-09
 charged: 2022-06-09
 indicted:
-convicted:
+convicted: 2022-09-14
 acquitted:
 sentenced: 2022-09-14
 dismissed:
@@ -42,6 +42,7 @@ sentence:
   - $1500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/usps-employee-and-van-life-enthusiast-frank-joseph-bratjan-jr-charged-in-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513246/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513256/download)
