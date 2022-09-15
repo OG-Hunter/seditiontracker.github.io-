@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-134
+caseNumber: 1:22-cr-285
 videos:
 charges:
 sentence:
@@ -42,7 +42,9 @@ sentence:
   - $1500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/usps-employee-and-van-life-enthusiast-frank-joseph-bratjan-jr-charged-in-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513246/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513256/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535061/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535066/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535071/download)
