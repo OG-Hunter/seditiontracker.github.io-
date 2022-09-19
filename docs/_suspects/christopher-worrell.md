@@ -14,6 +14,8 @@ dismissed:
 deceased:
 plea_hearing:
 sentencing:
+trial_date: 2022-12-12
+trial_type: Jury
 age: 49
 occupation:
 affiliations: Proud Boys
