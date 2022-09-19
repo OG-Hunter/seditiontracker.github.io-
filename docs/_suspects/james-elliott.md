@@ -34,11 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-007
+caseNumber: 1:21-cr-735
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://chicago.suntimes.com/crime/2021/12/21/22848391/aurora-man-accused-assaulting-officer-flagpole-capitol-riot-faces-five-felonies)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481116/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481251/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/illinois-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
