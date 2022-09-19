@@ -4,17 +4,18 @@ lastName: Packer
 hashtag: CampAuschwitzShirt
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-01-13
 charged: 2021-01-13
 indicted:
 convicted: 2022-01-26
 acquitted:
-sentenced:
+sentenced: 2022-09-15
 dismissed:
 deceased:
 plea_hearing: 2022-01-26
 trial_date:
+trial_type:
 sentencing: 2022-09-15
 age: 56
 occupation:
@@ -41,6 +42,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 75 days incarceration
+  - $500 restitution
 ---
 
 - [News Report](https://www.cbsnews.com/news/camp-auschwitz-shirt-robert-packer-arrested-virginia/)

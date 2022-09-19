@@ -4,17 +4,18 @@ lastName: Connor
 hashtag: FrancisConnor
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-08-27
 charged: 2021-08-27
 indicted:
 convicted: 2022-04-28
 acquitted:
-sentenced:
+sentenced: 2022-09-15
 dismissed:
 deceased:
 plea_hearing: 2022-04-28
 trial_date:
+trial_type:
 sentencing: 2022-09-15
 age: 23
 occupation:
@@ -41,6 +42,11 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days home confinement
+  - 1 year probation
+  - $371 fine
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://nypost.com/2021/08/31/two-more-brooklyn-men-charged-in-capitol-riot/)

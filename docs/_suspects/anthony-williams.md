@@ -4,13 +4,13 @@ lastName: Williams
 hashtag: AnthonyWilliams
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-03-24
 charged: 2021-03-24
 indicted: 2021-05-26
 convicted: 2022-06-30
 acquitted:
-sentenced:
+sentenced: 2022-09-16
 dismissed:
 deceased:
 plea_hearing:
@@ -58,6 +58,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 5 years incarceration
+  - 3 years probation
+  - $5000 fine
+  - $2000 restitution
 ---
 
 - [News Report](https://www.clickondetroit.com/news/defenders/2021/03/26/southgate-man-charged-in-connection-with-deadly-attack-on-us-capitol/)
