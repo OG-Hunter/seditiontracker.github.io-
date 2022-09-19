@@ -39,6 +39,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://newjersey.news12.com/toms-river-man-faces-charges-related-to-jan-6-riot-at-the-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535166/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535176/download)
+- [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/new-jersey-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol?s=31)

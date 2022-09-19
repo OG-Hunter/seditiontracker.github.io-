@@ -1,7 +1,7 @@
 id: 192
 aom: true
 afo: false
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #192 - AOM A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-192a.jpg/@@images/image/preview
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
-mugshot: null
-sedition_link: null
-name: Jonathan Joseph Copeland
+charged: 2022-08-24
+mugshot: jonathan-copeland.jpg
+sedition_link: https://seditiontracker.com/suspects/jonathan-copeland
+name: Jonathan Copeland
 missingImage: false
 identifiedBy: sh
 notes: null

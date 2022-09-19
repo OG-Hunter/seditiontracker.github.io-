@@ -1,8 +1,8 @@
 id: 338
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #338 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/338a.png/@@images/image/preview
 hashtag: GrabbyGrappler
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-09-12
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/salvatore-vassallo
+name: Salvatore Vassallo
 missingImage: false
 identifiedBy: null
 notes: null
