@@ -4,16 +4,19 @@ lastName: Grayson
 hashtag: KennethGrayson
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-03-17
-convicted:
+convicted: 2022-09-20
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-20
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2022-12-19
 age: 51
 occupation:
 affiliations:
@@ -34,6 +37,10 @@ published: true
 caseNumber: 1:21-cr-224
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
@@ -41,3 +48,7 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360506/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379271/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536381/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536371/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536376/download)
+- [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach-0)
