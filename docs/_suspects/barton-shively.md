@@ -4,15 +4,18 @@ lastName: Shively
 hashtag: MissingToothMarine
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-24
-convicted:
+convicted: 2022-09-21
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-21
+trial_date:
+trial_type:
 sentencing:
 age: 53
 occupation: U.S. Marines (Former)
@@ -34,6 +37,14 @@ published: true
 caseNumber: 1:21-cr-151
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
