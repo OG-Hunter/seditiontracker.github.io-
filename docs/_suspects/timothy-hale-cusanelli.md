@@ -4,13 +4,13 @@ lastName: Hale-Cusanelli
 hashtag: TimHaleCusanelli
 aka: Based Hermes
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-29
 convicted: 2022-05-27
 acquitted:
-sentenced:
+sentenced: 2022-09-22
 dismissed:
 deceased:
 plea_hearing: 2022-05-27
@@ -48,7 +48,7 @@ charges:
   - code: 18 USC § 1752(a)(2)
     title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds
     url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony:
+    felony: null
   - code: 40 USC § 5104(e)(2)(D)
     title: Disorderly Conduct in a Capitol Building
     url: https://www.law.cornell.edu/uscode/text/40/5104
@@ -58,6 +58,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 4 years incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.app.com/story/news/crime/2021/01/17/timothy-louis-hale-cusanelli-colts-neck-man-military-contractor-capitol-pro-trump-mob/4199037001/)

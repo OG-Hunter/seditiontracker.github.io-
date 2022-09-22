@@ -17,6 +17,10 @@ const convict = async () => {
     exitWithError("No such suspect");
   }
 
+  if (suspect.convicted) {
+    exitWithError("Suspect already convicted");
+  }
+
   info("Changing status to convicted");
   suspect.status = "Convicted";
   suspect.convicted = cmd.date;
