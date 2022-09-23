@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-09-21
+plea_hearing: 2022-10-25
 sentencing:
 age:
 occupation:

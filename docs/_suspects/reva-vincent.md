@@ -4,13 +4,13 @@ lastName: Vincent
 hashtag:
 aka:
 residence: Kentucky
-status: Convicted
+status: Sentenced
 date: 2022-02-14
 charged: 2022-02-14
 indicted:
 convicted: 2022-09-21
 acquitted:
-sentenced:
+sentenced: 2022-09-21
 dismissed:
 deceased:
 plea_hearing: 2022-09-21
