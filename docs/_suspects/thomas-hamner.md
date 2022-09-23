@@ -4,17 +4,18 @@ lastName: Hamner
 hashtag: UglyGunSweater
 aka:
 residence: Colorado
-status: Convicted
+status: Sentenced
 date: 2021-10-29
 charged: 2021-10-29
 indicted: 2021-11-19
 convicted: 2022-05-17
 acquitted:
-sentenced:
+sentenced: 2022-09-23
 dismissed:
 deceased:
 plea_hearing: 2022-05-17
 trial_date:
+trial_type:
 sentencing: 2022-09-23
 age:
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/231
     felony: true
 sentence:
+  - 40 months incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.thedenverchannel.com/news/local-news/colorado-man-charged-accused-of-fighting-with-police-at-jan-6-riot)
