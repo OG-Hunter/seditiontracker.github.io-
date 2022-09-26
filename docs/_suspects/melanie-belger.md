@@ -33,12 +33,12 @@ title: Melanie Belger charged on September 16th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:22-mj-207
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537996/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538001/download)
