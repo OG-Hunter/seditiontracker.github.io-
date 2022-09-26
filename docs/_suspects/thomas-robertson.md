@@ -48,7 +48,7 @@ charges:
   - code: 18 USC § 1752(a)(1) and b(1)(A)
     title: Entering a restricted building or grounds (w/a deadly weapon)
     url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+    felony: true
   - code: 18 USC § 1752(a)(2) and b(1)(A)
     title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds (w/a deadly weapon)
     url: https://www.law.cornell.edu/uscode/text/18/1752
