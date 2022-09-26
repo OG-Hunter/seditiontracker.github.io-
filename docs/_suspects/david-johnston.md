@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-109
+caseNumber: 1:22-cr-182
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
@@ -46,6 +46,6 @@ sentence:
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507411/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507416/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Chad%20Clifton%20and%20David%20Johnston%20Information.pdf)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243639/gov.uscourts.dcd.243639.25.0.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243639/gov.uscourts.dcd.243639.26.0_1.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537811/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537816/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537821/download)

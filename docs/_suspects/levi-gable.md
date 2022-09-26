@@ -4,17 +4,18 @@ lastName: Gable
 hashtag:
 aka:
 residence: Oklahoma
-status: Charged
+status: Convicted
 date: 2022-05-23
 charged: 2022-05-23
 indicted:
-convicted:
+convicted: 2022-09-23
 acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-23
 trial_date:
+trial_type:
 sentencing:
 age: 36
 occupation:
@@ -36,6 +37,10 @@ published: true
 caseNumber: 1:22-cr-189
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
 
@@ -43,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509011/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509016/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509021/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537801/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537806/download)
