@@ -55,7 +55,7 @@ charges:
     title: Disorderly and disruptive conduct in a restricted building or grounds (with a deadly or dangerous weapon)
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true
-  - code: 18 USC § 1752(a)(4) and (b)(1)(A)
+  - code: 18 USC § 1752(a)(4), (b)(1)(A)
     title: Engaging in Physical Violence in a Restricted Building (with a deadly or dangerous weapon)
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true

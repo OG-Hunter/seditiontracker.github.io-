@@ -4,11 +4,11 @@ lastName: Fitzsimons
 hashtag: BloodyHeadWound
 aka:
 residence: Maine
-status: Indicted
+status: Convicted
 date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-02-26
-convicted:
+convicted: 2022-09-27
 acquitted:
 sentenced:
 dismissed:
@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-08-16
 trial_type: Bench Trial
-sentencing:
+sentencing: 2023-02-17
 age: 37
 occupation: Butcher
 affiliations:
@@ -37,8 +37,51 @@ published: true
 caseNumber: 1:21-cr-158
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(4), (b)(1)(A)
+    title: Engaging in Physical Violence in a Restricted Building (with a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: true
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(F)
+    title: Act of physical violence on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-notes: Bench trial
 ---
 
 - [News Report](https://twitter.com/nathanTbernard/status/1357746924535877633?s=20)
