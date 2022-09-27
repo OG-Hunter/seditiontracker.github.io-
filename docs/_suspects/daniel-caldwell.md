@@ -4,18 +4,19 @@ lastName: Caldwell
 hashtag: SprayMeSprayYou
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-02-10
 charged: 2021-02-10
 indicted: 2021-03-03
-convicted:
+convicted: 2022-09-26
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-09-26
+trial_date:
+trial_type:
 sentencing:
-trial_date: 2022-09-26
-trial_type: Jury
 age: 49
 occupation: Equipment Engineering Technician
 affiliations:
@@ -36,6 +37,10 @@ published: true
 caseNumber: 1:21-cr-181
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
@@ -43,3 +48,5 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378486/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378496/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538231/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538236/download)
