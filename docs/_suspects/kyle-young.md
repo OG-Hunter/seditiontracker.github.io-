@@ -4,17 +4,18 @@ lastName: Young
 hashtag: AscendDad
 aka:
 residence: Iowa
-status: Convicted
+status: Sentenced
 date: 2021-04-09
 charged: 2021-04-09
 indicted: 2021-04-09
 convicted: 2022-05-05
 acquitted:
-sentenced:
+sentenced: 2022-09-27
 dismissed:
 deceased:
 plea_hearing: 2022-05-05
 trial_date:
+trial_type:
 sentencing: 2022-09-27
 age: 37
 occupation:
@@ -41,6 +42,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 86 months incarceration
+  - 3 years probation
+  - 100 hours community service
+  - $2000 restitution
 ---
 
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2021/04/16/kyle-james-young-charged-with-assaulting-washington-dc-police-officer-capitol-riot-attack/7262650002/)
