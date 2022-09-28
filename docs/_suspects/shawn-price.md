@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2021-10-13
 sentencing:
 age: 26
 occupation:
@@ -25,7 +25,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'i got really fucked up but me and 4 of my chapter brothers pushed that line and started it ourselves had to be done.'
+quote: "i got really fucked up but me and 4 of my chapter brothers pushed that line and started it ourselves had to be done."
 title: Shawn Price arrested on June 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -36,6 +36,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.dailyrecord.com/story/news/2021/06/08/capitol-riot-rockaway-twp-proud-boys-member-charged-role-deadly-attack/7606726002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402491/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/self-identified-proud-boy-arrested-violent-entry-and-obstruction-justice-during-jan-6)

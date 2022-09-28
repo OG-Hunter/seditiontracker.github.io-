@@ -4,15 +4,18 @@ lastName: Bingham
 hashtag: SeriousForehead
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2021-06-22
 charged: 2021-06-22
-indicted:
+indicted: 2022-03-18
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 35
 occupation:
@@ -36,5 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.courierpostonline.com/story/news/2021/06/23/brian-bingham-capitol-riot-insurrection-pennsville/5330587001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405791/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Glenn%20Bingham%20Indictment.pdf)

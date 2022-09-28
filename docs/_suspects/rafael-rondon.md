@@ -4,15 +4,18 @@ lastName: Rondon
 hashtag: AirHeadBoy
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2021-09-01
 charged: 2021-09-01
-indicted:
+indicted: 2021-12-08
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 23
 occupation:
@@ -39,3 +42,4 @@ sentence:
 
 - [News Report](https://www.wwnytv.com/2021/10/01/watertown-man-his-mother-facing-federal-charges-jan-6th-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Statement%20of%20Facts.pdf)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Indictment.pdf)

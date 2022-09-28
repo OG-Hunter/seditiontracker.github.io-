@@ -4,10 +4,10 @@ lastName: Milstreed
 hashtag: UnderArmourDarkShades
 aka:
 residence: Maryland
-status: Charged
+status: Indicted
 date: 2022-05-18
 charged: 2022-05-18
-indicted:
+indicted: 2022-06-01
 convicted:
 acquitted:
 sentenced:
@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 55
 occupation:
@@ -43,3 +44,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508141/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-man-arrested-assaulting-law-enforcement-officers-during-jan-6-capitol-breach)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rodney%20Kenneth%20Milstreed%20Indictment.pdf)
