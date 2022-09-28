@@ -4,17 +4,18 @@ lastName: Santillan
 hashtag: BlasSantillan
 aka:
 residence: Georgia
-status: Convicted
+status: Sentenced
 date: 2021-08-10
 charged: 2021-08-10
 indicted:
 convicted: 2022-05-17
 acquitted:
-sentenced:
+sentenced: 2022-09-23
 dismissed:
 deceased:
 plea_hearing: 2022-05-17
 trial_date:
+trial_type:
 sentencing: 2022-09-23
 age:
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 45 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.11alive.com/article/news/crime/georgia-man-arrested-blas-santillan-capitol-riots/85-30452bf1-b52b-4e1c-bc8d-f50609749e23)

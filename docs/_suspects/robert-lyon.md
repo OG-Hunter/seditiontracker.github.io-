@@ -4,17 +4,18 @@ lastName: Lyon
 hashtag: RobertLyon
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted: 2021-02-26
 convicted: 2022-03-14
 acquitted:
-sentenced:
+sentenced: 2022-09-22
 dismissed:
 deceased:
 plea_hearing: 2022-03-14
 trial_date:
+trial_type:
 sentencing: 2022-09-22
 age: 27
 occupation:
@@ -41,6 +42,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 40 days incarceration
+  - 1 year probation
+  - $1000 fine
+  - $2000 restitution
 ---
 
 - [News Report](https://www.wfmj.com/story/43232086/feds-accuse-3-ohio-men-of-illegally-entering-us-capitol)

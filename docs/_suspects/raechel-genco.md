@@ -4,17 +4,18 @@ lastName: Genco
 hashtag: WhiteHoodieGF
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-02-12
 charged: 2021-02-12
 indicted:
 convicted: 2022-06-29
 acquitted:
-sentenced:
+sentenced: 2022-09-27
 dismissed:
 deceased:
 plea_hearing: 2022-06-29
 trial_date:
+trial_type:
 sentencing: 2022-09-27
 age: 38
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 12 months probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](http://levittownnow.com/2021/02/25/bristol-twp-woman-charged-as-part-of-capitol-insurrection-investigation/)

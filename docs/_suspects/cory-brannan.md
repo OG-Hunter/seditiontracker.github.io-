@@ -4,17 +4,18 @@ lastName: Brannan
 hashtag: Drab3P
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-09-02
 charged: 2021-09-02
 indicted:
 convicted: 2022-06-10
 acquitted:
-sentenced:
+sentenced: 2022-09-23
 dismissed:
 deceased:
 plea_hearing: 2022-06-10
 trial_date:
+trial_type:
 sentencing: 2022-09-23
 age:
 occupation: Former Sheriff's Deputy
@@ -41,6 +42,10 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 30 days incarceration
+  - 2 years probation
+  - 60 hours community service
+  - $500 restitution
 ---
 
 - [News Report](https://www.dailymail.co.uk/news/article-9975643/Texas-deputy-sheriff-county-jailer-facing-charges-role-January-6-Capitol-riot.html)

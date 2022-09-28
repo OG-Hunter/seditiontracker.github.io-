@@ -3,7 +3,7 @@ name: Melanie Belger
 lastName: Belger
 hashtag:
 aka:
-residence:
+residence: California
 status: Charged
 date: 2022-09-16
 charged: 2022-09-16
@@ -39,6 +39,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1537996/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538001/download)

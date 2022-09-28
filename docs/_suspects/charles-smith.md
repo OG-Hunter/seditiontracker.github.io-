@@ -4,17 +4,18 @@ lastName: Smith
 hashtag: CharlesSmith
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-09-08
 charged: 2021-09-08
 indicted:
 convicted: 2022-06-23
 acquitted:
-sentenced:
+sentenced: 2022-09-23
 dismissed:
 deceased:
 plea_hearing: 2022-06-23
 trial_date:
+trial_type:
 sentencing: 2022-09-23
 age: 25
 occupation:
@@ -45,6 +46,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 41 months incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
 
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)

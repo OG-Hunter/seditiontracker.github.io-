@@ -13,10 +13,10 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-04-14
+plea_hearing:
 trial_date: 2022-04-12
 trial_type: Jury
-sentencing: 2022-09-23
+sentencing:
 age: 36
 occupation:
 affiliations:

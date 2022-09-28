@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-02-03
 trial_date:
-sentencing: 2022-09-16
+sentencing: 2023-03-03
 age: 31
 occupation: Lifestyle Coach
 affiliations:
