@@ -4,10 +4,10 @@ lastName: Maxwell
 hashtag: CarharttCowpoke
 aka:
 residence: Georgia
-status: Charged
+status: Indicted
 date: 2022-02-09
 charged: 2022-02-09
-indicted:
+indicted: 2022-03-25
 convicted:
 acquitted:
 sentenced:
@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 20
 occupation:
@@ -38,5 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wgauradio.com/news/athens-man-is-latest-to-be-arrested-january-6-capitol-riot/DA44XZG34FA23CGVVGMPPP6CSI/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473291/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jake%20Maxwell%20Indictment.pdf)

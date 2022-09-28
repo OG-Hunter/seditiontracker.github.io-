@@ -4,15 +4,18 @@ lastName: Krol
 hashtag: PapaGruntStick
 aka:
 residence: Michigan
-status: Charged
+status: Indicted
 date: 2022-01-26
 charged: 2022-01-26
-indicted:
+indicted: 2022-03-30
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 63
 occupation:
@@ -40,3 +43,4 @@ sentence:
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2022/02/23/federal-officials-charge-genesee-county-man-jan-6-siege-us-capitol/6909036001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476371/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Krol%20Indictment.pdf)

@@ -4,15 +4,18 @@ lastName: Kasper
 hashtag: MaceyGrey
 aka:
 residence: Wisconsin
-status: Charged
+status: Indicted
 date: 2022-03-15
 charged: 2022-03-15
-indicted:
+indicted: 2022-04-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -39,3 +42,4 @@ sentence:
 
 - [News Report](https://fox11online.com/news/crime/riley-kasper-january-6-2021-capitol-insurrection-riot-attack-federal-court-charges)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484491/download)
+- [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Riley%20Kasper%20Indictment.pdf)
