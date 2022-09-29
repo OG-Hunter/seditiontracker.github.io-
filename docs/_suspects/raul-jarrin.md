@@ -9,10 +9,13 @@ date: 2022-03-01
 charged: 2022-03-01
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -38,3 +41,4 @@ sentence:
 ---
 - [News Report](https://www.click2houston.com/news/local/2022/03/11/houston-man-arrested-in-connection-to-jan-6-capitol-riots-allegedly-seen-on-video-taking-photos-inside-breached-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481476/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raul%20Eduardo%20Jarrin%20Information.pdf)

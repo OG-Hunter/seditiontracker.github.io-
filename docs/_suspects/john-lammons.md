@@ -9,10 +9,13 @@ date: 2022-03-01
 charged: 2022-03-01
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -36,7 +39,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.khou.com/article/news/local/fbi-agents-arrest-galveston-county-man-capitol-riot/285-38904ed4-0723-4e3e-886f-2892b41d1a9d)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487231/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487236/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Lammons%20Information.pdf)

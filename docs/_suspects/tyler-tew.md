@@ -9,10 +9,13 @@ date: 2021-11-10
 charged: 2021-11-10
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 39
 occupation:
@@ -38,3 +41,4 @@ sentence:
 ---
 - [News Report](https://www.eastidahonews.com/2021/12/idaho-falls-man-arrested-for-allegedly-storming-capitol-in-jan-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458981/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Tew%20Information.pdf)
