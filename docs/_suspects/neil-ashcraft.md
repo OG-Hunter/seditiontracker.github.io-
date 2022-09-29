@@ -3,7 +3,7 @@ name: Neil Ashcraft
 lastName: Ashcraft
 hashtag: TarpCutter
 aka:
-residence:
+residence: Florida
 status: Convicted
 date: 2022-09-02
 charged: 2022-09-02
