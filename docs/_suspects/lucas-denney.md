@@ -4,15 +4,18 @@ lastName: Denney
 hashtag: PoleTosser
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-12-07
 charged: 2021-12-07
 indicted: 2022-03-07
 convicted: 2022-03-17
-sentenced:
+acquitted:
+sentenced: 2022-09-28
 dismissed:
 deceased:
 plea_hearing: 2022-03-17
+trial_date:
+trial_type:
 sentencing: 2022-09-28
 age: 44
 occupation:
@@ -39,6 +42,8 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/111
     felony: true
 sentence:
+  - 52 months incarceration
+  - 3 years probation
 ---
 
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)
