@@ -53,3 +53,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362396/download)
 - [Self Incrimination (VIDEO)](https://twitter.com/angelmercedes/status/1347959031080624128?s=20)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436741/download)
+- [DOJ Press Release (Plea Agreement)](https://www.justice.gov/usao-dc/pr/tennessee-man-pleads-guilty-felony-charges-actions-during-jan-6-capitol-breach)
