@@ -14,7 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2023-02-14
+trial_type: Bench Trial
 sentencing:
 age:
 occupation: Defense Contractor (Software Developer)
@@ -27,7 +28,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I’m going in there. Like I have no respect for people in this building. They have no respect for me. I have no respect for them.'
+quote: "I’m going in there. Like I have no respect for people in this building. They have no respect for me. I have no respect for them."
 title: Hatchet Speed charged on June 21st, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -38,6 +39,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/fbi-navy-petty-officer-arrested-on-capitol-riot-charges-had-arsenal-of-guns-praised-unabomber/ar-AAYNcvq)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514546/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download)

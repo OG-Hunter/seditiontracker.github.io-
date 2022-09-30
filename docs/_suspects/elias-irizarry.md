@@ -12,7 +12,7 @@ convicted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-26
 sentencing:
 trial_date: 2023-01-03
 age: 19

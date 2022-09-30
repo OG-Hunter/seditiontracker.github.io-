@@ -2,18 +2,21 @@
 name: Ronald Sandlin
 lastName: Sandlin
 hashtag: RonaldSandlin
-aka:
+aka: Ronnie Sandlin
 residence: Tennessee
-status: Indicted
+status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted: 2021-02-05
-convicted:
+convicted: 2022-09-30
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-09-30
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2022-12-09
 age: 31
 occupation:
 affiliations:
@@ -34,6 +37,14 @@ published: true
 caseNumber: 1:21-cr-88
 videos:
 charges:
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1), 2
+    title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
 
