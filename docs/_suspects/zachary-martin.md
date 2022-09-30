@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-28
 trial_date:
+trial_type:
 sentencing: 2022-03-17
 age:
 occupation:
@@ -54,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468996/download)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228675/gov.uscourts.dcd.228675.121.0_1.pdf)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Martin%20Defense%20Sentencing%20Memorandum.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Martin%20et%20al%20Sentencing%20Hearing%20Transcript.pdf)

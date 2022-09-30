@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-17
 trial_date:
+trial_type:
 sentencing: 2022-04-01
 age: 43
 occupation: Business Owner
@@ -54,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468931/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20Supplement%20to%20Amended%20Government%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daniel%20Herendeen%20Sentencing%20Hearing%20Transcript.pdf)

@@ -55,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469006/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Quick%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephen%20Quick%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Martin%20et%20al%20Sentencing%20Hearing%20Transcript.pdf)

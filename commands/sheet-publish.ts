@@ -205,7 +205,7 @@ const publishSheet = async () => {
         missingImage || !hashtag
           ? `=IMAGE("${src}")`
           : `=IMAGE("https://jan6evidence.com/poi_thumbnails/${hashtag.toLowerCase()}.jpeg")`,
-      Name: charged ? name : "",
+      Name: charged || deceased ? name : "",
       AFO: afo ? "yes" : "no",
       AOM: aom ? "yes" : "no",
       Arrested: arrested ? "yes" : "no",

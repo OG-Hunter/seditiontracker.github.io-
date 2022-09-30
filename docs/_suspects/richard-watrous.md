@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-14
 trial_date:
+trial_type:
 sentencing: 2022-04-21
 age: 59
 occupation:
@@ -54,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469336/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Watrous%20Sentencing%20Hearing%20Transcript.pdf)

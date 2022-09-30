@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-28
 trial_date:
+trial_type:
 sentencing: 2022-03-17
 age: 40
 occupation: Insurance Adjuster
@@ -54,3 +55,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Judgment.pdf)
 - [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kari%20Kelley%20Amended%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Zachary%20Martin%20et%20al%20Sentencing%20Hearing%20Transcript.pdf)

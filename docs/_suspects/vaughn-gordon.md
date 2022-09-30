@@ -48,3 +48,5 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354991/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366086/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Vaughn%20Gordon%20Information.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539316/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539321/download)
