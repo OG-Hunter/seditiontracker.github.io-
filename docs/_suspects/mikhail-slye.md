@@ -40,7 +40,7 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://lawandcrime.com/u-s-capitol-breach/accused-jan-6th-rioter-dubbed-jackthetripper-for-allegedly-pushing-bike-rack-into-law-enforcement-charged-with-felonies/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539651/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539656/download)
 - [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol)
