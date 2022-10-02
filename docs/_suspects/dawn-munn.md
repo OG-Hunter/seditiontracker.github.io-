@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-05-13
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-10-12
 age:
 occupation:
 affiliations:

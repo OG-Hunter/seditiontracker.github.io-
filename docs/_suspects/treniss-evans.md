@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-10
 trial_date:
-sentencing:
+sentencing: 2022-10-11
 age: 46
 occupation:
 affiliations:
