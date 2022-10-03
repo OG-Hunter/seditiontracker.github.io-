@@ -49,3 +49,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-and-tennessee-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538856/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1538861/download)
+- [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/michigan-man-pleads-guilty-assaulting-officers-during-jan-6-capitol-breach-0)

@@ -3,7 +3,7 @@ name: Micki Larson-Olson
 lastName: Larson-Olson
 hashtag:
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2021-01-19
 charged: 2021-01-19
@@ -39,4 +39,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report]()
+- [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-woman-sentenced-180-days-jail-after-jury-verdict-related-capitol-breach)
