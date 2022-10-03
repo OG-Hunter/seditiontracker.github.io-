@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-28
 trial_date:
+trial_type:
 sentencing: 2022-07-22
 age: 31
 occupation:
@@ -36,16 +37,15 @@ published: true
 caseNumber: 1:21-cr-271
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 20 days incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)
@@ -53,3 +53,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438266/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438271/download)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229605/gov.uscourts.dcd.229605.64.0_1.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Diana%20Santos-Smith%20Defense%20Sentencing%20Memorandum.pdf)

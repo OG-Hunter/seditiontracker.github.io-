@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-12
 trial_date:
+trial_type:
 sentencing: 2022-05-02
 age: 45
 occupation:
@@ -36,10 +37,10 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days home detention
   - 3 years probation
@@ -47,7 +48,6 @@ sentence:
   - $500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.abc4.com/news/local-news/southern-utah-man-arrested-after-admitting-to-entering-capitol-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389171/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389176/download)
@@ -55,3 +55,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469216/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469221/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Willard%20Peart%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Willard%20Peart%20Judgment.pdf)

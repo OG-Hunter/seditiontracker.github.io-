@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-24
 trial_date:
+trial_type:
 sentencing: 2022-01-20
 age: 55
 occupation: Messianic Rabbi
@@ -56,3 +57,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1436786/download)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227275/gov.uscourts.dcd.227275.43.0.pdf)
 - [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Stepakoff%20Sentencing%20Hearing%20Transcript.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Stepakoff%20Government%20Response%20to%20Defense%20Sentencing%20Memorandum.pdf)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-25
 trial_date:
+trial_type:
 sentencing: 2022-06-27
 age: 26
 occupation:
@@ -36,20 +37,20 @@ published: true
 caseNumber: 1:21-cr-694
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 10 months probation
   - $2500 fine
   - 120 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.cnn.com/2021/09/23/politics/freedomworks-capitol-riot/index.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457596/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457631/download)
 - [Fired from Job](https://twitter.com/xiruahu/status/1488312863475306497?s=20&t=ROao3WY5vqCQgEArwVHHsA)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487266/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487271/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brandon%20Prenzlin%20Defense%20Sentencing%20Memorandum.pdf)

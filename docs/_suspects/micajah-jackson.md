@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-11-22
 trial_date:
+trial_type:
 sentencing: 2022-03-10
 age:
 occupation:
@@ -54,3 +55,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Micajah%20Joel%20Jackson%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1452291/download)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Micajah%20Joel%20Jackson%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Micajah%20Joel%20Jackson%20Sentencing%20Hearing%20Transcript.pdf)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-29
 trial_date:
+trial_type:
 sentencing: 2022-01-10
 age:
 occupation:
@@ -41,10 +42,10 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/two-kansas-women-arrested-in-jan-6-capitol-riot/ar-BB1g2yEp)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438221/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Esther%20Schwemmer%20Information.pdf)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438216/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Esther%20Schwemmer%20Government%20Sentencing%20Memorandum.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438221/download)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Esther%20Schwemmer%20Judgment.pdf)
