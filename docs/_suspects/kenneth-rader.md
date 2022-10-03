@@ -4,17 +4,18 @@ lastName: Rader
 hashtag:
 aka:
 residence: Iowa
-status: Convicted
+status: Sentenced
 date: 2022-01-11
 charged: 2022-01-11
 indicted:
 convicted: 2022-06-07
 acquitted:
-sentenced:
+sentenced: 2022-09-30
 dismissed:
 deceased:
 plea_hearing: 2022-06-07
 trial_date:
+trial_type:
 sentencing: 2022-09-30
 age: 54
 occupation: Viera High School P.E. Teacher
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 90 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.mynews13.com/fl/orlando/news/2021/07/07/kenneth-reda-viera-high-school-teacher-charged-in-capitol-riot-investigation)
