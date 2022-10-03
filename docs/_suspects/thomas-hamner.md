@@ -50,3 +50,4 @@ sentence:
 - [News Report](https://www.thedenverchannel.com/news/local-news/colorado-man-charged-accused-of-fighting-with-police-at-jan-6-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1448036/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1506936/download)
+- [DOJ Statement (Sentence)](https://www.justice.gov/usao-dc/pr/colorado-man-sentenced-30-months-prison-actions-during-jan-6-capitol-breach)

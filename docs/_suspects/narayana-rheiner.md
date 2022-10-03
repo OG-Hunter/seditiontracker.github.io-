@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-14
 trial_date:
 sentencing:
 age: 40
@@ -38,6 +38,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-fbi-arrests-jan-6-insurrection-20220303-m2kfndbt4zb27cotowncld5eca-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479786/download)
