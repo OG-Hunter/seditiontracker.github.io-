@@ -4,15 +4,18 @@ lastName: Stottlemyer
 hashtag: TaraStottlemyer
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-07-28
 charged: 2021-07-28
 indicted: 2021-07-28
-convicted:
+convicted: 2022-10-03
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-03
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -36,5 +39,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.theintelligencer.net/news/community/2021/09/wife-of-former-wheeling-man-charged-in-capitol-riot-also-arrested/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473431/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540336/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540341/download)

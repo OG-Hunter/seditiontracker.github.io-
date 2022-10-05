@@ -1,19 +1,19 @@
 ---
 name: Susan Manwaring
 lastName: Manwaring
-hashtag: 
+hashtag:
 aka:
-residence: 
-status: Charged
+residence:
+status: Convicted
 date: 2022-09-13
 charged: 2022-09-13
 indicted:
-convicted:
+convicted: 2022-10-05
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-05
 trial_date:
 trial_type:
 sentencing:
@@ -21,7 +21,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
+image: /images/preview/convicted.jpg
 suspect: arrest.jpg
 booking:
 courtroom:
@@ -39,4 +39,7 @@ videos:
 charges:
 sentence:
 ---
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247300/gov.uscourts.dcd.247300.1.0.pdf)
+
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540796/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540801/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540806/download)
