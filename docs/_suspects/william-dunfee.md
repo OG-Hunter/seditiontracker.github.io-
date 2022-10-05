@@ -1,7 +1,7 @@
 ---
 name: William Dunfee
 lastName: Dunfee
-hashtag:
+hashtag: CrossBullhorn
 aka:
 residence: Ohio
 status: Charged
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-age:
+age: 57
 occupation: Pastor
 affiliations:
 jurisdiction: Federal
@@ -28,7 +28,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote:
+quote: 'Mister police officers, we want you to understand something. We want you to understand something. We want Donald Trump and if Donald Trump is not coming, we are taking our house. We are taking our house.'
 title: William Dunfee charged on September 30th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
