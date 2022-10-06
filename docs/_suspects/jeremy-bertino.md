@@ -42,7 +42,7 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/2384
     felony: true
   - code: 18 USC § 922(g)(1)
-    title: Unlawful Posession of Firearms (Convicted Felon)
+    title: Unlawful Possession of Firearms (Convicted Felon)
     url: https://www.law.cornell.edu/uscode/text/18/922
     felony: true
 sentence:
