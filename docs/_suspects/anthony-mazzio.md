@@ -4,17 +4,18 @@ lastName: Mazzio
 hashtag:
 aka:
 residence: Alabama
-status: Convicted
+status: Sentenced
 date: 2022-03-22
 charged: 2022-03-22
 indicted:
 convicted: 2022-06-24
 acquitted:
-sentenced:
+sentenced: 2022-10-05
 dismissed:
 deceased:
 plea_hearing: 2022-06-24
 trial_date:
+trial_type:
 sentencing: 2022-10-05
 age:
 occupation:
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 60 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.msn.com/en-us/news/politics/capitol-rioter-vowed-hillary-clinton-is-going-to-go-to-jail-now-he-s-the-one-facing-time-behind-bars/ar-AAVQGKt)
