@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-21
 trial_date:
+trial_type:
 sentencing: 2022-05-24
 age:
 occupation:
@@ -53,3 +54,4 @@ sentence:
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Anne%20Hemphill%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235161/gov.uscourts.dcd.235161.40.0.pdf)
 - [Ammended Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pamela%20Hemphill%20Amended%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Sentencing%20Hearing%20Transcript.pdf)

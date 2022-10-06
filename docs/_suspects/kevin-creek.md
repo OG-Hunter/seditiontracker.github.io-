@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-01
 trial_date:
+trial_type:
 sentencing: 2022-05-02
 age: 46
 occupation:
@@ -36,16 +37,15 @@ published: true
 caseNumber:
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 27 months incarceration
   - 1 year probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/mckinney-man-linked-to-capitol-riot-using-gps-data-court-document-says/ar-BB1eLRWH)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1402941/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498286/download)
@@ -55,3 +55,4 @@ sentence:
 - [DOJ Press Release (Sentencing)](https://twitter.com/FBIWFO/status/1521179102044209153?s=20&t=VEttZYywzOgHbmbNdWj3-Q)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Douglas%20Creek%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Douglas%20Creek%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kevin%20Douglas%20Creek%20Sentencing%20Hearing%20Transcript.pdf)

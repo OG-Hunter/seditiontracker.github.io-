@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-02-09
 trial_date:
+trial_type:
 sentencing: 2022-05-23
 age: 22
 occupation:
@@ -57,3 +58,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470776/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Matthew%20Ryan%20Miller%20Sentencing%20Hearing%20Transcript.pdf)

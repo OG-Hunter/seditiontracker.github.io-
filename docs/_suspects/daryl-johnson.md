@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-04
 trial_date:
+trial_type:
 sentencing: 2022-06-01
 age:
 occupation:
@@ -36,17 +37,16 @@ published: true
 caseNumber: 1:21-cr-00407
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 30 days incarceration
   - $2000 fine
   - $2000 restitution
   - 1 year probation
 ---
-
 - [News Report](https://globegazette.com/community/mcpress/news/st-ansgar-man-and-his-son-arrested-for-alleged-involvement-in-january-u-s-capitol/article_b933ccd3-4b4f-5133-b737-78c3c0886510.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403436/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Information.pdf)
@@ -55,3 +55,4 @@ sentence:
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469041/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20Johnson%20Defense%20Supplemental%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20Johnson%20Judgment.pdf)
+- [Sentencing Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Daryl%20and%20Daniel%20Johnson%20Sentencing%20Hearing%20Transcript.pdf)
