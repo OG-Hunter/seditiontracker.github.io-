@@ -20,7 +20,7 @@ sentencing:
 age:
 occupation:
 affiliations:
-jurisdiction: Federal
+jurisdiction: DC
 image: /images/preview/micki-larson-olson.jpg
 suspect: micki-larson-olson.jpg
 booking:
