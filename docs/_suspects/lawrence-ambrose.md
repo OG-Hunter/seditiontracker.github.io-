@@ -1,9 +1,9 @@
 ---
 name: Lawrence Ambrose
 lastName: Ambrose
-hashtag: 
+hashtag: MagaButtonMan
 aka:
-residence: 
+residence:
 status: Charged
 date: 2022-09-13
 charged: 2022-09-13
@@ -39,4 +39,5 @@ videos:
 charges:
 sentence:
 ---
+
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247234/gov.uscourts.dcd.247234.1.0.pdf)
