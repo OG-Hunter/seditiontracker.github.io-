@@ -4,17 +4,18 @@ lastName: Fisher
 hashtag: SamuelFisher
 aka: Brad Holiday
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-01-20
 charged: 2021-01-20
 indicted:
 convicted: 2022-07-06
 acquitted:
-sentenced:
+sentenced: 2022-10-07
 dismissed:
 deceased:
 plea_hearing: 2022-07-06
 trial_date:
+trial_type:
 sentencing: 2022-10-07
 age: 35
 occupation: "Pickup Artist"
@@ -41,6 +42,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: false
 sentence:
+  - 120 days incarceration
+  - 1 year probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.thedailybeast.com/samuel-fisher-conspiracy-addled-nyc-pickup-artist-arrested-in-capitol-riots)

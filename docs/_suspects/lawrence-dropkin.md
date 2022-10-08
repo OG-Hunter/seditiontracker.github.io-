@@ -4,17 +4,18 @@ lastName: Dropkin
 hashtag:
 aka:
 residence: New Jersey
-status: Convicted
+status: Sentenced
 date: 2021-09-13
 charged: 2021-09-13
 indicted:
 convicted: 2022-07-12
 acquitted:
-sentenced:
+sentenced: 2022-10-07
 dismissed:
 deceased:
 plea_hearing: 2022-07-12
 trial_date:
+trial_type:
 sentencing: 2022-10-07
 age:
 occupation:
@@ -53,6 +54,9 @@ charges:
     url: https://www.law.cornell.edu/uscode/text/40/5104
     felony: false
 sentence:
+  - 30 days incarceration
+  - 1 year probation
+  - $500 restitution
 ---
 
 - [News Report](https://www.nj.com/news/2022/01/ex-marine-among-4-more-suspects-from-nj-charged-in-capitol-riot.html)
