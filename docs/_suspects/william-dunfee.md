@@ -39,7 +39,7 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-arrests-pastor-wore-company-jacket-jan-6-pushed-police-line-rcna50898)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540836/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540841/download)
+- [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Dunfee%20Statement%20of%20Facts.pdf)
