@@ -40,13 +40,12 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.smokymountainnews.com/news/item/30846-sylva-man-arrested-in-connection-with-capitol-riots)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lewis%20Easton%20Cantwell%20Indictment.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378511/download)

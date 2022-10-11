@@ -42,6 +42,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://minnesota.cbslocal.com/2021/10/04/capitol-attack-charges-lindstrom-minnesota/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download)
