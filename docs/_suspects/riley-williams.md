@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 22
 occupation:
 affiliations:

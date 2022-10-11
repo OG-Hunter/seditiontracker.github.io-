@@ -17,6 +17,7 @@ plea_hearing: 2022-03-29
 trial_date:
 trial_type:
 sentencing: 2022-08-26
+status_conference:
 age: 45
 occupation: State Corrections Officer
 affiliations:

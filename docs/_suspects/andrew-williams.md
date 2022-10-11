@@ -17,6 +17,7 @@ plea_hearing: 2021-11-02
 trial_date:
 trial_type:
 sentencing: 2022-02-09
+status_conference:
 age:
 occupation: Fire Fighter
 affiliations:

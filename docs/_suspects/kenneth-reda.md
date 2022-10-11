@@ -17,6 +17,7 @@ plea_hearing: 2021-11-04
 trial_date:
 trial_type:
 sentencing: 2022-03-30
+status_conference:
 age: 54
 occupation: Physical Education Teacher, Viera High School
 affiliations:

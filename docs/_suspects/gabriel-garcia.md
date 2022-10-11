@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys

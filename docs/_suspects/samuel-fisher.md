@@ -17,6 +17,7 @@ plea_hearing: 2022-07-06
 trial_date:
 trial_type:
 sentencing: 2022-10-07
+status_conference:
 age: 35
 occupation: "Pickup Artist"
 affiliations:

@@ -17,6 +17,7 @@ plea_hearing: 2022-05-09
 trial_date:
 trial_type:
 sentencing: 2022-08-30
+status_conference:
 age: 50
 occupation:
 affiliations: U.S. Army Veteran, Boogaloo Bois

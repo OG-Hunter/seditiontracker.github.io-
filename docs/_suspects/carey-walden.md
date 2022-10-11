@@ -17,6 +17,7 @@ plea_hearing: 2021-10-26
 trial_date:
 trial_type:
 sentencing: 2022-01-27
+status_conference:
 age: 47
 occupation:
 affiliations: Marine Corps veteran

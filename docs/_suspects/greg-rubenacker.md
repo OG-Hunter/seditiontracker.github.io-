@@ -17,6 +17,7 @@ plea_hearing: 2022-02-11
 trial_date:
 trial_type:
 sentencing: 2022-05-26
+status_conference:
 age: 25
 occupation: DJ
 affiliations:

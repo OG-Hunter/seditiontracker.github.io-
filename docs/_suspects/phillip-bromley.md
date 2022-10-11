@@ -17,6 +17,7 @@ plea_hearing: 2021-12-01
 trial_date:
 trial_type:
 sentencing: 2022-06-29
+status_conference:
 age: 47
 occupation: Nurse Anesthetist
 affiliations:

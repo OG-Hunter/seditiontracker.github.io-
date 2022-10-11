@@ -17,6 +17,7 @@ plea_hearing: 2021-10-06
 trial_date:
 trial_type:
 sentencing: 2022-01-24
+status_conference:
 age: 43
 occupation: Hair Stylist (Former)
 affiliations:

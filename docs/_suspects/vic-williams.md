@@ -17,6 +17,7 @@ plea_hearing: 2021-10-28
 trial_date:
 trial_type:
 sentencing: 2022-02-07
+status_conference:
 age:
 occupation: Owner, Coffee Roasting Company
 affiliations:

@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing: 2022-10-19
+status_conference:
 age: 22
 occupation: Student, UCLA
 affiliations:

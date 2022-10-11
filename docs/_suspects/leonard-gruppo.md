@@ -17,6 +17,7 @@ plea_hearing: 2021-08-18
 trial_date:
 trial_type:
 sentencing: 2021-10-29
+status_conference:
 age:
 occupation: Physician's Assistant
 affiliations:

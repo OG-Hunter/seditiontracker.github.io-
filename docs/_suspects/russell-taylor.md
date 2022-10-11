@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations: Three Percenters, American Phoenix Project

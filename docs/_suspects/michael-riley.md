@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-09-19
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation: U.S. Capitol Police K-9 Officer
 affiliations:

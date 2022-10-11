@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: Jury
 trial_type: 2023-01-30
 sentencing:
+status_conference:
 age:
 occupation: U.S. Marines (Former)
 affiliations:

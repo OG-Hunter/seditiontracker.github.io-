@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation: Military Contractor, Retired U.S. Army Special Forces
 affiliations:

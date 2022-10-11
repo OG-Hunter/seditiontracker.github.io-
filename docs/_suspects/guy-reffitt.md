@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-02-28
 trial_type: Jury Trial
 sentencing: 2022-08-01
+status_conference:
 age: 48
 occupation:
 affiliations: Three Percenters, Texas Freedom Force

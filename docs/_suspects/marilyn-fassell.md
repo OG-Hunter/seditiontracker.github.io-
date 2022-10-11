@@ -17,6 +17,7 @@ plea_hearing: 2022-07-19
 trial_date:
 trial_type:
 sentencing: 2022-12-09
+status_conference:
 age: 58
 occupation: Home Health Aide
 affiliations:

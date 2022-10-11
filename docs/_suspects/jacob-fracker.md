@@ -17,6 +17,7 @@ plea_hearing: 2022-03-18
 trial_date:
 trial_type:
 sentencing: 2022-08-16
+status_conference:
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military

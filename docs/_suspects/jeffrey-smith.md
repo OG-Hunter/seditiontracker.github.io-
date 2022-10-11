@@ -17,6 +17,7 @@ plea_hearing: 2021-10-28
 trial_date:
 trial_type:
 sentencing: 2022-03-15
+status_conference:
 age: 33
 occupation: U.S. Army (Former)
 affiliations: military

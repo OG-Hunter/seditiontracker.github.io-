@@ -17,6 +17,7 @@ plea_hearing: 2021-12-16
 trial_date:
 trial_type:
 sentencing: 2022-06-14
+status_conference:
 age: 41
 occupation: Former Councilman
 affiliations:

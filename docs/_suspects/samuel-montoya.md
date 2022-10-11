@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
 affiliations:

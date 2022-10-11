@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2023-05-02
 trial_type:
 sentencing:
+status_conference:
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters

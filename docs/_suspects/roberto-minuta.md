@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-09-26
 trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 36
 occupation: Owner, Tattoo Parlor
 affiliations: Oath Keepers, Proud Boys

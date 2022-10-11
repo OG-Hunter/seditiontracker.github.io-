@@ -17,6 +17,7 @@ plea_hearing: 2021-04-16
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 52
 occupation: Metal Guitarist (Iced Earth)
 affiliations: Oath Keepers

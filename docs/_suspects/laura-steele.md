@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 52
 occupation: Law Enforcement (former SWAT)
 affiliations: Oath Keepers

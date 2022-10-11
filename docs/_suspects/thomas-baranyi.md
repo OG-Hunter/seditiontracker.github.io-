@@ -17,6 +17,7 @@ plea_hearing: 2022-02-03
 trial_date:
 trial_type:
 sentencing: 2022-06-17
+status_conference:
 age: 28
 occupation: Peace Corps
 affiliations:

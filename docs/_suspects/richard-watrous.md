@@ -17,6 +17,7 @@ plea_hearing: 2022-01-14
 trial_date:
 trial_type:
 sentencing: 2022-04-21
+status_conference:
 age: 59
 occupation:
 affiliations:

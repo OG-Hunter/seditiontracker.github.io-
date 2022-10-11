@@ -17,6 +17,7 @@ plea_hearing: 2021-12-01
 trial_date:
 trial_type:
 sentencing: 2022-05-02
+status_conference:
 age: 46
 occupation:
 affiliations: Former USMC

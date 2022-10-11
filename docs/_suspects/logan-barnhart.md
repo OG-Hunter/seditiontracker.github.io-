@@ -17,6 +17,7 @@ plea_hearing: 2022-09-28
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation: Machine Operator, Barnhart & Son Inc.
 affiliations:

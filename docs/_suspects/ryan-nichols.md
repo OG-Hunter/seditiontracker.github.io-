@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-11-01
 trial_type:
 sentencing:
+status_conference:
 age: 30
 occupation: U.S. Marines (Former)
 affiliations:

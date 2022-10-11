@@ -17,6 +17,7 @@ plea_hearing: 2022-10-26
 trial_date: 2023-01-03
 trial_type:
 sentencing:
+status_conference:
 age: 19
 occupation: Student at The Citadel
 affiliations:

@@ -17,6 +17,7 @@ plea_hearing: 2021-11-23
 trial_date:
 trial_type:
 sentencing: 2022-01-28
+status_conference:
 age: 39
 occupation: Accountant (CPA)
 affiliations:

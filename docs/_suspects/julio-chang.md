@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation: U.S. Marines (Former); Lieutenant, Broward County (Florida) Sheriff's Office (Retired)
 affiliations:

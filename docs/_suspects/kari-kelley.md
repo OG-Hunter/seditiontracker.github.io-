@@ -17,6 +17,7 @@ plea_hearing: 2021-12-28
 trial_date:
 trial_type:
 sentencing: 2022-03-17
+status_conference:
 age: 40
 occupation: Insurance Adjuster
 affiliations:

@@ -17,6 +17,7 @@ plea_hearing: 2021-03-16
 trial_date:
 trial_type:
 sentencing: 2022-07-22
+status_conference:
 age:
 occupation: Nurse
 affiliations:

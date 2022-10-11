@@ -17,6 +17,7 @@ plea_hearing: 2022-01-11
 trial_date:
 trial_type:
 sentencing: 2022-04-01
+status_conference:
 age: 53
 occupation: Fire Figther (Retired)
 affiliations:

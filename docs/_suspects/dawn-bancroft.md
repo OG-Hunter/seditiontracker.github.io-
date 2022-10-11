@@ -17,6 +17,7 @@ plea_hearing: 2021-09-28
 trial_date:
 trial_type:
 sentencing: 2022-07-21
+status_conference:
 age: 59
 occupation: Business Owner (CrossFit)
 affiliations:

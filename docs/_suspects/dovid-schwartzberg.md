@@ -17,6 +17,7 @@ plea_hearing: 2022-03-04
 trial_date:
 trial_type:
 sentencing: 2022-09-07
+status_conference:
 age: 19
 occupation: Unemployed
 affiliations:

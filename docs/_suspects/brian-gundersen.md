@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type: Bench Trial
 sentencing:
+status_conference:
 age: 26
 occupation: Sanitation Worker
 affiliations:

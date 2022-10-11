@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation: Marine Scout Sniper (Former)
 affiliations: Proud Boys, military

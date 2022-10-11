@@ -17,6 +17,7 @@ plea_hearing: 2022-02-23
 trial_date:
 trial_type:
 sentencing: 2022-05-10
+status_conference:
 age: 41
 occupation: Former Police Officer, Former U.S. Marine
 affiliations:

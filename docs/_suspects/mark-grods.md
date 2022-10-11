@@ -17,6 +17,7 @@ plea_hearing: 2021-06-30
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 54
 occupation:
 affiliations: Oath Keepers

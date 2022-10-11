@@ -17,6 +17,7 @@ plea_hearing: 2022-09-09
 trial_date:
 trial_type:
 sentencing: 2022-12-09
+status_conference:
 age:
 occupation:
 affiliations:

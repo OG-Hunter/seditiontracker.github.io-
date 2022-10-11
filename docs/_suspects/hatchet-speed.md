@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2023-02-14
 trial_type: Bench Trial
 sentencing:
+status_conference:
 age:
 occupation: Defense Contractor (Software Developer)
 affiliations: Proud Boys, United States Naval Reserves

@@ -17,6 +17,7 @@ plea_hearing: 2021-09-15
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation: Security Guard
 affiliations: Oath Keepers, Former USMC

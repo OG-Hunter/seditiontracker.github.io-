@@ -17,6 +17,7 @@ plea_hearing: 2021-08-06
 trial_date:
 trial_type:
 sentencing: 2021-11-10
+status_conference:
 age: 43
 occupation: Gym Owner (Former MMA Fighter)
 affiliations:

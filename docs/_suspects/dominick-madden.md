@@ -17,6 +17,7 @@ plea_hearing: 2021-10-05
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 43
 occupation: Sanitation Worker
 affiliations:

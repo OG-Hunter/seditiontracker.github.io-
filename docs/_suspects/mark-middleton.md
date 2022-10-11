@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-12-13
 trial_type:
 sentencing:
+status_conference:
 age: 51
 occupation: Volunteer Firefighter, Pilot
 affiliations:

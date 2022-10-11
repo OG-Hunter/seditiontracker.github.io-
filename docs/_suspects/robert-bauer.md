@@ -17,6 +17,7 @@ plea_hearing: 2021-06-28
 trial_date:
 trial_type:
 sentencing: 2021-10-13
+status_conference:
 age:
 occupation:
 affiliations:

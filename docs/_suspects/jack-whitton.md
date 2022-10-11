@@ -17,6 +17,7 @@ plea_hearing: 2022-09-13
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor
 affiliations:

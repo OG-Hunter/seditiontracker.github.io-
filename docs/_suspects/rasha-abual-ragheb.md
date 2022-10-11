@@ -17,6 +17,7 @@ plea_hearing: 2021-08-23
 trial_date:
 trial_type:
 sentencing: 2021-11-23
+status_conference:
 age: 40
 occupation:
 affiliations: Three Percenter, American Patriots 3%

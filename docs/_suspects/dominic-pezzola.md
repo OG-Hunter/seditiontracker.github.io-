@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 43
 occupation: Former Military (Marines)
 affiliations: Proud Boys, USMC, U.S. Military

@@ -17,6 +17,7 @@ plea_hearing: 2022-09-21
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 53
 occupation: U.S. Marines (Former)
 affiliations: Proud Boys

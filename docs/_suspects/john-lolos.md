@@ -17,6 +17,7 @@ plea_hearing: 2021-08-04
 trial_date:
 trial_type:
 sentencing: 2021-11-19
+status_conference:
 age:
 occupation:
 affiliations: U.S. Military (possible former Army - unconfirmed)

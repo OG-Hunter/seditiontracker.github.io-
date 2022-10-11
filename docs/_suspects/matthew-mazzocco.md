@@ -17,6 +17,7 @@ plea_hearing: 2021-07-02
 trial_date:
 trial_type:
 sentencing: 2021-10-04
+status_conference:
 age: 37
 occupation: "Mortgage Loan Ninja"
 affiliations:

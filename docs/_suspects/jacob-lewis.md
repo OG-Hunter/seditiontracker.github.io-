@@ -17,6 +17,7 @@ plea_hearing: 2022-01-06
 trial_date:
 trial_type:
 sentencing: 2022-04-20
+status_conference:
 age: 37
 occupation: Gym Owner
 affiliations:

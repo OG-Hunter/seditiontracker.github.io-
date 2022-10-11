@@ -17,6 +17,7 @@ plea_hearing: 2021-08-04
 trial_date:
 trial_type:
 sentencing: 2021-08-04
+status_conference:
 age: 40
 occupation:
 affiliations:

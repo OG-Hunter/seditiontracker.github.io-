@@ -17,6 +17,7 @@ plea_hearing: 2022-06-27
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 31
 occupation: Business Owner ("Adult Model Management Company")
 affiliations:

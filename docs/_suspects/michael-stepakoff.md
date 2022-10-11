@@ -17,6 +17,7 @@ plea_hearing: 2021-09-24
 trial_date:
 trial_type:
 sentencing: 2022-01-20
+status_conference:
 age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem

@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-06-15
 trial_type:
 sentencing: 2022-11-03
+status_conference:
 age: 37
 occupation: U.S. Marines (Former)
 affiliations: We the People 1776, Proud Boys

@@ -17,6 +17,7 @@ plea_hearing: 2022-02-17
 trial_date:
 trial_type:
 sentencing: 2022-08-04
+status_conference:
 age: 36
 occupation: Business Owner (Tactical Citizen, LLC)
 affiliations:

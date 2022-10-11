@@ -17,6 +17,7 @@ plea_hearing: 2022-08-05
 trial_date:
 trial_type:
 sentencing: 2022-11-03
+status_conference:
 age: 39
 occupation: Business Owner (Faulkner Painting)
 affiliations:

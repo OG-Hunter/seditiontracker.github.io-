@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-08-29
 trial_type: Bench Trial
 sentencing: 2023-01-26
+status_conference:
 age: 23
 occupation:
 affiliations:

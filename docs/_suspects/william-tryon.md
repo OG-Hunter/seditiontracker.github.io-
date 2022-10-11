@@ -17,6 +17,7 @@ plea_hearing: 2021-10-18
 trial_date:
 trial_type:
 sentencing: 2022-01-14
+status_conference:
 age: 70
 occupation:
 affiliations: Liberty Bell Alliance 76

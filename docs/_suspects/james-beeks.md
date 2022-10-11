@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 49
 occupation: Broadway Actor, Michael Jackson Impersonator
 affiliations: Oath Keeprs

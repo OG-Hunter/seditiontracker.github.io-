@@ -17,6 +17,7 @@ plea_hearing: 2021-11-18
 trial_date:
 trial_type:
 sentencing: 2022-04-04
+status_conference:
 age: 32
 occupation: Letter Carrier, Corrections Officer (Former)
 affiliations: U.S military, Federal Government

@@ -17,6 +17,7 @@ plea_hearing: 2021-10-15
 trial_date:
 trial_type:
 sentencing: 2022-08-12
+status_conference:
 age: 30
 occupation: Owner, Tree Removal Business
 affiliations:

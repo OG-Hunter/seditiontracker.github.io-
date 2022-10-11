@@ -17,6 +17,7 @@ plea_hearing: 2022-08-18
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 32
 occupation: Real Estate Agent
 affiliations:

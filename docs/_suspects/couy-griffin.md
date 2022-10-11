@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-03-21
 trial_type: Bench Trial
 sentencing: 2022-06-17
+status_conference:
 age: 47
 occupation: County Commissioner
 affiliations: Cowboys for Trump

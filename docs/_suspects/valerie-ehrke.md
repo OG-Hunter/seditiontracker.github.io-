@@ -17,6 +17,7 @@ plea_hearing: 2021-06-30
 trial_date:
 trial_type:
 sentencing: 2021-09-17
+status_conference:
 age: 53
 occupation: Home Designer
 affiliations:

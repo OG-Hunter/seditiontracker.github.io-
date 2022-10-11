@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 30
 occupation: Employee at Delilah’s Gentlemen’s Club
 affiliations:
