@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0618
+caseName: USA v. WILLIAMS
 videos:
 charges:
 sentence:

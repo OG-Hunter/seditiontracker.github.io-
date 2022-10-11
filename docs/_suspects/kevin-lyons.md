@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0079
+caseName: USA v. LYONS
 videos:
 charges:
 sentence:

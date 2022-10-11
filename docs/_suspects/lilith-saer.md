@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0147
+caseName: USA v. SAER
 videos:
 charges:
 sentence:

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0096
+caseName: USA v. KELLEY
 videos:
 charges:
 sentence:

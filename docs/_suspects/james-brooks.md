@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0018
+caseName: USA v. BROOKS
 videos:
 charges:
 - code: 18 USC § 5104(e)(2)(C)

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0129
+caseName: USA v. SULENTA
 videos:
 charges:
 sentence:

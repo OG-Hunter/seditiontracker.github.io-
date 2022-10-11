@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0137
+caseName: USA v. GUNDERSEN
 videos:
 charges:
 sentence:

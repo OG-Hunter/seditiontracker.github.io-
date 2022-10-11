@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0502
+caseName: USA v. JURLINA
 videos:
 charges:
 sentence:

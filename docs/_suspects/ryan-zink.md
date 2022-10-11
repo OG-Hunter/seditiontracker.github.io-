@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0191
+caseName: USA v. ZINK
 videos:
 charges:
 sentence:

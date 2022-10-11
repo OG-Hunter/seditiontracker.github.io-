@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0736
+caseName: USA v. MAZZA
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

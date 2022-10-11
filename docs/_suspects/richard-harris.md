@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0189
+caseName: USA v. HARRIS
 videos:
 charges:
 sentence:

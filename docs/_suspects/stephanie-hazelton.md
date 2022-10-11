@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0030
+caseName: USA v. HAZELTON
 videos:
 charges:
 sentence:

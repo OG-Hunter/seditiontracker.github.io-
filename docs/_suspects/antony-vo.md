@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0509
+caseName: USA v. VO
 videos:
 charges:
 sentence:

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0169
+caseName: USA v. BARGAR
 videos:
 charges:
 sentence:

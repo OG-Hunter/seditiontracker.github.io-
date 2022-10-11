@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0184
+caseName: USA v. BENSCH
 videos:
 charges:
 sentence:

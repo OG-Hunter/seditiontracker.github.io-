@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0083
+caseName: USA v. FELLOWS
 videos:
 charges:
 sentence:

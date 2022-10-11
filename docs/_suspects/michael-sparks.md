@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0087
+caseName: USA v. SPARKS
 videos:
 charges:
 sentence:

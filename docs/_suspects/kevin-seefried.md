@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0287
+caseName: USA v. SEEFRIED
 videos:
 charges:
 - code: 18 USC § 1512(c)(2), 2

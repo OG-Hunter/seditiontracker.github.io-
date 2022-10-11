@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0691
+caseName: USA v. MANLEY
 videos:
 charges:
 sentence:

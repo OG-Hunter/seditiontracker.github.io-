@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0195
+caseName: USA v. COPELAND
 videos:
 charges:
 sentence:

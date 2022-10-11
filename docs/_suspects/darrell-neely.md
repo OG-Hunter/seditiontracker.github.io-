@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0642
+caseName: USA v. NEELY
 videos:
 charges:
 sentence:

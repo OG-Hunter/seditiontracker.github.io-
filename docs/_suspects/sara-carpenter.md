@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0305
+caseName: USA v. CARPENTER
 videos:
 charges:
 sentence:

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0198
+caseName: USA v. SMOCKS
 videos:
 charges:
 - code: 18 USC § 875(c)

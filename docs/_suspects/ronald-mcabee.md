@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0035
+caseName: USA v. COURSON
 videos:
 charges:
 sentence:

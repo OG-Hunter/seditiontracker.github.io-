@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0643
+caseName: USA v. BOSTIC
 videos:
 charges:
 sentence:

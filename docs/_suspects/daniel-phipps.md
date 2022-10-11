@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0044
+caseName: USA v. PHIPPS
 videos:
 charges:
 sentence:

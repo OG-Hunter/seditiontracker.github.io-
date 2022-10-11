@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0190
+caseName: USA v. ALAM
 videos:
 charges:
 sentence:

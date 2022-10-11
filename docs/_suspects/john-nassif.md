@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0421
+caseName: USA v. NASSIF
 videos:
 charges:
 sentence:

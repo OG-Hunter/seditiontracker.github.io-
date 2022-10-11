@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0178
+caseName: USA v. STALLINGS
 videos:
 charges:
 sentence:

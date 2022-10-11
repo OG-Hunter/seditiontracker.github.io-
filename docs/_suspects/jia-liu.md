@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0711
+caseName: USA v. LIU
 videos:
 charges:
 sentence:

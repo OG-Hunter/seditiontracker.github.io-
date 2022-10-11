@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0301
+caseName: USA v. HORN
 videos:
 charges:
 sentence:

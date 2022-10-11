@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0294
+caseName: USA v. VOROUS
 videos:
 charges:
 sentence:

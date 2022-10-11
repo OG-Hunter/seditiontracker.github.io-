@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0458
+caseName: USA v. CROSBY
 videos:
 charges:
 sentence:

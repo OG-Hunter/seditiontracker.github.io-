@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0669
+caseName: USA v. SORGENTE
 videos:
 charges:
 sentence:

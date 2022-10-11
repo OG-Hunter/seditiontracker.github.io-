@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0047
+caseName: USA v. VARGAS SANTOS
 videos:
 charges:
 sentence:

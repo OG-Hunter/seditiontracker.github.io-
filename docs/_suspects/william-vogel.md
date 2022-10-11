@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0056
+caseName: USA v. VOGEL
 videos:
 charges:
 sentence:

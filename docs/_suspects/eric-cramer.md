@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0150
+caseName: USA v. CRAMER
 videos:
 charges:
 sentence:

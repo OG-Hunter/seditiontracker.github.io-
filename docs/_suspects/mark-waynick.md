@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0028
+caseName: USA v. WAYNICK
 videos:
 charges:
 sentence:

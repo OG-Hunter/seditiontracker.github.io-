@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0128
+caseName: USA v. GRAY
 videos:
 charges:
 sentence:

@@ -52,6 +52,8 @@ export interface Suspect {
   jurisdiction?: string;
   residence?: string;
   caseNumber?: string;
+  caseName?: string;
+  judge?: string;
   charges?: Charge[];
   sentence?: string[];
   videos?: Video[];
@@ -247,6 +249,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`layout: ${"suspect"}`);
   lines.push(`published: ${suspect.published.toString()}`);
   lines.push(`caseNumber: ${suspect.caseNumber}`);
+  lines.push(`caseName: ${suspect.caseName}`);
   lines.push(`videos:`);
   if (suspect.videos) {
     for (const { title, url } of Object.values(suspect.videos)) {

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0204
+caseName: USA v. BLEDSOE
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

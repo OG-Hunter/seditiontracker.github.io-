@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0218
+caseName: USA v. SPIGELMYER
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

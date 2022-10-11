@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0455
+caseName: USA v. CHRISTENSEN
 videos:
 charges:
 sentence:

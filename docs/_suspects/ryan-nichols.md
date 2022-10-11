@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0117
+caseName: USA v. NICHOLS
 videos:
 charges:
 sentence:

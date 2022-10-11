@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0513
+caseName: USA v. WATSON
 videos:
 charges:
 sentence:

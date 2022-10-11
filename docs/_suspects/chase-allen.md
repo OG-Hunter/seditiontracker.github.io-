@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0482
+caseName: USA v. ALLEN
 videos:
 charges:
 sentence:

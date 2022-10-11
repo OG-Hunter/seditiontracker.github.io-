@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0057
+caseName: USA v. RODEAN
 videos:
 charges:
 - code: 18 USC § 1361

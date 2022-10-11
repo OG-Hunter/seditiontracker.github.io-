@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0679
+caseName: USA v. DENNIS
 videos:
 charges:
 sentence:

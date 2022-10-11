@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0069
+caseName: USA v. BRAUN
 videos:
 charges:
 sentence:

@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0206
+caseName: USA v. MELLIS
 videos:
 charges:
 sentence:

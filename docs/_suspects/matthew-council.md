@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0207
+caseName: USA v. COUNCIL
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

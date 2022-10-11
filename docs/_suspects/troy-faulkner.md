@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0126
+caseName: USA v. FAULKNER
 videos:
 charges:
 - code: 18 USC § 1361

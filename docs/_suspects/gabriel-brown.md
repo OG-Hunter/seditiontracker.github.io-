@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0503
+caseName: USA v. BROWN
 videos:
 charges:
 sentence:

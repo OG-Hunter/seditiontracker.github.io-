@@ -35,6 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0128
+caseName: USA v. POPE
 videos:
 charges:
 sentence:
