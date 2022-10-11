@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:22-cr-00061
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.sun-sentinel.com/news/florida/fl-ne-ap-tv-chef-jan-6-20220224-2g3ifto3y5dzbgyyzeobjuze5m-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476346/download)

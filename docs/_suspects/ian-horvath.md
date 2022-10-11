@@ -28,16 +28,17 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'come on in, all are welcome.'
+quote: "come on in, all are welcome."
 title: Ian Horvath charged on 7/28/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:07-cr-00231
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wishtv.com/news/indiana-news/northern-indiana-man-arrested-for-entering-capitol-on-jan-6/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245770/gov.uscourts.dcd.245770.1.1.pdf)

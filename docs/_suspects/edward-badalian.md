@@ -34,10 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00246
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbclosangeles.com/news/local/los-angeles-man-faces-conspiracy-charge-for-us-capitol-breach/2769387/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.cacd.837671/gov.uscourts.cacd.837671.3.1_1.pdf)

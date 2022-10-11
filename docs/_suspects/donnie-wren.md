@@ -34,10 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00599
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/trump-capitol-riot-cops_n_615dbe0ae4b069a0b3b84316)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donnie%20Duane%20Wren%20and%20Thomas%20Harlen%20Smith%20Indictment.pdf)

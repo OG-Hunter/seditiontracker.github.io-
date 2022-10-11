@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00594
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)

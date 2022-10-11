@@ -34,10 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00046
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.ksl.com/article/50322007/whats-happened-to-the-8-utahns-charged-in-the-us-capitol-riot)
 - [Statement of Facts](https://s3.documentcloud.org/documents/21062164/9-9-21-us-v-gary-wilson-complaint-affidavit.pdf)

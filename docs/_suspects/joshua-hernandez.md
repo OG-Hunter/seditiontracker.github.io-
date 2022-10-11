@@ -34,10 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:22-cr-00042
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.localmemphis.com/article/news/crime/memphis-man-arrested-in-connection-to-capitol-riots/522-748ccd8d-bc7a-479b-a47a-ad3ac4326bff)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477121/download)

@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00342
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/pittsburgh/news/west-virginia-man-charged-with-felony-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518436/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518441/download)
