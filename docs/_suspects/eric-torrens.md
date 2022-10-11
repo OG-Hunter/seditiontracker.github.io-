@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2021-08-19
 trial_date:
 trial_type:
-sentencing: 2021-10-29
+sentencing: 2022-10-21
 age: 28
 occupation:
 affiliations:
@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0204
+caseName: USA v. BLEDSOE
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

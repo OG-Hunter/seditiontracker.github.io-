@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0291
+caseName: USA v. SIBICK
+judge: Amy B. Jackson
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

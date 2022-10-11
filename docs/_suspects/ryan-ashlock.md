@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0160
+caseName: USA v. KONOLD
+judge: Timothy J. Kelly
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

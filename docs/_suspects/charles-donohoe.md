@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0175
+caseName: USA v. NORDEAN
+judge: Timothy J. Kelly
 videos:
 - title: Exhibit A_Let_s take the Capitol.mp4 (0:00:23)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/951e14e0ce2c013960702cde48001122.mp4

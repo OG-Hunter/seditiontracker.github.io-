@@ -4,7 +4,6 @@ import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
 import { listWanted } from "./common/wanted";
-const { execSync } = require("child_process");
 
 require("dotenv").config();
 

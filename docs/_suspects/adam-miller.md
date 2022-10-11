@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0191
+caseName: USA v. STEINER
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

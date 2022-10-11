@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0015
+caseName: USA v. RHODES
+judge: Amit P. Mehta
 videos:
 - title: IMG_1396.MOV (0:00:23)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ba319a10ce2b013960702cde48001122.mp4

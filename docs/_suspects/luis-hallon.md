@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0128
+caseName: USA v. ISAACS
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

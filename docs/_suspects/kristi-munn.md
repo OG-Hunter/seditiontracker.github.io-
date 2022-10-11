@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0474
+caseName: USA v. MUNN
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

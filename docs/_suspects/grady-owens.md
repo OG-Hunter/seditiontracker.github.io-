@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0286
+caseName: USA v. OWENS
+judge: Beryl A. Howell
 videos:
 - title: Defense Exhibit A.mp4 (0:51:59)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/51d50c60ce28013960702cde48001122.mp4

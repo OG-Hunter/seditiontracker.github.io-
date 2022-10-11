@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0035
+caseName: USA v. STAGER
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

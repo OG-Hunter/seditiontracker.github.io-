@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0175
+caseName: USA v. NORDEAN
+judge: Timothy J. Kelly
 videos:
 - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4

@@ -2,7 +2,7 @@ import { readFile, writeLines } from "./file";
 import { isEmpty, padStart } from "lodash";
 import YAML from "yaml";
 import fs from "fs";
-import { exitWithError } from "./console";
+import { exitWithError, warning } from "./console";
 
 export interface Charge {
   code: string;
@@ -31,8 +31,8 @@ export interface Suspect {
   trial_date?: string;
   trial_type?: string;
   sentencing?: string;
-  name?: string;
-  lastName?: string;
+  name: string;
+  lastName: string;
   hashtag?: string;
   links?: { [type: string]: string };
   age?: string;
@@ -61,7 +61,7 @@ export interface Suspect {
 
 export const getSuspectByFile = (filename: string) => {
   const data = readFile(`./docs/_suspects/${filename}`);
-  const suspect: Suspect = { published: true };
+  const suspect: Suspect = { published: true, name: "", lastName: "" };
 
   if (/published: false/.test(data)) {
     suspect.published = false;
@@ -214,6 +214,10 @@ export const updateSuspect = (suspect: Suspect) => {
   suspect.caseNumber = caseNumber ? formatCaseNumber(caseNumber) : "";
   if (suspect.trial_type === "Jury") {
     suspect.trial_type = "Jury Trial";
+  }
+
+  if (suspect.judge && !suspect.caseName) {
+    warning("No case name: " + suspect.name);
   }
 
   const lines: string[] = [];

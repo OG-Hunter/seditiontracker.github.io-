@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-trial_type:
+trial_type: Bench Trial
 sentencing:
 age: 26
 occupation: Sanitation Worker

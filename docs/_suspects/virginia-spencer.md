@@ -13,7 +13,7 @@ acquitted:
 sentenced: 2022-01-16
 dismissed:
 deceased:
-plea_hearing: 2021-09-09
+plea_hearing: 2022-10-28
 trial_date:
 trial_type:
 sentencing: 2022-01-16

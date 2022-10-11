@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0147
+caseName: USA v. SPENCER
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

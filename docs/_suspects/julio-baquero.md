@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0702
+caseName: USA v. BAQUERO
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0117
+caseName: USA v. NICHOLS
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

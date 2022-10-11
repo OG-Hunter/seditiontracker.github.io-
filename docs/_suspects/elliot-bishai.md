@@ -13,7 +13,7 @@ acquitted:
 sentenced: 2022-07-29
 dismissed:
 deceased:
-plea_hearing: 2022-04-26
+plea_hearing: 2022-10-26
 trial_date:
 trial_type:
 sentencing: 2022-07-29
@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0282
+caseName: USA v. IRIZARRY
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

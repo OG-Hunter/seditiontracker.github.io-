@@ -35,7 +35,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0286
-caseName: 
+caseName: USA v. OWENS
 judge: Beryl A. Howell
 videos:
 charges:
