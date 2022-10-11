@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0352
-caseName:
-judge:
+caseName: USA v. BRU
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

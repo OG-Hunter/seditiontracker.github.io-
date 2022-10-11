@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0025
-caseName:
-judge:
+caseName: USA v. MINK
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

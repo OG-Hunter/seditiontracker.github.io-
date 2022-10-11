@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0599
-caseName:
-judge:
+caseName: USA v. WREN
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

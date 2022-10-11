@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-trial_type:
+trial_type: Bench Trial
 sentencing:
 age: 61
 occupation:
@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0150
-caseName:
-judge:
+caseName: USA v. RAHM JR
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

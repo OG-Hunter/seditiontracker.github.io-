@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0042
-caseName:
-judge:
+caseName: USA v. HERNANDEZ
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

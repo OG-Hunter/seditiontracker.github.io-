@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0536
-caseName:
-judge:
+caseName: USA v. CHWIESIUK
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

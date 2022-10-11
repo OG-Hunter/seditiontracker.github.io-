@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0594
-caseName:
-judge:
+caseName: USA v. HAYNES
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

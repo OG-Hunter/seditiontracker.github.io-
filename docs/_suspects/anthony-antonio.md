@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0497
-caseName:
-judge:
+caseName: USA v. ANTONIO
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

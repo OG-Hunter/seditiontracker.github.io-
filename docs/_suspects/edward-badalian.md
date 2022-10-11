@@ -35,8 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0246
-caseName:
-judge:
+caseName: USA v. RODRIGUEZ
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:
