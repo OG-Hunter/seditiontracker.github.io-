@@ -5,8 +5,8 @@ hashtag: GingerJuggerNot
 aka:
 residence: Florida
 status: Indicted
-date: 2021-07-07
-charged: 2021-07-07
+date: 2021-06-25
+charged: 2021-06-25
 indicted: 2021-07-01
 convicted:
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Joseph Hutchinson charged on July 7, 2021
+title: Joseph Hutchinson charged on June 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://twitter.com/MacFarlaneNews/status/1412898245353869319)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

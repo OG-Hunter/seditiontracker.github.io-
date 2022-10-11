@@ -8,12 +8,12 @@ status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
-convicted: 2021-01-14
+convicted: 2022-01-14
 acquitted:
 sentenced: 2022-07-07
 dismissed:
 deceased:
-plea_hearing: 2021-01-14
+plea_hearing: 2022-01-14
 trial_date:
 trial_type:
 sentencing: 2022-07-07
