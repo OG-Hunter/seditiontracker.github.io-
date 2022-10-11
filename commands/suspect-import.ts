@@ -2,11 +2,13 @@ import { Command } from "commander";
 import { info, warning } from "./common/console";
 import fs from "fs";
 import axios from "axios";
+import { load } from "cheerio";
 import { HTMLElement, parse } from "node-html-parser";
-import { capitalize, isEmpty, toLower } from "lodash";
+import { capitalize, isEmpty, pad, toLower } from "lodash";
 import moment from "moment";
 import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 import { execSync } from "child_process";
+import { DateTime } from "luxon";
 
 const cmd = new Command();
 cmd.parse(process.argv);
@@ -14,8 +16,15 @@ cmd.parse(process.argv);
 const importSuspects = async () => {
   info("Reading list of current suspects");
 
-  await importDoj(getNameSet());
-  await importGw(getNameSet());
+  // await importDoj(getNameSet());
+  // await importGw(getNameSet());
+
+  info("Updating court information");
+  await importJudiciary();
+};
+
+type CaseMap = {
+  [caseNumber: string]: string;
 };
 
 const getNameSet = (): Set<string> => {
@@ -36,6 +45,26 @@ const getNameSet = (): Set<string> => {
     nameSet.add(dasherizeName(firstName, names.join(" ")));
   }
   return nameSet;
+};
+
+const getCaseMap = (): CaseMap => {
+  const suspectFiles = fs.readdirSync("./docs/_suspects");
+  // console.log(`${suspectFiles.length} suspect files`);
+  const caseMap: CaseMap = {};
+
+  for (const suspectFile of suspectFiles) {
+    const suspect = getSuspectByFile(suspectFile);
+
+    if (/1:(21|22|23)-cr-(.*)/.test(suspect?.caseNumber)) {
+      const year = pad(RegExp.$1);
+      const number = pad(RegExp.$2, 4, "0");
+      const caseNumber = `1:${year}-${number}`;
+      caseMap[caseNumber] = suspectFile;
+    }
+  }
+  // const keys = Object.keys(caseMap);
+  // console.log(`${keys.length} case numbers found`);
+  return caseMap;
 };
 
 const importGw = async (nameSet: Set<string>) => {
@@ -318,6 +347,102 @@ const importDoj = async (nameSet: Set<string>) => {
       caseNumber,
     });
   }
+};
+
+const importJudiciary = async () => {
+  const caseMap = getCaseMap();
+
+  const today = new Date().toISOString().split("T")[0];
+  const plusTwoWeeks = DateTime.now().setZone("America/New_York").plus({ days: 14 }).endOf("day").toISO().split("T")[0];
+
+  const ISO_YEAR = /(\d{4})-(\d{2})-(\d{2})/;
+  ISO_YEAR.test(today);
+  const startDate = `${RegExp.$2}/${RegExp.$3}/${RegExp.$1}`;
+
+  ISO_YEAR.test(plusTwoWeeks);
+  const endDate = `${RegExp.$2}/${RegExp.$3}/${RegExp.$1}`;
+
+  const html = await axios.post("https://ecf.dcd.uscourts.gov/cgi-bin/CourtSched.pl", {
+    SDate: startDate,
+    EDate: endDate,
+  });
+
+  const $ = load(html.data);
+  const tbody = $("tbody");
+  const rows = tbody.children("tr");
+
+  for (const row of rows) {
+    let caseText: string;
+    let judgeText: string;
+    let dateText: string;
+    let typeText: string;
+
+    $("td", row).each((index, element) => {
+      switch (index) {
+        case 0:
+          caseText = $(element).text();
+          break;
+        case 1:
+          judgeText = $(element).text();
+          break;
+        case 2:
+          dateText = $(element).text();
+          break;
+        case 4:
+          typeText = $(element).text();
+          break;
+      }
+    });
+
+    // $("td nowrap", row).each((index, element) => {
+    //   console.log($(element).text());
+    //   //   break;
+    //   // switch (index) {
+    //   //   case 0:
+    //   //     caseText = $(element).text();
+    //   //     break;
+    //   //   case 1:
+    //   //     judgeText = $(element).text();
+    //   //     break;
+    //   //   case 2:
+    //   //     console.log($(element).children.length);
+    //   //     // console.log($(element).text());
+    //   //     break;
+    //   //   case 4:
+    //   //     typeText = $(element).text();
+    //   //     break;
+    //   // }
+    // });
+
+    // const caseText = $("td:nth-child(1)", row);
+    // const judgeText = $("td:nth-child(1)", row);
+
+    // const caseText = $("td", row).text();
+    // const judgeText = $("td", row).text();
+
+    console.log({ caseText });
+    console.log({ judgeText });
+    console.log({ dateText });
+    console.log({ typeText });
+    // const cells = $("td", row).children("td");
+    // const caseText = cells[0];
+    // console.log({ caseText });
+    // for (const cel)
+    // const faceLink = $("td.column-1 a", row)?.attr("href");
+    // const altLink = $("td.column-2 a", row)?.attr("href");
+    // const status = $("td.column-3", row).text();
+    // const hashtag = $("td.column-4", row).text().replace("#", "");
+    // const info = $("td.column-5", row).text();
+
+    // chuds.push({
+    //   face: faceLink,
+    //   altPhoto: altLink || "",
+    //   status,
+    //   hashtag: hashtag || "",
+    //   info: info || "",
+    // });
+  }
+  // console.log(JSON.stringify(caseMap, null, 2));
 };
 
 const falsePositives = (site: string) => {
