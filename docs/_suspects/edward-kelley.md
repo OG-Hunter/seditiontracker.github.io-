@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0096
+caseNumber:
 caseName: USA v. KELLEY
 judge: Moxila A. Upadhyaya
 videos:

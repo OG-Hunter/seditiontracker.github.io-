@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0033
+caseNumber:
 caseName: USA v. HARDING
 judge: Robin M. Meriweather
 videos:

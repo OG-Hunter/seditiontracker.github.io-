@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0084
+caseNumber:
 caseName: USA v. MONCADA
 judge: G. M. Harvey
 videos:

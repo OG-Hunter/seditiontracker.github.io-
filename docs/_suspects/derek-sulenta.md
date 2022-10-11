@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0129
+caseNumber:
 caseName: USA v. SULENTA
 judge: Robin M. Meriweather
 videos:

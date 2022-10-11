@@ -205,8 +205,9 @@ export const getSuspectByFile = (filename: string) => {
 };
 
 export const formatCaseNumber = (text: string) => {
-  if (!/(1:)?(21|22|23)-(mj|cr)-0?(\d{1,4})/.test(text)) {
-    exitWithError("Invalid case number: " + text);
+  if (!/(1:)?(21|22|23)-(cr)-0?(\d{1,4})/.test(text)) {
+    return null;
+    // exitWithError("Invalid case number: " + text);
   }
   const year = padStart(RegExp.$2);
   const number = padStart(RegExp.$4, 4, "0");
