@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-09-25
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-18
 age: 26
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0035
-caseName:
-judge:
+caseName: USA v. STAGER
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

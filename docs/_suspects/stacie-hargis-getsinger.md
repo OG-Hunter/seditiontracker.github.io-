@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2021-12-02
 trial_date:
 trial_type:
-sentencing: 2022-07-12
+sentencing: 2022-10-21
 status_conference:
 age: 43
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0670
-caseName:
-judge:
+caseName: USA v. BANNON
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

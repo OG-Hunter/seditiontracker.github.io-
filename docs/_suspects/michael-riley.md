@@ -14,10 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2022-09-19
-trial_type:
+trial_date: 2022-10-17
+trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-10-13
 age:
 occupation: U.S. Capitol Police K-9 Officer
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0628
-caseName:
-judge:
+caseName: USA v. RILEY
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0622
-caseName:
-judge:
+caseName: USA v. GARDNER II
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

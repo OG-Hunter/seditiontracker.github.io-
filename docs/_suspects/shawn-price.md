@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-10-13
+plea_hearing: 2022-10-14
 trial_date:
 trial_type:
 sentencing:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0106
-caseName:
-judge:
+caseName: USA v. PRICE
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

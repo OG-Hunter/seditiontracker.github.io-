@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-05-11
 trial_date:
 trial_type:
-sentencing: 2022-10-13
+sentencing: 2022-10-20
 status_conference:
 age: 40
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0551
-caseName:
-judge:
+caseName: USA v. FAIRCHILD
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 18 USC § 231(a)(3)
