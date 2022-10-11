@@ -29,7 +29,7 @@ const getCaseMap = (): CaseMap => {
 
 const latestDate = (suspect: Suspect, field: string, dateText: string) => {
   const oldDate = new Date(suspect[field]);
-  const newDate = new Date(dateText);
+  const newDate = new Date(`${dateText} GMT`);
   if (!oldDate || (oldDate && newDate > oldDate)) {
     console.log(`${suspect.name} ${field}: ${dateText}`);
     return newDate.toISOString().split("T")[0];
