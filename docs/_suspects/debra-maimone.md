@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00289
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wpxi.com/news/top-stories/local-business-owners-charged-connection-with-violence-us-capitol/5E2CEWKFCVAZHLD5YPHS25DA3U/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1392616/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410636/download)

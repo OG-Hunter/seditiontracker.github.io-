@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 1:21-cr-00687
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://news.yahoo.com/bremerton-man-accused-being-jan-175708598.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Criminal%20Complaint.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Information.pdf)
