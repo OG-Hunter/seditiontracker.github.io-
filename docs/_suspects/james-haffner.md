@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-00672
+caseNumber: 1:21-mj-0672
 caseName: USA v. LOEHRKE
 judge: G. M. Harvey
 videos:
