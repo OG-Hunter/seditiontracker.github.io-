@@ -5,8 +5,8 @@ hashtag: JamesRahm
 aka:
 residence: New Jersey
 status: Indicted
-date: 2021-03-16
-charged: 2021-03-16
+date: 2021-02-04
+charged: 2021-02-04
 indicted: 2021-02-24
 convicted:
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote: "I pissed in her [Pelosi's] office. My son's got video."
-title: James Rahm Jr charged on March 26, 2021
+title: James Rahm Jr charged on February 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

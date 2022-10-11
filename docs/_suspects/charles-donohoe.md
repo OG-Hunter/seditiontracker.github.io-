@@ -5,8 +5,8 @@ hashtag: YutYutPB
 aka: Yut Yut
 residence: North Carolina
 status: Convicted
-date: 2021-03-17
-charged: 2021-03-17
+date: 2021-03-10
+charged: 2021-03-10
 indicted: 2021-03-10
 convicted: 2022-04-08
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Charles Donohoe arrested on March 17, 2021
+title: Charles Donohoe arrested on March 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

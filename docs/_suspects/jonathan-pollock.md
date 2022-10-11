@@ -5,8 +5,8 @@ hashtag: FullCamoKneePads
 aka:
 residence: Florida
 status: Indicted
-date: 2021-07-07
-charged: 2021-07-07
+date: 2021-06-25
+charged: 2021-06-25
 indicted: 2021-07-01
 convicted:
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote: "We didn’t come this far just to push back the cops."
-title: Jonathan Pollock charged on July 7, 2021
+title: Jonathan Pollock charged on June 25, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

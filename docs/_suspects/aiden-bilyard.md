@@ -7,7 +7,7 @@ residence: North Carolina
 status: Indicted
 date: 2021-11-15
 charged: 2021-11-15
-indicted: 2021-08-11
+indicted: 2022-01-26
 convicted:
 acquitted:
 sentenced:
@@ -30,12 +30,12 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Aiden Bilyard charged on October 15, 2021
+title: Aiden Bilyard charged on November 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0656
+caseNumber: 22-cr-0034
 caseName:
 judge:
 videos:

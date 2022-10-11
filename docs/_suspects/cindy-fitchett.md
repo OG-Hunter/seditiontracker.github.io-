@@ -5,9 +5,9 @@ hashtag: CindyFitchett
 aka:
 residence: Virginia
 status: Sentenced
-date: 2021-01-21
-charged: 2021-01-21
-indicted: 2021-01-15
+date: 2021-01-07
+charged: 2021-01-07
+indicted:
 convicted: 2021-08-10
 acquitted:
 sentenced: 2021-11-09
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Cindy Fitchett charged on January 21st, 2021
+title: Cindy Fitchett charged on January 7th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -54,8 +54,7 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)
 - [Statement of Facts](https://www.justice.gov/opa/press-release/file/1351721/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Fichett%20et%20al%20Information_0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364786/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423406/download)
 - [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cindy%20Fitchett%20Defense%20Sentencing%20Memorandum.pdf)
 - [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cindy%20Fitchett%20Judgment.pdf)

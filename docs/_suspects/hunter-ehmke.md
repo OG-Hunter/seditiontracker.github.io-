@@ -5,8 +5,8 @@ hashtag: HunterEhmke
 aka:
 residence: California
 status: Sentenced
-date: 2021-01-13
-charged: 2021-01-28
+date: 2021-01-11
+charged: 2021-01-11
 indicted: 2021-01-27
 convicted: 2022-01-14
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Hunter Ehmke charged on January 13th, 2021
+title: Hunter Ehmke charged on January 11, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect

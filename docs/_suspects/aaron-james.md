@@ -5,8 +5,8 @@ hashtag:
 aka:
 residence: Minnesota
 status: Indicted
-date: 2021-10-04
-charged: 2021-10-04
+date: 2021-09-29
+charged: 2021-09-29
 indicted: 2021-09-29
 convicted:
 acquitted:
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Aaron James charged on October 4, 2021
+title: Aaron James charged on September 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
