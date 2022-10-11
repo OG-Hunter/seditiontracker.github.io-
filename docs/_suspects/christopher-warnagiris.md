@@ -9,10 +9,13 @@ date: 2021-05-13
 charged: 2021-05-13
 indicted: 2021-06-02
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 40
 occupation: Active Duty U.S. Marine Corps Officer
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-382
+caseNumber: 21-cr-0382
 videos:
 charges:
 sentence:

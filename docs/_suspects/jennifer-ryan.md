@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-08-19
 trial_date:
+trial_type:
 sentencing: 2021-11-04
 age:
 occupation:
@@ -33,19 +34,18 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-50
+caseNumber: 21-cr-0050
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - $1000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/jenna-ryan-texas-real-estate-agent-who-flew-to-dc-on-private-jet-arrested-in-capitol-riots)
 - [Self Incrimination](https://twitter.com/NewsJunkieBlu/status/1347634376142630915?s=20)
 - [Complaint](https://www.justice.gov/opa/page/file/1356081/download)

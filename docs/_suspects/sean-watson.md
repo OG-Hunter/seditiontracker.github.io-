@@ -34,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-422
+caseNumber: 21-cr-0422
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 7 days incarceration
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.kwtx.com/2021/04/30/alpine-man-involved-in-january-capitol-riots-now-facing-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390656/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390661/download)

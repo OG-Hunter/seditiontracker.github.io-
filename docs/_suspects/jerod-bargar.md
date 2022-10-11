@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 36
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-169
+caseNumber: 22-mj-0169
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.kctv5.com/2022/08/03/missouri-man-arrested-accused-carrying-gun-us-capitol-during-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523986/download)

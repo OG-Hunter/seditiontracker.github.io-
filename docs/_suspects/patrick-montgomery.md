@@ -9,10 +9,13 @@ date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-21
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 48
 occupation: Business Owner
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-46
+caseNumber: 21-cr-0046
 videos:
 charges:
 sentence:

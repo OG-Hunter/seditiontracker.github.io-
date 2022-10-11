@@ -9,10 +9,13 @@ date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-02-05
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 37
 occupation:
@@ -31,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-91
+caseNumber: 21-cr-0091
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.seattletimes.com/seattle-news/fourth-washington-state-resident-charged-in-us-capitol-breach/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377921/download)

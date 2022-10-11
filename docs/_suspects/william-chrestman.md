@@ -9,10 +9,13 @@ date: 2021-02-11
 charged: 2021-02-11
 indicted: 2021-02-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 47
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-160
+caseNumber: 21-cr-0160
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/kansas-city-proud-boys-charged-capitol-riots/2021/02/11/389d47b6-6c73-11eb-9ead-673168d5b874_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366441/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)

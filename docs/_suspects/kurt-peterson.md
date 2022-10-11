@@ -34,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-427
+caseNumber: 21-cr-0427
 videos:
 charges:
-  - code: 18 USC § 1752(a)(4), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
+- code: 18 USC § 1752(a)(4), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.whas11.com/article/news/crime/arrest-kurt-peterson-hodgenville-capitol-riot/417-10893ffb-00ba-4977-991a-3996fd089803)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412806/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412801/download)

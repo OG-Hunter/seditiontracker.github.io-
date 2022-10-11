@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-20
 trial_date:
+trial_type:
 sentencing: 2022-04-27
 age:
 occupation:
@@ -33,14 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-307
+caseNumber: 21-cr-0307
 videos:
 charges:
 sentence:
   - 30 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.wavy.com/news/virginia/2-virginia-beach-brothers-charged-with-entering-us-capitol-during-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393396/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393391/download)

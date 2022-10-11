@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-138
+caseNumber: 21-cr-0138
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

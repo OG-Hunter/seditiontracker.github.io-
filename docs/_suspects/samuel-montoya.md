@@ -9,10 +9,13 @@ date: 2021-04-08
 charged: 2021-04-08
 indicted:
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-336
+caseNumber: 21-cr-0336
 videos:
 charges:
 sentence:

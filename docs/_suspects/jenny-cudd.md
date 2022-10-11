@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-13
 trial_date:
+trial_type:
 sentencing: 2022-03-23
 age: 36
 occupation:
@@ -33,19 +34,18 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-68
+caseNumber: 21-cr-0068
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 60 days probation
   - $5000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
 - [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1353436/download)

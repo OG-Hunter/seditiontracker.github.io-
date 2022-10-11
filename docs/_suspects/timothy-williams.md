@@ -9,10 +9,13 @@ date: 2021-05-28
 charged: 2021-05-28
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 38
 occupation:
@@ -31,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cpr.org/2021/06/04/man-from-trinidad-allegedly-took-selfie-during-january-6-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401816/download)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-08
 trial_date:
+trial_type:
 sentencing:
 age: 33
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-175
+caseNumber: 21-cr-0175
 videos:
 - title: Exhibit A_Let_s take the Capitol.mp4 (0:00:23)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/951e14e0ce2c013960702cde48001122.mp4

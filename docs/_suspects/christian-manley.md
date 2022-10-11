@@ -9,10 +9,13 @@ date: 2021-10-18
 charged: 2021-10-18
 indicted: 2021-11-19
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 26
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-691
+caseNumber: 21-cr-0691
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.al.com/news/2021/10/alabama-man-seen-wearing-bulletproof-vest-pepper-spraying-officers-on-jan-6-arrested-in-alaska.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458781/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458771/download)

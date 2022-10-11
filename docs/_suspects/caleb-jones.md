@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-21
 trial_date:
+trial_type:
 sentencing: 2021-12-01
 age: 23
 occupation:
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-321
+caseNumber: 21-cr-0321
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days home detention
   - 2 years probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.nbc4i.com/news/local-news/columbus-man-23-charged-in-captiol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381496/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418046/download)

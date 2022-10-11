@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-184
+caseNumber: 22-mj-0184
 videos:
 charges:
 sentence:

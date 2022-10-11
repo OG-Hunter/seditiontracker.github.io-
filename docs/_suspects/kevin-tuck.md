@@ -9,10 +9,13 @@ date: 2021-07-15
 charged: 2021-07-15
 indicted: 2021-07-07
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 51
 occupation: Police Officer
@@ -31,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-378
+caseNumber: 21-cr-0378
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wesh.com/article/windermere-officer-arrested-by-fbi-in-connection-with-us-capitol-riot/37039261)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413516/download)

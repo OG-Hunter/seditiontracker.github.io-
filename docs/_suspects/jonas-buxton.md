@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-10
 trial_date:
+trial_type:
 sentencing: 2022-11-10
 age: 25
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-739
+caseNumber: 21-cr-0739
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.kmov.com/news/st-louis-man-faces-federal-charges-for-involvement-in-january-6-capitol-riot/article_456b66e6-5a14-11ec-bbcd-a7b1b51ac5a6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468836/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525331/download)

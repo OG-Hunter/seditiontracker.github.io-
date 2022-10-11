@@ -9,10 +9,13 @@ date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-02-17
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 44
 occupation: Business Owner (Lawn Service)
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-127
+caseNumber: 21-cr-0127
 videos:
 charges:
 sentence:

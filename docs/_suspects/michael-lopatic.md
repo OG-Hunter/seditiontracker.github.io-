@@ -9,10 +9,13 @@ date: 2021-02-03
 charged: 2021-02-03
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased: 2022-07-03
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 57
 occupation: Unemployed, Former Marine
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://lancasteronline.com/news/local/neighbors-react-to-arrest-of-manheim-twp-man-accused-of-assaulting-police-during-capitol-riot/article_7f3a031c-6bec-11eb-b41e-3f59ba4e0969.html)
 - [DOJ Press Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20John%20Lopatic%20Govt%20Motion%20for%20Pretrial%20Detention.pdf)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20John%20Lopatic%20Govt%20Motion%20for%20Pretrial%20Detention.pdf)

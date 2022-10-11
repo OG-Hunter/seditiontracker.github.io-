@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-25
 trial_date:
+trial_type:
 sentencing: 2022-10-21
 age: 54
 occupation:
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-527
+caseNumber: 21-cr-0527
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 113(a)(4)
-    title: Assault by striking, beating or wounding
-    url: https://www.law.cornell.edu/uscode/text/18/113
-    felony: false
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 113(a)(4)
+  title: Assault by striking, beating or wounding
+  url: https://www.law.cornell.edu/uscode/text/18/113
+  felony: false
 sentence:
 ---
-
 - [News Report](https://philadelphia.cbslocal.com/2021/07/07/alan-william-byerly-capitol-riots-arrest/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409211/download)
 - [Incriminating Evidence (VIDEO)](https://twitter.com/capitolhunters/status/1412810756236595201)

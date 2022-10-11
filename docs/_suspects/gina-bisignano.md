@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 52
 occupation: Salon Owner
@@ -33,13 +34,11 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-36
+caseNumber: 21-cr-0036
 videos:
 charges:
 sentence:
-notes: Attempting to withdraw her guilty plea
 ---
-
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Video)](https://twitter.com/waterspider__/status/1349422388396494850)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)

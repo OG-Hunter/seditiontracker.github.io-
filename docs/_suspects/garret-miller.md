@@ -9,6 +9,7 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-119
+caseNumber: 21-cr-0119
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359601/download)

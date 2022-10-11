@@ -9,10 +9,13 @@ date: 2021-03-17
 charged: 2021-03-17
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 56
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-274
+caseNumber: 21-cr-0274
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://wcti12.com/news/state-news/nc-man-arrested-and-charged-in-connection-with-the-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393726/download)

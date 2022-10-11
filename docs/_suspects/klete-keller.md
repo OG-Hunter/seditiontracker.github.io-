@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-29
 trial_date:
+trial_type:
 sentencing:
 age: 38
 occupation: Olympic Swimmer (Retired)
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-104
+caseNumber: 21-cr-0104
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

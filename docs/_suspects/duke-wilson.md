@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-07
 trial_date:
+trial_type:
 sentencing: 2022-03-04
 age: 66
 occupation:
@@ -33,23 +34,22 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-345
+caseNumber: 21-cr-0345
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 51 months incarceration (4.25 years)
   - 3 years probation
   - TBD restitution
 ---
-
 - [News Report](https://www.idahopress.com/news/local/nampa-man-arrested-in-connection-to-deadly-us-capitol-riot/article_28a84847-82c8-5f4b-8c15-d7f745a63a93.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1431011/download)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/idaho-man-pleads-guilty-assault-law-enforcement-and-obstruction-during-jan-6-capitol)

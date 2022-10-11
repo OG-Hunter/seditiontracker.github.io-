@@ -9,10 +9,13 @@ date: 2021-02-25
 charged: 2021-02-25
 indicted: 2021-03-19
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 37
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-233
+caseNumber: 21-cr-0233
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/news/us-news/south-carolina-man-charged-capitol-riot-bragged-he-dressed-antifa-n1259298)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379061/download)

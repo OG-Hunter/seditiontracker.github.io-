@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
+trial_type:
 sentencing:
 age: 52
 occupation: General Manager, Car Dealership
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
 videos:
 charges:
 sentence:

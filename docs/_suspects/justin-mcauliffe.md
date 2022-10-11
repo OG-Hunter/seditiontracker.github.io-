@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-11-23
 trial_date:
+trial_type:
 sentencing: 2022-01-28
 age: 39
 occupation: Accountant (CPA)
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-608
+caseNumber: 21-cr-0608
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

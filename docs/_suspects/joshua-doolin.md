@@ -9,11 +9,13 @@ date: 2021-06-29
 charged: 2021-06-29
 indicted: 2021-07-01
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-12
+trial_type:
 sentencing:
 age: 23
 occupation:
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-447
+caseNumber: 21-cr-0447
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/ar-AALDtyT)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)

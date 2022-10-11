@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 30
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-175
+caseNumber: 21-cr-0175
 videos:
 - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4

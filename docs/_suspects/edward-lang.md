@@ -9,10 +9,13 @@ date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 25
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-53
+caseNumber: 21-cr-0053
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/hudson-valley-man-arrested-in-connection-with-capitol-riot-sources/2834919/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355871/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355866/download)

@@ -9,11 +9,13 @@ date: 2021-09-30
 charged: 2021-09-30
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-10-05
+trial_type:
 sentencing:
 age: 51
 occupation: Owner, Global Enlightenment Radio Network (GERN)
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-642
+caseNumber: 21-cr-0642
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457771/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457766/download)

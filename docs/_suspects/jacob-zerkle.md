@@ -9,10 +9,13 @@ date: 2022-03-14
 charged: 2022-03-14
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 50
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-60
+caseNumber: 22-mj-0060
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.rawstory.com/capitol-riot-arrests-2656957701/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483491/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/arizona-man-arrested-charges-assault-law-enforcement-during-jan-6-capitol-breach)

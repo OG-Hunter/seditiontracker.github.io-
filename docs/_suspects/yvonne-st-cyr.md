@@ -9,10 +9,13 @@ date: 2021-03-03
 charged: 2021-03-03
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 53
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-226
+caseNumber: 21-mj-0226
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/boise-woman-arrested-accused-of-crimes-related-to-us-capitol-riot/ar-BB1ef7i4)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379351/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379356/download)

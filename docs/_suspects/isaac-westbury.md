@@ -9,10 +9,13 @@ date: 2021-10-04
 charged: 2021-10-04
 indicted: 2021-09-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 19
 occupation:
@@ -31,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-605
+caseNumber: 21-cr-0605
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.startribune.com/three-lindstrom-men-face-federal-charges-related-to-jan-6-u-s-capitol-riot/600103577/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download)

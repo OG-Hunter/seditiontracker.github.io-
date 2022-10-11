@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-22
 trial_date:
+trial_type:
 sentencing: 2022-07-15
 age: 28
 occupation:
@@ -33,19 +34,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-657
+caseNumber: 21-cr-0657
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 44 months incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.huffpost.com/entry/cody-mattice-james-mault-capitol-attack-trump_n_61620bbde4b0fc312c97ca8b)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1441376/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Cody%20Mattice%20Detention%20Order.pdf)

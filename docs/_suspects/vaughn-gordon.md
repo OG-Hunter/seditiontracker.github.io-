@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-99
+caseNumber: 21-cr-0099
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

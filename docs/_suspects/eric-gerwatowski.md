@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-000
+caseNumber: 22-mj-0000
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/feds-arrest-jan-6-rioter-who-allegedly-grabbed-door-shouted-lets-go-1677359)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470326/download)

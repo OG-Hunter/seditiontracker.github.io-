@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-406
+caseNumber: 21-cr-0406
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

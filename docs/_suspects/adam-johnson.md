@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-11-22
 trial_date:
+trial_type:
 sentencing: 2022-02-25
 age: 36
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-20
+caseNumber: 21-mj-0020
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

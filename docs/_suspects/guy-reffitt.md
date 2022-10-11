@@ -34,35 +34,34 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-32
+caseNumber: 21-cr-0032
 videos:
 charges:
-  - code: 18 USC § 231(a)(2)
-    title: Use of Firearm in Furtherance of a Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1512(a)(2)(C)
-    title: Obstruction of Justice through Physical Force (or threat of Force)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 231(a)(2)
+  title: Use of Firearm in Furtherance of a Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(1), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1512(a)(2)(C)
+  title: Obstruction of Justice through Physical Force (or threat of Force)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 87 months incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://nypost.com/2021/01/18/rioter-guy-reffitt-threatened-to-shoot-kids-if-they-talked-to-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356126/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356111/download)

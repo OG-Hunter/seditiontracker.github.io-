@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-27
 trial_date:
+trial_type:
 sentencing: 2022-01-18
 age: 25
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-549
+caseNumber: 21-cr-0549
 videos:
 charges:
 sentence:
@@ -43,7 +44,6 @@ sentence:
   - 50 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.oklahoman.com/story/news/2021/05/17/fifth-oklahoman-charged-us-capitol-attack-jan-6/5137167001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437041/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1437036/download)

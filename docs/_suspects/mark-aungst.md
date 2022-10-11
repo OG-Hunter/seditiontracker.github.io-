@@ -15,6 +15,7 @@ dismissed:
 deceased: 2022-07-29
 plea_hearing: 2022-06-07
 trial_date:
+trial_type:
 sentencing:
 age: 45
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-144
+caseNumber: 21-cr-0144
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.pennlive.com/news/2021/02/lycoming-county-man-woman-charged-with-breaking-into-the-us-capitol-during-riot.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Aungst%20and%20Tammy%20Bronsburg%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365926/download)

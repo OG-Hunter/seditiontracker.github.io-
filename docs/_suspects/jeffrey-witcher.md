@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-20
 trial_date:
+trial_type:
 sentencing: 2022-02-04
 age: 58
 occupation: Veteran, U.S. Marine Corps
@@ -33,19 +34,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 1 year probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/capitol-rioters-posted-video-claiming-they-crashed-the-white-house/ar-BB1ezT8G)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378401/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378236/download)

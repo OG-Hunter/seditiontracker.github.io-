@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 41
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-429
+caseNumber: 21-mj-0429
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.news4jax.com/news/local/2021/05/19/neptune-beach-man-involved-in-altercation-that-led-to-officer-getting-hurt-during-jan-6-capitol-riot-court-documents-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1395251/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1421286/download)

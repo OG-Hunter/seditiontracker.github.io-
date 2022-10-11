@@ -9,10 +9,13 @@ date: 2021-10-21
 charged: 2021-10-21
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-10-20
+trial_date:
+trial_type:
 sentencing:
 age: 26
 occupation: US Marine Corps Reserve
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-711
+caseNumber: 21-cr-0711
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.amny.com/news/queens-man-cuffed-for-role-in-attack-on-capitol-building-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458871/download)

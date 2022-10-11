@@ -9,11 +9,13 @@ date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-11-01
+trial_type:
 sentencing:
 age: 30
 occupation: U.S. Marines (Former)
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-117
+caseNumber: 21-cr-0117
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://ksla.com/2021/01/19/east-texans-accused-taking-part-us-capitol-siege-charged-with-federal-crimes/)
 - [Complaint](https://www.justice.gov/opa/page/file/1356241/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356236/download)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-20
 trial_date:
+trial_type:
 sentencing: 2022-02-04
 age: 55
 occupation: Veteran, U.S. Marine Corps
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-235
+caseNumber: 21-cr-0235
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

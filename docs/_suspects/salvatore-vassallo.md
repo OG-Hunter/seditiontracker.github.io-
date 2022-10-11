@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-200
+caseNumber: 22-mj-0200
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://newjersey.news12.com/toms-river-man-faces-charges-related-to-jan-6-riot-at-the-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535166/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535176/download)

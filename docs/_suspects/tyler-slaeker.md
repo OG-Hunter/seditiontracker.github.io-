@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-10
 trial_date:
+trial_type:
 sentencing: 2022-11-16
 age:
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

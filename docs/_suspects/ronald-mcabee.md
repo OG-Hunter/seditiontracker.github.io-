@@ -9,10 +9,13 @@ date: 2021-08-04
 charged: 2021-08-04
 indicted: 2021-08-04
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 27
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/politics/2021/08/17/tennessee-man-ronald-colton-mcabee-arrested-us-capitol-officer-assault/8172152002/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1425176/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-and-tennessee-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

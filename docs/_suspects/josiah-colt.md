@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-07-14
 trial_date:
+trial_type:
 sentencing:
 age: 34
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-74
+caseNumber: 21-cr-0074
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

@@ -9,10 +9,13 @@ date: 2021-01-08
 charged: 2021-01-08
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 60
 occupation:
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-38
+caseNumber: 21-cr-0038
 videos:
 charges:
 sentence:

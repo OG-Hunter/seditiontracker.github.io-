@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-95
+caseNumber: 22-mj-0095
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.fourstateshomepage.com/news/local-news/missouri-man-charged-in-january-6-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1504976/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1504981/download)

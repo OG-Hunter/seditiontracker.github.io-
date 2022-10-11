@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 33
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-96
+caseNumber: 22-mj-0096
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wjhl.com/news/regional/tennessee/fbi-maryville-man-was-among-first-to-enter-u-s-capitol-on-january-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499346/download)

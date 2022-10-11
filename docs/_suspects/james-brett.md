@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -33,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-11
+caseNumber: 22-cr-0011
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tampabay.com/news/clearwater/2022/06/03/men-from-clearwater-lakeland-latest-florida-arrests-in-us-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510576/download)

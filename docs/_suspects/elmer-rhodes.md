@@ -34,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514876/download)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 55
 occupation: U.S. Marines (Former); Lieutenant, Broward County (Florida) Sheriff's Office (Retired)
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-703
+caseNumber: 21-cr-0703
 videos:
 charges:
 sentence:

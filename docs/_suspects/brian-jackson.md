@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-127
+caseNumber: 22-mj-0127
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/texas-brothers-brian-and-adam-jackson-arrested-after-trying-to-unsend-messages-bragging-about-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511166/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511171/download)

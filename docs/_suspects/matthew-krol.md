@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-18
+caseNumber: 22-mj-0018
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2022/02/23/federal-officials-charge-genesee-county-man-jan-6-siege-us-capitol/6909036001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476371/download)

@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-34
+caseNumber: 21-cr-0034
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

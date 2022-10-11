@@ -34,13 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-410
+caseNumber: 21-cr-0410
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days home confinement
   - 1 year probation
@@ -48,7 +48,6 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.brooklynpaper.com/midwood-man-arrested-for-alleged-participation-in-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393986/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419116/download)

@@ -34,19 +34,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-214
+caseNumber: 22-cr-0214
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/politics/capitol-rioter-vowed-hillary-clinton-is-going-to-go-to-jail-now-he-s-the-one-facing-time-behind-bars/ar-AAVQGKt)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490451/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1490456/download)

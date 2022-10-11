@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-06
 trial_date:
+trial_type:
 sentencing:
 age: 26
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-244
+caseNumber: 21-cr-0244
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://kfor.com/news/2-more-oklahomans-charged-in-u-s-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378856/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381756/download)

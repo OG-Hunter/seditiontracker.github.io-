@@ -9,10 +9,13 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-24
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 27
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357221/download)

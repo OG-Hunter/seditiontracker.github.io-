@@ -9,10 +9,13 @@ date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-01-15
 convicted: 2021-07-12
+acquitted:
 sentenced: 2021-07-12
 dismissed:
 deceased:
 plea_hearing: 2021-07-12
+trial_date:
+trial_type:
 sentencing: 2021-07-12
 age: 35
 occupation:
@@ -31,18 +34,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-41
+caseNumber: 21-cr-0041
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 6 months incarceration
   - $500 restitution
 ---
-
 - [News Report](https://wjno.iheart.com/featured/florida-news/content/2021-01-08-accused-florida-dc-rioter-has-no-regrets/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

@@ -9,10 +9,13 @@ date: 2021-02-10
 charged: 2021-02-10
 indicted: 2021-03-05
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased: 2021-06-12
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 34
 occupation: Real Estate Agent
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-192
+caseNumber: 21-cr-0192
 videos:
 charges:
 sentence:

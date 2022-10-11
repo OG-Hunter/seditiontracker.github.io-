@@ -9,10 +9,13 @@ date: 2022-03-07
 charged: 2022-03-07
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-54
+caseNumber: 22-mj-0054
 videos:
 charges:
 sentence:

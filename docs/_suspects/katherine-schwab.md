@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-18
 trial_date:
+trial_type:
 sentencing:
 age: 32
 occupation: Real Estate Agent
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-50
+caseNumber: 21-cr-0050
 videos:
 charges:
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364681/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413461/download)

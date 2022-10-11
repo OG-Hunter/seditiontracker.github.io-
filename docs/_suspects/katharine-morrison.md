@@ -34,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-334
+caseNumber: 21-cr-0334
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.whec.com/livingston-county-ny-news/livingston-county-woman-indicted-for-capitol-riot/6426541/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473421/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540346/download)

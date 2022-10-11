@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2021/12/2/22814787/springfield-man-roy-nelson-franklin-us-senate-floor-capitol-riot-charged)
 - [Statement of Facts](https://cdn.vox-cdn.com/uploads/chorus_asset/file/23059426/_FranklinComplaint.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Roy%20Nelson%20Franklin%20Indictment.pdf)

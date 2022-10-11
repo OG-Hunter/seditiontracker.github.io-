@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-307
+caseNumber: 22-cr-0307
 videos:
 charges:
 sentence:
 ---
-
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540796/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540801/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540806/download)

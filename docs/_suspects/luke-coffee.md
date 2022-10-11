@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-327
+caseNumber: 21-cr-0327
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/luke-coffee-fledgling-actor-from-texas-bashed-a-cop-during-capitol-riot-prosecutors-allege)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378546/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1404986/download)

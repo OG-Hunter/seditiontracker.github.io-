@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-08
 trial_date:
+trial_type:
 sentencing: 2022-10-07
 age:
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-000
+caseNumber: 22-cr-0000
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://trib.com/news/state-and-regional/crime-and-courts/wyoming-man-charged-with-entering-us-capitol-on-jan-6/article_9478da12-6df0-5881-84a7-ec81701cbad0.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481226/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481231/download)

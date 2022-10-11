@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-08-31
 trial_date:
+trial_type:
 sentencing: 2021-11-12
 age: 52
 occupation: CEO
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-41
+caseNumber: 21-cr-0041
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

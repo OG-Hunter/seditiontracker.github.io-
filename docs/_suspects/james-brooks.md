@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-04
 trial_date:
+trial_type:
 sentencing: 2022-11-03
 age:
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-18
+caseNumber: 22-cr-0018
 videos:
 charges:
-  - code: 18 USC § 5104(e)(2)(C)
-    title: Entering and Remaining in Certain Rooms in the Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 5104(e)(2)(C)
+  title: Entering and Remaining in Certain Rooms in the Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481136/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524271/download)

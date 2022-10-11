@@ -9,11 +9,13 @@ date: 2021-03-01
 charged: 2021-03-01
 indicted: 2021-12-15
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-01-03
+trial_type:
 sentencing:
 age:
 occupation:
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-282
+caseNumber: 21-cr-0282
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/grayson-sherrill-capitol-rioter-seen-in-keep-america-great-top-gets-turned-in-by-his-own-family/ar-BB1e9zm3)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379336/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379331/download)

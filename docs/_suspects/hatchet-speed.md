@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-143
+caseNumber: 22-mj-0143
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/fbi-navy-petty-officer-arrested-on-capitol-riot-charges-had-arsenal-of-guns-praised-unabomber/ar-AAYNcvq)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514546/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download)

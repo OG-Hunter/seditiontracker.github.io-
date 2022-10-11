@@ -9,10 +9,13 @@ date: 2022-02-22
 charged: 2022-02-22
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation: Founder, Simply Gluten Free Magazine
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-36
+caseNumber: 22-mj-0036
 videos:
 charges:
 sentence:

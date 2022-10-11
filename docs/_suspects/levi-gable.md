@@ -34,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-189
+caseNumber: 22-cr-0189
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://tulsaworld.com/news/local/crime-and-courts/another-oklahoma-man-charged-with-entering-u-s-capitol-building-during-insurrection/article_0bf7a03a-dd1a-11ec-8e3d-83eba79d6b99.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509011/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509016/download)

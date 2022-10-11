@@ -9,11 +9,13 @@ date: 2021-10-14
 charged: 2021-10-14
 indicted: 2021-10-14
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-19
+trial_type:
 sentencing:
 age:
 occupation: U.S. Capitol Police K-9 Officer
@@ -32,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/politics-news/capitol-police-officer-charged-helping-hide-jan-6-rioter-s-n1281654)
 - [Indictment](https://s3.documentcloud.org/documents/21085728/10-14-21-us-v-michael-riley-indictment.pdf)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-132
+caseNumber: 22-mj-0132
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.king5.com/article/news/crime/puyallup-capitol-riot-suspects-charges/281-19245a3b-5271-4dc1-8460-a3c7fa150fe6)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512676/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512681/download)

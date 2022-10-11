@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-14
 trial_date:
+trial_type:
 sentencing: 2022-01-11
 age:
 occupation: Volunteer Firefighter
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-303
+caseNumber: 21-cr-0303
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

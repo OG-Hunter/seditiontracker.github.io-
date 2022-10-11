@@ -9,12 +9,14 @@ date: 2021-04-21
 charged: 2021-04-21
 indicted: 2021-05-19
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: 2022-12-13
+trial_type:
+sentencing:
 age: 51
 occupation: Volunteer Firefighter, Pilot
 affiliations:
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388956/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388961/download)

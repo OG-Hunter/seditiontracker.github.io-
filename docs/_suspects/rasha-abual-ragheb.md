@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-08-23
 trial_date:
+trial_type:
 sentencing: 2021-11-23
 age: 40
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-43
+caseNumber: 21-cr-0043
 videos:
 charges:
 sentence:
@@ -42,7 +43,6 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.the961.com/lebanese-charged-us-capitol/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357081/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357076/download)

@@ -9,10 +9,13 @@ date: 2022-01-12
 charged: 2022-01-12
 indicted: 2022-05-25
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 28
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-000
+caseNumber: 22-mj-0000
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wtsp.com/article/news/crime/alan-fischer-model-arrested-capitol-riot/67-9eb9a39d-2a6d-4a6e-9468-62104516fe1a)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481391/download)
 - [DOJ Statement](https://www.justice.gov/usao-dc/pr/three-florida-men-arrested-felony-charges-related-jan-6-capitol-breach-0)

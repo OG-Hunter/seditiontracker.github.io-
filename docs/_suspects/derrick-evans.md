@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-18
 trial_date:
+trial_type:
 sentencing: 2022-06-22
 age: 35
 occupation: West Viriginia Delegate
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-337
+caseNumber: 21-cr-0337
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 90 days incarceration
   - 3 years probation
   - $2000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1351946/download)

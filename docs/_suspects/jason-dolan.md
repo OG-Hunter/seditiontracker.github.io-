@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-15
 trial_date:
+trial_type:
 sentencing:
 age:
 occupation: Security Guard
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-28
+caseNumber: 21-cr-0028
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.palmbeachpost.com/story/news/2021/06/01/marine-wellington-arrested-capitol-riots/7469247002/)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1422696/download)
 - [Detention Hearing Transcript](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jason%20Dolan%20Continued%20Detention%20Hearing%20Transcript.pdf)

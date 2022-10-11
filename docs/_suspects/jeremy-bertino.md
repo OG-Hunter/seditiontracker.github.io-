@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-329
+caseNumber: 22-cr-0329
 videos:
 charges:
 - code: 18 USC § 2384

@@ -34,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
 videos:
 - title: Ex. 1 - Storyful Video.mp4 (0:01:41)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7fc9a690ce2a013960702cde48001122.mp4

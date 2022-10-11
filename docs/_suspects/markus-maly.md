@@ -9,10 +9,13 @@ date: 2022-01-13
 charged: 2022-01-13
 indicted: 2022-02-09
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 47
 occupation:
@@ -31,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-178
+caseNumber: 21-cr-0178
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://roanoke.com/news/local/crime-and-courts/fincastle-man-charged-in-connection-with-capitol-riot/article_1b505b94-7eec-11ec-b27b-8f94974853d1.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473396/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473401/download)

@@ -34,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-161
+caseNumber: 21-cr-0161
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 40 days incarceration
   - 1 year probation
   - $1000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://www.wfmj.com/story/43232086/feds-accuse-3-ohio-men-of-illegally-entering-us-capitol)
 - [Complaint](https://www.justice.gov/opa/page/file/1361301/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361301/download)

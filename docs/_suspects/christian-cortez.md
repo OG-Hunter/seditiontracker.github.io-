@@ -34,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-317
+caseNumber: 21-cr-0317
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 4 months incarceration
   - 3 years probation
   - 60 hours of community service
   - $2000 restitution
 ---
-
 - [News Report](https://www.khou.com/article/news/nation-world/details-houston-residents-arrested-capitol-riots/285-0fb5c466-4f23-4131-a53f-5b3a6fd508c6)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390346/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390351/download)

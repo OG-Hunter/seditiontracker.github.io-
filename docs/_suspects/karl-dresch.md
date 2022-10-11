@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-08-04
 trial_date:
+trial_type:
 sentencing: 2021-08-04
 age: 40
 occupation:
@@ -33,18 +34,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-71
+caseNumber: 21-cr-0071
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 6 months and 21 days incarceration (time served)
   - $500 restitution
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/01/19/feds-arrest-michigan-man-capitol-mob-riots-insurrection/4224979001/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357311/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357306/download)

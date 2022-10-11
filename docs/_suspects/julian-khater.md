@@ -34,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-222
+caseNumber: 21-cr-0222
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)

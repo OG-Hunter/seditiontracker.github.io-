@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.whio.com/news/local/2-arrested-by-feds-possibly-linked-riot-washington-dc/TBMLXSMEQ5HGDNQW4KCWJGAD6A)
 - [FBI Raid](https://www.whio.com/news/local/fbi-surrounds-champaign-county-apartment-connection-dc-riots-man-says/6XNF3MMRJBDYFFZXBHLICKY2OE/)
 - [Self Incrimination (Audio)](https://www.wnycstudios.org/podcasts/otm/segments/zello-tapes-walkie-talkie-app-used-during-insurrection-on-the-media)

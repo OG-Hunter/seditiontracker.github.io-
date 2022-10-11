@@ -9,6 +9,7 @@ date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-01-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-22
+caseNumber: 21-cr-0022
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.kwtx.com/2021/01/28/magistrate-denies-new-hearing-for-local-businessman-charged-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1358251/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358246/download)

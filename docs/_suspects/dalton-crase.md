@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-14
 trial_date:
+trial_type:
 sentencing: 2022-01-20
 age: 21
 occupation:
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-82
+caseNumber: 21-cr-0082
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 15 days intermittent incarceration
   - 60 hours community service
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.kentucky.com/news/local/crime/article248923359.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Dalton%20Crase%20and%20Troy%20Williams%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371326/download)

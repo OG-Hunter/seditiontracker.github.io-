@@ -9,10 +9,13 @@ date: 2021-02-09
 charged: 2021-02-09
 indicted: 2021-03-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 57
 occupation:
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-177
+caseNumber: 21-cr-0177
 videos:
 - title: Egtvedt - BWC and CCTV of Incident.mp4 (0:08:43)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/487ec340ce2a013960702cde48001122.mp4

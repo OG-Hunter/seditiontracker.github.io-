@@ -1,7 +1,8 @@
 import { readFile, writeLines } from "./file";
-import { isEmpty } from "lodash";
+import { isEmpty, padStart } from "lodash";
 import YAML from "yaml";
 import fs from "fs";
+import { exitWithError } from "./console";
 
 export interface Charge {
   code: string;
@@ -188,7 +189,20 @@ export const getSuspectByFile = (filename: string) => {
   return suspect;
 };
 
+const formatCaseNumber = (text: string) => {
+  if (!/(1:)?(21|22|23)-(mj|cr)-(.*)/.test(text)) {
+    exitWithError("Invalid case number: " + text);
+  }
+  const year = padStart(RegExp.$2);
+  const number = padStart(RegExp.$4, 4, "0");
+  return `1:${year}-${RegExp.$3}-${number}`;
+};
+
 export const updateSuspect = (suspect: Suspect) => {
+  const { caseNumber } = suspect;
+  // do some cleanup first
+  suspect.caseNumber = caseNumber ? formatCaseNumber(caseNumber) : "";
+
   const lines: string[] = [];
 
   lines.push("---");
@@ -256,10 +270,6 @@ export const updateSuspect = (suspect: Suspect) => {
 
   for (const [type, url] of Object.entries(suspect.links)) {
     lines.push(`- [${type}](${url})`);
-  }
-
-  if (suspect.name.includes("Malley")) {
-    console.log(suspect.name);
   }
 
   writeLines(`docs/_suspects/${dasherizeName(suspect.name, "")}.md`, lines);

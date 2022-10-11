@@ -9,11 +9,13 @@ date: 2021-05-24
 charged: 2021-05-24
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-08-23
+trial_type:
 sentencing:
 age:
 occupation:
@@ -32,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-411
+caseNumber: 21-cr-0411
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wsmv.com/news/two-middle-tennessee-residents-arrested-for-role-in-us-capitol-riot/article_8f4af518-c4c0-11eb-be8e-af86539b82fc.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401226/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1413521/download)

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-27
 trial_date:
+trial_type:
 sentencing:
 age: 31
 occupation: Business Owner ("Adult Model Management Company")
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-90
+caseNumber: 21-cr-0090
 videos:
 charges:
 - code: 18 USC § 1512(k)

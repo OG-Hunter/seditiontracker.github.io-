@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-11
 trial_date:
+trial_type:
 sentencing: 2022-10-13
 age: 40
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-orlando-robert-fairchild--20210828-6yj67m4mlfapnefejh5yr3sjga-story.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1428251/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-and-florida-men-arrested-assault-law-enforcement-during-jan-6-capitol-breach)

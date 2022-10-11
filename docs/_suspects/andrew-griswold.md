@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-30
 trial_date:
+trial_type:
 sentencing: 2022-07-14
 age: 28
 occupation:
@@ -33,19 +34,18 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-459
+caseNumber: 21-cr-0459
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 75 days incareration
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.wkrg.com/news/niceville-man-arrested-in-connection-to-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378646/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412506/download)

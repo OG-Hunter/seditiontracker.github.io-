@@ -9,10 +9,13 @@ date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 46
 occupation: Retired Firefighter
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-14
+caseNumber: 22-cr-0014
 videos:
 charges:
 sentence:

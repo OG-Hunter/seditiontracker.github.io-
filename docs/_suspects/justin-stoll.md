@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-20
 trial_date:
+trial_type:
 sentencing:
 age: 40
 occupation:
@@ -33,16 +34,15 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-30
+caseNumber: 21-mj-0030
 videos:
 charges:
-  - code: 18 USC § 875(c)
-    title: Interstate Communication of Threats
-    url: https://www.law.cornell.edu/uscode/text/18/875
-    felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.whio.com/news/local/local-man-charged-connection-capitol-riots/ZAUSFUSX3RBJPOKRQH3VAIFD2I/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371536/download)
 - [FBI Statement (Twitter)](https://twitter.com/FBICincinnati/status/1350161035492290565?s=20)

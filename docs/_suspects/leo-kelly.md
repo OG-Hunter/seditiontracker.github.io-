@@ -34,12 +34,11 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thegazette.com/subject/news/government/leo-kelly-us-capitol-invasion-donald-trump-20210118)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356076/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356071/download)

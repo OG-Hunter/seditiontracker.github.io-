@@ -9,10 +9,13 @@ date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-06-02
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 32
 occupation: Dating + Relationship Strategist
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-383
+caseNumber: 21-cr-0383
 videos:
 charges:
 sentence:

@@ -9,10 +9,13 @@ date: 2021-10-22
 charged: 2021-10-22
 indicted: 2021-10-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age:
 occupation:

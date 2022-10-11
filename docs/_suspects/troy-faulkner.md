@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-05
 trial_date:
+trial_type:
 sentencing: 2022-10-14
 age: 39
 occupation: Business Owner (Faulkner Painting)
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-126
+caseNumber: 21-cr-0126
 videos:
 charges:
 - code: 18 USC § 1361

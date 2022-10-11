@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-06-23
 trial_date:
+trial_type:
 sentencing:
 age: 54
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-28
+caseNumber: 21-cr-0028
 videos:
 charges:
 - code: 18 USC § 371

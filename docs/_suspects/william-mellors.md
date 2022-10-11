@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
 age: 50
 occupation:
@@ -33,12 +34,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-162
+caseNumber: 22-mj-0162
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.khou.com/article/news/crime/tomball-man-arrested-january-capitol-riot/285-283fec85-fee9-482d-a09b-82076d695960)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520256/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520261/download)

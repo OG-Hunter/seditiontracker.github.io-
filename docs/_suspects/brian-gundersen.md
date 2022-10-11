@@ -9,10 +9,13 @@ date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-05
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 26
 occupation: Sanitation Worker
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-137
+caseNumber: 21-cr-0137
 videos:
 charges:
 sentence:

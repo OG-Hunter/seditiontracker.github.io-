@@ -9,10 +9,13 @@ date: 2021-06-01
 charged: 2021-06-01
 indicted: 2021-06-04
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
 age: 52
 occupation: Music teacher
@@ -31,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-387
+caseNumber: 21-cr-0387
 videos:
 charges:
 sentence:

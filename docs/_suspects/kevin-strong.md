@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-17
 trial_date:
+trial_type:
 sentencing: 2022-03-07
 age: 44
 occupation: FAA
@@ -33,20 +34,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-114
+caseNumber: 21-cr-0114
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days home detention
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.huffpost.com/entry/qanon-faa-employee-capitol-insurrection_n_600b2881c5b6d64153abaf3d)
 - [Complaint](https://www.justice.gov/opa/page/file/1359586/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359586/download)

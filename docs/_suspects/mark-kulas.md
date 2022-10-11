@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-06
 trial_date:
+trial_type:
 sentencing: 2022-04-26
 age: 27
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-693
+caseNumber: 21-cr-0693
 videos:
 charges:
 sentence:

@@ -15,6 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-02
 trial_date:
+trial_type:
 sentencing: 2022-11-18
 age:
 occupation:
@@ -33,7 +34,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-69
+caseNumber: 22-cr-0069
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

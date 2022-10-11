@@ -9,11 +9,13 @@ date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-02-10
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-02-13
+trial_type:
 sentencing:
 age: 18
 occupation:
@@ -32,14 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-107
+caseNumber: 21-cr-0107
 videos:
-  - title: Detention Ex 4 Cua.mp4 (0:00:41)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4
+- title: Detention Ex 4 Cua.mp4 (0:00:41)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ajc.com/news/metro-atlanta-teen-charged-in-us-capitol-attack/U7EPRZANXVBFPB7KRW7EQ3VRIE/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365571/download)

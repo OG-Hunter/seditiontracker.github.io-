@@ -34,11 +34,10 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 
 videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
 - [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-woman-sentenced-180-days-jail-after-jury-verdict-related-capitol-breach)
