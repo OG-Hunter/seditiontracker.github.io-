@@ -272,7 +272,7 @@ export const updateSuspect = (suspect: Suspect) => {
     warning("No case name: " + suspect.name);
   }
 
-  if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.convicted || suspect.sentenced)) {
+  if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.sentenced)) {
     suspect.status_conference = null;
   }
 
