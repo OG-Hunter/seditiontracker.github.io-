@@ -36,6 +36,8 @@ layout: default
   <div>Arrested/Charged: <small>{{ page.charged | date: "%Y-%m-%d"}}</small></div>
   {% if page.indicted %}
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
+  {% endif %} {% if page.status_conference %}
+  <div>Status Conference: <small>{{ page.status_conference | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_date %}
   <div>Trial Date: <small>{{ page.trial_date | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_type %}

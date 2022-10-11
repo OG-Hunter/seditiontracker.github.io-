@@ -16,7 +16,9 @@ export const readJson = (filename: string) => {
 
 export const writeLines = (filename: string, lines: string[]) => {
   const cleanLines = lines.map((line) => {
-    return line.replace(": undefined", ":");
+    line = line.replace(": undefined", ":");
+    line = line.replace(": null", ":");
+    return line;
   });
   writeFile(filename, cleanLines.join("\n") + "\n");
 };

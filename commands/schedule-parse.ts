@@ -28,11 +28,13 @@ const getCaseMap = (): CaseMap => {
 };
 
 const latestDate = (suspect: Suspect, field: string, dateText: string) => {
-  const oldDate = new Date(suspect[field]);
+  const oldValue = suspect[field];
+  const oldDate = oldValue ? new Date(suspect[field]) : null;
   const newDate = new Date(`${dateText} GMT`);
   if (!oldDate || (oldDate && newDate > oldDate)) {
-    console.log(`${suspect.name} ${field}: ${dateText}`);
-    return newDate.toISOString().split("T")[0];
+    const newDateString = newDate.toISOString().split("T")[0];
+    console.log(`${suspect.name} ${field}: ${newDateString}`);
+    return newDateString;
   }
   return suspect[field];
 };
@@ -117,6 +119,9 @@ const parseSchedule = async () => {
               suspect.trial_type = "Bench Trial";
               suspect.trial_date = latestDate(suspect, "trial_date", dateText);
             }
+            break;
+          case "Status Conference":
+            suspect.status_conference = latestDate(suspect, "status_conference", dateText);
             break;
         }
 

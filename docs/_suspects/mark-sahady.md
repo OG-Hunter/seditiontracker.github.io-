@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-18
 age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)

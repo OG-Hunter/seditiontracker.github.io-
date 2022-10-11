@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-14
 age: 28
 occupation:
 affiliations: Proud Boys
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0499
-caseName:
-judge:
+caseNumber: 21-cr-0292
+caseName: USA v. WORRELL
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

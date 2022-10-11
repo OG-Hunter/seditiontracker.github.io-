@@ -13,11 +13,11 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-28
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-28
 age: 40
 occupation:
 affiliations:

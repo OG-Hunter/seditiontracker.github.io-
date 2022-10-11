@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-13
 age: 32
 occupation: Dating + Relationship Strategist
 affiliations:

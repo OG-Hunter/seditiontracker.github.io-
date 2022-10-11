@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-18
 trial_date:
 trial_type:
 sentencing:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0034
-caseName:
-judge:
+caseName: USA v. BILYARD
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

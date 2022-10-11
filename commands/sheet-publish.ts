@@ -60,6 +60,7 @@ const publishSheet = async () => {
     "Mug Shot",
     "Case",
     "Judge",
+    "Status Conference",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -68,7 +69,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AE1");
+  await suspectSheet.loadCells("A1:AF1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -123,6 +124,7 @@ const publishSheet = async () => {
       Judgement: links["Judgement"] || "",
       Case: suspect.caseName || "",
       Judge: suspect.judge || "",
+      "Status Conference": suspect.status_conference || "",
     };
 
     if (suspect.charges?.length > 0) {

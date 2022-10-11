@@ -21,6 +21,7 @@ export interface Suspect {
   status?: string;
   date?: string;
   sentenced?: string;
+  status_conference?: string;
   charged?: string;
   indicted?: string;
   convicted?: string;
@@ -192,6 +193,10 @@ export const getSuspectByFile = (filename: string) => {
     suspect.judge = RegExp.$1;
   }
 
+  if (data.match(/status_conference: (.*)/)) {
+    suspect.status_conference = RegExp.$1;
+  }
+
   suspect.charges = getCharges(data.split("---")[1].trim());
   suspect.videos = getVideos(data.split("---")[1].trim());
   suspect.sentence = getSentence(data.split("---")[1].trim());
@@ -208,6 +213,53 @@ const formatCaseNumber = (text: string) => {
   return `${year}-${RegExp.$3}-${number}`;
 };
 
+type SuspectDate = {
+  date: Date;
+  label: string;
+};
+
+const verifyDates = (suspect: Suspect) => {
+  const suspectDates: SuspectDate[] = [];
+
+  const SEQUENCE = [
+    "charged",
+    "indicted",
+    "trial_date",
+    "status_conference",
+    "plea_hearing",
+    "convicted",
+    "acquitted",
+    "dismissed",
+    "deceased",
+    "sentencing_date",
+    "sentenced",
+  ];
+
+  SEQUENCE.map((label) => {
+    if (suspect[label]) {
+      suspectDates.push({ label, date: new Date(`${suspect[label]}T00:00:00Z`) });
+    }
+  });
+
+  let prevItem: SuspectDate = null;
+  const remainingDates: SuspectDate[] = suspectDates;
+  while (remainingDates.length > 0) {
+    if (!prevItem) {
+      prevItem = remainingDates.shift();
+      continue;
+    }
+
+    const itemToCheck = remainingDates.shift();
+
+    const diff = prevItem.date.getTime() - itemToCheck.date.getTime();
+    if (diff > 0) {
+      warning(`${prevItem.label} more recent than ${itemToCheck.label} for ${suspect.name}`);
+      return false;
+    }
+  }
+  return true;
+};
+
 export const updateSuspect = (suspect: Suspect) => {
   const { caseNumber } = suspect;
   // do some cleanup first
@@ -219,6 +271,13 @@ export const updateSuspect = (suspect: Suspect) => {
   if (suspect.judge && !suspect.caseName) {
     warning("No case name: " + suspect.name);
   }
+
+  if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.convicted || suspect.sentenced)) {
+    suspect.status_conference = null;
+  }
+
+  // make sure dates make sense
+  verifyDates(suspect);
 
   const lines: string[] = [];
 
@@ -241,6 +300,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`trial_date: ${suspect.trial_date}`);
   lines.push(`trial_type: ${suspect.trial_type}`);
   lines.push(`sentencing: ${suspect.sentencing}`);
+  lines.push(`status_conference: ${suspect.status_conference}`);
   lines.push(`age: ${suspect.age}`);
   lines.push(`occupation: ${suspect.occupation}`);
   lines.push(`affiliations: ${suspect.affiliations}`);
