@@ -5,7 +5,14 @@ import axios from "axios";
 import { HTMLElement, parse } from "node-html-parser";
 import { capitalize, isEmpty, toLower } from "lodash";
 import moment from "moment";
-import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
+import {
+  dasherizeName,
+  formatCaseNumber,
+  getSuspect,
+  getSuspectByFile,
+  Suspect,
+  updateSuspect,
+} from "./common/suspect";
 import { execSync } from "child_process";
 
 const cmd = new Command();
@@ -302,9 +309,17 @@ const importDoj = async (nameSet: Set<string>) => {
     const links = getLinks(<HTMLElement>cells[3], "https://www.justice.gov");
 
     const caseNumberText = cells[0].text.trim();
-    const caseNumber = /(\d:\d{2}-\D\D-\d{1,3})/.test(caseNumberText) ? RegExp.$1 : undefined;
+    let caseNumber: string;
 
-    if (caseNumber === "1:21-mj-561") {
+    // DOJ has wrong case number on their website for some suspects
+    const WRONG_CASE_NUMBERS = ["21-cr-63", "21-cr-386"];
+    if (!WRONG_CASE_NUMBERS.includes(caseNumberText)) {
+      if (/(1:)?(21|22|23)-(cr)-0?(\d{1,4})/.test(caseNumberText)) {
+        caseNumber = formatCaseNumber(caseNumberText);
+      }
+    }
+
+    if (caseNumberText === "1:21-mj-561") {
       // ignore duplicate entry for O'Brien
       continue;
     }
@@ -380,6 +395,8 @@ const falsePositives = (site: string) => {
       set.add("Yazdani");
       set.add("Tarrio");
       set.add("Seymour");
+      set.add("Fitchett");
+      set.add("Sweet");
       break;
   }
 

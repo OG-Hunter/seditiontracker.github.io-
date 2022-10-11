@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0028
+caseNumber: 22-cr-0015
 caseName:
 judge:
 videos:

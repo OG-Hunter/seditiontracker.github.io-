@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0479
+caseNumber: 21-cr-0435
 caseName:
 judge:
 videos:
