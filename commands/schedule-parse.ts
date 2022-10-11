@@ -62,14 +62,14 @@ const parseSchedule = async () => {
     const caseNumber = RegExp.$1;
     const caseName = RegExp.$2.trim();
 
+    /Judge (.*)/.test(judgeText);
+    const judge = RegExp.$1;
+
     const suspect = caseMap[caseNumber];
 
     if (suspect) {
       suspect.caseName = caseName;
-      console.log({ caseNumber });
-      console.log({ caseName });
-      console.log(suspect.name);
-      console.log({ judgeText });
+      suspect.judge = judge;
       console.log({ dateText });
       console.log({ typeText });
 

@@ -184,6 +184,14 @@ export const getSuspectByFile = (filename: string) => {
     suspect.trial_type = RegExp.$1;
   }
 
+  if (data.match(/caseName: (.*)/)) {
+    suspect.caseName = RegExp.$1;
+  }
+
+  if (data.match(/judge: (.*)/)) {
+    suspect.judge = RegExp.$1;
+  }
+
   suspect.charges = getCharges(data.split("---")[1].trim());
   suspect.videos = getVideos(data.split("---")[1].trim());
   suspect.sentence = getSentence(data.split("---")[1].trim());
