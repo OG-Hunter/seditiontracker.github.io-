@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-05-01
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
 age:
 occupation: Police Officer

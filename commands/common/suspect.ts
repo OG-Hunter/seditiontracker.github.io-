@@ -195,13 +195,16 @@ const formatCaseNumber = (text: string) => {
   }
   const year = padStart(RegExp.$2);
   const number = padStart(RegExp.$4, 4, "0");
-  return `1:${year}-${RegExp.$3}-${number}`;
+  return `${year}-${RegExp.$3}-${number}`;
 };
 
 export const updateSuspect = (suspect: Suspect) => {
   const { caseNumber } = suspect;
   // do some cleanup first
   suspect.caseNumber = caseNumber ? formatCaseNumber(caseNumber) : "";
+  if (suspect.trial_type === "Jury") {
+    suspect.trial_type = "Jury Trial";
+  }
 
   const lines: string[] = [];
 

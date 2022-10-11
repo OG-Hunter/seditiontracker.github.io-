@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-28
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
 age: 60
 occupation: Owner, Auto Body Shop

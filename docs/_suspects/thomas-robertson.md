@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-11
 trial_date: 2022-04-06
-trial_type: Jury
+trial_type: Jury Trial
 sentencing: 2022-08-11
 age: 47
 occupation: Police Officer (Sergeant)

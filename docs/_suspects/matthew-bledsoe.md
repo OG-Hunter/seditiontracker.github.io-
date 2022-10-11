@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-07-18
-trial_type: Jury
+trial_type: Jury Trial
 sentencing: 2022-10-21
 age:
 occupation:
