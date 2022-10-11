@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-19
 age: 42
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0326
-caseName:
-judge:
+caseName: USA v. FITZGERALD
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

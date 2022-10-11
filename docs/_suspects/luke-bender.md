@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-01-09
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0508
-caseName:
-judge:
+caseName: USA v. BENDER
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

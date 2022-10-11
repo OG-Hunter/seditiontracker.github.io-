@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0604
-caseName:
-judge:
+caseName: USA v. SLAEKER
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

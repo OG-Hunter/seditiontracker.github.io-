@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0387
-caseName:
-judge:
+caseName: USA v. SOUTHARD-RUMSEY
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

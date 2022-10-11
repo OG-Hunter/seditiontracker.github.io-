@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-12
 trial_type: Bench Trial
 sentencing:
-status_conference:
+status_conference: 2022-11-23
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0022
-caseName:
-judge:
+caseName: USA v. GRIDER
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

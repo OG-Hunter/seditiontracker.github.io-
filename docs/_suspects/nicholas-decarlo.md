@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-09
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-09
 status_conference:
 age: 30
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0073
-caseName:
-judge:
+caseName: USA v. DECARLO
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

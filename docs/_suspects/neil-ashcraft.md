@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0295
-caseName:
-judge:
+caseName: USA v. ASHCRAFT
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 641

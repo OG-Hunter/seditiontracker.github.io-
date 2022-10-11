@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-16
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0084
-caseName:
-judge:
+caseName: USA v. CARTER CONNELL
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

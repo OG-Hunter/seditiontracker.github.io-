@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-03-03
 trial_date:
 trial_type:
-sentencing: 2022-06-16
+sentencing: 2023-01-12
 status_conference:
 age: 55
 occupation: Founder of America’s Frontline Doctors (COVID disinformation)
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0085
-caseName:
-judge:
+caseName: USA v. STRAND
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

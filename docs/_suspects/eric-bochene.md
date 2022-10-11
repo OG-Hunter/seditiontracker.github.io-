@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0418
-caseName:
-judge:
+caseName: USA v. BOCHENE
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0341
-caseName:
-judge:
+caseName: USA v. WRIGHT
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

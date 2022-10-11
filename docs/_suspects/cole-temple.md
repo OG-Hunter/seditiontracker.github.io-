@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-05
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-07
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0243
-caseName:
-judge:
+caseName: USA v. TEMPLE
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0629
-caseName:
-judge:
+caseName: USA v. COMEAU
+judge: Emmet G. Sullivan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-07
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-12-01
 age: 34
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0119
-caseName:
-judge:
+caseName: USA v. MILLER
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

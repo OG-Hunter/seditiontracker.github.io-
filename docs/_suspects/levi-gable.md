@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-23
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-10
 status_conference:
 age: 36
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0189
-caseName:
-judge:
+caseName: USA v. GABLE
+judge: Jia M. Cobb
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

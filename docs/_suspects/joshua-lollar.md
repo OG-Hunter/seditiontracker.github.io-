@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0152
-caseName:
-judge:
+caseName: USA v. LOLLAR
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

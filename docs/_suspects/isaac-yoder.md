@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-02-07
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0505
-caseName:
-judge:
+caseName: USA v. YODER
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

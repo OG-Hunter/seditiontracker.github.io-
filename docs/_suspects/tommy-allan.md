@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-11
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-08
 status_conference:
 age: 52
 occupation: Real Estate (Former)
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0064
-caseName:
-judge:
+caseName: USA v. ALLAN
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

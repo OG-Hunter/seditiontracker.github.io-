@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0086
-caseName:
-judge:
+caseName: USA v. SANFORD
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

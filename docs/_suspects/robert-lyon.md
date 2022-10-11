@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-03-14
 trial_date:
 trial_type:
-sentencing: 2022-09-22
+sentencing: 2022-11-18
 status_conference:
 age: 27
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0161
-caseName:
-judge:
+caseName: USA v. THOMPSON
+judge: Reggie B. Walton
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(D)

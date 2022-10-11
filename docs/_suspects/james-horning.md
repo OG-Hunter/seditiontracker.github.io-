@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-06
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-05
 status_conference:
 age: 44
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0275
-caseName:
-judge:
+caseName: USA v. HORNING
+judge: Amy B. Jackson
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

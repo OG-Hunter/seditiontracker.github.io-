@@ -13,11 +13,11 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-28
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-28
 age: 38
 occupation: Plumber
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0502
-caseName:
-judge:
+caseName: USA v. CHRISTMANN
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

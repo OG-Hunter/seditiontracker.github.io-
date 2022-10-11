@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-07-14
 trial_date:
 trial_type:
-sentencing: 2022-10-28
+sentencing: 2023-01-10
 status_conference:
 age: 38
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0644
-caseName:
-judge:
+caseName: USA v. WEIBLING
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-09-19
 trial_type: Jury Trial
-sentencing:
+sentencing: 2023-01-12
 status_conference:
 age: 37
 occupation: Model
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0085
-caseName:
-judge:
+caseName: USA v. STRAND
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

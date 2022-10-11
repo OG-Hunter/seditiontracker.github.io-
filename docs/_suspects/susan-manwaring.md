@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-05
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-19
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0307
-caseName:
-judge:
+caseName: USA v. MANWARING
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

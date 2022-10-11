@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0195
-caseName:
-judge:
+caseName: USA v. SANDOVAL
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

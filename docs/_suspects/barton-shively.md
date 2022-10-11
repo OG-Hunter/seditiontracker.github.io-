@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-21
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-03
 status_conference:
 age: 53
 occupation: U.S. Marines (Former)
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0151
-caseName:
-judge:
+caseName: USA v. SHIVELY
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

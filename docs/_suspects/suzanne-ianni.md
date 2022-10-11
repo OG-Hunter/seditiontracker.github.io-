@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0451
-caseName:
-judge:
+caseName: USA v. IANNI
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(D)

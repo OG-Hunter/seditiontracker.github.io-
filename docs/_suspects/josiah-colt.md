@@ -17,7 +17,7 @@ plea_hearing: 2021-07-14
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-14
 age: 34
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0074
-caseName:
-judge:
+caseName: USA v. COLT
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

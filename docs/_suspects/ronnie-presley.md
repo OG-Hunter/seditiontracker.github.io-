@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-07-28
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-18
 status_conference:
 age: 42
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0257
-caseName:
-judge:
+caseName: USA v. PRESLEY
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

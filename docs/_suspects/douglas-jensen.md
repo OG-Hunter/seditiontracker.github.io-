@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-09-19
 trial_type: Jury Trial
-sentencing:
+sentencing: 2022-12-16
 status_conference:
 age: 41
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0006
-caseName:
-judge:
+caseName: USA v. JENSEN
+judge: Timothy J. Kelly
 videos:
 - title: Gov_t Exhibit A.MOV (0:00:10)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e3987df0ce2c013960702cde48001122.mp4

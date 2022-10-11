@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-03-28
 trial_date:
 trial_type:
-sentencing: 2022-08-09
+sentencing: 2022-12-09
 status_conference:
 age: 37
 occupation: Real Estate Agent
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0050
-caseName:
-judge:
+caseName: USA v. SCHWAB
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2022-08-23
-trial_type:
+trial_date: 2023-01-17
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0411
-caseName:
-judge:
+caseName: USA v. PARKS
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

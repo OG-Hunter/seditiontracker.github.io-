@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-20
 age: 33
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0096
 caseName: USA v. KELLEY
-judge: Robin M. Meriweather
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

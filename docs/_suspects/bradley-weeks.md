@@ -14,8 +14,8 @@ sentenced:
 dismissed: 
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-07
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 43
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0247
-caseName:
-judge:
+caseName: USA v. WEEKS
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

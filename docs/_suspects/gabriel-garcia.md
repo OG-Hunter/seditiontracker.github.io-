@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-03-13
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 40
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0129
-caseName:
-judge:
+caseName: USA v. GARCIA
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

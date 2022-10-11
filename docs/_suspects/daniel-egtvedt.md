@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-05
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 57
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0177
-caseName:
-judge:
+caseName: USA v. EGTVEDT
+judge: Christopher R. Cooper
 videos:
 - title: Egtvedt - BWC and CCTV of Incident.mp4 (0:08:43)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/487ec340ce2a013960702cde48001122.mp4

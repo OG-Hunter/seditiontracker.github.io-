@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0570
-caseName:
-judge:
+caseName: USA v. COPELAND
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

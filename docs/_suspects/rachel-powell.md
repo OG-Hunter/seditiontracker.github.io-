@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0179
-caseName:
-judge:
+caseName: USA v. POWELL
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

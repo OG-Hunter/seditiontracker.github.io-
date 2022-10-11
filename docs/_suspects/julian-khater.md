@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0222
-caseName:
-judge:
+caseName: USA v. TANIOS
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b) and (2)

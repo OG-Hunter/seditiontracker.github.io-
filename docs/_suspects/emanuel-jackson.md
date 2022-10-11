@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-12-09
 trial_date:
 trial_type:
 sentencing:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0395
-caseName:
-judge:
+caseName: USA v. JACKSON
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

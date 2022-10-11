@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-19
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 60
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0060
-caseName:
-judge:
+caseName: USA v. GILLESPIE
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

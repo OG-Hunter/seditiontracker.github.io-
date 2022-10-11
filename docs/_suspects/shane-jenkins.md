@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0245
-caseName:
-judge:
+caseName: USA v. JENKINS
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

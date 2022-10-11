@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-10
 age: 53
 occupation:
 affiliations: Proud Boys
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0672
-caseName:
-judge:
+caseName: USA v. LOEHRKE
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

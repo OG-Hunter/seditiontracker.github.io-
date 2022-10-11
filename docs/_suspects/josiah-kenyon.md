@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0726
-caseName:
-judge:
+caseName: USA v. KENYON
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

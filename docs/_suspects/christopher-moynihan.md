@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0226
-caseName:
-judge:
+caseName: USA v. MOYNIHAN
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0381
-caseName:
-judge:
+caseName: USA v. HAGER
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

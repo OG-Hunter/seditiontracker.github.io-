@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-03
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-20
 status_conference:
 age: 36
 occupation: Business Owner (Woodworking Shop)
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0334
-caseName:
-judge:
+caseName: USA v. SHALVEY
+judge: Timothy J. Kelly
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

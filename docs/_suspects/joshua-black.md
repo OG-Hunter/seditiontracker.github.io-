@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0127
-caseName:
-judge:
+caseName: USA v. BLACK
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-07-01
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-26
 status_conference:
 age: 44
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0149
-caseName:
-judge:
+caseName: USA v. ZOYGANELES
+judge: James E. Boasberg
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-05-13
 trial_date:
 trial_type:
-sentencing: 2022-10-14
+sentencing: 2022-11-17
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0398
-caseName:
-judge:
+caseName: USA v. MCGREW
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

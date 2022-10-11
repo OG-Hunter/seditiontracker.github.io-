@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-22
 age: 31
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0289
-caseName:
-judge:
+caseName: USA v. MONTONI
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-26
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-01
 status_conference:
 age: 49
 occupation: Equipment Engineering Technician
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0181
-caseName:
-judge:
+caseName: USA v. CALDWELL
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

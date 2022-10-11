@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-12
 age:
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0393
-caseName:
-judge:
+caseName: USA v. PALM
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

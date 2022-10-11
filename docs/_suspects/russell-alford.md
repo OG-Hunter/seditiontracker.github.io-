@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-09-28
 trial_type: Jury Trial
-sentencing:
+sentencing: 2023-01-23
 status_conference:
 age: 60
 occupation: Owner, Auto Body Shop
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0263
-caseName:
-judge:
+caseName: USA v. ALFORD
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

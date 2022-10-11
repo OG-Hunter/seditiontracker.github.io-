@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-01
 age: 26
 occupation:
 affiliations: Former Marine
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0189
-caseName:
-judge:
+caseName: USA v. DILLARD
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

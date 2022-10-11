@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0692
-caseName:
-judge:
+caseName: USA v. FASSELL
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

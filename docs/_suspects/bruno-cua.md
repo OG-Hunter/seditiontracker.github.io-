@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0107
-caseName:
-judge:
+caseName: USA v. CUA
+judge: Randolph D. Moss
 videos:
 - title: Detention Ex 4 Cua.mp4 (0:00:41)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0158
-caseName:
-judge:
+caseName: USA v. FITZSIMONS
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

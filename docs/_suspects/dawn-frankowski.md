@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-31
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-29
 status_conference:
 age: 53
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0592
-caseName:
-judge:
+caseName: USA v. WIERSMA
+judge: Amy B. Jackson
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

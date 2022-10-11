@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-12
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 60
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0038
-caseName:
-judge:
+caseName: USA v. BARNETT
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-03
 age: 35
 occupation: Video Editor, Infowars (without press credentials)
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0336
-caseName:
-judge:
+caseName: USA v. MONTOYA
+judge: John D. Bates
 videos:
 charges:
 sentence:

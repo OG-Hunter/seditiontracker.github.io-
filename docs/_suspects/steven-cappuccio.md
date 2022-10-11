@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-06
 status_conference:
 age: 52
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
-caseName:
-judge:
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

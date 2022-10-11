@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0131
-caseName:
-judge:
+caseName: USA v. GERDING
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

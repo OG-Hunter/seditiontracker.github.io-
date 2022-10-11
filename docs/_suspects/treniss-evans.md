@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-03-10
 trial_date:
 trial_type:
-sentencing: 2022-10-11
+sentencing: 2022-11-21
 status_conference:
 age: 46
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0225
-caseName:
-judge:
+caseName: USA v. EVANS III
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

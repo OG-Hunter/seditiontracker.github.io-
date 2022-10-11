@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0194
-caseName:
-judge:
+caseName: USA v. FERGUSON
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

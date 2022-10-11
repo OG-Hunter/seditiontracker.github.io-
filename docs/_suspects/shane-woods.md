@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0476
-caseName:
-judge:
+caseName: USA v. WOODS
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 113(a)(4)

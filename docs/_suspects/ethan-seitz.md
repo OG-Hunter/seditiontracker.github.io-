@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-07
 age: 31
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0279
-caseName:
-judge:
+caseName: USA v. SEITZ
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

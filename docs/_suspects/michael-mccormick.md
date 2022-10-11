@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-07-18
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-13
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0710
-caseName:
-judge:
+caseName: USA v. MCCORMICK
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

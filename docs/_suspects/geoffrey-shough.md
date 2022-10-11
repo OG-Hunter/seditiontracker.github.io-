@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0197
-caseName:
-judge:
+caseName: USA v. SHOUGH
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

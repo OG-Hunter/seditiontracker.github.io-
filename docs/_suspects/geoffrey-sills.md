@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-08-23
 trial_type: Stipulated Bench Trial
-sentencing: 2022-11-18
+sentencing: 2023-01-06
 status_conference:
 age: 30
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
-caseName:
-judge:
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

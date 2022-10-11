@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0327
-caseName:
-judge:
+caseName: USA v. COFFEE
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

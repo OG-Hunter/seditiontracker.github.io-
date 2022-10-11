@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2021-08-19
 trial_date:
 trial_type:
-sentencing: 2021-11-04
+sentencing: 2022-12-09
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0050
-caseName:
-judge:
+caseName: USA v. SCHWAB
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

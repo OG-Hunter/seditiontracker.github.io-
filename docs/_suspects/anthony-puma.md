@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-30
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-07
 status_conference:
 age: 49
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0454
-caseName:
-judge:
+caseName: USA v. PUMA
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

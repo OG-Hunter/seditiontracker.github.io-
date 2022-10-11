@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0649
-caseName:
-judge:
+caseName: USA v. DICKINSON
+judge: Emmet G. Sullivan
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0028
-caseName:
-judge:
+caseName: USA v. CROWL
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

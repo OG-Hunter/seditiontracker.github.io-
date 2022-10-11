@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0140
-caseName:
-judge:
+caseName: USA v. BROCK
+judge: John D. Bates
 videos:
 charges:
 sentence:

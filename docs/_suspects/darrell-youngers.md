@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-03-30
 trial_date:
 trial_type:
-sentencing: 2022-09-08
+sentencing: 2022-12-05
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0640
-caseName:
-judge:
+caseName: USA v. TENNEY
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

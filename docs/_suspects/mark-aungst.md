@@ -16,7 +16,7 @@ deceased: 2022-07-29
 plea_hearing: 2022-06-07
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-05
 status_conference:
 age: 45
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0144
-caseName:
-judge:
+caseName: USA v. BRONSBURG
+judge: Reggie B. Walton
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

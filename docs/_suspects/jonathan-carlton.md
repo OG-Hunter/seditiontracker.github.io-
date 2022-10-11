@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0247
-caseName:
-judge:
+caseName: USA v. WEEKS
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

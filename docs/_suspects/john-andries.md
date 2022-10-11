@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0093
-caseName:
-judge:
+caseName: USA v. ANDRIES
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

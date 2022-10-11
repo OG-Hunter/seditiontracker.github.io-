@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-21
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-27
 status_conference:
 age: 44
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0445
-caseName:
-judge:
+caseName: USA v. HERNANDEZ
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

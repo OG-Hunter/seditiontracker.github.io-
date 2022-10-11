@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0088
-caseName:
-judge:
+caseName: USA v. SANDLIN
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1512(k)

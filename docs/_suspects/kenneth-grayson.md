@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0224
-caseName:
-judge:
+caseName: USA v. GRAYSON
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 231(a)(3)
