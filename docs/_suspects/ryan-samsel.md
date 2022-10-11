@@ -35,13 +35,14 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:21-cr-00537
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.buckscountycouriertimes.com/story/news/2021/02/01/bristol-man-charged-assaulting-officer-during-insurrection/4338235001/)
 - [Complaint](https://www.justice.gov/file/1362781/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362781/download)

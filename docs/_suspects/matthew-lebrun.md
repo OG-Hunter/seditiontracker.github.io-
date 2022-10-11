@@ -35,13 +35,14 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 1:22-cr-00136
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wtsp.com/article/news/crime/steven-miles-florida-jan-6-capitol-riot/67-f7854f44-8475-48b8-bb71-034c1d956d8e)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download)
