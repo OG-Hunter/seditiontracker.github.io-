@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0207
 caseName: USA v. COUNCIL
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

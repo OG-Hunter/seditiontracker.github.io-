@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-mj-0502
 caseName: USA v. JURLINA
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

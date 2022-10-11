@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0258
 caseName: USA v. SARGENT
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

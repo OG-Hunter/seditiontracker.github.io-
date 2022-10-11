@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0669
 caseName: USA v. SORGENTE
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

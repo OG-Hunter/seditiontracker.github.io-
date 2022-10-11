@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0057
 caseName: USA v. RODEAN
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 1361

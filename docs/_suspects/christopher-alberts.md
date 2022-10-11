@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0026
 caseName: USA v. ALBERTS
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

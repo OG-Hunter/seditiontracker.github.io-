@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0206
 caseName: USA v. MELLIS
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

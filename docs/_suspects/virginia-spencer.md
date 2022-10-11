@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0147
 caseName: USA v. SPENCER
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

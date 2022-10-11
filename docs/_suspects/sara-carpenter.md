@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0305
 caseName: USA v. CARPENTER
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

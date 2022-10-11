@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0725
 caseName: USA v. MASSIE
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

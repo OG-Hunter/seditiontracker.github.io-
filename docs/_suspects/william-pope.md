@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0128
 caseName: USA v. POPE
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

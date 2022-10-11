@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0642
 caseName: USA v. NEELY
+judge: John D. Bates
 videos:
 charges:
 sentence:

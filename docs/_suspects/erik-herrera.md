@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0619
 caseName: USA v. HERRERA
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

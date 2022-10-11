@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0375
 caseName: USA v. MOAT
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

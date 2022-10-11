@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0079
 caseName: USA v. LYONS
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

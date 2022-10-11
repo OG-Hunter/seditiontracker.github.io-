@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-mj-0503
 caseName: USA v. BROWN
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

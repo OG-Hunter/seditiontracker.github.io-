@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0083
 caseName: USA v. FELLOWS
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

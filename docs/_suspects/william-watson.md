@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0513
 caseName: USA v. WATSON
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0301
 caseName: USA v. HORN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

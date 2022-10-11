@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0563
 caseName: USA v. WHITE
+judge: John D. Bates
 videos:
 charges:
 sentence:

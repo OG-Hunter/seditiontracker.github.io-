@@ -250,6 +250,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`published: ${suspect.published.toString()}`);
   lines.push(`caseNumber: ${suspect.caseNumber}`);
   lines.push(`caseName: ${suspect.caseName}`);
+  lines.push(`judge: ${suspect.judge}`);
   lines.push(`videos:`);
   if (suspect.videos) {
     for (const { title, url } of Object.values(suspect.videos)) {

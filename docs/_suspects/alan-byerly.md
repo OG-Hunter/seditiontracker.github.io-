@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0527
 caseName: USA v. BYERLY
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

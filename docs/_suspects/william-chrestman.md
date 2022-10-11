@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0160
 caseName: USA v. ASHLOCK
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

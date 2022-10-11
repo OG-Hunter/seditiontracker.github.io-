@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0691
 caseName: USA v. MANLEY
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

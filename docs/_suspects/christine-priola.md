@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0242
 caseName: USA v. PRIOLA
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

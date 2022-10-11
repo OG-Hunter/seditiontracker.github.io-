@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0126
 caseName: USA v. FAULKNER
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 1361

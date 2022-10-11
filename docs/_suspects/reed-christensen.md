@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0455
 caseName: USA v. CHRISTENSEN
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

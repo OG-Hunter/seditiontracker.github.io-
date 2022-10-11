@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0286
 caseName: 
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

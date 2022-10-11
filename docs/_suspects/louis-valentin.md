@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0702
 caseName: USA v. VALENTIN
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

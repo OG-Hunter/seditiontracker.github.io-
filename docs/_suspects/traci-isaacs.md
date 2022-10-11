@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0128
 caseName: USA v. GRAY
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

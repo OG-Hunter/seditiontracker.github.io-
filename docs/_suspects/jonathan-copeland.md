@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0195
 caseName: USA v. COPELAND
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

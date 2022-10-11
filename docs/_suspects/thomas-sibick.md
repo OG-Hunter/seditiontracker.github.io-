@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0291
 caseName: USA v. HEAD
+judge: Amy B. Jackson
 videos:
 - title: Instagram video_Sibick.mp4 (0:01:06)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/927bffe0ce2c013960702cde48001122.mp4

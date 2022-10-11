@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0189
 caseName: USA v. HARRIS
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

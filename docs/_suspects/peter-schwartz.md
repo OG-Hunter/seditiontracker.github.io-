@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0178
 caseName: USA v. STALLINGS
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

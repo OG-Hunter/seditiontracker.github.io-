@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0383
 caseName: USA v. STEDMAN
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

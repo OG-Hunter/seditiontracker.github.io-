@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0077
 caseName: USA v. STEELE-SMITH
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

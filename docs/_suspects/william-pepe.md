@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0052
 caseName: USA v. PEPE
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

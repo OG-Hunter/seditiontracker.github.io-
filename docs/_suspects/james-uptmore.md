@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0149
 caseName: USA v. UPTMORE
+judge: Royce C. Lamberth
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

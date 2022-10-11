@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0134
 caseName: USA v. SAHADY
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0679
 caseName: USA v. DENNIS
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0311
 caseName: USA v. GROSECLOSE
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

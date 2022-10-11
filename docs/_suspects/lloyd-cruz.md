@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0064
 caseName: USA v. CRUZ, JR
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

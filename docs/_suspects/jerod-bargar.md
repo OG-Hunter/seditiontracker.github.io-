@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0169
 caseName: USA v. BARGAR
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

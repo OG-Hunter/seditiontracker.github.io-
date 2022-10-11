@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0104
 caseName: USA v. KELLER
+judge: Richard J. Leon
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

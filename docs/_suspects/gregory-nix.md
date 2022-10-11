@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0678
 caseName: USA v. NIX
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

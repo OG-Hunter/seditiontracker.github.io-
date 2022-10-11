@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0731
 caseName: USA v. LIGAS
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

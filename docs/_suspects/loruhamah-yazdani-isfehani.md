@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0543
 caseName: USA v. YAZDANI-ISFEHANI
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

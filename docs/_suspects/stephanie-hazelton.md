@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0030
 caseName: USA v. HAZELTON
+judge: John D. Bates
 videos:
 charges:
 sentence:

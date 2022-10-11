@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0060
 caseName: USA v. RIVERA
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

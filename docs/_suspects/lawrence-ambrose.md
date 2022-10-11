@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0302
 caseName: USA v. AMBROSE
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

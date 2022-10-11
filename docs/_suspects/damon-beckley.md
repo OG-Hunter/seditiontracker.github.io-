@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0285
 caseName: USA v. BECKLEY
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

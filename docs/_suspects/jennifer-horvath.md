@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0192
 caseName: USA v. HORVATH
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

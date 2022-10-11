@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0191
 caseName: USA v. ZINK
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0053
 caseName: USA v. LANG
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

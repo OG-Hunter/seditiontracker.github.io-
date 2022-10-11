@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0198
 caseName: USA v. SMOCKS
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 875(c)

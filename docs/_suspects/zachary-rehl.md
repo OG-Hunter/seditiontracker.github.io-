@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0175
 caseName: USA v. REHL
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

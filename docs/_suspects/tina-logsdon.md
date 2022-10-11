@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0023
 caseName: USA v. LOGSDON
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

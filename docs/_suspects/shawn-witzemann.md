@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0314
 caseName: USA v. WITZEMANN
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

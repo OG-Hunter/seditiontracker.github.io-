@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0421
 caseName: USA v. NASSIF
+judge: John D. Bates
 videos:
 charges:
 sentence:

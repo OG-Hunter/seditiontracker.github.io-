@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0123
 caseName: USA v. MUNGER
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

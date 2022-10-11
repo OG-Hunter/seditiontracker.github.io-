@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0376
 caseName: USA v. SULESKI
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

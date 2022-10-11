@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0087
 caseName: USA v. SPARKS
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

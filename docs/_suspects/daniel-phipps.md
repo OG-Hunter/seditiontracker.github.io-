@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0044
 caseName: USA v. PHIPPS
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

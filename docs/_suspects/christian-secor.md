@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0157
 caseName: USA v. SECOR
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

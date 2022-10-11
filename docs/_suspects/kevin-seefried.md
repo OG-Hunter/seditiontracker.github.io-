@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0287
 caseName: USA v. SEEFRIED
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 1512(c)(2), 2

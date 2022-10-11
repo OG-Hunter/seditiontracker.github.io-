@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0695
 caseName: USA v. VALADEZ
+judge: James E. Boasberg
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

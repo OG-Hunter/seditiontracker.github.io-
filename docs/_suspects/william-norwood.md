@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0233
 caseName: USA v. NORWOOD III
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

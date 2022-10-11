@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. COURSON
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

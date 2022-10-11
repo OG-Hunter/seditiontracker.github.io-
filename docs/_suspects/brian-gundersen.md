@@ -36,6 +36,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0137
 caseName: USA v. GUNDERSEN
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:
