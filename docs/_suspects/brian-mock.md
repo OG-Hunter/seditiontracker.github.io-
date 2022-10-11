@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0469
+caseName:
+judge:
 videos:
 - title: Government Exhibit A.mp4 (0:00:45)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bb29da80ce2a013960702cde48001122.mp4

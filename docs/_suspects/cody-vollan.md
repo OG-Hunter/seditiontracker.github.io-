@@ -34,19 +34,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-00044
+caseNumber: 22-cr-0044
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 1 year probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2022/1/19/22891618/feds-charge-three-illinois-men-us-capitol-breach-investigation)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496166/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496176/download)

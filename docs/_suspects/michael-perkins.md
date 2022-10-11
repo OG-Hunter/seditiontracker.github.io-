@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0499
+caseName:
+judge:
 videos:
 - title: GX 4.mp4 (0:00:27)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/84aeac70ce2b013960702cde48001122.mp4

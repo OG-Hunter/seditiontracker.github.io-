@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0495
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

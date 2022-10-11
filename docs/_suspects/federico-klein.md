@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0236
+caseName:
+judge:
 videos:
 - title: Bogner.mp4 (0:03:32)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e848c660ce2c013960702cde48001122.mp4

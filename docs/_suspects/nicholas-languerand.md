@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0208
+caseName:
+judge:
 videos:
 - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7cab0080ce2b013960702cde48001122.mp4

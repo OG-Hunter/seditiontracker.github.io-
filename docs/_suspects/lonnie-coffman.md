@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0004
+caseName:
+judge:
 videos:
 charges:
 - code: 26 USC § 5861(d)

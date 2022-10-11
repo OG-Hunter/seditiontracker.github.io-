@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0030
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 875(c)

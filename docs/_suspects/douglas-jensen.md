@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0006
+caseName:
+judge:
 videos:
 - title: Gov_t Exhibit A.MOV (0:00:10)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e3987df0ce2c013960702cde48001122.mp4

@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0080
+caseName:
+judge:
 videos:
 charges:
 sentence:

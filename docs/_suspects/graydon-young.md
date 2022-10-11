@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0028
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 371

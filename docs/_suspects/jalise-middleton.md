@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00367
+caseNumber: 21-cr-0367
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388961/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388981/download)

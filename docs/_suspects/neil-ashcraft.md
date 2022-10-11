@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0295
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 641

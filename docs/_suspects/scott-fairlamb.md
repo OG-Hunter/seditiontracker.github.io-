@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0120
+caseName:
+judge:
 videos:
 - title: Exhibit 2 - Fairlamb Instagram Scaffolding Video.mp4 (0:00:13)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c492bbc0ce2c013960702cde48001122.mp4

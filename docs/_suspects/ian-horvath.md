@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:07-cr-00231
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wishtv.com/news/indiana-news/northern-indiana-man-arrested-for-entering-capitol-on-jan-6/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245770/gov.uscourts.dcd.245770.1.1.pdf)

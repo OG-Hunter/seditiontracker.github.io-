@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-00016
+caseNumber: 22-cr-0016
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.presstelegram.com/2021/11/30/2-long-beach-men-charged-in-connection-to-capitol-insurrection/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Bustos%20and%20Alexis%20Bustos%20Statement%20of%20Facts.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Bryan%20Bustos%20and%20Alexis%20Bustos%20Information.pdf)

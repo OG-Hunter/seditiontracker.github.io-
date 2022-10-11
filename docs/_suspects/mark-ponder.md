@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0259
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00028
+caseNumber: 21-cr-0028
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wpsdlocal6.com/news/florida-man-playing-judas-in-jesus-christ-superstar-accused-in-jan-6-capitol-riot/article_031a5be2-4e45-11ec-b6e1-abd1cda0b6e9.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471116/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515146/download)

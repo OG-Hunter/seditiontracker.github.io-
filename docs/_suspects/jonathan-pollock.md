@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00447
+caseNumber: 21-cr-0447
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://twitter.com/MacFarlaneNews/status/1412898239695790086)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Pollock%20et%20al%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)

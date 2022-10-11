@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0108
+caseName:
+judge:
 videos:
 - title: EXH. 1.mp4 (0:00:06)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ca07bcf0ce2b013960702cde48001122.mp4

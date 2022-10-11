@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00025
+caseNumber: 21-cr-0025
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357221/download)

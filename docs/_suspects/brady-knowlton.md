@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00046
+caseNumber: 21-cr-0046
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.abc4.com/news/st-george-man-charged-after-storming-u-s-capitol-in-january/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brady%20Knowlton%20Criminal%20Complaint.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393746/download)

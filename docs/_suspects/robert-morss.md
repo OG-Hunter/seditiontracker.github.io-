@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
+caseName:
+judge:
 videos:
 - title: EXHIIBIT P-Par 35.mp4 (0:00:58)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/1cbbad50ce2c013960702cde48001122.mp4

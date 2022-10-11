@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00489
+caseNumber: 21-cr-0489
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ocala.com/story/news/crime/2021/06/24/ocala-husband-and-wife-charged-jan-6-u-s-capitol-attack/5336380001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405871/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jamie%20and%20Jennifer%20Buteau%20Indictment.pdf)

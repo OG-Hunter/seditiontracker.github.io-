@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0342
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 5104(d)

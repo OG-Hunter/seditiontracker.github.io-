@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00541
+caseNumber: 21-cr-0541
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/capitol-riot-bible-study-group-militia/2021/07/06/e5e6cd26-de82-11eb-ae31-6b7c5c34f0d6_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409611/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234965/gov.uscourts.dcd.234965.11.0.pdf)

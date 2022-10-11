@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0453
+caseName:
+judge:
 videos:
 - title: Media1.mp4 (0:00:56)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c2f1fca0ce2a013960702cde48001122.mp4

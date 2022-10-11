@@ -34,12 +34,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00708
+caseNumber: 21-cr-0708
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nydailynews.com/new-york/ny-retired-nypd-brother-capitol-riot-charges-20210121-qnobfub6n5d6vexmco7jhktxem-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362961/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362961/download)

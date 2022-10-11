@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0499
+caseName:
+judge:
 videos:
 charges:
 sentence:

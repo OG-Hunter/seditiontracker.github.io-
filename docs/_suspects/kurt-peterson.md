@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0427
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 1752(a)(4), (b)(1)(A)

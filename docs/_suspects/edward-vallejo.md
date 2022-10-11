@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-00015
+caseNumber: 22-cr-0015
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.azcentral.com/story/news/local/phoenix-breaking/2022/01/13/phoenix-man-edward-vallejo-charged-relation-jan-6-capitol-breach/6516426001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514921/download)

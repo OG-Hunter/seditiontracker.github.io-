@@ -34,16 +34,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-00149
+caseNumber: 22-cr-0149
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://chicago.suntimes.com/metro-state/2022/2/22/22946601/feds-arrest-man-who-says-he-stayed-front-lines-during-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475901/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475906/download)

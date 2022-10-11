@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: false
 caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:

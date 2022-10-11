@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0047
+caseName:
+judge:
 videos:
 charges:
 sentence:

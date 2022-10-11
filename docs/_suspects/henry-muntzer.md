@@ -35,6 +35,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0105
+caseName:
+judge:
 videos:
 charges:
 sentence:
