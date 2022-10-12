@@ -106,31 +106,31 @@ const parseSchedule = async () => {
           console.log(`${suspect.name} judge: ${judge}`);
         }
 
-        // switch (typeText) {
-        //   case "Plea Agreement Hearing":
-        //     suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
-        //     break;
-        //   case "Sentencing":
-        //     suspect.sentencing = latestDate(suspect, "sentencing", dateText);
-        //     break;
-        //   case "Jury Selection":
-        //     if (!trial_type) {
-        //       console.log(`${suspect.name} jury trial: ${dateText}`);
-        //       suspect.trial_type = "Jury Trial";
-        //       suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-        //     }
-        //     break;
-        //   case "Bench Trial":
-        //     if (!trial_type) {
-        //       console.log(`${suspect.name} bench trial: ${dateText}`);
-        //       suspect.trial_type = "Bench Trial";
-        //       suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-        //     }
-        //     break;
-        //   case "Status Conference":
-        //     suspect.status_conference = latestDate(suspect, "status_conference", dateText);
-        //     break;
-        // }
+        switch (typeText) {
+          case "Plea Agreement Hearing":
+            suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
+            break;
+          case "Sentencing":
+            suspect.sentencing = latestDate(suspect, "sentencing", dateText);
+            break;
+          case "Jury Selection":
+            if (!trial_type) {
+              console.log(`${suspect.name} jury trial: ${dateText}`);
+              suspect.trial_type = "Jury Trial";
+              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+            }
+            break;
+          case "Bench Trial":
+            if (!trial_type) {
+              console.log(`${suspect.name} bench trial: ${dateText}`);
+              suspect.trial_type = "Bench Trial";
+              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+            }
+            break;
+          case "Status Conference":
+            suspect.status_conference = latestDate(suspect, "status_conference", dateText);
+            break;
+        }
 
         updateSuspect(suspect);
       }
