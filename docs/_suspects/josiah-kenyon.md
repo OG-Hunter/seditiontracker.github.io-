@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0726
 caseName: USA v. KENYON
-judge: Carl J. Nichols
+judge: Zia M. Faruqui
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

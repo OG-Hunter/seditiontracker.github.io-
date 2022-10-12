@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0358
-caseName:
-judge:
+caseName: USA v. ADAMS
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

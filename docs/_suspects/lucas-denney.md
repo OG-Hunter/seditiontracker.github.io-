@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0070
-caseName:
-judge:
+caseName: USA v. DENNEY
+judge: Zia M. Faruqui
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

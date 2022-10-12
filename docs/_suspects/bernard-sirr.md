@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0259
 caseName: USA v. SIRR
-judge: Trevor N. McFadden
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

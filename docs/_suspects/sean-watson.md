@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0422
-caseName:
-judge:
+caseName: USA v. WATSON
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

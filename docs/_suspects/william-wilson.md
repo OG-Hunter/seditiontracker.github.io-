@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0152
-caseName:
-judge:
+caseName: USA v. WILSON
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 2384

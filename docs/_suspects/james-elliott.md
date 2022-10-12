@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0735
 caseName: USA v. ELLIOTT
-judge: Royce C. Lamberth
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

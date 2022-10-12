@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0708
-caseName:
-judge:
+caseName: USA v. KELLY
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

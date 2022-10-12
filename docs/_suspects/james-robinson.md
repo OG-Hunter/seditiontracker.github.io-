@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0267
-caseName:
-judge:
+caseName: USA v. ROBINSON
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

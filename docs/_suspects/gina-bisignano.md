@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0036
-caseName:
-judge:
+caseName: USA v. BISIGNANO
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

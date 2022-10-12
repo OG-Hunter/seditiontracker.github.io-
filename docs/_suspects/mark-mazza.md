@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0736
 caseName: USA v. MAZZA
-judge: James E. Boasberg
+judge: Zia M. Faruqui
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

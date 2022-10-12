@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0332
-caseName:
-judge:
+caseName: USA v. JOHNSON
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
