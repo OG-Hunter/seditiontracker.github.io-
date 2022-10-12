@@ -88,7 +88,7 @@ const parseSchedule = async () => {
         if (caseName && caseName !== parsedCaseName) {
           continue;
         } else {
-          if (!caseName) {
+          if (!caseName || suspects.length == 1) {
             suspect.caseName = parsedCaseName;
             console.log(`${suspect.name} caseName: ${parsedCaseName}`);
           } else if (caseName.replace("USA v. ", "") !== lastName.toUpperCase()) {

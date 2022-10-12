@@ -14,8 +14,8 @@ sentenced: 2022-02-03
 dismissed:
 deceased:
 plea_hearing: 2021-11-15
-trial_date:
-trial_type:
+trial_date: 2023-01-11
+trial_type: Jury Trial
 sentencing: 2022-02-03
 status_conference:
 age:
