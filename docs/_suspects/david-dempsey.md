@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-14
 age: 34
 occupation:
 affiliations: Proud Boys
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0566
-caseName:
-judge:
+caseName: USA v. DEMPSEY
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

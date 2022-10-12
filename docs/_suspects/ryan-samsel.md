@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0537
-caseName:
-judge:
+caseName: USA v. SAMSEL
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
