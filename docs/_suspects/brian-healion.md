@@ -35,13 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00175
+caseNumber: 21-cr-0175
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481111/download)

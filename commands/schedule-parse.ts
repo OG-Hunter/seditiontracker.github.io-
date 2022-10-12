@@ -79,6 +79,11 @@ const parseSchedule = async () => {
       if (suspect) {
         const { caseName, lastName, trial_type } = suspect;
 
+        const IGNORE_NAMES = ["Virginia Spencer"];
+        if (IGNORE_NAMES.includes(suspect.name)) {
+          continue;
+        }
+
         // Check caseName and ignore when same case number but caseName doesn't match (ie. Different defendant)
         if (caseName && caseName !== parsedCaseName) {
           continue;

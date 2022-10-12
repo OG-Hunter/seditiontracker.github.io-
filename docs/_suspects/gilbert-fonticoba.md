@@ -35,13 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00638
+caseNumber: 21-cr-0638
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.miaminewtimes.com/news/proud-boys-threaten-rat-enrique-tarrio-if-he-returns-to-miami-13355782)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.flsd.602289/gov.uscourts.flsd.602289.1.0.pdf)

@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-00639
+caseNumber: 21-cr-0639
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://twitter.com/ryanjreilly/status/1440346134887559178)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1435886/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236768/gov.uscourts.dcd.236768.19.0.pdf)

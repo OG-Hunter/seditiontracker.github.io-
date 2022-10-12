@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-00184
+caseNumber: 22-cr-0184
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wltx.com/article/news/national/dc-resident-and-pro-trump-youtuber-charged-with-entering-capitol-william-stephon-kit-oxon-hill/65-0dec1b07-60f4-412f-b3eb-19c4a7c34f36)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523691/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523696/download)
