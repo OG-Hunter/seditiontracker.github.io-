@@ -77,7 +77,7 @@ const parseSchedule = async () => {
 
     for (const suspect of suspects) {
       if (suspect) {
-        const { caseName, lastName, trial_type } = suspect;
+        const { caseName, lastName, trial_date, trial_type } = suspect;
 
         const IGNORE_NAMES = ["Virginia Spencer"];
         if (IGNORE_NAMES.includes(suspect.name)) {
@@ -117,6 +117,8 @@ const parseSchedule = async () => {
             if (!trial_type) {
               console.log(`${suspect.name} jury trial: ${dateText}`);
               suspect.trial_type = "Jury Trial";
+            }
+            if (!trial_date) {
               suspect.trial_date = latestDate(suspect, "trial_date", dateText);
             }
             break;
@@ -124,6 +126,8 @@ const parseSchedule = async () => {
             if (!trial_type) {
               console.log(`${suspect.name} bench trial: ${dateText}`);
               suspect.trial_type = "Bench Trial";
+            }
+            if (!trial_date) {
               suspect.trial_date = latestDate(suspect, "trial_date", dateText);
             }
             break;

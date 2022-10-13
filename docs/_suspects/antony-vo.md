@@ -14,7 +14,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-11-09
 trial_type: Jury Trial
 sentencing:
 status_conference:
