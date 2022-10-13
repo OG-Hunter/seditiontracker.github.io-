@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'on the scene from 1:30pm to 4:00pm.'
+quote: "on the scene from 1:30pm to 4:00pm."
 title: Charles Hand charged on March 4th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0111
 caseName:
 judge:
 videos:

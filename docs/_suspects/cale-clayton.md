@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Your fucking president told us to be here. You should be on this side, right here, going with us. You are an American citizen. Your fucking President told you to do that.'
+quote: "Your fucking president told us to be here. You should be on this side, right here, going with us. You are an American citizen. Your fucking President told you to do that."
 title: Cale Clayton charged on March 28th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0139
 caseName:
 judge:
 videos:

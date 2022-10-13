@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Worth fighting for Trump.'
+quote: "Worth fighting for Trump."
 title: Christopher Price charged on July 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 21-cr-0719
 caseName:
 judge:
 videos:

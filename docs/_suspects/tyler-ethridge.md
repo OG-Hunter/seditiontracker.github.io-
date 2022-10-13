@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I’m probably going to lose my job as a pastor after this'
+quote: "I’m probably going to lose my job as a pastor after this"
 title: Tyler Ethridge charged on July 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0254
 caseName:
 judge:
 videos:

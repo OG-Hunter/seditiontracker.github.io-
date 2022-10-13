@@ -8,10 +8,10 @@ status: Charged
 date: 2021-03-08
 charged: 2021-03-08
 indicted:
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 trial_date:
@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 21-mj-0289
 caseName:
 judge:
 videos:

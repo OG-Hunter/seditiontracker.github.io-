@@ -1,7 +1,7 @@
 ---
 name: Carrie Williams
 lastName: Williams
-hashtag: 
+hashtag:
 aka:
 residence: Maryland
 status: Charged
@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 21-cr-0248
 caseName:
 judge:
 videos:
