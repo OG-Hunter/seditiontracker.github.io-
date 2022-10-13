@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-26
 age:
 occupation: Owner, Hi-Flow Houston
 affiliations:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0498
+caseName: USA v. TAAKE
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

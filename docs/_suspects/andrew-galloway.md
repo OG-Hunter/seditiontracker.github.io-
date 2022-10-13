@@ -40,16 +40,15 @@ caseName: USA v. GALLOWAY
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days incarceration
   - $1000 fine
   - $500 restitution
 ---
-
 - [News Report](https://trib.com/news/state-and-regional/crime-and-courts/wyoming-man-charged-with-entering-us-capitol-on-jan-6/article_9478da12-6df0-5881-84a7-ec81701cbad0.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481226/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481231/download)
