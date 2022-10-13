@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-10-14
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-10-12
 age:
 occupation:
 affiliations: Proud Boys
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0184
+caseName: USA v. RAMEY
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

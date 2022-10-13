@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-08
 age:
 occupation: Real Estate Agent
 affiliations:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0562
+caseName: USA v. MARTIN
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
