@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName: USA v. LOVLEY
-judge: G. M. Harvey
+caseName:
+judge:
 videos:
 charges:
 sentence:

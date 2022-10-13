@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName: USA v. CAVANAUGH
-judge: G. M. Harvey
+caseName:
+judge:
 videos:
 charges:
 sentence:

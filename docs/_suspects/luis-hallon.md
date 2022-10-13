@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName: USA v. ISAACS
-judge: Moxila A. Upadhyaya
+caseName:
+judge:
 videos:
 charges:
 sentence:

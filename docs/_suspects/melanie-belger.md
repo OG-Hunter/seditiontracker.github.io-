@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName: USA v. ESTEY
-judge: Zia M. Faruqui
+caseName:
+judge:
 videos:
 charges:
 sentence:

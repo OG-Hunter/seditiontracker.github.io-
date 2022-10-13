@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName: USA v. BRAUN
-judge: Robin M. Meriweather
+caseName:
+judge:
 videos:
 charges:
 sentence:
