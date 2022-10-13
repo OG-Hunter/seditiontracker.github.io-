@@ -4,13 +4,13 @@ lastName: Munn
 hashtag: CasperInsider
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-07-12
 charged: 2021-07-12
 indicted:
 convicted: 2022-05-06
 acquitted:
-sentenced:
+sentenced: 2022-10-12
 dismissed:
 deceased:
 plea_hearing: 2022-05-06
@@ -41,7 +41,12 @@ judge: Beryl A. Howell
 videos:
 charges:
 sentence:
+  - 3 years probation
+  - 90 days home confinement
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.cnn.com/2021/07/13/politics/munn-family-texas-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412331/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1415406/download)
