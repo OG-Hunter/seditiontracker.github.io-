@@ -13,11 +13,11 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-13
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-21
 age: 47
 occupation: Construction Worker
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0182
-caseName:
-judge:
+caseName: USA v. CLIFTON
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0503
-caseName:
-judge:
+caseName: USA v. BROWN
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0150
-caseName:
-judge:
+caseName: USA v. CRAMER
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

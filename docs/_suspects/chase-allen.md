@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0482
-caseName:
-judge:
+caseName: USA v. ALLEN
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

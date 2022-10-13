@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0719
-caseName:
-judge:
+caseName: USA v. BALLENGER
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

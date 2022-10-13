@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0289
-caseName:
-judge:
+caseName: USA v. MONTONI
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:
