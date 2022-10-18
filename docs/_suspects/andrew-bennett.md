@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-07-22
 trial_date:
+trial_type:
 sentencing: 2021-10-01
+status_conference:
 age: 22
 occupation:
 affiliations: Proud Boys
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-227
+caseNumber: 21-cr-0227
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 90 days home detention
   - 2 years probation
   - 80 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://baltimore.cbslocal.com/2021/01/26/andrew-ryan-bennet-columbia-maryland-man-linked-us-capitol-riots/)
 - [Complaint](https://www.justice.gov/file/1360786/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360786/download)

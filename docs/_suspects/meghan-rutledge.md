@@ -9,11 +9,15 @@ date: 2021-10-05
 charged: 2021-10-05
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-17
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-643
+caseNumber: 21-cr-0643
+caseName: USA v. RUTLEDGE
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-02-17
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-08
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-04
 age: 35
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-128
+caseNumber: 21-cr-0128
+caseName: USA v. POPE
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

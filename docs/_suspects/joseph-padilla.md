@@ -9,11 +9,15 @@ date: 2021-02-22
 charged: 2021-02-22
 indicted: 2021-03-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-17
 age: 40
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-214
+caseNumber: 21-cr-0214
+caseName: USA v. PADILLA
+judge: John D. Bates
 videos:
 charges:
 sentence:

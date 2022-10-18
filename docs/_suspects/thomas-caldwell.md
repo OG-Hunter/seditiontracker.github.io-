@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
+trial_type:
 sentencing:
+status_conference:
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0015
+caseName: USA v. RHODES
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-08-12
 charged: 2021-08-12
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-560
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-03-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 47
 occupation: Traveling Welder
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-178
+caseNumber: 21-cr-0178
+caseName: USA v. STALLINGS
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

@@ -8,12 +8,16 @@ status: Charged
 date: 2021-03-08
 charged: 2021-03-08
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+acquitted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-22
 age: 31
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-289
+caseNumber: 21-mj-0289
+caseName: USA v. MONTONI
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

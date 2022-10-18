@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2023-01-19
 age: 33
 occupation:
 affiliations: Proud Boys, Oath Keepers
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-78
+caseNumber: 22-cr-0136
+caseName: USA v. MILES
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wtsp.com/article/news/crime/steven-miles-florida-jan-6-capitol-riot/67-f7854f44-8475-48b8-bb71-034c1d956d8e)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download)

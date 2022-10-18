@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-28
 trial_date:
+trial_type:
 sentencing: 2022-01-11
+status_conference:
 age: 32
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-197
+caseNumber: 21-cr-0197
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

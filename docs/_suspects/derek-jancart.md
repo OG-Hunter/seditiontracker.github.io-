@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-07-23
 trial_date:
+trial_type:
 sentencing: 2021-09-29
+status_conference:
 age: 39
 occupation:
 affiliations:
@@ -33,18 +35,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-148
+caseNumber: 21-cr-0148
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.dispatch.com/story/news/crime/2021/02/23/capitol-riot-arrests-derek-jancart-columbus-ohio-social-media/4567302001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371416/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380676/download)

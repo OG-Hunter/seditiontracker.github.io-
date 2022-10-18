@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-110
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wcnc.com/article/news/local/south-carolina-family-charged-connection-capitol-riot/275-8f18be45-808e-4043-8352-a1256ce11587)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507576/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507581/download)

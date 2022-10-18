@@ -9,11 +9,15 @@ date: 2021-07-07
 charged: 2021-07-07
 indicted: 2021-07-07
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2023-02-02
 age:
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-378
+caseNumber: 21-cr-0378
+caseName: USA v. JACKMAN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

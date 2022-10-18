@@ -9,11 +9,15 @@ date: 2021-02-11
 charged: 2021-02-11
 indicted: 2021-03-10
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 34
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-206
+caseNumber: 21-cr-0206
+caseName: USA v. MELLIS
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtontimes.com/news/2021/feb/16/capitol-raider-boasted-facebook-proudly-storming-c/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371456/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377796/download)

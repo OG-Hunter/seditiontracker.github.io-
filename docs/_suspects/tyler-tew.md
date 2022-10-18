@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-650
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:

@@ -17,6 +17,7 @@ plea_hearing: 2022-09-13
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
+caseName: USA v. STAGER
+judge: Emmet G. Sullivan
 videos:
 - title: Ex. 1 - Storyful Video.mp4 (0:01:41)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7fc9a690ce2a013960702cde48001122.mp4

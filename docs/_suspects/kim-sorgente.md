@@ -9,11 +9,15 @@ date: 2021-10-21
 charged: 2021-10-21
 indicted: 2021-11-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-08
 age: 50
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-669
+caseNumber: 21-cr-0669
+caseName: USA v. SORGENTE
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://losangeles.cbslocal.com/2021/10/26/huntington-beach-resident-arrested-for-involvement-in-capitol-riots/)
 - [Criminal Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kim%20Michael%20Sorgate%20Criminal%20Complaint.pdf)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458861/download)

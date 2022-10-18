@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-05
 trial_date:
-sentencing: 2022-10-14
+trial_type:
+sentencing: 2022-11-03
+status_conference:
 age: 39
 occupation: Business Owner (Faulkner Painting)
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-126
+caseNumber: 21-cr-0126
+caseName: USA v. FAULKNER
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 1361

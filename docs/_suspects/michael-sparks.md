@@ -9,11 +9,15 @@ date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-05
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date: 2023-02-21
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-25
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-87
+caseNumber: 21-cr-0087
+caseName: USA v. SPARKS
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

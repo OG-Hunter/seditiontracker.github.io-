@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-28
 trial_date:
+trial_type:
 sentencing: 2022-07-21
+status_conference:
 age: 59
 occupation: Business Owner (CrossFit)
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-271
+caseNumber: 21-cr-0271
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.mcall.com/news/police/mc-nws-pennsylvania-women-charged-in-capitol-siege-20210130-zsgjdrfdibgpboyuatcphtlaxq-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362581/download)

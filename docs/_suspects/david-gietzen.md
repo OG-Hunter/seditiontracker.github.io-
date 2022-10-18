@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 38
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-116
+caseNumber: 22-cr-0116
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.shorenewsnetwork.com/2022/05/11/north-carolina-man-arrested-for-assaulting-law-enforcement-officers-during-jan-6-capitol-breach-2/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505026/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505036/download)

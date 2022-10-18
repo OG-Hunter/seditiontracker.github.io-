@@ -16,7 +16,8 @@ deceased:
 plea_hearing: 2022-09-21
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-03
+status_conference:
 age: 53
 occupation: U.S. Marines (Former)
 affiliations: Proud Boys
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-151
+caseNumber: 21-cr-0151
+caseName: USA v. SHIVELY
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-04
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 44
 occupation:
 affiliations: Oath Keepers
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0152
+caseName: USA v. WILSON
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 2384

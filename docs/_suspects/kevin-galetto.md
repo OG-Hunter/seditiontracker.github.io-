@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-28
 age: 61
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-517
+caseNumber: 21-cr-0517
+caseName: USA v. GALETTO
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

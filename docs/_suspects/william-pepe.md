@@ -9,12 +9,15 @@ date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-07-17
+trial_type:
 sentencing:
+status_conference: 2022-10-18
 age: 31
 occupation:
 affiliations: Proud Boys
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-52
+caseNumber: 21-cr-0052
+caseName: USA v. PEPE
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.foxnews.com/us/new-york-mta-metro-north-capitol-riots)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353216/download)

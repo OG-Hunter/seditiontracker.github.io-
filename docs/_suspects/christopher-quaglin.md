@@ -9,11 +9,15 @@ date: 2021-04-06
 charged: 2021-04-06
 indicted: 2021-04-16
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2023-01-06
+status_conference:
 age: 35
 occupation: Electrician
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-40
+caseNumber: 21-cr-0040
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384551/download)

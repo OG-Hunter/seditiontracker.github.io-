@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-11-08
 age: 20
 occupation:
 affiliations: B Squad Militia, Three Percenters
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-184
+caseNumber: 22-mj-0184
+caseName: USA v. COLE
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

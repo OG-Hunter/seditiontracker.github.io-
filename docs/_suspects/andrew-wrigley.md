@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-08
 trial_date:
+trial_type:
 sentencing: 2021-12-15
+status_conference:
 age: 50
 occupation:
 affiliations:
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-42
+caseNumber: 21-cr-0042
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 18 months probation
   - $2000 fine
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/18/Pennsylvania-man-arrested-capitol-riot-Andrew-Wrigley/stories/202101180061)
 - [Complaint](https://www.justice.gov/opa/page/file/1355911/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355916/download)

@@ -9,11 +9,15 @@ date: 2021-03-30
 charged: 2021-03-30
 indicted: 2021-05-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-14
 age: 41
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0352
+caseName: USA v. BRU
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

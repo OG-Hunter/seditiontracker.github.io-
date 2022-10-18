@@ -9,11 +9,15 @@ date: 2021-03-17
 charged: 2021-03-17
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-02-27
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 56
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-274
+caseNumber: 21-cr-0274
+caseName: USA v. HARRIS
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://wcti12.com/news/state-news/nc-man-arrested-and-charged-in-connection-with-the-capitol-riots)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1393726/download)

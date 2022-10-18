@@ -9,11 +9,15 @@ date: 2021-06-01
 charged: 2021-06-01
 indicted: 2021-06-04
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-01-19
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 52
 occupation: Music teacher
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-387
+caseNumber: 21-cr-0387
+caseName: USA v. SOUTHARD-RUMSEY
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

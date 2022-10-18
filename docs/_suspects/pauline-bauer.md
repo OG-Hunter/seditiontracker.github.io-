@@ -9,12 +9,15 @@ date: 2021-05-18
 charged: 2021-05-18
 indicted: 2021-06-04
 convicted:
+acquitted:
 sentenced:
 dismissed:
-trial_date: 2023-01-11
 deceased:
 plea_hearing:
+trial_date: 2023-01-11
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0748
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/they-need-to-hang-pennsylvania-woman-arrested-in-capitol-riot-investigation/ar-BB1gV8Pd)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395396/download)

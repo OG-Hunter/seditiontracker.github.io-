@@ -9,11 +9,15 @@ date: 2021-06-29
 charged: 2021-06-29
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 41
 occupation: Contractor, Telecommunication Systems Inc.
 affiliations: U.S. Army (Former)
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-508
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:

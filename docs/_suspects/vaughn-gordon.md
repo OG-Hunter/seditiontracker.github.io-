@@ -17,6 +17,7 @@ plea_hearing: 2022-09-28
 trial_date:
 trial_type:
 sentencing: 2023-01-17
+status_conference:
 age: 50
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-99
+caseNumber: 21-cr-0099
+caseName: USA v. GORDON
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

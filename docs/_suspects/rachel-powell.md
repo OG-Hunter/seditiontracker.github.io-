@@ -9,11 +9,15 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-03-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-179
+caseNumber: 21-cr-0179
+caseName: USA v. POWELL
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [FBI Search (VIDEO)](https://www.wpxi.com/news/top-stories/local-woman-wanted-role-violence-us-capitol-custody-source-say/CDOTG3JKHRGQXMZW4GOVFKOJHQ/)
 - [Self Incrimination (Interview)](https://www.newyorker.com/news/news-desk/a-pennsylvania-mothers-path-to-insurrection-capitol-riot)

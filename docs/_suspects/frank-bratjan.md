@@ -17,6 +17,7 @@ plea_hearing: 2022-09-14
 trial_date:
 trial_type:
 sentencing: 2022-09-14
+status_conference:
 age:
 occupation: Postal worker
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-285
+caseNumber: 22-cr-0285
+caseName:
+judge:
 videos:
 charges:
 sentence:
@@ -42,7 +45,6 @@ sentence:
   - $1500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/usps-employee-and-van-life-enthusiast-frank-joseph-bratjan-jr-charged-in-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513246/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513256/download)

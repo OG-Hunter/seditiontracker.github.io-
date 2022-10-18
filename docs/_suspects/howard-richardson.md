@@ -17,6 +17,7 @@ plea_hearing: 2022-04-26
 trial_date:
 trial_type:
 sentencing: 2022-08-26
+status_conference:
 age: 71
 occupation:
 affiliations:
@@ -34,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-721
+caseNumber: 21-cr-0721
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 46 months incarceration
   - 3 years probation
   - $5000 restitution
 ---
-
 - [News Report](https://6abc.com/howard-richardson-king-of-prussia-pa-capitol-riot-trump-flag/11291098/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459061/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459051/download)

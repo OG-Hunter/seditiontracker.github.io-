@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-03
 trial_date:
+trial_type:
 sentencing: 2022-06-27
+status_conference:
 age:
 occupation: Freelance Construction Building Estimator
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-682
+caseNumber: 21-cr-0682
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

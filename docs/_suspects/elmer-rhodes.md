@@ -15,8 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 56
 occupation:
 affiliations: Oath Keepers
@@ -34,11 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
+caseName: USA v. RHODES
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514876/download)

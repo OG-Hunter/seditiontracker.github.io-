@@ -17,6 +17,7 @@ plea_hearing: 2022-09-06
 trial_date:
 trial_type:
 sentencing: 2023-02-16
+status_conference:
 age: 30
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-649
+caseNumber: 21-cr-0649
+caseName: USA v. DICKINSON
+judge: Emmet G. Sullivan
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

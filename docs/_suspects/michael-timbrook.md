@@ -17,6 +17,7 @@ plea_hearing: 2022-02-09
 trial_date:
 trial_type:
 sentencing: 2022-05-20
+status_conference:
 age: 56
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-361
+caseNumber: 21-cr-0361
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

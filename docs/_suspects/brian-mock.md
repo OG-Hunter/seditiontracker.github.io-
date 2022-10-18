@@ -9,11 +9,15 @@ date: 2021-06-10
 charged: 2021-06-10
 indicted: 2021-06-30
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-02-14
+trial_type: Bench Trial
 sentencing:
+status_conference: 2022-11-15
 age: 42
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-469
+caseNumber: 21-cr-0444
+caseName: USA v. MOCK
+judge: James E. Boasberg
 videos:
 - title: Government Exhibit A.mp4 (0:00:45)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bb29da80ce2a013960702cde48001122.mp4

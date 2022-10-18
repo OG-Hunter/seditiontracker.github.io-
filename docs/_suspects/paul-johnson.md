@@ -9,11 +9,15 @@ date: 2021-04-12
 charged: 2021-04-12
 indicted: 2021-04-30
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 35
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-332
+caseNumber: 21-cr-0332
+caseName: USA v. JOHNSON
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:

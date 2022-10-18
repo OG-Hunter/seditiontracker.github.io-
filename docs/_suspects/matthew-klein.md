@@ -9,11 +9,15 @@ date: 2021-03-23
 charged: 2021-03-23
 indicted: 2021-03-23
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 24
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-237
+caseNumber: 21-cr-0237
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.oregonlive.com/crime/2021/03/2-oregon-brothers-arrested-on-federal-charges-stemming-from-alleged-role-in-us-capitol-riot.html?outputType=amp&__twitter_impression=true)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1382871/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-brothers-including-self-identified-proud-boy-charged-and-ordered-detained-crimes)

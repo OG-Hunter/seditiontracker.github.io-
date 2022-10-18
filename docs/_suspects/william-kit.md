@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-12
 age: 46
 occupation:
 affiliations:
@@ -27,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We are here to die for this shit today.'
+quote: "We are here to die for this shit today."
 title: William Kit charged on July 28th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-166
+caseNumber: 22-cr-0184
+caseName: USA v. RAMEY
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

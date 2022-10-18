@@ -9,11 +9,15 @@ date: 2021-06-07
 charged: 2021-06-07
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-16
 age: 29
 occupation:
 affiliations:
@@ -31,11 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0553
+caseName: USA v. BALLARD
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.waff.com/2021/06/08/court-documents-state-madison-man-nicknamed-magalumberjack-charged-with-assaulting-federal-officer-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402556/download)

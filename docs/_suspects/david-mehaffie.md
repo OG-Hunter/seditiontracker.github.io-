@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-08-29
 trial_type: Bench Trial
 sentencing: 2023-01-27
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,27 +35,28 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-40
+caseNumber: 21-cr-0040
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 111(a)(1), 2
-    title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(F)
-    title: Act of physical violence on Capitol grounds
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 111(a)(1), 2
+  title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(F)
+  title: Act of physical violence on Capitol grounds
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/fbi-arrests-tunnel-commander-anti-abortion-capitol-riot_n_61152eb9e4b07c1403123f7e)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)

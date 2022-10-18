@@ -15,8 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-10-14
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-12
 age:
 occupation:
 affiliations: Proud Boys
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-83
+caseNumber: 22-cr-0184
+caseName: USA v. RAMEY
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-says-proud-boy-tried-derail-jan-6-investigating-menacing-agent-rcna25418)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496006/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243752/gov.uscourts.dcd.243752.6.0.pdf)

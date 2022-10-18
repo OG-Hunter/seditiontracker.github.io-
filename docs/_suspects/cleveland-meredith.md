@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-10
 trial_date:
+trial_type:
 sentencing: 2021-12-14
+status_conference:
 age: 53
 occupation: Business Owner
 affiliations:
@@ -33,18 +35,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-159
+caseNumber: 21-cr-0159
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 875(c)
-    title: Interstate Communication of Threats
-    url: https://www.law.cornell.edu/uscode/text/18/875
-    felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
   - 28 months incarceration
   - 3 years probation
 ---
-
 - [News Report](https://www.11alive.com/article/news/nation-world/atlanta-area-man-arrested-capitol-riots/85-5a25b7ac-2f66-4580-8a46-d11a15a0e5e0)
 - [Complaint](https://www.justice.gov/opa/page/file/1353306/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1432141/download)

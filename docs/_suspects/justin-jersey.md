@@ -17,6 +17,7 @@ plea_hearing: 2022-09-07
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 31
 occupation:
 affiliations:
@@ -34,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
+caseName: USA v. STAGER
+judge: Emmet G. Sullivan
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/fingerman-capitol-attack-justin-jersey-trump_n_61a9091ee4b025be1af50402?3w)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533256/download)

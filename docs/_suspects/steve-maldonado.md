@@ -9,11 +9,15 @@ date: 2021-02-08
 charged: 2021-02-08
 indicted: 2021-03-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-176
+caseNumber: 21-cr-0176
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/crime/os-ne-capitol-riot-arrest-florida-20210210-yq7n5wnouvfmrjt2jdkuif3eue-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366186/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377786/download)

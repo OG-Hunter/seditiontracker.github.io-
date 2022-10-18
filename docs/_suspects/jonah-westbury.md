@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2023-01-26
 age: 26
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-371
+caseNumber: 21-cr-0371
+caseName: USA v. WESTBURY
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

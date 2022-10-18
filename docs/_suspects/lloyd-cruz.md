@@ -9,11 +9,15 @@ date: 2022-02-25
 charged: 2022-02-25
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-01-17
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 39
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-64
+caseNumber: 22-cr-0064
+caseName: USA v. CRUZ, JR
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

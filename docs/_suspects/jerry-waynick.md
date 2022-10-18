@@ -9,11 +9,15 @@ date: 2022-02-14
 charged: 2022-02-14
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 19
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-28
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/mark-waynick-jerry-mckane-waynick-father-and-son-from-tennessee-arrested-capitol-riot-charges-accused-of-assaulting-police-officers/65-4214b364-fb57-4bb8-8463-9902ec18a648)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475386/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475391/download)

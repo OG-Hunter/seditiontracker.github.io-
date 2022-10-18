@@ -9,11 +9,15 @@ date: 2021-02-11
 charged: 2021-02-11
 indicted: 2021-02-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-01
 age: 26
 occupation:
 affiliations: Proud Boys
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-160
+caseNumber: 21-cr-0160
+caseName: USA v. KONOLD
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/kansas-city-proud-boys-charged-capitol-riots/2021/02/11/389d47b6-6c73-11eb-9ead-673168d5b874_story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1366446/download)

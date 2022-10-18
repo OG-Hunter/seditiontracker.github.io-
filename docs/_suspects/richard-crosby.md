@@ -9,11 +9,15 @@ date: 2021-05-28
 charged: 2021-05-28
 indicted: 2021-07-09
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-09
 age: 25
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-458
+caseNumber: 21-cr-0458
+caseName: USA v. CROSBY
+judge: Richard J. Leon
 videos:
 charges:
 sentence:

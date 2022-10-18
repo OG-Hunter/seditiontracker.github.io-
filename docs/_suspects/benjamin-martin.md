@@ -9,11 +9,15 @@ date: 2021-08-06
 charged: 2021-08-06
 indicted: 2021-09-08
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-08
 age:
 occupation: Real Estate Agent
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-555
+caseNumber: 21-cr-0562
+caseName: USA v. MARTIN
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://gvwire.com/2021/09/03/fresno-anti-mask-activist-jailed-on-jan-6-capitol-riot-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1430511/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Benjamin%20Martin%20Indictment.pdf)

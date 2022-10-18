@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-11-14
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-46
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-fbi-arrests-jan-6-insurrection-20220303-m2kfndbt4zb27cotowncld5eca-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479786/download)

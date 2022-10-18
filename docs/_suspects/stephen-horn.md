@@ -9,11 +9,15 @@ date: 2021-03-29
 charged: 2021-03-29
 indicted:
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 23
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-301
+caseNumber: 21-cr-0301
+caseName: USA v. HORN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

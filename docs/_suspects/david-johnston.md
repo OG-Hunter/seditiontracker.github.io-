@@ -17,6 +17,7 @@ plea_hearing: 2022-09-23
 trial_date:
 trial_type:
 sentencing: 2022-12-16
+status_conference: 2022-10-21
 age: 69
 occupation: Attorney
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-182
+caseNumber: 22-cr-0182
+caseName: USA v. JOHNSTON
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

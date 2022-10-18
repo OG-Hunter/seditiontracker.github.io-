@@ -9,11 +9,15 @@ date: 2021-02-19
 charged: 2021-02-19
 indicted: 2021-03-19
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation: Police Officer
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-234
+caseNumber: 21-cr-0234
+caseName:
+judge:
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-12-06
 charged: 2021-12-06
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-17
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 46
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-737
+caseNumber: 21-cr-0737
+caseName: USA v. HUBBARD
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

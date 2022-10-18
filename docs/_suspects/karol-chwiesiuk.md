@@ -9,13 +9,15 @@ date: 2021-06-11
 charged: 2021-06-11
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: 2023-05-01
-trial_type: Jury
+trial_type: Jury Trial
+sentencing:
+status_conference: 2022-10-17
 age:
 occupation: Police Officer
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0536
+caseName: USA v. CHWIESIUK
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://chicago.cbslocal.com/2021/06/11/cpd-officer-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Motion%20to%20Mofidy%20Conditions%20of%20Release.pdf)

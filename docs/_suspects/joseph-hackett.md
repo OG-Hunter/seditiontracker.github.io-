@@ -15,8 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations: Oath Keepers
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
+caseName: USA v. RHODES
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.mysuncoast.com/2021/05/31/sarasota-man-facing-changes-jan-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514901/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joseph%20Hackett%20Motion%20to%20Revoke%20Detention%20Order.pdf)

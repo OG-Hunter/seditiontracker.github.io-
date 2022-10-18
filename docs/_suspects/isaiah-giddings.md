@@ -9,11 +9,15 @@ date: 2021-12-08
 charged: 2021-12-08
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 29
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-006
+caseNumber: 21-cr-0175
+caseName: USA v. NORDEAN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

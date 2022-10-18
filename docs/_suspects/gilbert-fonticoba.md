@@ -9,11 +9,15 @@ date: 2021-10-22
 charged: 2021-10-22
 indicted: 2021-10-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-08
 age:
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-04099
+caseNumber: 21-cr-0638
+caseName: USA v. FONTICOBA
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

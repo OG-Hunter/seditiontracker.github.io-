@@ -17,6 +17,7 @@ plea_hearing: 2022-01-11
 trial_date:
 trial_type:
 sentencing: 2022-04-01
+status_conference:
 age: 53
 occupation: Fire Figther (Retired)
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-133
+caseNumber: 21-cr-0133
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

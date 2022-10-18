@@ -9,12 +9,15 @@ date: 2021-09-14
 charged: 2021-09-14
 indicted: 2021-10-08
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-11-28
+trial_type:
 sentencing:
+status_conference:
 age: 37
 occupation:
 affiliations:
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-602
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-arrested-allegedly-pushing-officer-down-stairs-1631343)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Eckerman%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434391/download)

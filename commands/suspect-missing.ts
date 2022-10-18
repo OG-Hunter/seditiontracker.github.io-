@@ -10,7 +10,8 @@ const cmd = new Command("missing")
   .option("--sentencing_date", "convicted but no sentencing date")
   .option("--stalled", "show suspects charged more than six months ago but no conviction or trial date")
   .option("--all", "show all missing info (excludes stalled)")
-  .option("--trial_date", "trial type but no date");
+  .option("--trial_date", "trial type but no date")
+  .option("--case", "missing case info");
 
 cmd.parse(process.argv);
 
@@ -20,6 +21,31 @@ const unpublished = async () => {
   const todaysDate = new Date().getTime();
 
   const suspects = getSuspects();
+
+  if (cmd.sentencing_date || cmd.all) {
+    info("Missing Sentencing Date");
+    for (const suspect of suspects) {
+      const { convicted, deceased, sentencing } = suspect;
+      if (convicted && !sentencing && !deceased) {
+        console.log(suspect.name);
+      }
+    }
+  }
+
+  if (cmd.stalled) {
+    info("Stalled suspects");
+    for (const suspect of suspects) {
+      const { charged, convicted, indicted, plea_hearing, trial_date } = suspect;
+      if (convicted || indicted || plea_hearing || trial_date) {
+        continue;
+      }
+
+      if (charged.includes("2021")) {
+        console.log(suspect.name);
+      }
+    }
+  }
+
   if (cmd.news || cmd.all) {
     info("Missing News");
     for (const suspect of suspects) {
@@ -77,16 +103,6 @@ const unpublished = async () => {
     }
   }
 
-  if (cmd.sentencing_date || cmd.all) {
-    info("Missing Sentencing Date");
-    for (const suspect of suspects) {
-      const { convicted, deceased, sentencing } = suspect;
-      if (convicted && !sentencing && !deceased) {
-        console.log(suspect.name);
-      }
-    }
-  }
-
   if (cmd.trial_date || cmd.all) {
     info("Missing Trial Date");
     for (const suspect of suspects) {
@@ -97,15 +113,11 @@ const unpublished = async () => {
     }
   }
 
-  if (cmd.stalled) {
-    info("Stalled suspects");
+  if (cmd.case || cmd.all) {
+    info("Missing Case Number");
     for (const suspect of suspects) {
-      const { charged, convicted, indicted, plea_hearing, trial_date } = suspect;
-      if (convicted || indicted || plea_hearing || trial_date) {
-        continue;
-      }
-
-      if (charged.includes("2021")) {
+      const { caseNumber } = suspect;
+      if (!/(1:)?(21|22|23)-(mj|cr)-(.*)/.test(caseNumber)) {
         console.log(suspect.name);
       }
     }

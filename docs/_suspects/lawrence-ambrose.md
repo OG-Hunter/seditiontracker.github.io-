@@ -1,9 +1,9 @@
 ---
 name: Lawrence Ambrose
 lastName: Ambrose
-hashtag: 
+hashtag: MagaButtonMan
 aka:
-residence: 
+residence:
 status: Charged
 date: 2022-09-13
 charged: 2022-09-13
@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-10-25
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-302
+caseNumber: 22-cr-0302
+caseName: USA v. AMBROSE
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

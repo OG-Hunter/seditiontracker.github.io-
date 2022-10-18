@@ -17,6 +17,7 @@ plea_hearing: 2022-09-19
 trial_date:
 trial_type:
 sentencing: 2023-01-23
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-295
+caseNumber: 22-cr-0295
+caseName: USA v. ASHCRAFT
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 641

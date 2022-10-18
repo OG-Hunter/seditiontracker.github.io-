@@ -15,8 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
-trial_type: Jury
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 41
 occupation:
 affiliations: Oath Keepers
@@ -34,18 +35,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-15
+caseNumber: 22-cr-0015
+caseName: USA v. RHODES
+judge: Amit P. Mehta
 videos:
-  - title: IMG_1396.MOV (0:00:23)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ba319a10ce2b013960702cde48001122.mp4
-  - title: IMG_1399.MOV (0:02:52)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a631ecd0ce2b013960702cde48001122.mp4
-  - title: IMG_1398.MOV (0:00:20)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b7e70250ce2b013960702cde48001122.mp4
+- title: IMG_1396.MOV (0:00:23)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ba319a10ce2b013960702cde48001122.mp4
+- title: IMG_1399.MOV (0:02:52)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/a631ecd0ce2b013960702cde48001122.mp4
+- title: IMG_1398.MOV (0:00:20)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/b7e70250ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
-
 - [News Report](https://www.floridatoday.com/story/news/politics/2021/03/11/brevard-man-arrested-and-charged-conspiracy-capitol-riot/4653749001/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Kenneth%20Harrelson%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377991/download)

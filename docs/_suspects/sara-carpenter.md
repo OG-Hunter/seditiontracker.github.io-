@@ -9,11 +9,15 @@ date: 2021-03-23
 charged: 2021-03-23
 indicted: 2021-06-16
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-28
 age: 51
 occupation: Retired NYPD Officer
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-305
+caseNumber: 21-cr-0305
+caseName: USA v. CARPENTER
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

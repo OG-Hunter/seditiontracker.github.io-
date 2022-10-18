@@ -9,11 +9,15 @@ date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-02-24
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation: U.S. Army (Former)
 affiliations: U.S. Military
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-152
+caseNumber: 21-cr-0152
+caseName: USA v. LOLLAR
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

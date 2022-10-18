@@ -9,11 +9,15 @@ date: 2021-03-23
 charged: 2021-03-23
 indicted: 2021-04-21
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-02-21
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-28
 age: 41
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-312
+caseNumber: 21-cr-0312
+caseName: USA v. BENNETT
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

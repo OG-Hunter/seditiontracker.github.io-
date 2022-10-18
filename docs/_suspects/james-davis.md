@@ -9,11 +9,15 @@ date: 2021-07-22
 charged: 2021-07-22
 indicted: 2021-09-22
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 45
 occupation:
 affiliations: Proud Boys, USMC
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-536
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://fredericksburg.com/news/local/king-george-man-charged-in-jan-6-assault-on-u-s-capitol/article_a8b46070-9253-533a-b4fe-77dc0d0be187.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1418021/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach-0)

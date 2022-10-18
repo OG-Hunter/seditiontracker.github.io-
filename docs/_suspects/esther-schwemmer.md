@@ -17,6 +17,7 @@ plea_hearing: 2021-09-29
 trial_date:
 trial_type:
 sentencing: 2022-01-10
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-364
+caseNumber: 21-cr-0364
+caseName:
+judge:
 videos:
 charges:
 sentence:

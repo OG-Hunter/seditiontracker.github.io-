@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation: Washington National Guard
 affiliations:
@@ -32,13 +34,14 @@ title: Kevin Cronin II charged on June 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: published
-caseNumber: 1:22-mj-132
+published: true
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.king5.com/article/news/crime/puyallup-capitol-riot-suspects-charges/281-19245a3b-5271-4dc1-8460-a3c7fa150fe6)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512671/download)

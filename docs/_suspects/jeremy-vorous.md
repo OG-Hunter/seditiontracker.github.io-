@@ -9,11 +9,15 @@ date: 2021-03-26
 charged: 2021-03-26
 indicted: 2021-04-09
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age: 43
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-294
+caseNumber: 21-cr-0294
+caseName: USA v. VOROUS
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

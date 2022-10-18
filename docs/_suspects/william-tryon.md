@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-18
 trial_date:
+trial_type:
 sentencing: 2022-01-14
+status_conference:
 age: 70
 occupation:
 affiliations: Liberty Bell Alliance 76
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-420
+caseNumber: 21-cr-0420
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

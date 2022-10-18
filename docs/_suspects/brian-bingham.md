@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-12-06
 age: 35
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-430
+caseNumber: 22-cr-0092
+caseName: USA v. BINGHAM
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.courierpostonline.com/story/news/2021/06/23/brian-bingham-capitol-riot-insurrection-pennsville/5330587001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405791/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Glenn%20Bingham%20Indictment.pdf)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-191
+caseNumber: 22-cr-0191
+caseName: USA v. MILLER
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

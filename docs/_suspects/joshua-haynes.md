@@ -9,11 +9,15 @@ date: 2021-07-01
 charged: 2021-07-01
 indicted: 2021-09-22
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-28
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation:
 affiliations: Proud Boys
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0594
+caseName: USA v. HAYNES
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)

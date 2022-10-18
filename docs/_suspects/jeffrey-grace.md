@@ -9,11 +9,15 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-17
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 61
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-296
+caseNumber: 21-cr-0296
+caseName: USA v. GRACE
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

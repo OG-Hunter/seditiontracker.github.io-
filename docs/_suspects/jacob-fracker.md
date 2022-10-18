@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-18
 trial_date:
+trial_type:
 sentencing: 2022-08-16
+status_conference:
 age: 29
 occupation: Police Officer (Former Military)
 affiliations: Rocky Mount Police Department, Law Enforcement, US Military
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-34
+caseNumber: 21-cr-0034
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
 sentence:
   - 59 days home detention
   - 1 year probation
   - 120 hours community service
   - $2000 restitution
 ---
-
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)

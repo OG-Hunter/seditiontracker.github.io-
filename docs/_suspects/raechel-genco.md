@@ -17,6 +17,7 @@ plea_hearing: 2022-06-29
 trial_date:
 trial_type:
 sentencing: 2022-09-27
+status_conference:
 age: 38
 occupation:
 affiliations:
@@ -34,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-62
+caseNumber: 22-cr-0062
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 12 months probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](http://levittownnow.com/2021/02/25/bristol-twp-woman-charged-as-part-of-capitol-insurrection-investigation/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Raechel%20Genco%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371391/download)

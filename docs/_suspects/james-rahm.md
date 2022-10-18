@@ -9,11 +9,15 @@ date: 2021-02-05
 charged: 2021-02-05
 indicted: 2021-02-24
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-150
+caseNumber: 21-cr-0150
+caseName: USA v. RAHM JR
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

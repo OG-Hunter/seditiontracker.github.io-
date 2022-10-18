@@ -5,8 +5,8 @@ hashtag: ThomasGallagher
 aka:
 residence: New Hampshire
 status: Sentenced
-date: 2021-01-21
-charged: 2021-01-21
+date: 2021-01-15
+charged: 2021-01-15
 indicted: 2021-01-15
 convicted: 2021-07-15
 acquitted:
@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-07-15
 trial_date:
+trial_type:
 sentencing: 2021-10-13
+status_conference:
 age: 61
 occupation:
 affiliations:
@@ -28,24 +30,25 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Thomas Gallagher charged on January 21st, 2021
+title: Thomas Gallagher charged on January 15, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-41
+caseNumber: 21-cr-0041
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - 60 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://boston.cbslocal.com/2021/01/14/thomas-gallagher-bridgewater-new-hampshire-charged-arrested-us-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351716/download)

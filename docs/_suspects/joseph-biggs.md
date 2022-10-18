@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 37
 occupation:
 affiliations: Proud Boys (Organizer)
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-175
+caseNumber: 21-cr-0175
+caseName: USA v. NORDEAN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

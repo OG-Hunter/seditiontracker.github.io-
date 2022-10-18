@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-07-14
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-14
 age: 34
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-74
+caseNumber: 21-cr-0074
+caseName: USA v. COLT
+judge: Thomas F. Hogan
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

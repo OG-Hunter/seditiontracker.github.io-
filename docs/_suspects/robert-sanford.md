@@ -17,6 +17,7 @@ plea_hearing: 2022-09-23
 trial_date:
 trial_type:
 sentencing: 2023-01-17
+status_conference:
 age: 55
 occupation: Fire Fighter (Retired)
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-86
+caseNumber: 21-cr-0086
+caseName: USA v. SANFORD
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

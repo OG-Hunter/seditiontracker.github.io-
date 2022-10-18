@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-28
 trial_date:
-sentencing: 2022-08-09
+trial_type:
+sentencing: 2022-12-09
+status_conference:
 age: 37
 occupation: Real Estate Agent
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-50
+caseNumber: 21-cr-0050
+caseName: USA v. SCHWAB
+judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 7 days incarceration
   - $4000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/02/04/third-north-texas-real-estate-professional-is-charged-with-storming-us-capitol-building/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1364676/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379276/download)

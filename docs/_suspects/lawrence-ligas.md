@@ -9,11 +9,15 @@ date: 2021-11-29
 charged: 2021-11-29
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age: 62
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-731
+caseNumber: 21-cr-0731
+caseName: USA v. LIGAS
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

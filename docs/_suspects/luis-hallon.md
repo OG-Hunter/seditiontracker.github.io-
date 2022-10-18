@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 67
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-128
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.fox35orlando.com/news/3-more-arrested-in-central-florida-connected-to-capitol-riot-officials-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513221/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513226/download)

@@ -9,11 +9,15 @@ date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-14
 age: 40
 occupation:
 affiliations: Proud Boys(?) (Chicago)
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-79
+caseNumber: 21-cr-0079
+caseName: USA v. LYONS
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-09-29
 charged: 2021-09-29
 indicted: 2021-12-15
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 29
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-537
+caseNumber: 21-cr-0537
+caseName: USA v. SAMSEL
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-09
 trial_date:
+trial_type:
 sentencing: 2022-06-10
+status_conference:
 age: 22
 occupation:
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-52
+caseNumber: 22-cr-0052
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 1 year incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/texas-man-brought-his-girlfriend-with-him-to-take-on-the-revolution-at-capitol-documented-it-all-on-social-media-and-was-arrested/)
 - [Complaint](https://www.justice.gov/opa/page/file/1358231/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358226/download)

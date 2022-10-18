@@ -16,7 +16,8 @@ deceased:
 plea_hearing: 2022-09-08
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-12-09
+status_conference:
 age: 38
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-698
+caseNumber: 21-cr-0698
+caseName: USA v. GLEFFE
+judge: Florence Y. Pan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

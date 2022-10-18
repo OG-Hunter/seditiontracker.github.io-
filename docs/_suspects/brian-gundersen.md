@@ -9,11 +9,15 @@ date: 2021-01-27
 charged: 2021-01-27
 indicted: 2021-03-05
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date: 2022-11-09
+trial_type: Bench Trial
 sentencing:
+status_conference:
 age: 26
 occupation: Sanitation Worker
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-137
+caseNumber: 21-cr-0137
+caseName: USA v. GUNDERSEN
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

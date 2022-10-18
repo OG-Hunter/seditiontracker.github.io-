@@ -17,6 +17,7 @@ plea_hearing: 2022-03-04
 trial_date:
 trial_type:
 sentencing: 2022-09-07
+status_conference:
 age: 19
 occupation: Unemployed
 affiliations:
@@ -34,18 +35,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-338
+caseNumber: 21-cr-0338
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/19-year-old-brooklynite-accused-of-participating-in-u-s-capitol-siege/3009290/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388391/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388396/download)

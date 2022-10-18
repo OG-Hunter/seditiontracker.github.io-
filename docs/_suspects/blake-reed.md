@@ -16,7 +16,8 @@ deceased:
 plea_hearing: 2022-01-11
 trial_date:
 trial_type:
-sentencing: 2022-04-14
+sentencing: 2022-10-21
+status_conference:
 age: 35
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-204
+caseNumber: 21-cr-0204
+caseName: USA v. BLEDSOE
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

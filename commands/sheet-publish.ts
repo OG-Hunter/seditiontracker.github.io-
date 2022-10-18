@@ -4,7 +4,6 @@ import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
 import { listWanted } from "./common/wanted";
-const { execSync } = require("child_process");
 
 require("dotenv").config();
 
@@ -59,6 +58,9 @@ const publishSheet = async () => {
     "Convicted Charges",
     "Sentence",
     "Mug Shot",
+    "Case",
+    "Judge",
+    "Status Conference",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -67,7 +69,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AC1");
+  await suspectSheet.loadCells("A1:AF1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -120,6 +122,9 @@ const publishSheet = async () => {
       Indictment: links["Indictment"] || "",
       "Plea Agreement": links["Plea Agreement"] || "",
       Judgement: links["Judgement"] || "",
+      Case: suspect.caseName || "",
+      Judge: suspect.judge || "",
+      "Status Conference": suspect.status_conference || "",
     };
 
     if (suspect.charges?.length > 0) {

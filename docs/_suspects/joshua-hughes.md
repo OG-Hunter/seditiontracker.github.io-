@@ -17,6 +17,7 @@ plea_hearing: 2022-08-25
 trial_date:
 trial_type:
 sentencing: 2022-11-22
+status_conference:
 age: 37
 occupation:
 affiliations:
@@ -34,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-106
+caseNumber: 21-cr-0106
+caseName: USA v. HUGHES
+judge: Timothy J. Kelly
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528976/download)

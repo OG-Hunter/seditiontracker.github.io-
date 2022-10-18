@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-10
 trial_date:
+trial_type:
 sentencing: 2022-11-16
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0604
+caseName: USA v. SLAEKER
+judge: Paul L. Friedman
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

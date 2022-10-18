@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-03-10
 trial_date:
-sentencing: 2022-10-11
+trial_type:
+sentencing: 2022-11-21
+status_conference:
 age: 46
 occupation:
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-225
+caseNumber: 21-cr-0225
+caseName: USA v. EVANS III
+judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.ksat.com/news/local/2021/03/09/san-antonio-area-man-charged-in-us-capitol-riot-allegedly-took-shots-of-whiskey-in-pelosis-office/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378611/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378616/download)

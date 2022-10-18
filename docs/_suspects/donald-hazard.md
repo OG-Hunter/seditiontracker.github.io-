@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 43
 occupation:
 affiliations: Patriot Boys
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-686
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484536/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donald%20Hazard%20Indictment.pdf)

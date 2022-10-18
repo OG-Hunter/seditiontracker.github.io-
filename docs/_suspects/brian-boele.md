@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-14
 age:
 occupation:
 affiliations:
@@ -33,11 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-11
+caseNumber: 22-cr-0011
+caseName: USA v. JOHNSON
+judge: Richard J. Leon
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tampabay.com/news/clearwater/2022/06/03/men-from-clearwater-lakeland-latest-florida-arrests-in-us-capitol-riot/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510571/download)

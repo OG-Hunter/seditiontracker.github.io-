@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 31
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-182
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.12news.com/article/news/crime/2-arizonans-arrested-during-us-capitol-riot/75-4a732b64-9442-4b03-9e47-c8d1b87413a1)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530561/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530566/download)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-17
 age: 46
 occupation: Farmer
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-720
+caseNumber: 21-cr-0720
+caseName: USA v. STECHER
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

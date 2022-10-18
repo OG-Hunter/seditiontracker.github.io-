@@ -17,6 +17,7 @@ plea_hearing: 2022-08-10
 trial_date:
 trial_type:
 sentencing: 2022-11-10
+status_conference:
 age: 31
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-543
+caseNumber: 21-cr-0543
+caseName: USA v. YAZDANI-ISFEHANI
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

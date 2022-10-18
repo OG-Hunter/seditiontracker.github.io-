@@ -16,7 +16,8 @@ deceased:
 plea_hearing: 2022-10-03
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-20
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-334
+caseNumber: 21-cr-0334
+caseName: USA v. SHALVEY
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.theintelligencer.net/news/community/2021/09/wife-of-former-wheeling-man-charged-in-capitol-riot-also-arrested/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473431/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540336/download)

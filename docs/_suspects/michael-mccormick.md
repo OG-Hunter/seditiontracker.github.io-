@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-18
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-12-13
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-710
+caseNumber: 21-cr-0710
+caseName: USA v. MCCORMICK
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

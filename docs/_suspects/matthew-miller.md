@@ -17,6 +17,7 @@ plea_hearing: 2022-02-09
 trial_date:
 trial_type:
 sentencing: 2022-05-23
+status_conference:
 age: 22
 occupation:
 affiliations: Proud Boys
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-75
+caseNumber: 21-cr-0075
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

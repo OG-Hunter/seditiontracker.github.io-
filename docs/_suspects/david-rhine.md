@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2023-01-30
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0687
+caseName: USA v. RHINE
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

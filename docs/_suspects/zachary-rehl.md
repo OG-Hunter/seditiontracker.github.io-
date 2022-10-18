@@ -5,8 +5,8 @@ hashtag: ZachRehlPB
 aka:
 residence: Pennsylvania
 status: Indicted
-date: 2021-03-17
-charged: 2021-03-17
+date: 2021-03-10
+charged: 2021-03-10
 indicted: 2021-03-10
 convicted:
 acquitted:
@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-12-12
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 35
 occupation:
 affiliations: Proud Boys
@@ -28,12 +30,14 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Zach Rehl arrested on March 17, 2021
+title: Zach Rehl arrested on March 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-175
+caseNumber: 21-cr-0175
+caseName: USA v. REHL
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

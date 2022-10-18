@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-22
 trial_date:
+trial_type:
 sentencing: 2022-04-11
+status_conference:
 age: 50
 occupation: Retired Police Officer
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-280
+caseNumber: 21-cr-0280
+caseName:
+judge:
 videos:
 charges:
 sentence:

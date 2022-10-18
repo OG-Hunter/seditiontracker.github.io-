@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-11-07
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 22
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-618
+caseNumber: 21-cr-0618
+caseName: USA v. WILLIAMS
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

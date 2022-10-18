@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-11-03
 trial_date:
+trial_type:
 sentencing: 2022-01-26
+status_conference:
 age: 26
 occupation:
 affiliations:
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0353
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 44 months incarceration
   - 2 years probation
   - 60 hours community service
   - $2000 restitution
 ---
-
 - [News Report](https://www.wyff4.com/article/instagram-post-leads-to-little-river-mans-arrest-for-alleged-role-in-deadly-capitol-riots-horry-county/36136043)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388816/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388821/download)

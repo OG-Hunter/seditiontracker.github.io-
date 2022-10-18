@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -28,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'come on in, all are welcome.'
+quote: "come on in, all are welcome."
 title: Ian Horvath charged on 7/28/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:

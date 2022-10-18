@@ -9,11 +9,15 @@ date: 2021-09-29
 charged: 2021-09-29
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-07
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0016
+caseName: USA v. BUSTOS
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

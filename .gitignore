@@ -12,5 +12,7 @@ node_modules
 .vscode
 *.xlsx
 video.html
+schedule.html
+schedule_files
 sedition-tracker-89ed1e5fa923.json
 creds

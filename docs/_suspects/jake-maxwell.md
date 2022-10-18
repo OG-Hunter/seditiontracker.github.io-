@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 20
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-000
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wgauradio.com/news/athens-man-is-latest-to-be-arrested-january-6-capitol-riot/DA44XZG34FA23CGVVGMPPP6CSI/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473291/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jake%20Maxwell%20Indictment.pdf)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 60
 occupation: Martial arts gym owner
 affiliations: Three Percenters
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-267
+caseNumber: 22-cr-0267
+caseName: USA v. ROBINSON
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

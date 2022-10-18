@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-28
 trial_date:
+trial_type:
 sentencing: 2022-03-15
+status_conference:
 age: 33
 occupation: U.S. Army (Former)
 affiliations: military
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-290
+caseNumber: 21-cr-0290
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 90 days incarceration
   - 2 years probation
   - 200 hours of community service
   - $500 restitution
 ---
-
 - [News Report](https://www.cbs8.com/article/news/politics/coronado-arrest-capitol-riot/509-740c83a7-f93e-4283-87da-d5a54005906b)
 - [Complaint](https://www.justice.gov/opa/page/file/1361426/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361426/download)

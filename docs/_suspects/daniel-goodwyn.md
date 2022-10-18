@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2023-02-27
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 32
 occupation:
 affiliations: Proud Boys
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-153
+caseNumber: 21-cr-0153
+caseName: USA v. GOODWYN
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362756/download)

@@ -17,6 +17,7 @@ plea_hearing: 2022-09-09
 trial_date:
 trial_type:
 sentencing: 2023-01-16
+status_conference:
 age: 43
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-476
+caseNumber: 21-cr-0476
+caseName: USA v. WOODS
+judge: Amit P. Mehta
 videos:
 charges:
 - code: 18 USC § 113(a)(4)

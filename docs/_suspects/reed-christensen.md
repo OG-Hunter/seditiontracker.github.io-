@@ -9,11 +9,15 @@ date: 2021-04-25
 charged: 2021-04-25
 indicted: 2021-07-07
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age: 62
 occupation:
 affiliations: U.S. Army Veteran
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-455
+caseNumber: 21-cr-0455
+caseName: USA v. CHRISTENSEN
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

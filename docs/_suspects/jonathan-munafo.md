@@ -9,11 +9,15 @@ date: 2021-04-23
 charged: 2021-04-23
 indicted: 2021-04-28
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 34
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-330
+caseNumber: 21-cr-0330
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/breaking-news/os-ne-jonathan-munafo-us-capitol-riot-20210427-cmz7ovdhejeefm2unzdns4aqzy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389816/download)

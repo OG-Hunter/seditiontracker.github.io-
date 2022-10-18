@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-82
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2022/04/26/man-arrested-on-jan-6-capitol-riot-charges-is-27th-central-floridian-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497021/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497026/download)

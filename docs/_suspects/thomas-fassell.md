@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-19
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-12-09
+status_conference:
 age: 67
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-692
+caseNumber: 21-cr-0692
+caseName: USA v. FASSELL
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

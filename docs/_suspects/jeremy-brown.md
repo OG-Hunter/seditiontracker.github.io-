@@ -9,11 +9,15 @@ date: 2021-09-29
 charged: 2021-09-29
 indicted: 2022-04-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 47
 occupation: Former military (U.S. Special forces)
 affiliations: Oath Keepers, US Army (former Green Beret)
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-619
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tampabay.com/news/tampa/2021/10/06/tampa-oath-keeper-stays-jailed-after-judge-finds-he-threatened-cops/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438141/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Information.pdf)

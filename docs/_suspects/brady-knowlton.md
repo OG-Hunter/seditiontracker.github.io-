@@ -9,11 +9,15 @@ date: 2021-04-01
 charged: 2021-04-01
 indicted: 2021-04-16
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 40
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0046
+caseName: USA v. MONTGOMERY
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

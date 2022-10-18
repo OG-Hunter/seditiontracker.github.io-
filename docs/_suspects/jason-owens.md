@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-12-05
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-286
+caseNumber: 21-cr-0286
+caseName: USA v. OWENS
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

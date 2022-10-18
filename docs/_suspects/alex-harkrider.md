@@ -9,11 +9,15 @@ date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 33
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-117
+caseNumber: 21-cr-0117
+caseName: USA v. NICHOLS
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

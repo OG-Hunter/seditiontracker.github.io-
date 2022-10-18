@@ -17,6 +17,7 @@ plea_hearing: 2021-09-24
 trial_date:
 trial_type:
 sentencing: 2022-01-20
+status_conference:
 age: 55
 occupation: Messianic Rabbi
 affiliations: Temple New Jerusalem
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-96
+caseNumber: 21-cr-0096
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

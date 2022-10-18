@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-08-27
 trial_date:
+trial_type:
 sentencing: 2021-11-12
+status_conference:
 age: 35
 occupation:
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-269
+caseNumber: 21-cr-0269
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - $4000 fine
   - 60 days probation
   - $500 restitution
 ---
-
 - [News Report](https://news.yahoo.com/2-brothers-arrested-capitol-insurrection-200102712.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383086/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1383756/download)

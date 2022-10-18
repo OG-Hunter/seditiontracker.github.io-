@@ -17,6 +17,7 @@ plea_hearing: 2022-04-13
 trial_date:
 trial_type:
 sentencing: 2022-08-26
+status_conference:
 age: 36
 occupation:
 affiliations: Proud Boys
@@ -34,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-31
+caseNumber: 22-cr-0031
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 6 months incarceration
   - 1 year probation
   - $500 restitution
 ---
-
 - [News Report](https://www.billboard.com/music/rb-hip-hop/south-dakota-man-charged-capitol-riot-rap-videos-1235019121/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481301/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494351/download)

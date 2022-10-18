@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-26
+trial_type:
 sentencing:
+status_conference: 2022-11-07
 age: 55
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-421
+caseNumber: 21-cr-0421
+caseName: USA v. NASSIF
+judge: John D. Bates
 videos:
 charges:
 sentence:

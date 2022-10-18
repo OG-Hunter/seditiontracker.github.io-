@@ -9,11 +9,15 @@ date: 2021-05-07
 charged: 2021-05-07
 indicted: 2021-06-09
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-12
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-393
+caseNumber: 21-cr-0393
+caseName: USA v. PALM
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

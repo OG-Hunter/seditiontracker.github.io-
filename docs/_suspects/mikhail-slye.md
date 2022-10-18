@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-214
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-breach/accused-jan-6th-rioter-dubbed-jackthetripper-for-allegedly-pushing-bike-rack-into-law-enforcement-charged-with-felonies/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539651/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539656/download)

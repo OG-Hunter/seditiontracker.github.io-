@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age:
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-127
+caseNumber: 22-cr-0230
+caseName: USA v. JACKSON
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/texas-brothers-brian-and-adam-jackson-arrested-after-trying-to-unsend-messages-bragging-about-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511146/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511151/download)

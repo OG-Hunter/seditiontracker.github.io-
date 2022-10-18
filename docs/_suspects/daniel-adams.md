@@ -9,11 +9,15 @@ date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-02-05
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2022-11-16
+status_conference:
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-84
+caseNumber: 21-cr-0084
+caseName: USA v. CARTER CONNELL
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

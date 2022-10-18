@@ -9,11 +9,15 @@ date: 2021-03-19
 charged: 2021-03-19
 indicted: 2021-04-02
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-07
 age: 31
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-279
+caseNumber: 21-cr-0279
+caseName: USA v. SEITZ
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

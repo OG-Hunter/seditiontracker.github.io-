@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-11-24
 trial_date:
+trial_type:
 sentencing: 2022-02-23
+status_conference:
 age:
 occupation: Owner, Yoga Studio
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-299
+caseNumber: 21-cr-0299
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

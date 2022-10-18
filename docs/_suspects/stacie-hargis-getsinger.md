@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-02
 trial_date:
-sentencing: 2022-07-12
+trial_type:
+sentencing: 2022-10-21
+status_conference:
 age: 43
 occupation:
 affiliations:
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-466
+caseNumber: 21-cr-0670
+caseName: USA v. BANNON
+judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - 3 years probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.berkeleyobserver.com/2021/06/15/hanahan-couple-accused-of-taking-part-in-u-s-capitol-riot-arrested/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405456/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1453441/download)

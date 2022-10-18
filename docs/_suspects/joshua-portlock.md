@@ -9,12 +9,15 @@ date: 2021-10-28
 charged: 2021-10-28
 indicted: 2022-03-04
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations: Proud Boys
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-638
+caseNumber: 22-cr-0067
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/11/04/joshua-john-portlock-tennessee-arrested-january-6-capitol-riot/6279607001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446266/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1446271/download)

@@ -9,11 +9,15 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-03
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 42
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-69
+caseNumber: 21-cr-0069
+caseName: USA v. RILEY
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

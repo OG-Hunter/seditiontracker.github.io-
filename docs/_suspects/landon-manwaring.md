@@ -17,6 +17,7 @@ plea_hearing: 2022-08-26
 trial_date:
 trial_type:
 sentencing: 2022-11-21
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-270
+caseNumber: 22-cr-0270
+caseName: USA v. MANWARING
+judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527176/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529131/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529136/download)

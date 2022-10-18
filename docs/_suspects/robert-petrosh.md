@@ -17,6 +17,7 @@ plea_hearing: 2022-01-07
 trial_date:
 trial_type:
 sentencing: 2022-03-25
+status_conference:
 age: 51
 occupation:
 affiliations: Former USMC
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-347
+caseNumber: 21-cr-0347
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 641

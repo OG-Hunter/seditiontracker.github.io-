@@ -9,12 +9,15 @@ date: 2021-04-21
 charged: 2021-04-21
 indicted: 2021-05-19
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-01-23
+trial_type: Jury Trial
 sentencing:
-trial_date: 2022-12-13
+status_conference:
 age: 50
 occupation: Billing Manager
 affiliations:
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0367
+caseName: USA v. MIDDLETON
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcdfw.com/news/local/north-texas-couple-charged-with-assaulting-officers-during-jan-6-capitol-riot/2613058/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388961/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388981/download)

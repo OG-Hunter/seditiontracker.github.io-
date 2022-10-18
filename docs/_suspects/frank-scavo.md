@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-08
 trial_date:
+trial_type:
 sentencing: 2021-11-22
+status_conference:
 age: 58
 occupation:
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-254
+caseNumber: 21-cr-0254
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, Demonstrating or Picketing in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, Demonstrating or Picketing in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - $5000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.timesleader.com/news/1137275/scavo-was-pushed-into-capitol-lawyer-says)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380551/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380711/download)

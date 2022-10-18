@@ -9,11 +9,15 @@ date: 2021-01-13
 charged: 2021-01-13
 indicted: 2021-02-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-10-25
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 26
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-78
+caseNumber: 21-cr-0078
+caseName: USA v. SULLIVAN
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://www.justice.gov/opa/page/file/1354776/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-charged-federal-court-following-events-united-states-capitol)

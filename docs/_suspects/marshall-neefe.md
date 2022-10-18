@@ -17,6 +17,7 @@ plea_hearing: 2022-05-03
 trial_date:
 trial_type:
 sentencing: 2022-09-23
+status_conference:
 age: 25
 occupation:
 affiliations:
@@ -34,23 +35,24 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-567
+caseNumber: 21-cr-0567
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1512(k)
-    title: Conspiracy to Obstruct an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(k)
+  title: Conspiracy to Obstruct an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 41 months incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-men-charged-capitol-attack-20210914-mpvo6vsozfb3zjlyochwtgndye-story.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498591/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Marshall%20Neefe%20Government%20Opposition%20to%20Motion%20to%20Appeal%20Detention%20Order.pdf)

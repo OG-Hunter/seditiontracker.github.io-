@@ -9,11 +9,15 @@ date: 2021-05-28
 charged: 2021-05-28
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-02-21
+trial_type: Bench Trial
 sentencing:
+status_conference: 2022-10-21
 age: 38
 occupation:
 affiliations:
@@ -31,11 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0265
+caseName: USA v. WILLIAMS
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cpr.org/2021/06/04/man-from-trinidad-allegedly-took-selfie-during-january-6-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401816/download)

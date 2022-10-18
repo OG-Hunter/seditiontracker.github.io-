@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing: 2022-12-02
+status_conference:
 age: 56
 occupation:
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-739
+caseNumber: 21-cr-0739
+caseName: USA v. BUXTON
+judge: John D. Bates
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/eureka-man-linked-to-jan-6-riot-to-appear-in-dc-court/ar-AARtjTH)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459121/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524821/download)

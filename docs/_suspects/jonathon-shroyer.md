@@ -9,11 +9,15 @@ date: 2021-08-19
 charged: 2021-08-19
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations: InfoWars
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-572
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.washingtontimes.com/news/2021/aug/21/owen-shroyer-infowars-host-charged-with-entering-r/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428181/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428176/download)

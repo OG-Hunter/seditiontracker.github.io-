@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-08
 trial_date:
+trial_type:
 sentencing: 2022-07-08
+status_conference:
 age: 38
 occupation: Electrician, Former US Navy
 affiliations: Proud Boys
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-492
+caseNumber: 21-cr-0492
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 21 days incarceration
   - 1 year probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.oregonlive.com/crime/2021/05/battle-ground-man-caught-on-video-with-dad-repeating-our-house-while-inside-us-capitol-during-jan-6-incursion-feds-say.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398131/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1422216/download)

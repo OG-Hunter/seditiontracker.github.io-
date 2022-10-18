@@ -9,11 +9,15 @@ date: 2021-04-07
 charged: 2021-04-07
 indicted:
 convicted: 
+acquitted:
 sentenced:
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-28
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 35
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-375
+caseNumber: 21-cr-0375
+caseName: USA v. MOAT
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-14
 age: 33
 occupation: Youth Pastor
 affiliations:
@@ -27,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I’m probably going to lose my job as a pastor after this'
+quote: "I’m probably going to lose my job as a pastor after this"
 title: Tyler Ethridge charged on July 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-154
+caseNumber: 22-cr-0254
+caseName: USA v. ETHRIDGE
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

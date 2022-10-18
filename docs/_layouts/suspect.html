@@ -15,8 +15,6 @@ layout: default
   {% endif %} {% if page.aka %} AKA:
   <small>{{ page.aka }}</small>
   <br />
-  {% endif %} {% if page.caseNumber %} Case Number: <small>{{ page.caseNumber }}</small>
-  <br />
   {% endif %} {% if page.residence %} Residence: <small>{{ page.residence }}</small>
   <br />
   {% endif %} {% if page.age %} Age: <small>{{ page.age }}</small>
@@ -27,9 +25,19 @@ layout: default
   <br />
   {% endif %}
   <div>Jurisdiction: <small>{{ page.jurisdiction }}</small></div>
+  {% if page.caseNumber %} Docket Number: <small>{{ page.caseNumber }}</small>
+  <br />
+  {% endif %} {% if page.caseName %} Case: <small>{{ page.caseName }}</small>
+  <br />
+  {% endif %} {% if page.judge%} Judge: <small>{{ page.judge }}</small>
+  <br />
+  {% endif %}
+  <br />
   <div>Arrested/Charged: <small>{{ page.charged | date: "%Y-%m-%d"}}</small></div>
   {% if page.indicted %}
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
+  {% endif %} {% if page.status_conference %}
+  <div>Status Conference: <small>{{ page.status_conference | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_date %}
   <div>Trial Date: <small>{{ page.trial_date | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_type %}

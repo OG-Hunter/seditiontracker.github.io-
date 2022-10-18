@@ -9,11 +9,15 @@ date: 2021-01-22
 charged: 2021-01-22
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-12-05
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 28
 occupation: U.S. Marines (Former)
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-47
+caseNumber: 21-cr-0047
+caseName: USA v. VARGAS SANTOS
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/politics/fbi-new-jersey-man-took-video-selfie-inside-capitol-detailed-his-location-during-siege/ar-BB1d746o)
 - [Incriminating Evidence](https://jcitytimes.com/hector-vargas-from-unsung-hero-to-insurrectionist/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371546/download)

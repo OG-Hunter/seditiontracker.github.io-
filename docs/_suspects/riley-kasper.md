@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-64
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://fox11online.com/news/crime/riley-kasper-january-6-2021-capitol-insurrection-riot-attack-federal-court-charges)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1484491/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Riley%20Kasper%20Indictment.pdf)

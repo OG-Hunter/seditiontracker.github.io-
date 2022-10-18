@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-28
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-11-18
+status_conference:
 age: 42
 occupation:
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-257
+caseNumber: 21-cr-0257
+caseName: USA v. PRESLEY
+judge: Randolph D. Moss
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/03/08/tennessee-man-ronnie-b-presley-arrested-capitol-riot-investigation/4629102001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1375166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380416/download)

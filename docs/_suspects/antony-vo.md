@@ -9,11 +9,15 @@ date: 2021-07-20
 charged: 2021-07-20
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-11-09
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 28
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-509
+caseNumber: 21-cr-0509
+caseName: USA v. VO
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

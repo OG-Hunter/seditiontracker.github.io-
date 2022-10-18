@@ -9,11 +9,15 @@ date: 2021-05-24
 charged: 2021-05-24
 indicted: 2021-08-18
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-27
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 20
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0524
+caseName: USA v. BROCKHOFF
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-07-23
 charged: 2021-07-23
 indicted: 2021-07-23
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-02
 age: 41
 occupation:
 affiliations: Proud Boys
@@ -31,11 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0487
+caseName: USA v. KENNEDY
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/sikeston-man-faces-charges-in-capitol-riot-feds-say/article_aeda28bb-fed3-5cd3-8281-9ba9dd8db859.html)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Kennedy%20Indictment.pdf)

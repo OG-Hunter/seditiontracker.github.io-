@@ -9,11 +9,15 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed: 2021-06-02
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 44
 occupation:
 affiliations:
@@ -25,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'No worries, I’ll be with ex NYPD and some proud boys'
+quote: "No worries, I’ll be with ex NYPD and some proud boys"
 title: Christopher Kelly charged on January 20, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0708
+caseName: USA v. KELLY
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

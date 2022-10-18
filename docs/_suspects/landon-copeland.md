@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-05-19
 trial_date:
+trial_type:
 sentencing: 2022-12-23
+status_conference:
 age: 33
 occupation:
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-570
+caseNumber: 21-cr-0570
+caseName: USA v. COPELAND
+judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.ksl.com/article/50156952/southern-utah-man-charged-with-attacking-officers-during-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390646/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390651/download)

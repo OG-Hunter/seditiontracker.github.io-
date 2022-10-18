@@ -9,11 +9,15 @@ date: 2021-01-09
 charged: 2021-01-09
 indicted: 2021-06-23
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 53
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-140
+caseNumber: 21-cr-0140
+caseName: USA v. BROCK
+judge: John D. Bates
 videos:
 charges:
 sentence:

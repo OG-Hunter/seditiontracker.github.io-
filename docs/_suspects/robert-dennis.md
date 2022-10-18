@@ -9,11 +9,15 @@ date: 2021-10-13
 charged: 2021-10-13
 indicted: 2021-11-17
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-01-09
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-14
 age: 61
 occupation: Graphic and Comic Book Artist
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-679
+caseNumber: 21-cr-0679
+caseName: USA v. DENNIS
+judge: James E. Boasberg
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/10/21/garland-man-is-latest-to-be-arrested-for-capitol-riot-after-feds-say-he-fought-with-officers/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458761/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458756/download)

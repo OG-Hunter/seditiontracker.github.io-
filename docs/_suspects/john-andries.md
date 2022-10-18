@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-23
 trial_date:
+trial_type:
 sentencing: 2023-01-10
+status_conference:
 age: 35
 occupation: U.S. Military (former)
 affiliations: military
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-93
+caseNumber: 21-cr-0093
+caseName: USA v. ANDRIES
+judge: Rudolph Contreras
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://smnewsnet.com/archives/487309/piney-point-man-arrested-for-involvement-with-capitol-siege-on-january-6th/)
 - [Complaint](https://beta.documentcloud.org/documents/20475087-2-8-21-us-v-john-andries-information)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371276/download)

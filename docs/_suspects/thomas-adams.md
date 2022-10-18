@@ -9,11 +9,15 @@ date: 2021-04-02
 charged: 2021-04-02
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation: Lawn Care
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-354
+caseNumber: 21-cr-0354
+caseName: USA v. ADAMS, JR
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

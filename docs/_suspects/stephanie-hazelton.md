@@ -9,11 +9,15 @@ date: 2021-01-22
 charged: 2021-01-22
 indicted:
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-14
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-22
 age:
 occupation:
 affiliations: New Jersey for Medical Freedom
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-30
+caseNumber: 21-cr-0030
+caseName: USA v. HAZELTON
+judge: John D. Bates
 videos:
 charges:
 sentence:

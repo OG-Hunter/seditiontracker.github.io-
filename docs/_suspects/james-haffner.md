@@ -9,11 +9,15 @@ date: 2021-12-01
 charged: 2021-12-01
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2023-01-10
 age: 53
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-672
+caseNumber: 21-mj-0672
+caseName: USA v. LOEHRKE
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

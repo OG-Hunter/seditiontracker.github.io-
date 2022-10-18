@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-07-26
 trial_date:
+trial_type:
 sentencing: 2022-10-28
+status_conference:
 age: 49
 occupation: School Therapist
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-242
+caseNumber: 22-cr-0242
+caseName: USA v. PRIOLA
+judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.cleveland.com/crime/2021/01/former-cleveland-schools-therapist-arrested-on-federal-charges-involving-attack-at-us-capitol.html)
 - [News Report: FBI Raid](https://www.cleveland.com/metro/2021/01/fbi-searches-former-cleveland-schools-employees-house-after-accusations-that-she-participated-in-us-capitol-riot.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354421/download)

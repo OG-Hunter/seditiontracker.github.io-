@@ -9,11 +9,15 @@ date: 2021-05-26
 charged: 2021-05-26
 indicted: 2021-05-26
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-04-03
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-14
+caseNumber: 22-cr-0014
+caseName: USA v. WALDEN
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

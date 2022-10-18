@@ -34,11 +34,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/texas-woman-who-charged-us-capitol-dressed-as-captain-america-gets-jail-sentence/ar-AA12xJ9n)
 - [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-woman-sentenced-180-days-jail-after-jury-verdict-related-capitol-breach)

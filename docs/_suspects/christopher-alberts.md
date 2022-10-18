@@ -9,11 +9,15 @@ date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-01-27
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2023-02-06
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-27
 age: 33
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-26
+caseNumber: 21-cr-0026
+caseName: USA v. ALBERTS
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

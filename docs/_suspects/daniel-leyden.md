@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-180
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://wgntv.com/news/chicago-news/local-brothers-charged-in-jan-6-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528146/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528151/download)

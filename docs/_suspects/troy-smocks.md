@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-29
 trial_date:
+trial_type:
 sentencing: 2021-10-21
+status_conference:
 age: 58
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-198
+caseNumber: 21-cr-0198
+caseName: USA v. SMOCKS
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 875(c)

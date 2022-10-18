@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation:
 affiliations: Proud Boys
@@ -34,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-112
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.9news.com/article/news/crime/capitol-riot-suspect-rodney-milstreed/73-395be66f-e2e3-4669-9e91-f2d22f5c6f6f)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508141/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download)

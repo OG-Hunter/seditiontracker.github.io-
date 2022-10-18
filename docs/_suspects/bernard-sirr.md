@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-14
 age: 47
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0259
+caseName: USA v. SIRR
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.abc6.com/north-kingstown-man-charged-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516326/download)

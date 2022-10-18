@@ -9,13 +9,15 @@ date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-02-10
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
 trial_date: Jury
 trial_type: 2023-01-30
+sentencing:
+status_conference:
 age:
 occupation: U.S. Marines (Former)
 affiliations:
@@ -33,22 +35,23 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-108
+caseNumber: 21-cr-0108
+caseName: USA v. FOY
+judge: Tanya S. Chutkan
 videos:
-  - title: EXH. 1.mp4 (0:00:06)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ca07bcf0ce2b013960702cde48001122.mp4
-  - title: EXH. 3.mp4 (0:00:30)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cb165070ce2b013960702cde48001122.mp4
-  - title: EXH. 5.mp4 (0:01:32)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bcc2e2d0ce2b013960702cde48001122.mp4
-  - title: EXH. 2.mp4 (0:01:15)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cdb9c7c0ce2b013960702cde48001122.mp4
-  - title: EXH. 4.mp4 (0:01:20)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c1522820ce2b013960702cde48001122.mp4
+- title: EXH. 1.mp4 (0:00:06)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ca07bcf0ce2b013960702cde48001122.mp4
+- title: EXH. 3.mp4 (0:00:30)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cb165070ce2b013960702cde48001122.mp4
+- title: EXH. 5.mp4 (0:01:32)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/bcc2e2d0ce2b013960702cde48001122.mp4
+- title: EXH. 2.mp4 (0:01:15)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cdb9c7c0ce2b013960702cde48001122.mp4
+- title: EXH. 4.mp4 (0:01:20)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c1522820ce2b013960702cde48001122.mp4
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wxyz.com/news-democracy-under-fire/westland-man-arrested-for-allegedly-assaulting-police-officer-with-hockey-stick-at-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357476/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357471/download)

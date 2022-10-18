@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 55
 occupation:
 affiliations:
@@ -33,10 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-93
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
 - [News Report](https://www.cleveland.com/court-justice/2022/05/feds-charge-north-olmsted-mother-westlake-son-in-jan-6-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505791/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Colton%20and%20Kimberly%20Wargo%20Information.pdf)

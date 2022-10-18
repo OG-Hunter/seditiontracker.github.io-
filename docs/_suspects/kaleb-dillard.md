@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-01
 age: 26
 occupation:
 affiliations: Former Marine
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-189
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-arrests-ex-marine-allegedly-assaulting-officers-capitol-jan-6-rcna44503)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528271/download)

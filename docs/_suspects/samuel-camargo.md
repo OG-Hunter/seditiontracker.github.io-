@@ -9,11 +9,15 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-02
 age:
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-70
+caseNumber: 21-cr-0070
+caseName: USA v. CAMARGO
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcmiami.com/news/local/south-florida-man-who-discussed-fbi-probe-on-social-media-arrested-in-u-s-capitol-breach/2366073/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357291/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357286/download)

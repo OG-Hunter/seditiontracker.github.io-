@@ -9,11 +9,15 @@ date: 2021-06-30
 charged: 2021-06-30
 indicted: 2021-08-25
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-17
 age: 27
 occupation:
 affiliations:
@@ -25,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I would not think to put in a little bit of Styrofoam, a little bit of motor oil, and some gasoline in said wine bottles. I wouldn’t have the first thought of doing that whatsoever.'
+quote: "I would not think to put in a little bit of Styrofoam, a little bit of motor oil, and some gasoline in said wine bottles. I wouldn’t have the first thought of doing that whatsoever."
 title: Fi Duong charged on June 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0541
+caseName: USA v. DUONG
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-11
 trial_date:
-sentencing:
+trial_type:
+sentencing: 2022-12-08
+status_conference:
 age: 52
 occupation: Real Estate (Former)
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-64
+caseNumber: 21-cr-0064
+caseName: USA v. ALLAN
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1360801/download)

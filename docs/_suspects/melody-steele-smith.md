@@ -9,11 +9,15 @@ date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-03
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-01
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 57
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-77
+caseNumber: 21-cr-0077
+caseName: USA v. STEELE-SMITH
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/gloucester-woman-arrested-after-photos-show-her-inside-us-capitol-during-riot/ar-BB1dzAz3)
 - [Complaint](https://www.justice.gov/file/1360206/download)
 - [Statement of Facts](https://www.justice.gov/opa/file/1360206/download)

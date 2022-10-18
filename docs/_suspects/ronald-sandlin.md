@@ -17,6 +17,7 @@ plea_hearing: 2022-09-30
 trial_date:
 trial_type:
 sentencing: 2022-12-09
+status_conference:
 age: 31
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-88
+caseNumber: 21-cr-0088
+caseName: USA v. SANDLIN
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1512(k)

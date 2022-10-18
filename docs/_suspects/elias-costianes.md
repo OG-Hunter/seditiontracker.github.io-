@@ -9,11 +9,15 @@ date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-03-03
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-19
 age: 42
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-180
+caseNumber: 21-cr-0180
+caseName: USA v. COSTIANES
+judge: Richard J. Leon
 videos:
 charges:
 sentence:

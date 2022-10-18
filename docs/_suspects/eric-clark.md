@@ -9,11 +9,15 @@ date: 2021-04-26
 charged: 2021-04-26
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 44
 occupation:
 affiliations:
@@ -25,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'It was ridiculously easy to get in...'
+quote: "It was ridiculously easy to get in..."
 title: Eric Clark Arrested on May 4, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0204
+caseName: USA v. BLEDSOE
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

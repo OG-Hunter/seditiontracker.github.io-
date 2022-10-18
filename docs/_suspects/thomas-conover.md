@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-07
 trial_date:
+trial_type:
 sentencing: 2022-04-22
+status_conference:
 age: 53
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-743
+caseNumber: 21-cr-0743
+caseName:
+judge:
 videos:
 charges:
 sentence:
@@ -43,7 +47,6 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/keller-man-seen-with-beer-can-during-jan-6-us-capitol-riot-arrested-fbi-says/ar-AARCPoZ)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459196/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459186/download)

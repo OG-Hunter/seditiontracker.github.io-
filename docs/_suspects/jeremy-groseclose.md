@@ -9,11 +9,15 @@ date: 2021-02-25
 charged: 2021-02-25
 indicted: 2021-04-21
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date: 2022-11-14
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 38
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-311
+caseNumber: 21-cr-0311
+caseName: USA v. GROSECLOSE
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

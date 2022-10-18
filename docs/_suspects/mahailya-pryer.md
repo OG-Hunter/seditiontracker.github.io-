@@ -17,6 +17,7 @@ plea_hearing: 2022-05-18
 trial_date:
 trial_type:
 sentencing: 2022-09-30
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-667
+caseNumber: 21-cr-0667
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 45 days of incarceration
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/two-women-arrested-monday-in-springfield-charged-in-jan-6-us-capitol-breach/ar-AAPddMo)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457716/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457711/download)

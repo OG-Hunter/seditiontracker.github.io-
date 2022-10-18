@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-10-25
 age: 24
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-735
+caseNumber: 21-cr-0735
+caseName: USA v. ELLIOTT
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

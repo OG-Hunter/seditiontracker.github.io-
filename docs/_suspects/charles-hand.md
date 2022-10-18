@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-10-14
 age:
 occupation:
 affiliations:
@@ -28,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'on the scene from 1:30pm to 4:00pm.'
+quote: "on the scene from 1:30pm to 4:00pm."
 title: Charles Hand charged on March 4th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-49
+caseNumber: 22-cr-0111
+caseName: USA v. HAND
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

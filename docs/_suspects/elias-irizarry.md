@@ -9,12 +9,15 @@ date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-12-15
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing: 2022-10-26
-sentencing:
 trial_date: 2023-01-03
+trial_type:
+sentencing:
+status_conference:
 age: 19
 occupation: Student at The Citadel
 affiliations:
@@ -32,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-282
+caseNumber: 21-cr-0282
+caseName: USA v. IRIZARRY
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://abcnews4.com/news/local/citadel-cadet-charged-in-capitol-riot-probe-bonds-out-of-jail-1st-court-date-set)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386301/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386306/download)

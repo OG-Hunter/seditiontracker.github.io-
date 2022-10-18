@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-06-02
 trial_date:
+trial_type:
 sentencing: 2021-07-19
+status_conference:
 age: 38
 occupation:
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-188
+caseNumber: 21-cr-0188
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 8 months incarceration
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.cbsnews.com/news/capitol-riot-paul-hodgkins-guilty-plea-selfie/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371411/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377756/download)

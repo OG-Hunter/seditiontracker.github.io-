@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-15
 trial_date:
+trial_type:
 sentencing: 2022-12-06
+status_conference:
 age: 45
 occupation:
 affiliations:
@@ -33,16 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-519
+caseNumber: 21-cr-0519
+caseName: USA v. BILLINGSLEY
+judge: Thomas F. Hogan
 videos:
 charges:
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.wtrf.com/jefferson-county/jefferson-county-man-charged-with-crimes-related-to-the-jan-6-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457636/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1526451/download)

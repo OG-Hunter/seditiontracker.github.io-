@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-12-02
 trial_date:
+trial_type:
 sentencing: 2022-03-10
+status_conference:
 age: 49
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-116
+caseNumber: 21-cr-0116
+caseName: USA v. CALHOUN, JR.
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

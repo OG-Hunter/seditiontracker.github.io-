@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-sentencing: 2022-10-07
+trial_type:
+sentencing: 2022-10-19
+status_conference:
 age: 22
 occupation: Student, UCLA
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-157
+caseNumber: 21-cr-0157
+caseName: USA v. SECOR
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-06-17
 trial_date:
+trial_type:
 sentencing: 2022-10-21
+status_conference:
 age: 56
 occupation:
 affiliations:
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-736
+caseNumber: 21-cr-0736
+caseName: USA v. MAZZA
+judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 22 DC § 4505(a)
-    title: Carrying a Pistol Without a License
-    url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees using a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 22 DC § 4505(a)
+  title: Carrying a Pistol Without a License
+  url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.indystar.com/story/news/crime/2021/11/19/shelbyville-mark-mazza-arrested-capitol-riot-after-reporting-gun-stolen/8686112002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513811/download)
 - [Application for Search Warrant](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Andrew%20Mazza%20Search%20Warrant%20Application.pdf)

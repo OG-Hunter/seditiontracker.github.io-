@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-08-29
 trial_type: Bench Trial
 sentencing: 2023-01-26
+status_conference:
 age: 23
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-40
+caseNumber: 21-cr-0040
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 - title: Exhibit 1.mp4 (0:03:57)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/9a9444c0ce2c013960702cde48001122.mp4

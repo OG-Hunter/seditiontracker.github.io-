@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia
@@ -27,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We protected the fucking Capitol Hill police'
+quote: "We protected the fucking Capitol Hill police"
 title: Donovan Crowl charged on January 17, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0028
+caseName: USA v. CROWL
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

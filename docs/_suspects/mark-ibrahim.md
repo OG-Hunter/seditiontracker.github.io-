@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age:
 occupation: Special Agent, Drug Enforcement Administration
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-496
+caseNumber: 21-cr-0496
+caseName: USA v. IBRAHIM
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

@@ -9,11 +9,15 @@ date: 2021-01-19
 charged: 2021-01-19
 indicted:
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-18
 age: 46
 occupation: Software Engineer, U.S. Army (Former)
 affiliations: U.S. Military, Super Happy Fun America (anti-LQBTQ group)
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-134
+caseNumber: 21-cr-0134
+caseName: USA v. SAHADY
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

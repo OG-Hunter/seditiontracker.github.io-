@@ -9,11 +9,15 @@ date: 2021-04-02
 charged: 2021-04-02
 indicted: 2021-04-21
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-08
 age: 33
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-313
+caseNumber: 21-cr-0313
+caseName: USA v. MORGAN, JR
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://news.yahoo.com/rioter-filmed-bashing-capitol-cops-223359036.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385531/download)
 - [Self-Incrimination (Video)](https://www.youtube.com/watch?v=baV5XGmNteA)

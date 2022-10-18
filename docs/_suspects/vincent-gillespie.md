@@ -14,8 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
+trial_date: 2022-12-19
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 60
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-60
+caseNumber: 22-cr-0060
+caseName: USA v. GILLESPIE
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

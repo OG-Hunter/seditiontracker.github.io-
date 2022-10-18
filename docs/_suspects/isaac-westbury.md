@@ -5,15 +5,19 @@ hashtag: TanTunnelSpecs
 aka:
 residence: Minnesota
 status: Indicted
-date: 2021-10-04
-charged: 2021-10-04
+date: 2021-09-29
+charged: 2021-09-29
 indicted: 2021-09-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2023-01-26
 age: 19
 occupation:
 affiliations:
@@ -26,16 +30,17 @@ courthouse:
 raid: isaac-westburry-arrest.jpg
 perpwalk:
 quote:
-title: Isaac Westbury charged on October 4, 2021
+title: Isaac Westbury charged on September 9, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-605
+caseNumber: 21-cr-0605
+caseName: USA v. WESTBURY
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.startribune.com/three-lindstrom-men-face-federal-charges-related-to-jan-6-u-s-capitol-riot/600103577/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439351/download)

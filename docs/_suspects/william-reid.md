@@ -17,6 +17,7 @@ plea_hearing: 2022-08-23
 trial_date: 2022-08-23
 trial_type: Stipulated Bench Trial
 sentencing: 2022-12-07
+status_conference:
 age: 36
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-316
+caseNumber: 21-cr-0316
+caseName: USA v. REID
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

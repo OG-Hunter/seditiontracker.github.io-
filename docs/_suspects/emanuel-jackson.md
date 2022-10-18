@@ -9,11 +9,15 @@ date: 2021-01-18
 charged: 2021-01-18
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-12-09
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 20
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-395
+caseNumber: 21-cr-0395
+caseName: USA v. JACKSON
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nytimes.com/2021/01/18/us/riley-june-williams-emmanuel-jackson.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357096/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-charged-federal-court-assaulting-and-impeding-local-and-federal-officers-during-us)

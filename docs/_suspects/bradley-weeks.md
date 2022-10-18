@@ -9,11 +9,15 @@ date: 2021-01-21
 charged: 2021-01-21
 indicted: 2021-03-24
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date: 2022-12-07
+trial_type: Bench Trial
 sentencing:
+status_conference:
 age: 43
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-247
+caseNumber: 21-cr-0247
+caseName: USA v. WEEKS
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

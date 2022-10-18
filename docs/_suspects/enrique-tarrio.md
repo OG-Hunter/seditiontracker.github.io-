@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0175
+caseName: USA v. NORDEAN
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.theguardian.com/us-news/2022/mar/08/enrique-tarrio-proud-boys-leader-arrested-us-capitol-attack-conspiracy)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480986/download)
 - [Detention Memo](https://s3.documentcloud.org/documents/21417131/3-14-22-us-detention-memo-enrique-tarrio.pdf)

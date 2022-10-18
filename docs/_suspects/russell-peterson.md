@@ -17,6 +17,7 @@ plea_hearing: 2021-09-08
 trial_date:
 trial_type:
 sentencing: 2021-12-01
+status_conference:
 age: 34
 occupation: Unemployed
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-309
+caseNumber: 21-cr-0309
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-11-15
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-290
+caseNumber: 22-cr-0290
+caseName: USA v. SORELLE
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

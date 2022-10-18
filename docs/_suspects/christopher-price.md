@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference:
 age:
 occupation:
 affiliations:
@@ -28,13 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Worth fighting for Trump.'
+quote: "Worth fighting for Trump."
 title: Christopher Price charged on July 30, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-550
+caseNumber: 21-cr-0719
+caseName: USA v. BALLENGER
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

@@ -8,12 +8,16 @@ status: Charged
 date: 2021-01-21
 charged: 2021-01-21
 indicted:
-convicted: 
-sentenced: 
-dismissed: 
+convicted:
+acquitted:
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-15
 age: 65
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-38
+caseNumber: 21-cr-0006
+caseName: USA v. CIARPELLI
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

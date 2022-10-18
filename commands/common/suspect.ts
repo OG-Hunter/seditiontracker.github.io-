@@ -1,7 +1,8 @@
 import { readFile, writeLines } from "./file";
-import { isEmpty } from "lodash";
+import { isEmpty, padStart } from "lodash";
 import YAML from "yaml";
 import fs from "fs";
+import { exitWithError, warning } from "./console";
 
 export interface Charge {
   code: string;
@@ -20,6 +21,7 @@ export interface Suspect {
   status?: string;
   date?: string;
   sentenced?: string;
+  status_conference?: string;
   charged?: string;
   indicted?: string;
   convicted?: string;
@@ -30,8 +32,8 @@ export interface Suspect {
   trial_date?: string;
   trial_type?: string;
   sentencing?: string;
-  name?: string;
-  lastName?: string;
+  name: string;
+  lastName: string;
   hashtag?: string;
   links?: { [type: string]: string };
   age?: string;
@@ -51,6 +53,8 @@ export interface Suspect {
   jurisdiction?: string;
   residence?: string;
   caseNumber?: string;
+  caseName?: string;
+  judge?: string;
   charges?: Charge[];
   sentence?: string[];
   videos?: Video[];
@@ -58,7 +62,7 @@ export interface Suspect {
 
 export const getSuspectByFile = (filename: string) => {
   const data = readFile(`./docs/_suspects/${filename}`);
-  const suspect: Suspect = { published: true };
+  const suspect: Suspect = { published: true, name: "", lastName: "" };
 
   if (/published: false/.test(data)) {
     suspect.published = false;
@@ -181,6 +185,18 @@ export const getSuspectByFile = (filename: string) => {
     suspect.trial_type = RegExp.$1;
   }
 
+  if (data.match(/caseName: (.*)/)) {
+    suspect.caseName = RegExp.$1;
+  }
+
+  if (data.match(/judge: (.*)/)) {
+    suspect.judge = RegExp.$1;
+  }
+
+  if (data.match(/status_conference: (.*)/)) {
+    suspect.status_conference = RegExp.$1;
+  }
+
   suspect.charges = getCharges(data.split("---")[1].trim());
   suspect.videos = getVideos(data.split("---")[1].trim());
   suspect.sentence = getSentence(data.split("---")[1].trim());
@@ -188,7 +204,81 @@ export const getSuspectByFile = (filename: string) => {
   return suspect;
 };
 
+export const formatCaseNumber = (text: string) => {
+  if (!/(1:)?(21|22|23)-(mj|cr)-0?(\d{1,4})/.test(text)) {
+    exitWithError("Invalid case number: " + text);
+  }
+  const year = padStart(RegExp.$2);
+  const number = padStart(RegExp.$4, 4, "0");
+  return `${year}-${RegExp.$3}-${number}`;
+};
+
+type SuspectDate = {
+  date: Date;
+  label: string;
+};
+
+const verifyDates = (suspect: Suspect) => {
+  const suspectDates: SuspectDate[] = [];
+
+  const SEQUENCE = [
+    "charged",
+    "indicted",
+    "trial_date",
+    "status_conference",
+    "plea_hearing",
+    "convicted",
+    "acquitted",
+    "dismissed",
+    "deceased",
+    "sentencing_date",
+    "sentenced",
+  ];
+
+  SEQUENCE.map((label) => {
+    if (suspect[label]) {
+      suspectDates.push({ label, date: new Date(`${suspect[label]}T00:00:00Z`) });
+    }
+  });
+
+  let prevItem: SuspectDate = null;
+  const remainingDates: SuspectDate[] = suspectDates;
+  while (remainingDates.length > 0) {
+    if (!prevItem) {
+      prevItem = remainingDates.shift();
+      continue;
+    }
+
+    const itemToCheck = remainingDates.shift();
+
+    const diff = prevItem.date.getTime() - itemToCheck.date.getTime();
+    if (diff > 0) {
+      warning(`${prevItem.label} more recent than ${itemToCheck.label} for ${suspect.name}`);
+      return false;
+    }
+  }
+  return true;
+};
+
 export const updateSuspect = (suspect: Suspect) => {
+  const { caseNumber } = suspect;
+  // do some cleanup first
+  suspect.caseNumber = caseNumber ? formatCaseNumber(caseNumber) : "";
+  if (suspect.trial_type === "Jury") {
+    suspect.trial_type = "Jury Trial";
+  }
+
+  if (suspect.judge && !suspect.caseName) {
+    warning("No case name: " + suspect.name);
+  }
+
+  if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.sentenced)) {
+    suspect.status_conference = null;
+  }
+
+  // make sure dates make sense
+  verifyDates(suspect);
+
   const lines: string[] = [];
 
   lines.push("---");
@@ -210,6 +300,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`trial_date: ${suspect.trial_date}`);
   lines.push(`trial_type: ${suspect.trial_type}`);
   lines.push(`sentencing: ${suspect.sentencing}`);
+  lines.push(`status_conference: ${suspect.status_conference}`);
   lines.push(`age: ${suspect.age}`);
   lines.push(`occupation: ${suspect.occupation}`);
   lines.push(`affiliations: ${suspect.affiliations}`);
@@ -230,6 +321,8 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`layout: ${"suspect"}`);
   lines.push(`published: ${suspect.published.toString()}`);
   lines.push(`caseNumber: ${suspect.caseNumber}`);
+  lines.push(`caseName: ${suspect.caseName}`);
+  lines.push(`judge: ${suspect.judge}`);
   lines.push(`videos:`);
   if (suspect.videos) {
     for (const { title, url } of Object.values(suspect.videos)) {
@@ -256,10 +349,6 @@ export const updateSuspect = (suspect: Suspect) => {
 
   for (const [type, url] of Object.entries(suspect.links)) {
     lines.push(`- [${type}](${url})`);
-  }
-
-  if (suspect.name.includes("Malley")) {
-    console.log(suspect.name);
   }
 
   writeLines(`docs/_suspects/${dasherizeName(suspect.name, "")}.md`, lines);

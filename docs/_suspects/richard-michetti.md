@@ -17,6 +17,7 @@ plea_hearing: 2022-05-31
 trial_date:
 trial_type:
 sentencing: 2022-09-06
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-232
+caseNumber: 21-cr-0232
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 9 months incarceration
   - 2 years probation
   - $20000 restitution
 ---
-
 - [News Report](https://www.mcall.com/news/pennsylvania/mc-nws-pa-pennsylvania-man-charged-capitol-ex-girlfriend-fbi-20210224-ykcigqstwvdvnaric6chlxrqxy-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371461/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378296/download)

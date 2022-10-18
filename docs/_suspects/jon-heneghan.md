@@ -9,11 +9,15 @@ date: 2022-02-22
 charged: 2022-02-22
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-12-05
+trial_type: Jury Trial
 sentencing:
+status_conference: 2022-10-19
 age:
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0061
+caseName: USA v. HENEGHAN
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

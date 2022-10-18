@@ -9,11 +9,15 @@ date: 2021-11-17
 charged: 2021-11-17
 indicted: 2021-11-17
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 27
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0246
+caseName: USA v. RODRIGUEZ
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

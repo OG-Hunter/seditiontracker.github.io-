@@ -9,11 +9,15 @@ date: 2021-04-20
 charged: 2021-04-20
 indicted: 2021-07-28
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-04
 age: 27
 occupation:
 affiliations: Three Percenters
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0497
+caseName: USA v. ANTONIO
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

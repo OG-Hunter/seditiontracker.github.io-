@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-09-10
 trial_date:
+trial_type:
 sentencing: 2021-12-10
+status_conference:
 age: 25
 occupation:
 affiliations:
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-136
+caseNumber: 21-cr-0136
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 90 days home detention
   - 18 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.sun-sentinel.com/news/fl-ne-south-florida-arrest-capitol-break-in-20210119-6u2wlop4tfayxmcglbstn3id54-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371446/download)
 - [News Interview (VIDEO)](https://miami.cbslocal.com/2021/01/20/felipe-marquez-storm-capitol-rosa-parks-martin-luther-king-moment/)

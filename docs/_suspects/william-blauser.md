@@ -14,8 +14,10 @@ sentenced: 2022-02-03
 dismissed:
 deceased:
 plea_hearing: 2021-11-15
-trial_date:
+trial_date: 2023-01-11
+trial_type: Jury Trial
 sentencing: 2022-02-03
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-386
+caseNumber: 21-cr-0386
+caseName: USA v. BAUER
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

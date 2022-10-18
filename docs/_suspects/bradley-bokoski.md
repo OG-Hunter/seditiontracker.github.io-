@@ -13,9 +13,11 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-13
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 58
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-108
+caseNumber: 22-cr-0207
+caseName: USA v. BOKOSKI
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

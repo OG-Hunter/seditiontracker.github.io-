@@ -17,6 +17,7 @@ plea_hearing: 2022-09-14
 trial_date:
 trial_type:
 sentencing: 2022-12-15
+status_conference:
 age: 34
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-726
+caseNumber: 21-cr-0726
+caseName: USA v. KENYON
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

@@ -17,6 +17,7 @@ plea_hearing:
 trial_date: 2022-03-21
 trial_type: Bench Trial
 sentencing: 2022-06-17
+status_conference:
 age: 47
 occupation: County Commissioner
 affiliations: Cowboys for Trump
@@ -34,13 +35,15 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-92
+caseNumber: 21-cr-0092
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 14 days incarceration
   - 1 year probation
@@ -48,7 +51,6 @@ sentence:
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
 - [Perp Walk (VIDEO)](https://www.nbcwashington.com/news/local/new-mexico-county-commissioner-arrested-in-dc-for-involvement-in-capitol-riot/2544645/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355986/download)

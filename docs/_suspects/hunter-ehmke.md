@@ -5,8 +5,8 @@ hashtag: HunterEhmke
 aka:
 residence: California
 status: Sentenced
-date: 2021-01-13
-charged: 2021-01-28
+date: 2021-01-11
+charged: 2021-01-11
 indicted: 2021-01-27
 convicted: 2022-01-14
 acquitted:
@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-01-14
 trial_date:
+trial_type:
 sentencing: 2022-05-13
+status_conference:
 age: 20
 occupation:
 affiliations:
@@ -28,24 +30,25 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: Hunter Ehmke charged on January 13th, 2021
+title: Hunter Ehmke charged on January 11, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-29
+caseNumber: 21-cr-0029
+caseName:
+judge:
 videos:
 charges:
-  - code: 18 USC § 1361
-    title: Destruction of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/1361
-    felony: true
+- code: 18 USC § 1361
+  title: Destruction of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/1361
+  felony: true
 sentence:
   - 4 months incarceration
   - 3 years probation
   - $2821 restitution
 ---
-
 - [News Report](https://www.sandiegotrends.com/2021/01/15/california-man-hunter-ehmke-arrested-in-siege-of-capitol/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-and-charged-federal-charges-following-events-united-states)
 - [Complaint](https://www.justice.gov/opa/page/file/1353886/download)

@@ -8,15 +8,16 @@ status: Sentenced
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
-convicted: 2021-01-14
+convicted: 2022-01-14
 acquitted:
 sentenced: 2022-07-07
 dismissed:
 deceased:
-plea_hearing: 2021-01-14
+plea_hearing: 2022-01-14
 trial_date:
 trial_type:
 sentencing: 2022-07-07
+status_conference:
 age: 23
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-281
+caseNumber: 21-cr-0281
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

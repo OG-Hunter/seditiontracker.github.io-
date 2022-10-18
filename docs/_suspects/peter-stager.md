@@ -9,11 +9,15 @@ date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-01-29
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-18
 age: 41
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-35
+caseNumber: 21-cr-0035
+caseName: USA v. STAGER
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

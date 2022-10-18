@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-01-07
 trial_date:
+trial_type:
 sentencing: 2022-05-10
+status_conference:
 age: 32
 occupation: Music Teacher
 affiliations: Oath Keepers (likely), Red Elephants (likely)
@@ -33,19 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-273
+caseNumber: 21-cr-0273
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 9 days intermittent confinement
   - 2 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)

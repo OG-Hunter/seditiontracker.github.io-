@@ -1,7 +1,7 @@
 ---
 name: Carrie Williams
 lastName: Williams
-hashtag: 
+hashtag:
 aka:
 residence: Maryland
 status: Charged
@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
+status_conference: 2022-12-01
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-136
+caseNumber: 21-cr-0248
+caseName: USA v. MILEUR
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

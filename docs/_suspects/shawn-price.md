@@ -9,11 +9,15 @@ date: 2021-06-08
 charged: 2021-06-08
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-10-13
+plea_hearing: 2022-10-14
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 26
 occupation:
 affiliations: Proud Boys
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0106
+caseName: USA v. PRICE
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dailyrecord.com/story/news/2021/06/08/capitol-riot-rockaway-twp-proud-boys-member-charged-role-deadly-attack/7606726002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402491/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/self-identified-proud-boy-arrested-violent-entry-and-obstruction-justice-during-jan-6)

@@ -17,6 +17,7 @@ plea_hearing: 2022-09-14
 trial_date:
 trial_type:
 sentencing: 2022-12-02
+status_conference:
 age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-451
+caseNumber: 21-cr-0451
+caseName: USA v. IANNI
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(D)

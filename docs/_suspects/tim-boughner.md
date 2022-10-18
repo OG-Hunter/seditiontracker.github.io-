@@ -9,11 +9,15 @@ date: 2021-11-09
 charged: 2021-11-09
 indicted:
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 41
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-649
+caseNumber: 
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/12/08/tim-boughner-us-capitol-siege-michigan-man-charged-assaulting-police/6438758001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459236/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-man-charged-assault-law-enforcement-during-jan-6-capitol-breach)

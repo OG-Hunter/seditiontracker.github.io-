@@ -9,11 +9,15 @@ date: 2021-02-04
 charged: 2021-02-04
 indicted: 2021-03-05
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-11-07
 age: 32
 occupation: Business Owner
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-191
+caseNumber: 21-cr-0191
+caseName: USA v. ZINK
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

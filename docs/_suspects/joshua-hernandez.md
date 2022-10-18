@@ -9,11 +9,15 @@ date: 2022-02-09
 charged: 2022-02-09
 indicted: 2022-02-09
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-27
 age: 28
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 22-cr-0042
+caseName: USA v. HERNANDEZ
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

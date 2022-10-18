@@ -9,11 +9,15 @@ date: 2021-08-19
 charged: 2021-08-19
 indicted: 2021-10-27
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 41
 occupation:
 affiliations: U.S. Army (Former)
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-501
+caseNumber: 21-cr-0647
+caseName:
+judge:
 videos:
 charges:
 sentence:

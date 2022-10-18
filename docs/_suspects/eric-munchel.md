@@ -9,11 +9,15 @@ date: 2021-01-10
 charged: 2021-01-10
 indicted: 2021-02-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-02
 age: 30
 occupation:
 affiliations:
@@ -31,12 +35,13 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-118
+caseNumber: 21-cr-0118
+caseName: USA v. MUNCHEL
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1355811/download)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-02
 trial_date:
+trial_type:
 sentencing: 2022-11-28
+status_conference:
 age: 54
 occupation: Owner, Motor-Coach Business
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-341
+caseNumber: 21-cr-0341
+caseName: USA v. WRIGHT
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

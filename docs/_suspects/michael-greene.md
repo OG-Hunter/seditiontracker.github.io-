@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference:
 age: 39
 occupation:
 affiliations: Oath Keepers
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-28
+caseNumber: 21-cr-0028
+caseName: USA v. CROWL
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

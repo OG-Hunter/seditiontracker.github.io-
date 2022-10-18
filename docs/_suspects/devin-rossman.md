@@ -17,6 +17,7 @@ plea_hearing: 2022-09-09
 trial_date:
 trial_type:
 sentencing: 2022-12-09
+status_conference:
 age:
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-280
+caseNumber: 22-cr-0280
+caseName: USA v. ROSSMAN
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -9,11 +9,15 @@ date: 2021-08-12
 charged: 2021-08-12
 indicted: 2021-08-12
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-sentencing:
+trial_date:
+trial_type:
+sentencing: 2023-01-06
+status_conference:
 age: 52
 occupation:
 affiliations: Formery U.S. Army
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-40
+caseNumber: 21-cr-0040
+caseName: USA v. MCCAUGHEY III
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

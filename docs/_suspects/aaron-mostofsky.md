@@ -17,6 +17,7 @@ plea_hearing: 2022-02-02
 trial_date:
 trial_type:
 sentencing: 2022-05-06
+status_conference:
 age: 34
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-138
+caseNumber: 21-cr-0138
+caseName:
+judge:
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-19
 age: 40
 occupation:
 affiliations:
@@ -33,12 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-189
+caseNumber: 21-cr-0189
+caseName: USA v. HARRIS
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcmiami.com/news/local/man-arrested-in-south-florida-in-connection-with-jan-6-u-s-capitol-breach/2417430/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381176/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Detention%20Order.pdf)

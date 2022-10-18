@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-04-27
 trial_date:
+trial_type:
 sentencing: 2022-07-12
+status_conference:
 age:
 occupation:
 affiliations:
@@ -33,20 +35,21 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-205
+caseNumber: 21-cr-0205
+caseName:
+judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 3 years probation
   - 60 hours community service
   - $2000 fine
   - $500 restitution
 ---
-
 - [News Report](https://philadelphia.cbslocal.com/2021/01/22/marissa-suarez-us-capitol-riots-five-arrests-new-jersey-marissa-suarez-correctional-police-officer/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359596/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359596/download)
@@ -54,3 +57,5 @@ sentence:
 - [Plea Deal](https://storage.courtlistener.com/recap/gov.uscourts.dcd.228651/gov.uscourts.dcd.228651.44.0.pdf)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497261/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497256/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Patricia%20Todisco%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Patricia%20Todisco%20Judgment.pdf)

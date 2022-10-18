@@ -9,11 +9,15 @@ date: 2021-03-09
 charged: 2021-03-09
 indicted:
 convicted: 
+acquitted:
 sentenced: 
 dismissed: 
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-01
 age: 41
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-248
+caseNumber: 21-cr-0248
+caseName: USA v. MILEUR
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

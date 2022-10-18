@@ -9,11 +9,15 @@ date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-04-23
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-14
 age: 48
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-44
+caseNumber: 21-cr-0044
+caseName: USA v. PHIPPS
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2022-08-09
 trial_date:
+trial_type:
 sentencing: 2022-08-09
+status_conference:
 age: 50
 occupation:
 affiliations: Proud Boys
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-cr-238
+caseNumber: 22-cr-0238
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

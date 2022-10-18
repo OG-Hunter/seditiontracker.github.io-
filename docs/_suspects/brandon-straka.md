@@ -17,6 +17,7 @@ plea_hearing: 2021-10-06
 trial_date:
 trial_type:
 sentencing: 2022-01-24
+status_conference:
 age: 43
 occupation: Hair Stylist (Former)
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-579
+caseNumber: 21-cr-0579
+caseName:
+judge:
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(D)

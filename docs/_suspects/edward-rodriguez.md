@@ -9,11 +9,15 @@ date: 2021-07-09
 charged: 2021-07-09
 indicted: 2021-07-21
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-12-01
 age: 26
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-483
+caseNumber: 21-cr-0483
+caseName: USA v. RODRIGUEZ
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

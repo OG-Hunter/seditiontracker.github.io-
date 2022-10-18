@@ -9,11 +9,15 @@ date: 2021-04-01
 charged: 2021-04-01
 indicted: 2021-04-07
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date: 2022-12-05
+trial_type: Jury Trial
 sentencing:
+status_conference:
 age: 21
 occupation:
 affiliations:
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-286
+caseNumber: 21-cr-0286
+caseName: USA v. OWENS
+judge: Beryl A. Howell
 videos:
 - title: Defense Exhibit A.mp4 (0:51:59)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/51d50c60ce28013960702cde48001122.mp4

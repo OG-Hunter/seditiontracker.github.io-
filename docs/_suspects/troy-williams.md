@@ -15,7 +15,9 @@ dismissed:
 deceased:
 plea_hearing: 2021-10-14
 trial_date:
+trial_type:
 sentencing: 2022-01-20
+status_conference:
 age: 25
 occupation:
 affiliations:
@@ -33,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 21-cr-0082
+caseName: USA v. CRASE
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

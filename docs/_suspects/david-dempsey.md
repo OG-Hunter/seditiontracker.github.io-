@@ -9,11 +9,15 @@ date: 2021-08-25
 charged: 2021-08-25
 indicted: 2021-09-08
 convicted:
+acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
+trial_date:
+trial_type:
 sentencing:
+status_conference: 2022-10-14
 age: 34
 occupation:
 affiliations: Proud Boys
@@ -31,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-mj-578
+caseNumber: 21-cr-0566
+caseName: USA v. DEMPSEY
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

@@ -16,7 +16,8 @@ deceased:
 plea_hearing: 2022-08-30
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-29
+status_conference:
 age: 66
 occupation:
 affiliations:
@@ -34,7 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:21-cr-592
+caseNumber: 21-cr-0592
+caseName: USA v. WIERSMA
+judge: Amy B. Jackson
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
