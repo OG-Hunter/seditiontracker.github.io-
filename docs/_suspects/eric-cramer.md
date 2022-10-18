@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-25
 trial_date:
 trial_type:
 sentencing:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0339
-caseName:
-judge:
+caseName: USA v. CRAMER
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
