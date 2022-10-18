@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'The game plan was to talk [to] the officers and tell them to STOP FOLLOWING ORDERS AND UPHOLD THE CONSTITUTION… When they didn’t listen we pushed through (without hurting them of course) we did these peaceful pushes all the way into the capital [sic] building.'
+quote: "The game plan was to talk [to] the officers and tell them to STOP FOLLOWING ORDERS AND UPHOLD THE CONSTITUTION… When they didn’t listen we pushed through (without hurting them of course) we did these peaceful pushes all the way into the capital [sic] building."
 title: Gregory Purdy charged on November 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0019
 caseName:
 judge:
 videos:

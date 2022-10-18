@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Shooting tear gas at us at the Capital. [sic] Real nice civil servants.'
+quote: "Shooting tear gas at us at the Capital. [sic] Real nice civil servants."
 title: Frank Giustino charged on January 3, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-mj-0002
 caseName:
 judge:
 videos:

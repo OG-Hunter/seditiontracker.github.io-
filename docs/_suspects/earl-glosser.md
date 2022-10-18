@@ -21,7 +21,7 @@ status_conference:
 age:
 occupation:
 affiliations:
-jurisdiction: Federal
+jurisdiction: DC
 image: /images/preview/earl-glosser.jpg
 suspect: earl-glosser.jpg
 booking:
@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber: 
+caseNumber: --0000
 caseName:
 judge:
 videos:
