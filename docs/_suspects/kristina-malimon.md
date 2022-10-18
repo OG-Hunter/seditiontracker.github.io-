@@ -15,13 +15,13 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-trial_type:
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 30
 occupation:
 affiliations:
-jurisdiction: Federal
+jurisdiction: DC
 image: /images/preview/sentenced.jpg
 suspect: sentenced.jpg
 booking:
@@ -34,13 +34,21 @@ title: Kristina Malimon charged on January 6th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
-caseNumber: 
+published: true
+caseNumber: 2021-CMD-195
 caseName:
 judge:
 videos:
 charges:
+  - code: DC § 22–3302
+    title: Unlawful entry on property
+    url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
+    felony: false
 sentence:
+  - 12 months probation
+  - 100 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.fox7austin.com/news/texas-woman-guilty-for-involvement-on-us-capitol-grounds)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-woman-and-north-carolina-man-found-guilty-failing-leave-capitol-grounds-following)

@@ -205,7 +205,12 @@ export const getSuspectByFile = (filename: string) => {
 };
 
 export const formatCaseNumber = (text: string) => {
-  if (!/(1:)?(21|22|23)-(mj|cr)-0?(\d{1,4})/.test(text) && !/20\d{2}-CMD-\d{3}/.test(text)) {
+  if (/20\d{2}-CMD-\d{3}/.test(text)) {
+    // don't mess with DC case numbers
+    return text;
+  }
+
+  if (!/(1:)?(21|22|23)-(mj|cr)-0?(\d{1,4})/.test(text)) {
     exitWithError("Invalid case number: " + text);
   }
   const year = padStart(RegExp.$2);

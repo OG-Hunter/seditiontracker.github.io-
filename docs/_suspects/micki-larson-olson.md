@@ -34,7 +34,7 @@ title: Micki Larson-Olson charged on January 19th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName:
 judge:
