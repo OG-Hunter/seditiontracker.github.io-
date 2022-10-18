@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date:
-trial_type:
+trial_type: Jury Trial
 sentencing: 2022-09-30
 age: 53
 occupation:
@@ -33,12 +33,17 @@ title: Micki Larson-Olson charged on January 19th, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: true
+published: false
 caseNumber:
 caseName:
 judge:
 videos:
 charges:
+  - code: DC § 22–3302
+    title: Unlawful entry on property
+    url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
+    felony: false
+
 sentence:
   - 180 days incarceration
 ---
