@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0181
-caseName:
-judge:
+caseName: USA v. MACRAE
+judge: James E. Boasberg
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-18
+status_conference: 2022-10-24
 age: 41
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. STAGER
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

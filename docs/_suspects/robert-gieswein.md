@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-05-02
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-10-19
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
 affiliations: Three Percenters
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0024
 caseName: USA v. GIESWEIN
-judge: Emmet G. Sullivan
+judge: Trevor N. McFadden
 videos:
 - title: Video Exhibit 1 - U.S. v. Gieswein.mp4 (0:04:54)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/9f184490dc1b01392a3b2cde48001122.mp4

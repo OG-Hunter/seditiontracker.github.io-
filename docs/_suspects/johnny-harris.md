@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-02-27
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-10-24
 age: 56
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0274
 caseName: USA v. HARRIS
-judge: Emmet G. Sullivan
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
