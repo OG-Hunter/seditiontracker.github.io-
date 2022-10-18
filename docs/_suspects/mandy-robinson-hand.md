@@ -4,16 +4,16 @@ lastName: Robinson-Hand
 hashtag:
 aka:
 residence: Georgia
-status: Charged
+status: Convicted
 date: 2022-03-04
 charged: 2022-03-04
 indicted:
-convicted:
+convicted: 2022-10-14
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-14
 trial_date:
 trial_type:
 sentencing:
@@ -35,14 +35,20 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0111
 caseName:
 judge:
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.11alive.com/article/news/special-reports/capitol-insurrection/georgia-couple-arrested-jan-6-case-capitol-riots/85-7da2e02e-4b63-4579-9aef-a959a286d122)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482886/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482891/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Charles%20Hand%20III%20and%20Mandy%20Robinson-Hand%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1543751/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1543756/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1543761/download)

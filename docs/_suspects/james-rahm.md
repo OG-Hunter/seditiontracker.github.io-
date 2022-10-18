@@ -45,5 +45,5 @@ sentence:
 - [News Report](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)
 - [FBI Raid (Video)](https://www.nbcphiladelphia.com/news/national-international/fbi-conducts-search-at-nj-home-in-connection-to-deadly-u-s-capitol-siege-sources/2693983/)
 - [FBI Statement (Twitter)](https://twitter.com/FBINewark/status/1357776205827694593?s=20)
-- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379116/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379126/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542501/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542471/download)

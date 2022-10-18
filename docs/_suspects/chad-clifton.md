@@ -4,11 +4,11 @@ lastName: Clifton
 hashtag:
 aka:
 residence: South Carolina
-status: Charged
+status: Convicted
 date: 2022-05-16
 charged: 2022-05-16
 indicted:
-convicted:
+convicted: 2022-10-13
 acquitted:
 sentenced:
 dismissed:
@@ -40,9 +40,15 @@ caseName: USA v. CLIFTON
 judge: Beryl A. Howell
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507421/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507426/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Chad%20Clifton%20and%20David%20Johnston%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542296/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542286/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542291/download)
