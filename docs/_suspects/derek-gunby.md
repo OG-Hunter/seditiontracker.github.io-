@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-12
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 41
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Full disclosure: I went into the Capitol. I had the videos and they weren’t interested.'
+quote: "Full disclosure: I went into the Capitol. I had the videos and they weren’t interested."
 title: Derek Gunby charged on June 29, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0626
+caseName: USA v. GUNBY
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

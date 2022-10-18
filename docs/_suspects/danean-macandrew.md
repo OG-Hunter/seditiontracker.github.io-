@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-25
 age:
 occupation:
 affiliations:
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I was scared of it for weeks, so I didn’t post my videos. I finally stood up for truth. When I did, I wasn’t scared anymore.'
+quote: "I was scared of it for weeks, so I didn’t post my videos. I finally stood up for truth. When I did, I wasn’t scared anymore."
 title: Danean MacAndrew charged on November 12, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0730
+caseName: USA v. MACANDREW
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

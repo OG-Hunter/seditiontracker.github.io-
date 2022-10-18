@@ -17,6 +17,7 @@ plea_hearing:
 trial_date:
 trial_type: Jury Trial
 sentencing: 2022-09-30
+status_conference:
 age: 53
 occupation:
 affiliations:
@@ -34,19 +35,17 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 
 caseName:
 judge:
 videos:
 charges:
-  - code: DC § 22–3302
-    title: Unlawful entry on property
-    url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
-    felony: false
-
+- code: DC § 22–3302
+  title: Unlawful entry on property
+  url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
+  felony: false
 sentence:
   - 180 days incarceration
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/texas-woman-who-charged-us-capitol-dressed-as-captain-america-gets-jail-sentence/ar-AA12xJ9n)
 - [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-woman-sentenced-180-days-jail-after-jury-verdict-related-capitol-breach)

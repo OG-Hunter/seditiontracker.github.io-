@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Best day of my life'
+quote: "Best day of my life"
 title: Donald Smith charged on July 28, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0616
+caseName: USA v. SMITH
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

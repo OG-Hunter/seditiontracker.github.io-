@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-09
 age:
 occupation:
 affiliations:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0299
+caseName: USA v. CHILCOAT
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

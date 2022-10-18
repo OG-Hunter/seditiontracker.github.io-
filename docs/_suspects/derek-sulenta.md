@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Inside the capital building. This is wild!'
+quote: "Inside the capital building. This is wild!"
 title: Derek Sulenta charged on June 6th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-mj-0129
 caseName:
 judge:
 videos:

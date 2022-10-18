@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'It got crazy. I did shit.'
+quote: "It got crazy. I did shit."
 title: Dova Winegeart charged on July 14th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0301
 caseName:
 judge:
 videos:

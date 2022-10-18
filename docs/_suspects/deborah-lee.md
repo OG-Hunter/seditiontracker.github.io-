@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-18
 age:
 occupation:
 affiliations:
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'ITS [sic] OUR HOUSE. FUCK NANCY AND THE DEMOCRATS. WE HAVE EVERY RIGHT TO OCCUPY OUR CAPITAL!! [sic]'
+quote: "ITS [sic] OUR HOUSE. FUCK NANCY AND THE DEMOCRATS. WE HAVE EVERY RIGHT TO OCCUPY OUR CAPITAL!! [sic]"
 title: Deborah Lee charged on August 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0303
+caseName: USA v. LEE
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

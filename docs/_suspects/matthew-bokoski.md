@@ -40,13 +40,12 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.ksl.com/article/50411869/eagle-mountain-man-arrested-charged-in-connection-with-jan-6-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508481/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508486/download)
