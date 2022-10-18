@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 20
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://news.yahoo.com/man-stepson-were-charged-assaulting-005518620.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1542271/download)
