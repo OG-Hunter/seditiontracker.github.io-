@@ -4,21 +4,20 @@ lastName: Larson-Olson
 hashtag:
 aka:
 residence: Texas
-status: Charged
+status: Sentenced
 date: 2021-01-19
 charged: 2021-01-19
 indicted:
-convicted:
+convicted: 2022-09-29
 acquitted:
-sentenced:
+sentenced: 2022-09-30
 dismissed:
 deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
-status_conference:
-age:
+sentencing: 2022-09-30
+age: 53
 occupation:
 affiliations:
 jurisdiction: DC
@@ -42,5 +41,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.msn.com/en-us/news/us/texas-woman-who-charged-us-capitol-dressed-as-captain-america-gets-jail-sentence/ar-AA12xJ9n)
 - [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-woman-sentenced-180-days-jail-after-jury-verdict-related-capitol-breach)
