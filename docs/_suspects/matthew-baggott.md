@@ -14,8 +14,8 @@ sentenced: 2022-08-05
 dismissed:
 deceased:
 plea_hearing: 2022-04-05
-trial_date: 2023-01-17
-trial_type: Bench Trial
+trial_date:
+trial_type:
 sentencing: 2022-08-05
 status_conference:
 age:

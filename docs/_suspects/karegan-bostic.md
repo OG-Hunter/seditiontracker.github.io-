@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-26
 trial_date:
 trial_type:
 sentencing:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0643
+caseName: USA v. BOSTIC
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
