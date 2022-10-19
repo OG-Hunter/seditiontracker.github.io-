@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-04
 age:
 occupation:
 affiliations:
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I swear to God, I’ll hip toss your ass into the fuckin’ crowd, mother fucker!'
+quote: "I swear to God, I’ll hip toss your ass into the fuckin’ crowd, mother fucker!"
 title: John Todd charged on May 3rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0166
+caseName: USA v. TODD III
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

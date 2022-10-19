@@ -40,16 +40,15 @@ caseName: USA v. RYALS
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 9 months incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://kfor.com/news/2-more-oklahomans-charged-in-u-s-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378856/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381756/download)

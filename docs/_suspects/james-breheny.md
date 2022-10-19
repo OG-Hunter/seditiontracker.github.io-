@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-13
 age: 61
 occupation:
 affiliations: Oath Keepers
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-mj-0434
+caseName: USA v. BREHENY
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

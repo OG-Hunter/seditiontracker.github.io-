@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-24
 trial_date:
 trial_type:
 sentencing:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0102
+caseName: USA v. ARCHER
+judge: John D. Bates
 videos:
 charges:
 sentence:

@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-07
 status_conference:
 age:
 occupation:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0243
+caseName: USA v. TEMPLE
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

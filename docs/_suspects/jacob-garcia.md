@@ -1,7 +1,7 @@
 ---
 name: Jacob Garcia
 lastName: Garcia
-hashtag: 
+hashtag:
 aka:
 residence: Texas
 status: Charged
@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-20
 trial_date:
 trial_type:
 sentencing:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0118
+caseName: USA v. GARCIA
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

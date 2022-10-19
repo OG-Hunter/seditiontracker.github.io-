@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2022-12-06
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 32
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0538
+caseName: USA v. CLARK
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

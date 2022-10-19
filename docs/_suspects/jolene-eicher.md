@@ -1,7 +1,7 @@
 ---
 name: Jolene Eicher
 lastName: Eicher
-hashtag: 
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-24
 age:
 occupation:
 affiliations:
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'What. The. Crap. Woohoo!!!!!!!'
+quote: "What. The. Crap. Woohoo!!!!!!!"
 title: Jolene Eicher charged on 1/20/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0038
+caseName: USA v. EICHER
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

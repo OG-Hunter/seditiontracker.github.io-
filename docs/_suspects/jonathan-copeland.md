@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-mj-0195
+caseName: USA v. COPELAND
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

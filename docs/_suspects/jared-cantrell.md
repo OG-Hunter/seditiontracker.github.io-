@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-04-03
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 38
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I was one of the first 50 in.'
+quote: "I was one of the first 50 in."
 title: Jared Cantrell charged on March 7th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0121
+caseName: USA v. CANTRELL
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

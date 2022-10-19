@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-18
 age: 35
 occupation:
 affiliations:
@@ -29,15 +29,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Today is the start of the chaos, the start of a revolution, the end of a chapter'
+quote: "Today is the start of the chaos, the start of a revolution, the end of a chapter"
 title: Joshua Colgan charged on May 2, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0224
+caseName: USA v. COLGAN
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-cr-0100
+caseName: USA v. ZERKLE
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

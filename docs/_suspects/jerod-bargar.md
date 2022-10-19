@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-18
+status_conference: 2022-12-15
 age: 36
 occupation:
 affiliations:
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 22-mj-0169
+caseName: USA v. BARGAR
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

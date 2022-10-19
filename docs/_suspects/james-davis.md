@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-09
 age: 45
 occupation:
 affiliations: Proud Boys, USMC
@@ -35,9 +35,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
-caseName:
-judge:
+caseNumber: 21-cr-0595
+caseName: USA v. DAVIS
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Well, it started around, right when I got there. I tore down the barricades,'
+quote: "Well, it started around, right when I got there. I tore down the barricades,"
 title: Jerry Braun charged on 4/7/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 21-cr-0377
 caseName:
 judge:
 videos:

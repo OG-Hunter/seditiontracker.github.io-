@@ -40,15 +40,14 @@ caseName:
 judge:
 videos:
 charges:
-  - code: DC § 22–3302
-    title: Unlawful entry on property
-    url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
-    felony: false
+- code: DC § 22–3302
+  title: Unlawful entry on property
+  url: https://code.dccouncil.gov/us/dc/council/code/sections/22-3302.html
+  felony: false
 sentence:
   - 12 months probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.fox7austin.com/news/texas-woman-guilty-for-involvement-on-us-capitol-grounds)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-woman-and-north-carolina-man-found-guilty-failing-leave-capitol-grounds-following)
