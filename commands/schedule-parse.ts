@@ -114,6 +114,9 @@ const parseSchedule = async () => {
             suspect.sentencing = latestDate(suspect, "sentencing", dateText);
             break;
           case "Jury Selection":
+            if (!isBlank(suspect.plea_hearing)) {
+              break;
+            }
             if (!trial_type) {
               console.log(`${suspect.name} jury trial: ${dateText}`);
               suspect.trial_type = "Jury Trial";
@@ -123,6 +126,9 @@ const parseSchedule = async () => {
             }
             break;
           case "Bench Trial":
+            if (!isBlank(suspect.plea_hearing)) {
+              break;
+            }
             if (!trial_type) {
               console.log(`${suspect.name} bench trial: ${dateText}`);
               suspect.trial_type = "Bench Trial";
@@ -140,6 +146,13 @@ const parseSchedule = async () => {
       }
     }
   });
+};
+
+export const isBlank = (text: string) => {
+  if (!text || text == "") {
+    return true;
+  }
+  return false;
 };
 
 parseSchedule();

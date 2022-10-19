@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0639
 caseName: USA v. SARGENT
-judge: Emmet G. Sullivan
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

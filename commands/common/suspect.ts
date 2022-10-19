@@ -281,6 +281,11 @@ export const updateSuspect = (suspect: Suspect) => {
     suspect.status_conference = null;
   }
 
+  if (suspect.plea_hearing) {
+    suspect.trial_date = null;
+    suspect.trial_type = null;
+  }
+
   // make sure dates make sense
   verifyDates(suspect);
 
