@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0244
-caseName:
-judge:
+caseName: USA v. SPEED
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

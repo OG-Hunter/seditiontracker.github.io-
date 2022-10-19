@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0274
 caseName: USA v. HARRIS
-judge: Randolph D. Moss
+judge: Emmet G. Sullivan
 videos:
 charges:
 sentence:

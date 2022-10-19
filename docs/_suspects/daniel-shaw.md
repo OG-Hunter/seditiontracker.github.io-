@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-10-25
+plea_hearing: 2022-11-17
 trial_date:
 trial_type:
 sentencing:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0001
 caseName: USA v. SHAW
-judge: Emmet G. Sullivan
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

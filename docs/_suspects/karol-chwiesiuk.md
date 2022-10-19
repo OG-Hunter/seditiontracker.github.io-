@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-05-01
 trial_type: Jury Trial
 sentencing:
-status_conference: 2022-10-17
+status_conference: 2023-01-23
 age:
 occupation: Police Officer
 affiliations:

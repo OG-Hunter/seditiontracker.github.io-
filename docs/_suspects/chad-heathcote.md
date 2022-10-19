@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-06-05
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 41
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0232
-caseName:
-judge:
+caseName: USA v. HEATHCOTE
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

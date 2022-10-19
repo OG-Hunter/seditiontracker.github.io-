@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0024
 caseName: USA v. GIESWEIN
-judge: Trevor N. McFadden
+judge: Emmet G. Sullivan
 videos:
 - title: Video Exhibit 1 - U.S. v. Gieswein.mp4 (0:04:54)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/9f184490dc1b01392a3b2cde48001122.mp4

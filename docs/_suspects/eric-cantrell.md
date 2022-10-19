@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-04-03
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 51
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0121
-caseName:
-judge:
+caseName: USA v. CANTRELL
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

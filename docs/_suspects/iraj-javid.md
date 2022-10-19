@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-12
 trial_date:
 trial_type:
-sentencing: 2022-11-04
+sentencing: 2023-02-03
 status_conference:
 age: 31
 occupation: Washington Metropolitan Area Transit Authority IT Specialist

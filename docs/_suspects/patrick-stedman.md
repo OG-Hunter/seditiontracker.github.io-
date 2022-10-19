@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-13
+status_conference: 2022-10-21
 age: 32
 occupation: Dating + Relationship Strategist
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0383
 caseName: USA v. STEDMAN
-judge: Emmet G. Sullivan
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:
