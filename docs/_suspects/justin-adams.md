@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545446/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545451/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)

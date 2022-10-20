@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0089
 caseName: USA v. CANTWELL
-judge: Emmet G. Sullivan
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 18 USC § 231(a)(3)
