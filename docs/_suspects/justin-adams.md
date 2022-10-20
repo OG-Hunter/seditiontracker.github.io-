@@ -3,7 +3,7 @@ name: Justin Adams
 lastName: Adams
 hashtag: CoatWStripeCamo
 aka:
-residence:
+residence: Utah
 status: Charged
 date: 2022-10-07
 charged: 2022-10-07
@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 48
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545446/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545451/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
