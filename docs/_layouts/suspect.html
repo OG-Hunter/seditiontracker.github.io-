@@ -11,7 +11,7 @@ layout: default
 <div class="details">
   <h1 class="suspect-title">{{ page.name }}</h1>
   {% if page.hashtag %}
-  <div class="hashtag"><a href="https://twitter.com/search?q=%23{{page.hashtag}}">#{{ page.hashtag }}</a></div>
+  <div class="hashtag"><a href="https://twitter.com/search?q={{page.hashtag}}">#{{ page.hashtag }}</a></div>
   {% endif %} {% if page.aka %} AKA:
   <small>{{ page.aka }}</small>
   <br />
