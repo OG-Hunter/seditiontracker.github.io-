@@ -1,7 +1,7 @@
 id: 437
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #437 - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/437.png/@@images/image/preview
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-10-18
 mugshot: null
-sedition_link: null
-name: Tucker
+sedition_link: https://seditiontracker.com/suspects/tucker-weston
+name: Tucker Weston
 missingImage: false
 identifiedBy: null
 notes: null
