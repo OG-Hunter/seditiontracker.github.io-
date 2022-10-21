@@ -17,7 +17,7 @@ const convict = async () => {
     exitWithError("No such suspect");
   }
 
-  if (suspect.convicted) {
+  if (suspect.convicted && suspect.sentencing) {
     exitWithError("Suspect already convicted");
   }
 
