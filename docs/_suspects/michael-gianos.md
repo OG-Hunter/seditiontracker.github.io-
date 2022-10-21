@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Yeah I was in there. Stormed Nancy office'
+quote: "Yeah I was in there. Stormed Nancy office"
 title: Michael Gianos charged on November 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0074
 caseName:
 judge:
 videos:

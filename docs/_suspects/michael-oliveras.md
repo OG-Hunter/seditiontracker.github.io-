@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'That’s what happens when the fucking fake news shows up at a Patriot rally'
+quote: "That’s what happens when the fucking fake news shows up at a Patriot rally"
 title: Michael Oliveras charged on December 8, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 21-cr-0738
 caseName:
 judge:
 videos:
