@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0132
 caseName: USA v. GIONET
-judge: Emmet G. Sullivan
+judge: Trevor N. McFadden
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

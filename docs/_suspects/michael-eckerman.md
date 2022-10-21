@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0623
-caseName:
-judge:
+caseName: USA v. ECKERMAN
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

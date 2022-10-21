@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-20
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-02
 status_conference:
 age: 19
 occupation:

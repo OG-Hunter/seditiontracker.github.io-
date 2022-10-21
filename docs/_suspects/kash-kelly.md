@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0208
-caseName:
-judge:
+caseName: USA v. KELLY
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

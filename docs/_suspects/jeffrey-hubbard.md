@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0737
 caseName: USA v. HUBBARD
-judge: Emmet G. Sullivan
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

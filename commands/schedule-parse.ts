@@ -5,6 +5,11 @@ import { getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 import { readFile } from "./common/file";
 import { info } from "./common/console";
 
+/**
+ * Parse the results of the US District Court Dynamic Calendar
+ * https://media.dcd.uscourts.gov/datepicker/index.html
+ */
+
 const cmd = new Command();
 cmd.parse(process.argv);
 
