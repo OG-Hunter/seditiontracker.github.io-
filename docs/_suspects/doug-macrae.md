@@ -4,13 +4,13 @@ lastName: Macrae
 hashtag:
 aka:
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2022-05-12
 charged: 2022-05-12
 indicted:
 convicted: 2022-07-19
 acquitted:
-sentenced:
+sentenced: 2022-10-21
 dismissed:
 deceased:
 plea_hearing: 2022-07-19
@@ -40,12 +40,16 @@ caseName: USA v. MACRAE
 judge: James E. Boasberg
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 1 year probation
+  - 120 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/fbi-arrests-arlington-man-who-bragged-he-made-it-deep-in-to-capitol-building-doug-macrae-riot-january-6/65-fa5da457-fe00-4183-a90b-ad929d6cc674)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505926/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505931/download)
