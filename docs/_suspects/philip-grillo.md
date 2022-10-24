@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-09
 age: 46
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0690
-caseName:
-judge:
+caseName: USA v. GRILLO
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

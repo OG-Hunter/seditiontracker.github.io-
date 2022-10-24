@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-10-05
 trial_type:
 sentencing:
-status_conference: 2022-10-24
+status_conference: 2023-02-01
 age: 51
 occupation: Owner, Global Enlightenment Radio Network (GERN)
 affiliations:

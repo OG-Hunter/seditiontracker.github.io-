@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0358
 caseName: USA v. ADAMS
-judge: Emmet G. Sullivan
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

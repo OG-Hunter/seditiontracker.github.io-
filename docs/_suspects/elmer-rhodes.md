@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-09-26
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-10-24
 age: 56
 occupation:
 affiliations: Oath Keepers

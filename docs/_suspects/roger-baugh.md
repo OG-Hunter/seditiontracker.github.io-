@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-24
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: false
 caseNumber: 22-cr-0313
-caseName:
-judge:
+caseName: USA v. BAUGH
+judge: James E. Boasberg
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

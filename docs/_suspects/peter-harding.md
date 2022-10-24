@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2022-11-18
 status_conference: 2022-12-13
 age: 47
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0405
-caseName:
-judge:
+caseName: USA v. MONROY
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

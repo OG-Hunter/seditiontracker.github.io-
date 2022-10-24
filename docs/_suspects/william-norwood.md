@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-18
+status_conference: 2022-10-31
 age: 37
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0233
 caseName: USA v. NORWOOD III
-judge: Emmet G. Sullivan
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

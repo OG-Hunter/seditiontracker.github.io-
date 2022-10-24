@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0028
 caseName: USA v. WAYNICK
-judge: G. M. Harvey
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:
