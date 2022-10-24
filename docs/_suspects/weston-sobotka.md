@@ -35,13 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report]()
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Weston%20Sobotka%20Statement%20of%20Facts.pdf)

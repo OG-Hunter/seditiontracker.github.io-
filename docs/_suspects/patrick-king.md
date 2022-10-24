@@ -29,14 +29,14 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Smoked weed n shit'
+quote: "Smoked weed n shit"
 title: Patrick King charged on March 15th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 
-caseName:
+caseName: 1:22-cr-00205
 judge:
 videos:
 charges:
