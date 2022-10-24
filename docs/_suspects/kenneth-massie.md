@@ -4,16 +4,16 @@ lastName: Massie
 hashtag:
 aka:
 residence: Ohio
-status: Charged
+status: Convicted
 date: 2022-01-07
 charged: 2022-01-07
 indicted:
-convicted:
+convicted: 2022-10-21
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-21
 trial_date:
 trial_type:
 sentencing:
@@ -40,7 +40,14 @@ caseName: USA v. KASTNER
 judge: Randolph D. Moss
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.daytondailynews.com/crime/man-arrested-in-dayton-facing-capitol-riot-charges/T5GHGW44QVGKDFTUOV4GRLSGLM/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481626/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546271/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546261/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546266/download)
