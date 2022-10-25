@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,5 +42,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.thestate.com/news/local/crime/article267161521.html)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Gallman%20Joei%20Gallman%20and%20Alan%20Culbertson%20Statement%20of%20Facts.pdf)

@@ -42,5 +42,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.rawstory.com/capitol-riot-arrests-2657921256/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Weston%20Sobotka%20Statement%20of%20Facts.pdf)
