@@ -130,6 +130,10 @@ const importGw = async (nameSet: Set<string>) => {
         nameText = "Kelley, Ryan";
       }
 
+      if (nameText.match(/Kelly, John/)) {
+        nameText = "OKelly, John";
+      }
+
       const [lastName, rest] = nameText
         .split(",")
         .map((chunk: string) =>
@@ -264,6 +268,10 @@ const importDoj = async (nameSet: Set<string>) => {
 
     if (name == "CLIFTON, Chadwick") {
       name = "Clifton, Chad";
+    }
+
+    if (name === "O&#039;Kelly, John") {
+      name = "OKelly, John";
     }
 
     let nameChunks = name.split(",");
