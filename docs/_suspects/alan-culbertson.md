@@ -34,7 +34,7 @@ title: Alan Culbertson charged on September 16, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName:
 judge:

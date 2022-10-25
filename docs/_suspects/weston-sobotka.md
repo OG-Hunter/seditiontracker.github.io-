@@ -6,7 +6,7 @@ aka:
 residence: Virginia
 status: Charged
 date: 2022-08-17
-charged:
+charged: 2022-08-17
 indicted:
 convicted:
 acquitted:
@@ -34,7 +34,7 @@ title: Weston Sobotka charged on August 8, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName:
 judge:
