@@ -1,9 +1,9 @@
 ---
 name: John O'Kelly
 lastName: O'Kelly
-hashtag:
+hashtag: MidWhiteCrisis
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2022-10-17
 charged: 2022-10-17
@@ -18,8 +18,8 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
-occupation:
+age: 66
+occupation: Attorney
 affiliations:
 jurisdiction: Federal
 image: /images/preview/john-okelly.jpg
@@ -42,6 +42,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.nbcnewyork.com/news/local/crime-and-courts/long-island-attorney-arrested-for-allegedly-fighting-police-officer-during-jan-6-riot/3916892/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545941/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545946/download)

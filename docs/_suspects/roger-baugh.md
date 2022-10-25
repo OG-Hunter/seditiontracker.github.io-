@@ -4,7 +4,7 @@ lastName: Baugh
 hashtag:
 aka:
 residence: Kentucky
-status: Charged
+status: Convicted
 date: 2022-09-20
 charged: 2022-09-20
 indicted:
@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing: 2023-01-24
 status_conference:
-age:
+age: 51
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -46,7 +46,7 @@ charges:
   felony: true
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.whas11.com/article/news/crime/roger-kent-baugh-guilty-us-capitol-riots-january-6/417-4b71e35a-c57c-4a82-a012-64d903833756)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546241/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546246/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546251/download)
