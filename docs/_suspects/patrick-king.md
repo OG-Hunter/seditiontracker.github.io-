@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-10-31
 age:
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0205
-caseName:
-judge:
+caseName: USA v. JONES
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

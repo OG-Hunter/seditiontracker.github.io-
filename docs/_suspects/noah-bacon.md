@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-02-27
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 28
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0488
-caseName:
-judge:
+caseName: USA v. BACON
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:
