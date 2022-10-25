@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Fuck Nancy Pelosi and fuck Chuck Schumer. Got to drag those cocksuckers down.'
+quote: "Fuck Nancy Pelosi and fuck Chuck Schumer. Got to drag those cocksuckers down."
 title: Nancy Barron charged on March 11th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0089
 caseName:
 judge:
 videos:
