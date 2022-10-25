@@ -4,11 +4,11 @@ lastName: Archer
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2022-03-11
 charged: 2022-03-11
 indicted:
-convicted:
+convicted: 2022-10-24
 acquitted:
 sentenced:
 dismissed:
@@ -40,9 +40,15 @@ caseName: USA v. ARCHER
 judge: John D. Bates
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://pittsburgh.cbslocal.com/2022/03/21/pittsburgh-woman-turns-herself-in-to-fbi-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485591/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485596/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Melanie%20Archer%20and%20Jordan%20Bonenberger%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546756/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546761/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546766/download)
