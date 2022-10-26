@@ -1,5 +1,5 @@
 ---
-name: William Bostic
+name: Willard Bostic
 lastName: Bostic
 hashtag:
 aka: Tom Bostic
@@ -30,7 +30,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: William Bostic charged on October 5, 2021
+title: Willard Bostic charged on October 5, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.13newsnow.com/article/news/crime/virginia-beach-woman-father-accused-us-capitol-riot-january-6/291-a4b9d125-e63b-414d-8a2a-2bd153af1bae)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457781/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457786/download)
