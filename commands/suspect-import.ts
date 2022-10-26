@@ -186,10 +186,6 @@ const importDoj = async (nameSet: Set<string>) => {
       continue;
     }
 
-    if (name == "BOSTIC, Willard") {
-      name = "BOSTIC, William";
-    }
-
     if (name == "BAGGOTT") {
       name = "BAGGOTT, Matthew";
     }
@@ -200,6 +196,10 @@ const importDoj = async (nameSet: Set<string>) => {
 
     if (name.match(/.*Timothy Earl$/)) {
       name = "O'MALLEY, Timothy";
+    }
+
+    if (name.match(/BOSTIC, JR/)) {
+      continue;
     }
 
     if (name == "GALLGHER, Thomas") {
@@ -384,6 +384,7 @@ const falsePositives = (site: string) => {
       set.add("Gray");
       set.add("Goodwyn");
       set.add("Boughner");
+      set.add("Bostic");
       break;
     case "DOJ":
       set.add("Capsel");
