@@ -4,16 +4,16 @@ lastName: Cramer
 hashtag: GasMaskBluePal
 aka:
 residence: West Virginia
-status: Charged
+status: Convicted
 date: 2022-07-01
 charged: 2022-07-01
 indicted:
-convicted:
+convicted: 2022-10-25
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-25
 trial_date:
 trial_type:
 sentencing:
@@ -35,12 +35,19 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0150
+caseNumber: 22-cr-0339
 caseName: USA v. CRAMER
 judge: Moxila A. Upadhyaya
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518551/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518556/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546896/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546901/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546906/download)
