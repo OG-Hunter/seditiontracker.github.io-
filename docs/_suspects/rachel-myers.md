@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'One of the best days of my life'
+quote: "One of the best days of my life"
 title: Rachel Myers charged on November 22, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0074
 caseName:
 judge:
 videos:

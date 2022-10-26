@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: '...You guys need to stand down. Just walk away nobody will fucking hurt any of you...'
+quote: "...You guys need to stand down. Just walk away nobody will fucking hurt any of you..."
 title: Richard Slaughter charged on September 30th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-mj-0216
 caseName:
 judge:
 videos:
