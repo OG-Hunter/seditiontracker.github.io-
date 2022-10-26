@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0224
-caseName:
-judge:
+caseName: USA v. ESCALERA
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

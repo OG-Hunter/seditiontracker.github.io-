@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-25
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-23
 status_conference: 2022-10-27
 age:
 occupation:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0339
 caseName: USA v. CRAMER
-judge: Moxila A. Upadhyaya
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

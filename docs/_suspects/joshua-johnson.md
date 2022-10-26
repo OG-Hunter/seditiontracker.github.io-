@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-06-26
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-11-09
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0080
 caseName: USA v. JOHNSON
-judge: Emmet G. Sullivan
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

@@ -14,10 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-03-20
+trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-11-29
 age: 54
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0186
-caseName:
-judge:
+caseName: USA v. CELENTANO
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
