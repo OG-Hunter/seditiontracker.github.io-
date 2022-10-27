@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0053
-caseName:
-judge:
+caseName: USA v. LENTZ
+judge: Randolph D. Moss
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

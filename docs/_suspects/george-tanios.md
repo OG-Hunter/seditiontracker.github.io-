@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-07-27
 trial_date:
 trial_type:
-sentencing: 2022-12-06
+sentencing: 2023-01-13
 status_conference:
 age: 39
 occupation: Owner, Sandwich Shop
