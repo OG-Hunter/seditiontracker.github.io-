@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Yeah. Everything got stolen. Nobody seems to care. We decided to take it into our own hands by taking the capital.'
+quote: "Yeah. Everything got stolen. Nobody seems to care. We decided to take it into our own hands by taking the capital."
 title: Tyler Tew charged on November 10, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-cr-0027
 caseName:
 judge:
 videos:

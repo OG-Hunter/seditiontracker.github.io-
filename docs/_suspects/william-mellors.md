@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Took a nice beat down from Washington DC police tonight. Some tear gas and a riot baton. Broken ribs and some stitches needed.'
+quote: "Took a nice beat down from Washington DC police tonight. Some tear gas and a riot baton. Broken ribs and some stitches needed."
 title: William Mellors charged on July 15th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-mj-0162
 caseName:
 judge:
 videos:

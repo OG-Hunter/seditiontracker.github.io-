@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://triblive.com/local/regional/cranberry-man-charged-for-alleged-involvement-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485601/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485606/download)

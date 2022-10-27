@@ -29,13 +29,13 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Mister police officers, we want you to understand something. We want you to understand something. We want Donald Trump and if Donald Trump is not coming, we are taking our house. We are taking our house.'
+quote: "Mister police officers, we want you to understand something. We want you to understand something. We want Donald Trump and if Donald Trump is not coming, we are taking our house. We are taking our house."
 title: William Dunfee charged on September 30th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 22-mj-0217
 caseName:
 judge:
 videos:
