@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-01
 age:
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0186
-caseName:
-judge:
+caseName: USA v. SOBOTKA
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

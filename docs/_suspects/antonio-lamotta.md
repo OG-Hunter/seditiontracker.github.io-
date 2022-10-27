@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0320
 caseName: USA v. LAMOTTA
-judge: Jia M. Cobb
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

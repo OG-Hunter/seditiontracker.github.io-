@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-01-03
 age: 60
 occupation: Martial arts gym owner
 affiliations: Three Percenters

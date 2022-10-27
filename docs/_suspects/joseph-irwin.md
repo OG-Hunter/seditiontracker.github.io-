@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-09-19
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired

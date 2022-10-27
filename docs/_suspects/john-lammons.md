@@ -16,8 +16,8 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing:
-status_conference:
+sentencing: 2022-09-06
+status_conference: 2022-10-14
 age:
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0103
-caseName:
-judge:
+caseName: USA v. LAMMONS
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

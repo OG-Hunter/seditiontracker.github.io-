@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0502
-caseName:
-judge:
+caseName: USA v. JURLINA
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

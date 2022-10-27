@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0045
 caseName: USA v. ARMSTRONG
-judge: Royce C. Lamberth
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

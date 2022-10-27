@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-03-03
 age: 45
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0512
-caseName:
-judge:
+caseName: USA v. PURSE
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:

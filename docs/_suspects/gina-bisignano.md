@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-07-12
 age: 52
 occupation: Salon Owner
 affiliations:

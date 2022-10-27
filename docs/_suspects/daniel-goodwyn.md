@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-02-27
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-07-27
 age: 32
 occupation:
 affiliations: Proud Boys

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-08-01
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-16
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0553
-caseName:
-judge:
+caseName: USA v. BALLARD
+judge: Thomas F. Hogan
 videos:
 charges:
 sentence:

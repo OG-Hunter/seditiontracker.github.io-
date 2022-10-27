@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-09-01
 age: 47
 occupation: Former military (U.S. Special forces)
 affiliations: Oath Keepers, US Army (former Green Beret)
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0609
-caseName:
-judge:
+caseName: USA v. BROWN
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing: 2022-10-27
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-04-01
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0311
 caseName: USA v. GOULD
-judge: Rudolph Contreras
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

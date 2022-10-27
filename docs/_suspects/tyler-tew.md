@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-08-08
 age: 39
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0027
-caseName:
-judge:
+caseName: USA v. TEW
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

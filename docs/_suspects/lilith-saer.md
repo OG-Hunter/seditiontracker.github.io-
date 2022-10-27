@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-07-19
 age: 30
 occupation: Application Security Engineer
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0147
 caseName: USA v. SAER
-judge: Zia M. Faruqui
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-02-13
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-09-20
 age: 55
 occupation: Military Contractor, Retired U.S. Army Special Forces
 affiliations:

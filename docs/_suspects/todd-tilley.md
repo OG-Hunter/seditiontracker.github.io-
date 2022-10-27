@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0140
-caseName:
-judge:
+caseName: USA v. TILLEY
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

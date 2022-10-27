@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-12
 age: 57
 occupation: Pastor
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0217
-caseName:
-judge:
+caseName: USA v. DUNFEE
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

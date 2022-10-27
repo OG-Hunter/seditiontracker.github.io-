@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-04-22
 age: 39
 occupation: Lawn Care
 affiliations:
