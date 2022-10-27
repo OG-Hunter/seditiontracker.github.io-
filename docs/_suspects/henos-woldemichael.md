@@ -3,7 +3,7 @@ name: Henos Woldemichael
 lastName: Woldemichael
 hashtag:
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2022-09-16
 charged: 2022-09-16
@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 21
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://wjla.com/news/local/capitol-riot-breach-henos-woldemichael-arrested-burke-virginia-washington-dc-january-department-of-justice-crime-vandalism-law-enforcement-trespassing)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breac-0)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546961/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546966/download)
