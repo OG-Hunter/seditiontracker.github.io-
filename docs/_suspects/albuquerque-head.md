@@ -4,13 +4,13 @@ lastName: Head
 hashtag: Unlucky13
 aka:
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2021-04-09
 charged: 2021-04-09
 indicted: 2021-04-09
 convicted: 2022-05-06
 acquitted:
-sentenced:
+sentenced: 2022-10-27
 dismissed:
 deceased:
 plea_hearing: 2022-05-06
@@ -40,12 +40,16 @@ caseName: USA v. SIBICK
 judge: Amy B. Jackson
 videos:
 charges:
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 90 months incarceration
+  - 3 years probation
+  - restitution TBD
 ---
+
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1503996/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Albuquerque%20Cosper%20Head%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

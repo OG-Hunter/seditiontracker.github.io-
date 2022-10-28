@@ -4,13 +4,13 @@ lastName: Warmus
 hashtag: DanielWarmus
 aka:
 residence: New York
-status: Convicted
+status: Sentenced
 date: 2021-05-17
 charged: 2021-05-17
 indicted:
 convicted: 2022-05-23
 acquitted:
-sentenced:
+sentenced: 2022-10-27
 dismissed:
 deceased:
 plea_hearing: 2022-05-23
@@ -40,12 +40,17 @@ caseName: USA v. WARMUS
 judge: Paul L. Friedman
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 45 days incarceration
+  - 2 years probation
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.wivb.com/news/fbi-arrests-alden-man-for-alleged-participation-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1395081/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1395086/download)
