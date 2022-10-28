@@ -4,11 +4,11 @@ lastName: Riley
 hashtag:
 aka:
 residence: Maryland
-status: Indicted
+status: Convicted
 date: 2021-10-14
 charged: 2021-10-14
 indicted: 2021-10-14
-convicted:
+convicted: 2022-10-28
 acquitted:
 sentenced:
 dismissed:
@@ -40,7 +40,12 @@ caseName: USA v. RILEY
 judge: Amy B. Jackson
 videos:
 charges:
+  - code: 18 USC § 1512(c)(1)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/politics/politics-news/capitol-police-officer-charged-helping-hide-jan-6-rioter-s-n1281654)
 - [Indictment](https://s3.documentcloud.org/documents/21085728/10-14-21-us-v-michael-riley-indictment.pdf)
