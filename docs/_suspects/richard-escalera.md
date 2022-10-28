@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-19
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0224
 caseName: USA v. ESCALERA
-judge: Moxila A. Upadhyaya
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-08-25
+status_conference: 2022-10-28
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia

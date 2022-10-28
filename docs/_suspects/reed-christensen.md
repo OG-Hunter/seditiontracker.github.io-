@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-27
+status_conference: 2022-11-22
 age: 62
 occupation:
 affiliations: U.S. Army Veteran

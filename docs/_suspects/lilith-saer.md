@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0147
 caseName: USA v. SAER
-judge: G. M. Harvey
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

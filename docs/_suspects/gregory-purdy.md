@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0019
 caseName: USA v. PURDY
-judge: Florence Y. Pan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

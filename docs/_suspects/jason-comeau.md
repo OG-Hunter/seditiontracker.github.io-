@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0629
 caseName: USA v. COMEAU
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

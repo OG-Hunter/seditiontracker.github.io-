@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0077
 caseName: USA v. JAVID
-judge: Zia M. Faruqui
+judge: Beryl A. Howell
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

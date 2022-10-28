@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0080
 caseName: USA v. JOHNSON
-judge: Zia M. Faruqui
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:
