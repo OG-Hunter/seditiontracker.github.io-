@@ -3,7 +3,7 @@ name: David Arredondo
 lastName: Arredondo
 hashtag:
 aka:
-residence:
+residence: Texas
 status: Charged
 date: 2022-10-24
 charged: 2022-10-24

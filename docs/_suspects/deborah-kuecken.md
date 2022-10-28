@@ -3,7 +3,7 @@ name: Deborah Kuecken
 lastName: Kuecken
 hashtag:
 aka:
-residence:
+residence: Michigan
 status: Charged
 date: 2022-10-21
 charged: 2022-10-21
