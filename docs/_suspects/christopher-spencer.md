@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-10-28
+plea_hearing:
 trial_date:
 trial_type:
 sentencing:
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wsoctv.com/news/local/fbi-makes-first-arrest-nc-resident-involved-us-capitol-riot/C4KA2XRFZRHYZKUU2VT65O54UU/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356986/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356981/download)

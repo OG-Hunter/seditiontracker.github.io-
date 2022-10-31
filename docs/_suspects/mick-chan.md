@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-05-27
+plea_hearing:
 trial_date:
 trial_type:
 sentencing:
@@ -29,7 +29,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'broke into, well, air quotes, broke into [the Capitol]'
+quote: "broke into, well, air quotes, broke into [the Capitol]"
 title: Mick Chan charged on September 7, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.huffpost.com/entry/fbi-capitol-attack-mick-chan_n_614b5077e4b077b735ee30f3)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mick%20Chan%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457606/download)
