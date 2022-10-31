@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 67
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.mlive.com/news/2022/10/michigan-siblings-charged-after-photos-place-them-inside-capitol-during-jan-6-riot.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547566/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547571/download)

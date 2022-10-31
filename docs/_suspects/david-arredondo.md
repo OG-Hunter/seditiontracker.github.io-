@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 47
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://lawandcrime.com/u-s-capitol-breach/maga-hatted-texan-caught-on-video-grabbing-cops-arm-to-facilitate-the-entry-of-other-rioters-on-jan-6-feds-say/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547431/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547436/download)
