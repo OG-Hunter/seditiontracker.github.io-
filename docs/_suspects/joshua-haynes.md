@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-28
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-01-31
 status_conference: 2022-07-29
 age: 39
 occupation:
@@ -40,13 +40,12 @@ caseName: USA v. HAYNES
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/covington-man-arrested-charged-in-connection-with-capitol-attacks/ar-AALG1lP)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408561/download)
 - [Incriminating Evidence (VIDEO)](https://vimeo.com/498179103)

@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-10-28
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-13
 status_conference:
 age: 47
 occupation:
@@ -36,17 +36,16 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0343
-caseName:
-judge:
+caseName: USA v. GORDON
+judge: Rudolph Contreras
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/pittsburgh/news/west-virginia-man-charged-with-felony-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518436/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518441/download)

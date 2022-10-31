@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0637
-caseName:
-judge:
+caseName: USA v. BRANNAN
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

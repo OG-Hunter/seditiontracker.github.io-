@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0170
-caseName:
-judge:
+caseName: USA v. BROWN
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
