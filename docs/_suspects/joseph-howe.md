@@ -34,7 +34,7 @@ title: Joseph Howe charged on 10/26/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName:
 judge:
