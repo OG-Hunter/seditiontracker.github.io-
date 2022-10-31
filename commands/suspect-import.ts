@@ -202,6 +202,10 @@ const importDoj = async (nameSet: Set<string>) => {
       continue;
     }
 
+    if (name === "AMBROSE, Lawerence Louis") {
+      name = "AMBROSE, Lawrence";
+    }
+
     if (name == "GALLGHER, Thomas") {
       name = "GALLAGHER, Thomas";
     }

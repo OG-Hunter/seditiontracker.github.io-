@@ -4,16 +4,16 @@ lastName: Ambrose
 hashtag: MagaButtonMan
 aka:
 residence:
-status: Charged
+status: Convicted
 date: 2022-09-13
 charged: 2022-09-13
 indicted:
-convicted:
+convicted: 2022-10-25
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-25
 trial_date:
 trial_type:
 sentencing: 2023-02-16
@@ -22,7 +22,7 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/arrest.jpg
+image: /images/preview/convicted.jpg
 suspect: arrest.jpg
 booking:
 courtroom:
@@ -40,6 +40,12 @@ caseName: USA v. AMBROSE
 judge: Dabney L. Friedrich
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247234/gov.uscourts.dcd.247234.1.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548076/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548081/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548086/download)

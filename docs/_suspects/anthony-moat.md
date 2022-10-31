@@ -4,11 +4,11 @@ lastName: Moat
 hashtag: AnthonyMoat
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-04-07
 charged: 2021-04-07
 indicted:
-convicted: 
+convicted: 2022-10-28
 acquitted:
 sentenced:
 dismissed: 
@@ -40,9 +40,15 @@ caseName: USA v. MOAT
 judge: Tanya S. Chutkan
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/prosecutors-file-charges-against-man-who-called-the-fbi-to-say-he-was-there-on-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385896/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385901/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410821/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548001/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548006/download)

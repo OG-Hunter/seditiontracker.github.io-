@@ -4,16 +4,16 @@ lastName: Gordon
 hashtag: InGodITrustRioter
 aka:
 residence: West Virginia
-status: Charged
+status: Convicted
 date: 2022-07-01
 charged: 2022-07-01
 indicted:
-convicted:
+convicted: 2022-10-28
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-10-28
 trial_date:
 trial_type:
 sentencing:
@@ -35,14 +35,22 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0342
+caseNumber: 22-cr-0343
 caseName:
 judge:
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/pittsburgh/news/west-virginia-man-charged-with-felony-in-us-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518436/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1518441/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/west-virginia-man-arrested-actions-lower-west-terrace-during-jan-6-capitol-breach)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547996/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547986/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547991/download)
