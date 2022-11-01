@@ -40,15 +40,16 @@ caseName:
 judge:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 14 days intermittent confinement
+  - 14 days intermittent incarceration
   - 1 year probation
   - $500 restitution
 ---
+
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388356/download)

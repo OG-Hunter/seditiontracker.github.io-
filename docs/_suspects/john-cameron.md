@@ -40,16 +40,17 @@ caseName:
 judge:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 30 days intermittent confinement
+  - 30 days intermittent incarceration
   - 3 years probation
   - $1000 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481121/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1504266/download)

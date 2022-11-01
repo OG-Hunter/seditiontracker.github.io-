@@ -40,15 +40,16 @@ caseName:
 judge:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 9 days intermittent confinement
+  - 9 days intermittent incarceration
   - 2 years probation
   - $500 restitution
 ---
+
 - [News Report](https://www.newsobserver.com/news/politics-government/article248921789.html)
 - [Complaint](https://www.justice.gov/file/1362776/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362776/download)

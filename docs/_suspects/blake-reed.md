@@ -40,17 +40,18 @@ caseName: USA v. BLEDSOE
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
-  - 42 days intermittent confinement
+  - 42 days intermittent incarceration
   - 90 days home detention
   - 3 years probation
   - $2500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

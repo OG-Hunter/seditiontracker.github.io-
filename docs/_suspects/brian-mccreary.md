@@ -40,17 +40,18 @@ caseName:
 judge:
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
-  - 42 days intermittent confinement
+  - 42 days intermittent incarceration
   - 60 days home detention
   - 3 years probation
   - $2500 fine
   - $500 restitution
 ---
+
 - [News Report](https://www.berkshireeagle.com/news/local/i-love-our-country-north-adams-man-explains-why-he-documented-riot-from-inside-capitol/article_357939b6-67c1-11eb-a153-878373b1ff53.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371451/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/McCreary%20Indictment.pdf)

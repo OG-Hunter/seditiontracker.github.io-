@@ -4,13 +4,13 @@ lastName: Priola
 hashtag: ChristinePriola
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-01-14
 charged: 2021-01-14
 indicted:
 convicted: 2022-07-26
 acquitted:
-sentenced:
+sentenced: 2022-10-28
 dismissed:
 deceased:
 plea_hearing: 2022-07-26
@@ -40,12 +40,16 @@ caseName: USA v. PRIOLA
 judge: Tanya S. Chutkan
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 15 months incarceration
+  - 1 year probation
+  - $2000 restitution
 ---
+
 - [News Report](https://www.cleveland.com/crime/2021/01/former-cleveland-schools-therapist-arrested-on-federal-charges-involving-attack-at-us-capitol.html)
 - [News Report: FBI Raid](https://www.cleveland.com/metro/2021/01/fbi-searches-former-cleveland-schools-employees-house-after-accusations-that-she-participated-in-us-capitol-riot.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354421/download)
