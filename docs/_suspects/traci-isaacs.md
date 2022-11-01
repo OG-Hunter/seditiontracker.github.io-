@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-02-02
 age: 52
 occupation:
 affiliations: Oath Keepers
