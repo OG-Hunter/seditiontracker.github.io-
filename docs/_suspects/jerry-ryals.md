@@ -56,3 +56,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1504016/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1504021/download)
 - [DOJ Press Release (Guilty Plea)](https://www.justice.gov/usao-dc/pr/oklahoma-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jerry%20Ryals%20Defense%20Sentencing%20Memorandum.pdf)

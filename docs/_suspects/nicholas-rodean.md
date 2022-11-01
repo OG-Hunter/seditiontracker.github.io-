@@ -80,3 +80,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1517561/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365231/download)
 - [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/maryland-man-found-guilty-charges-actions-related-capitol-breach)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Rodean%20Defense%20Sentencing%20Memorandum.pdf)

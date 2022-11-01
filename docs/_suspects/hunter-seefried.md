@@ -67,3 +67,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1354301/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1354306/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1511451/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Hunter%20Seefried%20Defense%20Sentencing%20Memorandum%20and%20Motion%20for%20Downward%20Variance.pdf)

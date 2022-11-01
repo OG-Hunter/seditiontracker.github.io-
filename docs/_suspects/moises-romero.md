@@ -55,3 +55,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485671/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485676/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485681/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Moises%20Romero%20Defense%20Sentencing%20Memorandum%20and%20Request%20for%20Variance.pdf)

@@ -57,3 +57,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507211/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507216/download)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Defense%20Motion%20for%20Review%20and%20Revocation%20of%20Detention%20Order.pdf)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Christian%20Secor%20Defense%20Sentencing%20Memorandum.pdf)
