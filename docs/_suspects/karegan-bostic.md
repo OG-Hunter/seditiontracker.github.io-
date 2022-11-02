@@ -4,11 +4,11 @@ lastName: Bostic
 hashtag:
 aka:
 residence: Virginia
-status: Charged
+status: Convicted
 date: 2022-05-24
 charged: 2022-05-24
 indicted:
-convicted:
+convicted: 2022-10-31
 acquitted:
 sentenced:
 dismissed:
@@ -40,8 +40,15 @@ caseName: USA v. BOSTIC
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.wtkr.com/news/third-member-of-local-family-charged-in-connection-to-riots-at-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509026/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509031/download)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548706/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548711/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548716/download)

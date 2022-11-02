@@ -43,5 +43,5 @@ charges:
 sentence:
 ---
 - [News Report](https://www.courier-journal.com/story/news/crime/2022/10/28/kentucky-man-joseph-howe-charged-january-6-riot-trump-capitol/69600198007/)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1547816/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1548736/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/kentucky-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
