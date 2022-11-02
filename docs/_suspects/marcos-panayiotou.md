@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-26
 trial_date:
 trial_type:
-sentencing: 2022-11-08
+sentencing: 2022-11-29
 status_conference:
 age: 29
 occupation: U.S. Marine Corps Reservist

@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-01
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-04-04
 status_conference:
 age: 57
 occupation:
@@ -40,13 +40,12 @@ caseName: USA v. STEELE-SMITH
 judge: Randolph D. Moss
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/gloucester-woman-arrested-after-photos-show-her-inside-us-capitol-during-riot/ar-BB1dzAz3)
 - [Complaint](https://www.justice.gov/file/1360206/download)
 - [Statement of Facts](https://www.justice.gov/opa/file/1360206/download)

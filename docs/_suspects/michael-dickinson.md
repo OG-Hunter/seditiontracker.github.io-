@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0649
 caseName: USA v. DICKINSON
-judge: Emmet G. Sullivan
+judge: John D. Bates
 videos:
 charges:
 - code: 18 USC § 111(a)(1)
