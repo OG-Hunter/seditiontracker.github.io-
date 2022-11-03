@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-11-28
 trial_date:
 trial_type:
 sentencing:
@@ -37,11 +37,10 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0311
 caseName: USA v. GOULD
-judge: Zia M. Faruqui
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/alleged-capitol-rioter-john-gould-arrested-after-getting-outed-by-rioting-co-worker-jonathan-lauren)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483526/download)
