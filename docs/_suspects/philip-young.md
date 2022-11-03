@@ -4,10 +4,10 @@ lastName: Young
 hashtag: FashNSlash
 aka:
 residence: New Jersey
-status: Charged
+status: Indicted
 date: 2021-07-28
 charged: 2021-07-28
-indicted:
+indicted: 2022-02-25
 convicted:
 acquitted:
 sentenced:
@@ -42,5 +42,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.courierpostonline.com/story/news/2021/08/21/philip-young-sewell-capital-riot-insurrection-suspect/8229587002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428506/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549091/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549096/download)
