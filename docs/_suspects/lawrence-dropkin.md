@@ -64,3 +64,5 @@ sentence:
 - [News Report](https://www.nj.com/news/2022/01/ex-marine-among-4-more-suspects-from-nj-charged-in-capitol-riot.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457616/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457621/download)
+- [Sentencing Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lawrence%20Dropkin%20Jr%20Defense%20Sentencing%20Memorandum.pdf)
+- [Judgement](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Lawrence%20Dropkin%20Jr%20Judgment.pdf)

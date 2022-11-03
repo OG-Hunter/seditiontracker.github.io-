@@ -443,6 +443,12 @@ const linkType = (description: string, lastName?: string) => {
 
   switch (true) {
     // standard documents
+    case /Government Motion to Dismiss/.test(description):
+      return "Government Motion to Dismiss";
+
+    case /Court&#039;s Dismissal Order/.test(description):
+      return "Government's Dismissal Order";
+
     case /Memorandum Opinion on Split Sentence/.test(description):
       return "Memorandum Opinion on Split Sentence";
 

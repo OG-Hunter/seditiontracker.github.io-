@@ -3,7 +3,7 @@ name: Brian Sizer
 lastName: Sizer
 hashtag:
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
 date: 2022-10-27
 charged: 2022-10-27

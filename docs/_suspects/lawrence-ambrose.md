@@ -3,7 +3,7 @@ name: Lawrence Ambrose
 lastName: Ambrose
 hashtag: MagaButtonMan
 aka:
-residence:
+residence: California
 status: Convicted
 date: 2022-09-13
 charged: 2022-09-13

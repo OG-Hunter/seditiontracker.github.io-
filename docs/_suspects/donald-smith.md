@@ -11,7 +11,7 @@ indicted:
 convicted:
 acquitted:
 sentenced:
-dismissed:
+dismissed: 2022-11-03
 deceased:
 plea_hearing:
 trial_date:
@@ -42,6 +42,9 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://phillynews.fyi/30742/maga-rioter-bragged-that-breaking-into-pelosis-office-was-best-day-of-his-life-to-coworkers-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419026/download)
-- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Donald%20Smith%20Information.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549296/download)
+- [Government Motion to Dismiss](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549291/download)
+- [Government's Dismissal Order](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549286/download)
