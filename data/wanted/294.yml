@@ -1,8 +1,8 @@
 id: 294
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #294 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/294a.png/@@images/image/preview
 hashtag: MidWhiteCrisis
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-10-17
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/john-okelly
+name: John O'Kelly
 missingImage: false
 identifiedBy: null
 notes: null
