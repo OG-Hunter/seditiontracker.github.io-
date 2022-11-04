@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age:
+age: 47
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -42,6 +42,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://triblive.com/local/regional/ellwood-city-man-whose-wife-pleaded-guilty-to-involvement-in-capitol-riot-now-faces-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549196/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549201/download)
