@@ -4,7 +4,7 @@ lastName: Smith
 hashtag: DonaldSmith
 aka:
 residence: New Jersey
-status: Charged
+status: Dismissed
 date: 2021-07-28
 charged: 2021-07-28
 indicted:
@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://phillynews.fyi/30742/maga-rioter-bragged-that-breaking-into-pelosis-office-was-best-day-of-his-life-to-coworkers-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1419026/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549296/download)

@@ -40,17 +40,16 @@ caseName: USA v. HERNANDEZ
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.localmemphis.com/article/news/crime/memphis-man-arrested-in-connection-to-capitol-riots/522-748ccd8d-bc7a-479b-a47a-ad3ac4326bff)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1477121/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549066/download)

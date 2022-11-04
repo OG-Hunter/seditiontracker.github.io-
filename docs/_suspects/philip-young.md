@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.courierpostonline.com/story/news/2021/08/21/philip-young-sewell-capital-riot-insurrection-suspect/8229587002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1428506/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549091/download)

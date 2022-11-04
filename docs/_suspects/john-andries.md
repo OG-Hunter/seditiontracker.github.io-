@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-08-23
 trial_date:
 trial_type:
-sentencing: 2023-01-10
+sentencing: 2023-01-17
 status_conference:
 age: 35
 occupation: U.S. Military (former)
