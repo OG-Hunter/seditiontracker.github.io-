@@ -4,20 +4,20 @@ lastName: Uptmore
 hashtag: ChanceUptmore
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-02-24
 convicted: 2022-03-31
 acquitted:
-sentenced:
+sentenced: 2022-11-02
 dismissed:
 deceased:
 plea_hearing: 2022-03-31
 trial_date:
 trial_type:
 sentencing: 2022-11-02
-status_conference: 2022-06-06
+status_conference:
 age: 24
 occupation:
 affiliations:
@@ -40,12 +40,16 @@ caseName: USA v. UPTMORE
 judge: Royce C. Lamberth
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360731/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)

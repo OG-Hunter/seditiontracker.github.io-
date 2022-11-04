@@ -4,13 +4,13 @@ lastName: Faulkner
 hashtag: PaintingWindowKicker
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-02-17
 convicted: 2022-08-05
 acquitted:
-sentenced:
+sentenced: 2022-11-03
 dismissed:
 deceased:
 plea_hearing: 2022-08-05
@@ -40,12 +40,16 @@ caseName: USA v. FAULKNER
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 18 USC § 1361
-  title: Destruction of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/1361
-  felony: true
+  - code: 18 USC § 1361
+    title: Destruction of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
 sentence:
+  - 5 months incarceration
+  - 3 years probation
+  - $10560 restitution
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/genius-wore-jacket-with-his-companys-name-and-phone-number-on-it-while-storming-the-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371376/download)
 - [Self Incrimination (Interview)](https://patch.com/ohio/columbus/s/hdvoa/ohio-man-joins-raid-u-s-capitol-i-shouldn-t-have-kicked-window)
