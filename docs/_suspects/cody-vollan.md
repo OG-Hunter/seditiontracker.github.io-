@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Cody Vollan charged on January 19, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

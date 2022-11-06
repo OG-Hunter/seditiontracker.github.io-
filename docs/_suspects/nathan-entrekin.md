@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Mom, look, I made it to the top!"
 title: Nathan Entrekin charged on July 14, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

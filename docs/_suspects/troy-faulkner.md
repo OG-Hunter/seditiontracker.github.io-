@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We weren’t fighting against antifa we’re fighting against the government"
 title: Troy Faulkner charged on January 26th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,16 +40,15 @@ caseName: USA v. FAULKNER
 judge: Beryl A. Howell
 videos:
 charges:
-  - code: 18 USC § 1361
-    title: Destruction of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/1361
-    felony: true
+- code: 18 USC § 1361
+  title: Destruction of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/1361
+  felony: true
 sentence:
   - 5 months incarceration
   - 3 years probation
   - $10560 restitution
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/genius-wore-jacket-with-his-companys-name-and-phone-number-on-it-while-storming-the-capitol/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371376/download)
 - [Self Incrimination (Interview)](https://patch.com/ohio/columbus/s/hdvoa/ohio-man-joins-raid-u-s-capitol-i-shouldn-t-have-kicked-window)

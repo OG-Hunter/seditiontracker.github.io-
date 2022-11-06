@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "It seems like you’re that weak, because I’m the only one that was willing to do something! I’m the only one that was willing to kick that door! Who else is willing to storm in there? No one!"
 title: Blas Santillan charged on August 10, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

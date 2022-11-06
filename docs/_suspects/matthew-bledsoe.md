@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "This is our house. We pay for this shit. Where’s those pieces of shit at?"
 title: Matthew Bledsoe charged on January 15, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on July 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was one of those idiots scaling the wall ;)"
 title: Clifford Meteer charged on August 4, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Can't wait to tell my grandkids I was here!"
 title: Gracyn Courtright charged on January 16, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on August 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

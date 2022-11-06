@@ -31,7 +31,7 @@ raid: christine-priola.jpg
 perpwalk:
 quote: "I will be switching paths to expose the global evil of human trafficking and pedophilia, including in our government agencies and children’s services agencies."
 title: Christine Priola charged on January 14, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on July 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,16 +40,15 @@ caseName: USA v. PRIOLA
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 15 months incarceration
   - 1 year probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.cleveland.com/crime/2021/01/former-cleveland-schools-therapist-arrested-on-federal-charges-involving-attack-at-us-capitol.html)
 - [News Report: FBI Raid](https://www.cleveland.com/metro/2021/01/fbi-searches-former-cleveland-schools-employees-house-after-accusations-that-she-participated-in-us-capitol-riot.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354421/download)

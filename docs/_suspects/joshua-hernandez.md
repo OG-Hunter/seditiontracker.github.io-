@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Joshua Hernandez charged on 2/9/2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

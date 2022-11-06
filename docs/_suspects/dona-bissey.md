@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Probably in the first group of 100-200 people. Picking glass out of my purse."
 title: Dona Bissey arrested on February 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

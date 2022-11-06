@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You can play that for the D.A. in court, I don’t care. If you ever jeopardize me, from being with my family, you will absolutely meet your mother fucking maker."
 title: Justin Stoll charged on January 15, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on January 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

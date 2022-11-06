@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Susan Manwaring charged on 9/13/2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

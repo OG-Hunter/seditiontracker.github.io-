@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Christian Secor charged on February 16, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

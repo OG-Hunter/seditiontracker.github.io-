@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We’re in the rotunda. We’re in the rotunda. Our house! Our house!"
 title: Jeffrey Witcher charged on Februrary 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

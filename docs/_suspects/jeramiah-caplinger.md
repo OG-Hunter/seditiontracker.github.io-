@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "My rage towards the establishment, Democrats and RINO Republicans is great. Think of Pompeii when it was destroyed by Mount Vesuvius."
 title: Jeramiah Caplinger charged on April 6, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

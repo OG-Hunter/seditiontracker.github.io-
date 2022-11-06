@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "[I'd] storm the Capitol for you any day"
 title: Christopher Ortiz charged on January 27th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

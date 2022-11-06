@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 title: Troy Williams charged on February 1st, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,17 +40,16 @@ caseName: USA v. CRASE
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 15 days intermittent incarceration
   - 3 years probatoin
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.wbko.com/2021/02/02/2-kentucky-men-charged-with-entering-capitol-during-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469526/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1469531/download)

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We need to do this at the local level. Lets [sic] storm the capitol in Ohio. Tell me when!"
 title: Jacob Hiles charged on January 19, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

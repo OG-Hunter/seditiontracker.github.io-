@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We definitely have enough people to overthrow this. They don’t stand a chance. We got the doors open. We’re working our way in slowly but surely."
 title: Jerry Ryals charged on Feburary 22, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

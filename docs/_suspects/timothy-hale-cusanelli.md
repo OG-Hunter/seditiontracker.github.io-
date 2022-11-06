@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Trust the plan, major announcement soon."
 title: Timothy Hale-Cusanelli charged on January 17th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

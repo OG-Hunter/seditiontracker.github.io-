@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was there at the steps of the Capital [sic] I got into the capital [sic] building [...]"
 title: Kenneth Reda charged on July 1, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

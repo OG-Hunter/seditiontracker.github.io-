@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was in the wrong place at the wrong time and I regret my part in that."
 title: Bradley Rukstales charged on January 7, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on August 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

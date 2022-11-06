@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Thanks for joining me to DC to stand up for America. This will be historic — no matter the outcome"
 title: Jason Hyland charged on February 2nd, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

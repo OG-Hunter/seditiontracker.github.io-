@@ -31,7 +31,7 @@ raid: kyle-fitzsimons.jpg
 perpwalk:
 quote: "I was thinking it could go down like we would link hands around the Capitol and it would be like Whoville"
 title: Kyle Fitzsimons charged on February 4, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

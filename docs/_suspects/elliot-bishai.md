@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Elliot Bishai charged on March 15, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

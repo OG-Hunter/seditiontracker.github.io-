@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You better be ready chaos is coming and I will be in DC on 1/6/2021 fighting for my freedom!"
 title: Andrew Bennett charged on January 26th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

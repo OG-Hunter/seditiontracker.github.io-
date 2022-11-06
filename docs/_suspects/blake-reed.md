@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We The People took the Capitol!"
 title: Blake Reed charged on January 17, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on January 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,10 +40,10 @@ caseName: USA v. BLEDSOE
 judge: Beryl A. Howell
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 42 days intermittent incarceration
   - 90 days home detention
@@ -51,7 +51,6 @@ sentence:
   - $2500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/01/17/nashville-man-blake-austin-reed-charged-fbi-capitol-riot/4196605001/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355936/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355931/download)

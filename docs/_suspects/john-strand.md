@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: John Strand charged on January 18, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

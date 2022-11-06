@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
+caseNumber: 
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tallahassee.com/story/news/2022/11/04/tallahassee-man-arrested-role-jan-6-attack-u-s-capitol-insurrection-raymund-joseph-cholod-florida/8269028001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549496/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549501/download)

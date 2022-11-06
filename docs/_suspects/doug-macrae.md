@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Doug Macrae charged on May 12th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

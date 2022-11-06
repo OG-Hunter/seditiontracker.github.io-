@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "i got really fucked up but me and 4 of my chapter brothers pushed that line and started it ourselves had to be done."
 title: Shawn Price arrested on June 8, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

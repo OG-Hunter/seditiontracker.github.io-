@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Philip Kramer charged on April 7, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

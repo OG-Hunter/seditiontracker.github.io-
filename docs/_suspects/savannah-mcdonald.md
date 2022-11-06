@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m the only girl that made it into the Senate."
 title: Savannah Mcdonald charged on June 11th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

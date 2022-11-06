@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I fought hard ... I fell in the door and they beat me with batons so I backed off and they pepper sprayed my eyes."
 title: Brittiany Dillon charged on April 26, 2021.
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

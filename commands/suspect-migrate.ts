@@ -10,6 +10,29 @@ const doMigrate = () => {
 
   for (const filename of suspects) {
     const suspect = getSuspectByFile(filename);
+
+    const MONTH_NAMES = [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ];
+
+    if (suspect.convicted) {
+      const convictedDate = new Date(Date.parse(suspect.convicted));
+      const month = MONTH_NAMES[convictedDate.getMonth()];
+      const day = convictedDate.getDay();
+      const year = convictedDate.getFullYear();
+      suspect.description = `Convicted on ${month} ${day}, ${year}. Click for latest case details.`;
+    }
     updateSuspect(suspect);
   }
 };

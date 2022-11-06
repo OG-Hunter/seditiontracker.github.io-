@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Lol Dad and I were one of the first ones inside."
 title: Daniel Johnson charged on June 4, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

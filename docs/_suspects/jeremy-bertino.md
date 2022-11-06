@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jeremy Bertino charged on 10/6/2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

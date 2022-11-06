@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "This is the best birthday ever. It’s my birthday, and it’s the best one ever."
 title: Matthew Webler charged on November 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

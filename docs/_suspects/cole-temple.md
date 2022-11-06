@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Just broke in this bitch."
 title: Cole Temple charged on August 19, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

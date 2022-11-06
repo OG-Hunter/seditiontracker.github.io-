@@ -42,6 +42,5 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cincinnati.com/story/news/crime/2021/12/17/january-6-butler-county-men-charged-capitol-attack/8943857002/)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Paul%20Lee%20Seymour%20Sr.%20and%20Jr.%20Criminal%20Complaint.pdf)

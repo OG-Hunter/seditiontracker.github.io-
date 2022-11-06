@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Storming the Capitol"
 title: Christian Kulas charged on June 3, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

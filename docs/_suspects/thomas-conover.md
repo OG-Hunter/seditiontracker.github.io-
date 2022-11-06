@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I don’t always storm the Capitol of the United States of America. But when I do, I prefer Coors Light."
 title: Thomas Conover charged on December 3, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m not saying this is the best behavior I could have done here."
 title: Howard Richardson charged on November 22, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid: josiah-colt.jpg
 perpwalk:
 quote: "I got caught up in the moment and when I saw the door to to the Chamber open, I walked in, hopped down, and sat on the chair."
 title: Josiah Colt charged on January 12, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on July 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

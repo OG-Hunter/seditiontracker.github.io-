@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We are out here protecting our country, if shit goes down, if Pence does what we think he is going to do"
 title: Nathaniel Degrave charged on January 28th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

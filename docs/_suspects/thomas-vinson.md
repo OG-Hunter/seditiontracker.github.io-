@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Thomas Vinson arrested on February 23, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

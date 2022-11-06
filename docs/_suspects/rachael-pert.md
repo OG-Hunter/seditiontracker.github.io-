@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Rachael Pert charged on January 26th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

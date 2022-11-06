@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You want to arrest Enrique, fuck you, you have got to arrest all of us."
 title: Joshua Pruitt charged on January 7th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

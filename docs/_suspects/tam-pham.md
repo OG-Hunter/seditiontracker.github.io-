@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I shouldn’t have done it. I was there to take pictures."
 title: Tam Pham charged on January 19, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on September 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

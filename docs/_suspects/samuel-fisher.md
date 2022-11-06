@@ -31,7 +31,7 @@ raid: samuel-fisher.jpg
 perpwalk: samuel-fisher.jpg
 quote: "It’s time to bring the pain upon them."
 title: Samuel Fisher  charged on January 20, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

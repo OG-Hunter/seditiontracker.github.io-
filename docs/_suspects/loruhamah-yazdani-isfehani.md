@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Loruhamah Yazdani-Isfehani charged on February 18th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

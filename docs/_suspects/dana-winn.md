@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Got her flags, come with her flagpole, that way I can hit antifa in the head if need be"
 title: Dana Winn charged on January 26th, 2021"
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,17 +40,16 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 10 days intermittent incarceration
   - 1 year probation
   - 100 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/florida-couple-rachael-pert-and-dana-joe-winn-charged-in-capitol-riots)
 - [Complaint](https://www.justice.gov/opa/page/file/1360796/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360796/download)

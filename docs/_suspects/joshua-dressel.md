@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "First 20 people or so to break into the Capitol"
 title: Joshua Dressel charged on June 29, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
