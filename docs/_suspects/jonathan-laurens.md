@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We weren’t there to tear shit up, just disrupt the system. All in all, I had fun! Lol"
 title: Jonathan Laurens arrested on July 1, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

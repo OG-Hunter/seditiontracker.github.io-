@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jeffrey Munger charged on March 11th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

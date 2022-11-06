@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: James Uptmore charged on January 26th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,16 +40,15 @@ caseName: USA v. UPTMORE
 judge: Royce C. Lamberth
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 21 days home confinement
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://dfw.cbslocal.com/2021/01/27/texas-father-son-chance-james-uptmore-arrested-for-alleged-involvement-in-capitol-riots/)
 - [Complaint](https://www.justice.gov/opa/page/file/1360731/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360731/download)

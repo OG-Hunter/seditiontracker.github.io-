@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Christopher Cunningham charged on August 30, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

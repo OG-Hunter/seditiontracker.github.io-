@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Ahh nothing like a new pair of 511’s and fresh set of level IV SAPI’s in the plate carrier to go “peacefully protest” with."
 title: Steven Thurlow charged on June 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Anthony Vuksanaj charged on September 28, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,10 +40,10 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 42 days intermittent incarceration
   - 90 days home detention
@@ -51,7 +51,6 @@ sentence:
   - $2000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/mahopac-man-charged-in-us-capitol-riot-after-westchester-robbery-arrest/ar-AAP2E9C)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457721/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457731/download)

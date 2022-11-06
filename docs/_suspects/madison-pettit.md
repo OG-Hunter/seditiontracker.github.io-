@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Madison Pettit charged on August 19, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

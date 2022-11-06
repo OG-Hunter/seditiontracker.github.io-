@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I guess peacefully protesting at the Capitol is now illegal and they are trying to hunt us all down to try and teach us a lesson."
 title: Landon Copeland arrested on April 29, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

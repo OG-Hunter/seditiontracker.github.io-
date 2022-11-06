@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: John Schubert charged on June 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 5, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

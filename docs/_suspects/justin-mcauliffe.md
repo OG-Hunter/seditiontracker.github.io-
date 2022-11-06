@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Yeah, I was in one of the offices"
 title: Justin Mcauliffe charged on January 28th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

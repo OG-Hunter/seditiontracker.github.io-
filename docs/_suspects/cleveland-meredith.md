@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Thinking about heading over to Pelosi CUNT’s speech and putting a bullet in her noggin on Live TV [purple devil emoji]."
 title: Cleveland Meredith charged on January 8th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

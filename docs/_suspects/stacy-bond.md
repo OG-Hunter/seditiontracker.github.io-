@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Stacy Bond charged on May 18th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "And then from there, we proceeded into the broken windows and into the Capitol building. We were walking around the hallways, and the Trump supporters were all going nuts."
 title: Kevin Cordon arrested on March 9, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

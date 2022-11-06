@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.khou.com/article/news/local/fbi-agents-arrest-galveston-county-man-capitol-riot/285-38904ed4-0723-4e3e-886f-2892b41d1a9d)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487231/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487236/download)

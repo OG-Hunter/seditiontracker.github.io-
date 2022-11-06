@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "...i took a boi boi to the Capitol and swept the floor literally..."
 title: Kene Lazo charged on May 28, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

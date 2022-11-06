@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Samuel Rodriguez charged on July 6th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

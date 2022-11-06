@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We are gonna to head out because we just got an emergency alert that they have mobilized the National Guard, so I’m heading out."
 title: Juliano Gross charged on January 11, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

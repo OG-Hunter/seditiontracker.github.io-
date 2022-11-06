@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We’re not going to merge into some globalist, communist system, it will not happen. There will be a lot of bloodshed if it comes down to that, trust me."
 title: Jon Schaffer charged on January 17, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on April 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

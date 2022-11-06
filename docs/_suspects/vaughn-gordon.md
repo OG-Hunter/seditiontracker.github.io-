@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You’re looking at what by mandate is a felon because I entered into the Capitol during the riot"
 title: Vaughn Gordon charged on January 14, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on September 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

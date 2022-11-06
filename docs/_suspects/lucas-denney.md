@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "any other guys that can go thats [sic] like us and will fight, we could use them. And it will be paid for."
 title: Lucas Denney charged on 12/7/2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

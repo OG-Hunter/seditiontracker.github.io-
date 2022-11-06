@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Tyler Slaeker charged on July 27, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

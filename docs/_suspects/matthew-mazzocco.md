@@ -31,7 +31,7 @@ raid: matt-mazzocco.png
 perpwalk:
 quote: "We’re probably all going to get in trouble"
 title: Matthew Mazzocco charged on January 17, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

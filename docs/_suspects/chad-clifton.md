@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m otw home now. We are good and no harm. Awesome day!!"
 title: Chad Clifton charged on May 16th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

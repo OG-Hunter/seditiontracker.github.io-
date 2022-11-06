@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "If you turn me in, you’re a traitor and you know what happens to traitors ... traitors get shot"
 title: Guy Reffitt charged on January 15, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on March 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

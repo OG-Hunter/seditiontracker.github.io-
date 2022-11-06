@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Yes I was in it, front line tear gased, pepper sprayed n batoned [sic]"
 title: Robert Schornak charged on March 16, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,17 +40,16 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 28 days intermittent incarceration
   - 60 days home detention
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.detroitnews.com/story/news/local/detroit-city/2021/03/18/us-capitol-riot-leads-charges-against-two-more-michigan-men/4746118001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379311/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379306/download)

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We're not supposed to be here, this is beyond the fence"
 title: Nicholas Ochs charged on January 7, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on September 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

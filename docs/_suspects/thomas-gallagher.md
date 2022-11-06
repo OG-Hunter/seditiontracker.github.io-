@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Thomas Gallagher charged on January 15, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

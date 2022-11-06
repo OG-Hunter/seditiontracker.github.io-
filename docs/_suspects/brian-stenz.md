@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Brian Stenz charged on April 28, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,10 +40,10 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days intermittent incarceration
   - 60 days home detention
@@ -51,7 +51,6 @@ sentence:
   - $2500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/montgomery-county-man-charged-in-capitol-insurrection/ar-BB1geNiC)
 - [Complaint](https://www.justice.gov/opa/case-multi-defendant/file/1391156/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1391161/download)

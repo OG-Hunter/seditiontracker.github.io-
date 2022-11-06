@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I'm all the way on the left side if you're looking at the caputal [sic] ... Inside by the window we breached"
 title: Danny Carlton charged on February 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

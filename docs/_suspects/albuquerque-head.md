@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Albuquerque Head charged on April 9, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,16 +40,15 @@ caseName: USA v. SIBICK
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 90 months incarceration
   - 3 years probation
   - restitution TBD
 ---
-
 - [News Report](https://www.newschannel5.com/news/kingsport-man-indicted-in-capitol-riot-accused-of-assaulting-police-officer)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1503996/download)
 - [Detention Memo](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Albuquerque%20Cosper%20Head%20Government%20Memorandum%20in%20Support%20of%20Pretrial%20Detention.pdf)

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Zachary Martin charged on January 28th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Country Cramer charged on July 1st, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

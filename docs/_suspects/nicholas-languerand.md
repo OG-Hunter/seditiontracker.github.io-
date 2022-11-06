@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Only true fascists censor and slander the opposition. You are doing precisely what SS soldiers and sympathizers would’ve done to Jews in 1940s Germany. God is watching."
 title: Nicholas Languerand arrested on April 15, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

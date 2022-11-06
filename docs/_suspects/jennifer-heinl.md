@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jennifer Heinl charged on March 17, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

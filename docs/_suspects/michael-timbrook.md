@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I'm PROUD of everyone who went in there, even the 30 or so rowdy ones."
 title: Michael Timbrook charged on April 20, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,16 +40,15 @@ caseName:
 judge:
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days intermittent incarceration
   - 1 year probation
   - $500 restitution
 ---
-
 - [News Report](https://www.tennessean.com/story/news/local/2021/04/20/michael-timbrook-cookeville-charged-u-s-capitol-riots/7303194002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388356/download)

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Narayana Rheiner charged on March 1st, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,13 +40,12 @@ caseName: USA v. RHEINER
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-fbi-arrests-jan-6-insurrection-20220303-m2kfndbt4zb27cotowncld5eca-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479786/download)

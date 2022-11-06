@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We attacked the CNN reporters and the fake news and destroyed tens of thousands of dollars of their video and television equipment here‘s a picture behind me of the pile we made out of it."
 title: Joshua Haynes arrested on July 1, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on October 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

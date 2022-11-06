@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Smoke out the Capitol, baby"
 title: Greg Rubenacker charged on January 27, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

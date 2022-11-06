@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Give me that bear shit... They just fucking sprayed me."
 title: Julian Khater charged on March 15th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

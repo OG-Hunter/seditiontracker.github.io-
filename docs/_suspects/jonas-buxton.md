@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jonas Buxton charged on December 8, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

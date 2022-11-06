@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Michael Stepakoff charged on January 29th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

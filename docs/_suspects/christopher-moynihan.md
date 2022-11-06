@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "There’s got to be something we can use against these fucking scumbags."
 title: Christopher Moynihan charged on February 25, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

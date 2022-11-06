@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I walked through an open door into the Capitol along with several hundred other people"
 title: Jenny Cudd charged on January 13, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on October 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

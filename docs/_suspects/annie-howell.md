@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We were gassed 5 times in the matter of 2 minutes and thousands fell to their feet and we couldn’t see or breathe"
 title: Annie Howell charged on March 2, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

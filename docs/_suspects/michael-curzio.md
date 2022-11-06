@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Michael Curzio charged on January 14th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on July 0, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

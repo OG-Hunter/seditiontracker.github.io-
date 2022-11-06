@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You fucking piece of shit. You fucking Commie motherfuckers, man . . . Come on, take your shit off. Take your shit off."
 title: Thomas Webster charged on February 22nd, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 0, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

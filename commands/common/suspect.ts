@@ -289,6 +289,30 @@ export const updateSuspect = (suspect: Suspect) => {
   // make sure dates make sense
   verifyDates(suspect);
 
+  // update the description when applicable
+  const MONTH_NAMES = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+
+  if (suspect.convicted) {
+    const convictedDate = new Date(Date.parse(suspect.convicted));
+    const month = MONTH_NAMES[convictedDate.getMonth()];
+    const day = convictedDate.getDay();
+    const year = convictedDate.getFullYear();
+    suspect.description = `Convicted on ${month} ${day}, ${year}. Click for latest case details.`;
+  }
+
   const lines: string[] = [];
 
   lines.push("---");

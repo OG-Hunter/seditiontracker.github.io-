@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "After the girl was shot and killed that’s when we raised hell."
 title: Katherine Schwab charged on February 1st, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

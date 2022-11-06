@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "... we took this fucking building."
 title: Anthony Williams charged on March 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

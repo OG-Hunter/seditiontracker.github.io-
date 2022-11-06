@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Took a lil gas ... wtf I love masks now!"
 title: Karl Dresch charged on January 20, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

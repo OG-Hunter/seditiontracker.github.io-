@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We goin? ... Cause hot damn son i [sic] really wanna crack some commie skulls."
 title: Marshall Neefe charged on September 8, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

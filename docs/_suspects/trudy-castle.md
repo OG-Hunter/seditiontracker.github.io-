@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Trudy Castle charged on May 27th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on August 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

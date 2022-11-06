@@ -31,7 +31,7 @@ raid: lonnie-coffman.jpg
 perpwalk:
 quote:
 title: Lonnie Coffman charged on January 7th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

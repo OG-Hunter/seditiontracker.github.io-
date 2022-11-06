@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We were looking for Nancy to shoot her in the friggin’ brain but we didn’t find her."
 title: Dawn Bancroft charged on January 29th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on September 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

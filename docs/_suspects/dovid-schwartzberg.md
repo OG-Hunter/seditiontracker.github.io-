@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "[I wanted to] be where the action was"
 title: Dovid Schwartzberg charged on April 16, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

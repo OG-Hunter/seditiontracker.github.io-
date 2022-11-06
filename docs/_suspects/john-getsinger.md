@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: John Getsinger charged on June 9, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 3, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

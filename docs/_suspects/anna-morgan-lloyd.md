@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Best day ever. We stormed the capitol building me and Dona Bissey were in the first 50 people in."
 title: Anna Morgan-Lloyd arrested on February 24, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

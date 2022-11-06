@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "When the judge says you're going to prison, I'm going to say, no disrespect, your honor, but I made peace with God before I left, so let's do this."
 title: Kenneth Rader charged on January 11, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
