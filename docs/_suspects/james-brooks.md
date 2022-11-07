@@ -4,20 +4,20 @@ lastName: Brooks
 hashtag:
 aka:
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2022-01-03
 charged: 2022-01-03
 indicted:
 convicted: 2022-08-04
 acquitted:
-sentenced:
+sentenced: 2022-11-03
 dismissed:
 deceased:
 plea_hearing: 2022-08-04
 trial_date:
 trial_type:
 sentencing: 2022-11-03
-status_conference: 2022-07-26
+status_conference:
 age:
 occupation:
 affiliations:
@@ -40,12 +40,16 @@ caseName: USA v. BROOKS
 judge: Jia M. Cobb
 videos:
 charges:
-- code: 18 USC § 5104(e)(2)(C)
-  title: Entering and Remaining in Certain Rooms in the Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 5104(e)(2)(C)
+    title: Entering and Remaining in Certain Rooms in the Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 1 year probation
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/jan-6-rioters-james-wayne-brooks-john-cameron-charged-for-part-in-capitol-insurrection)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481136/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524271/download)

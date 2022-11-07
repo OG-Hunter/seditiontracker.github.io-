@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-04-06
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-13
 status_conference:
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0526
-caseName:
-judge:
+caseName: USA v. FINLEY
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)

@@ -13,9 +13,9 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-trial_date: 2023-01-09
-trial_type: Jury Trial
+plea_hearing: 2022-12-02
+trial_date:
+trial_type:
 sentencing:
 status_conference: 2022-06-24
 age:
