@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-07
+status_conference: 2022-12-02
 age: 32
 occupation: Business Owner
 affiliations:
