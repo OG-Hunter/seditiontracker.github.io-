@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-08
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-22
 status_conference: 2022-10-20
 age:
 occupation:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0340
-caseName:
-judge:
+caseName: USA v. SULENTA
+judge: Tanya S. Chutkan
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

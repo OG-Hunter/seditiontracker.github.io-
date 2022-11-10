@@ -40,13 +40,12 @@ caseName: USA v. HENEGHAN
 judge: Reggie B. Walton
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.sun-sentinel.com/news/florida/fl-ne-ap-tv-chef-jan-6-20220224-2g3ifto3y5dzbgyyzeobjuze5m-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1476346/download)

@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-11-09
 trial_type: Stipulated Bench Trial
-sentencing:
+sentencing: 2023-01-27
 status_conference: 2022-08-31
 age: 26
 occupation: Sanitation Worker
@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/high-school-varsity-jacket-us-capitol-riot_n_600f365ac5b634dc37378746?63x8)
 - [Complaint](https://www.justice.gov/opa/page/file/1361271/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1550941/download)

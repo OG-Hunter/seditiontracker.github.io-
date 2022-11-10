@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-08
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-14
 status_conference: 2022-10-27
 age: 37
 occupation:
@@ -40,13 +40,12 @@ caseName: USA v. ECKERMAN
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/capitol-rioter-arrested-allegedly-pushing-officer-down-stairs-1631343)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Michael%20Eckerman%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434391/download)
