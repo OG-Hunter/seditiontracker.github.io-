@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-19
 age: 34
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0222
 caseName: USA v. WESTON
-judge: G. M. Harvey
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

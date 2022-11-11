@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-07
 age: 35
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0382
-caseName:
-judge:
+caseName: USA v. WARNAGIRIS
+judge: Paul L. Friedman
 videos:
 charges:
 sentence:
