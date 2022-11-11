@@ -554,6 +554,7 @@ const linkType = (description: string, lastName?: string) => {
       return "Order Revoking Bond";
 
     case /Order Denying Defense Motion to Modify Conditions of Release/.test(description):
+    case /Order Denying Motion to Reconsider Bond/.test(description):
       return "Order Denying Defense Motion to Modify Conditions of Release";
 
     case /Initial Appearance Hearing Transcript/.test(description):
@@ -633,6 +634,7 @@ const linkType = (description: string, lastName?: string) => {
     case /Government Opposition to Motion for Reconsideration of Motion for Conditional Release/.test(description):
     case /Government Opposition to Motion for Reconsideration of Revocation of Bond/.test(description):
     case /Government Opposition to Motion for Reconsideration of Pretrial Detention/.test(description):
+    case /Government Response in Opposition to Defense Motion to Reconsider Bond/.test(description):
       return "Government Opposition to Reconsideration of Release";
 
     case /Supplement to Government's Opposition to Defendant's Motion for Conditional Release/.test(description):
@@ -677,6 +679,9 @@ const linkType = (description: string, lastName?: string) => {
 
     case /Memorandum Opinion Rejecting Defense Motion to Correct Sentence/.test(description):
       return "Memorandum Opinion Rejecting Defense Motion to Correct Sentence";
+
+    case /Government Response to Amended Motion to Suppress/.test(description):
+      return "Government Response to Amended Motion to Suppress";
 
     // defense motions
     case /Defendant's Notice of Government's Violation of Due Process Protections Act/.test(description):

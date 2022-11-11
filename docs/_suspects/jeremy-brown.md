@@ -47,3 +47,6 @@ sentence:
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Information.pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Detention%20Order%20FL.pdf)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.flmd.395204/gov.uscourts.flmd.395204.159.0.pdf)
+- [Government Response to Amended Motion to Suppress](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Govt%20Response%20to%20Amended%20Motion%20to%20Suppress%20FL.pdf)
+- [Government Opposition to Reconsideration of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Govt%20Response%20in%20Opposition%20to%20Motion%20to%20Reconsider%20Bond%20FL.pdf)
+- [Order Denying Defense Motion to Modify Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Order%20Denying%20Motion%20to%20Reconsider%20Bond%20FL.pdf)

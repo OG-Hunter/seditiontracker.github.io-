@@ -4,11 +4,11 @@ lastName: Owens
 hashtag: CactusRopes
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-04-16
 charged: 2021-04-16
 indicted: 2021-11-17
-convicted:
+convicted: 2022-11-10
 acquitted:
 sentenced:
 dismissed:
@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jason Owens arrested on April 16, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,9 +40,15 @@ caseName: USA v. OWENS
 judge: Beryl A. Howell
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.thedailybeast.com/jason-owens-father-of-skateboard-wielding-insurrectionist-charged-in-capitol-riots-feds-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388796/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461456/download)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551286/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551291/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551296/download)
