@@ -8,12 +8,12 @@ status: Indicted
 date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-02-17
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
-plea_hearing: 2022-11-08
+plea_hearing:
 trial_date:
 trial_type:
 sentencing:
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://cdapress.com/news/2021/feb/13/sandpoint-man-implicated-capitol-insurrection-cda/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379106/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459966/download)
