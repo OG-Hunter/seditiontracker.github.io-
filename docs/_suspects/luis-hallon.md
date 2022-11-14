@@ -45,3 +45,4 @@ sentence:
 - [News Report](https://www.fox35orlando.com/news/3-more-arrested-in-central-florida-connected-to-capitol-riot-officials-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513221/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513226/download)
+- [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Luis%20Hallon%20Information.pdf)
