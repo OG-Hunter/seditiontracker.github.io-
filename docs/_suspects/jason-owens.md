@@ -40,13 +40,12 @@ caseName: USA v. OWENS
 judge: Beryl A. Howell
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/jason-owens-father-of-skateboard-wielding-insurrectionist-charged-in-capitol-riots-feds-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388796/download)

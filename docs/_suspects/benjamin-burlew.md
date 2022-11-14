@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0647
-caseName:
-judge:
+caseName: USA v. BURLEW
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:
