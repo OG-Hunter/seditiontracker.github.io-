@@ -4,13 +4,13 @@ lastName: Ashlock
 hashtag: YellowSwimGoggles
 aka:
 residence: Kansas
-status: Convicted
+status: Sentenced
 date: 2021-02-18
 charged: 2021-02-18
 indicted: 2021-02-26
 convicted: 2022-06-14
 acquitted:
-sentenced:
+sentenced: 2022-11-10
 dismissed:
 deceased:
 plea_hearing: 2022-06-14
@@ -40,12 +40,16 @@ caseName: USA v. KONOLD
 judge: Timothy J. Kelly
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
+  - 70 days incarceration
+  - 1 year probation
+  - $500 restitution
 ---
+
 - [News Report](https://apnews.com/article/donald-trump-capitol-siege-kansas-city-kansas-riots-df58bb36cd2a6d74438f94af2c03451f)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1371281/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377826/download)
