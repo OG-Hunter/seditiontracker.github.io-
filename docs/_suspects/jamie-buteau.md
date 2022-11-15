@@ -14,10 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-04-06
+trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-12-02
 age: 48
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0489
-caseName:
-judge:
+caseName: USA v. BUTEAU
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

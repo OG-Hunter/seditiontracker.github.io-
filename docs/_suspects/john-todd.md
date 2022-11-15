@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-04
+status_conference: 2022-12-06
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0166
 caseName: USA v. TODD III
-judge: Beryl A. Howell
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

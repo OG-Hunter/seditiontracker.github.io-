@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-15
+status_conference: 2023-01-17
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0002
 caseName: USA v. GIUSTINO
-judge: G. M. Harvey
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

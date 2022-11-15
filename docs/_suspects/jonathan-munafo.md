@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-13
 age: 34
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0330
-caseName:
-judge:
+caseName: USA v. MUNAFO
+judge: James E. Boasberg
 videos:
 charges:
 sentence:
