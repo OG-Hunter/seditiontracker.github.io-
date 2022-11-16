@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-15
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-02-16
 status_conference: 2022-11-15
 age: 30
 occupation: Employee at Delilah’s Gentlemen’s Club

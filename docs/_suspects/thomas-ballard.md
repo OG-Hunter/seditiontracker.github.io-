@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-08-01
 trial_type:
 sentencing:
-status_conference: 2022-11-16
+status_conference: 2022-12-13
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:
