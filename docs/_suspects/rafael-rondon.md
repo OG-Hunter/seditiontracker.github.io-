@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-11-10
+plea_hearing: 2022-12-05
 trial_date:
 trial_type:
 sentencing:
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wwnytv.com/2021/10/01/watertown-man-his-mother-facing-federal-charges-jan-6th-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Statement%20of%20Facts.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Indictment.pdf)
