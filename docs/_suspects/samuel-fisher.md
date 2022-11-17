@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0142
-caseName:
-judge:
+caseName: USA v. FISHER
+judge: Carl J. Nichols
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)
