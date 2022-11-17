@@ -1,9 +1,9 @@
 ---
 name: David Krauss
 lastName: Krauss
-hashtag:
+hashtag: PumaPal
 aka:
-residence:
+residence: New Jersey
 status: Charged
 date: 2022-11-14
 charged: 2022-11-14
@@ -42,6 +42,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551986/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551991/download)

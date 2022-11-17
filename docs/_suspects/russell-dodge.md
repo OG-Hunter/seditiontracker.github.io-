@@ -1,9 +1,9 @@
 ---
 name: Russell Dodge
 lastName: Dodge
-hashtag:
+hashtag: Pumabud
 aka:
-residence:
+residence: New Jersey
 status: Charged
 date: 2022-11-14
 charged: 2022-11-14
@@ -42,6 +42,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551996/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1552001/download)
