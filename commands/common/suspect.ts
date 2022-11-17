@@ -286,6 +286,10 @@ export const updateSuspect = (suspect: Suspect) => {
     suspect.trial_type = null;
   }
 
+  if (suspect.sentencing && !suspect.convicted) {
+    warning(`Sentencing date without conviction: ${suspect.name}`);
+  }
+
   // make sure dates make sense
   verifyDates(suspect);
 

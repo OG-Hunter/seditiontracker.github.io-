@@ -8,15 +8,15 @@ status: Indicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-02-05
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing: 2022-11-16
+sentencing:
 status_conference:
 age: 27
 occupation:
@@ -29,7 +29,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We pushed the cops against the wall, they dropped all their gear and left'
+quote: "We pushed the cops against the wall, they dropped all their gear and left"
 title: Cody Connell charged on January 16, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.knoe.com/2021/01/17/la-man-and-cousin-arrested-following-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358936/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1358931/download)
