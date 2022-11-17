@@ -22,8 +22,8 @@ age: 61
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/jeffrey-grace.png
-suspect: jeffrey-grace.png
+image: /images/preview/jeffrey-grace.jpg
+suspect: jeffrey-grace.jpg
 booking:
 courtroom:
 courthouse:
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)
