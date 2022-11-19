@@ -27,9 +27,9 @@ const doMigrate = () => {
     ];
 
     if (suspect.convicted) {
-      const convictedDate = new Date(Date.parse(suspect.convicted));
+      const convictedDate = new Date(Date.parse(`${suspect.convicted}T12:00:00`));
       const month = MONTH_NAMES[convictedDate.getMonth()];
-      const day = convictedDate.getDay();
+      const day = convictedDate.getDate();
       const year = convictedDate.getFullYear();
       suspect.description = `Convicted on ${month} ${day}, ${year}. Click for latest case details.`;
     }
