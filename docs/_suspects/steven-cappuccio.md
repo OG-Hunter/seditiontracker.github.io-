@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-sentencing: 2023-01-06
+trial_date: 2023-04-10
+trial_type: Bench Trial
+sentencing:
 status_conference:
 age: 52
 occupation:
@@ -42,5 +42,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.kens5.com/article/news/crime/san-antonio-man-arrested-for-assault-on-law-enforcement-during-jan-6-capitol-breach-usdoj-says/273-d9fb0f04-c430-4162-a0d2-1c862b6fec52)
 - [Indictment](https://www.justice.gov/usao-dc/press-release/file/1424526/download)

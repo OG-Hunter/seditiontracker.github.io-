@@ -16,8 +16,8 @@ deceased:
 plea_hearing:
 trial_date:
 trial_type:
-sentencing: 2022-11-18
-status_conference: 2022-12-13
+sentencing:
+status_conference:
 age: 47
 occupation:
 affiliations:
@@ -35,13 +35,14 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0405
-caseName: USA v. MONROY
-judge: Royce C. Lamberth
+caseNumber: 1:21-mj-00033
+caseName:
+judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wgrz.com/article/news/local/cheektowaga-man-wanted-by-fbi-taken-into-custody/71-27ec6dc4-ca4c-429f-b0ae-742493622365)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354111/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1354106/download)

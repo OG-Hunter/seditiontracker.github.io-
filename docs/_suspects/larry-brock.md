@@ -4,11 +4,11 @@ lastName: Brock
 hashtag: LarryBrock
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-09
 charged: 2021-01-09
 indicted: 2021-06-23
-convicted:
+convicted: 2022-11-16
 acquitted:
 sentenced:
 dismissed:
@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Larry Rendall Brock charged on January 9, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on November 16, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,6 +40,30 @@ caseName: USA v. BROCK
 judge: John D. Bates
 videos:
 charges:
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(A)
+  title: Entering and Remaining on the Floor of Congress
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
