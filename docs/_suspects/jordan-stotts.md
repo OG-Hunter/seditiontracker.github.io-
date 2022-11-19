@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Police were aggressive and on the wrong side! They got us out but it's far from over! 1776!"
 title: Jordan Stotts charged on March 16, 2021
-description: Convicted on July 2, 2021. Click for latest case details.
+description: Convicted on July 28, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

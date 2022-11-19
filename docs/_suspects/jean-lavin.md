@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Don’t allow 7 states of cheaters to hijack our election!"
 title: Jean Lavin charged on September 9, 2021
-description: Convicted on January 1, 2022. Click for latest case details.
+description: Convicted on January 11, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

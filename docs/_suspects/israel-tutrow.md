@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Israel Tutrow charged on January 27th, 2021
-description: Convicted on October 2, 2021. Click for latest case details.
+description: Convicted on October 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

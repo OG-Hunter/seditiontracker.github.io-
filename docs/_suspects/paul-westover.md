@@ -31,7 +31,7 @@ raid: paul-westover.jpg
 perpwalk:
 quote:
 title: Paul Westover charged on February 4, 2021
-description: Convicted on December 0, 2021. Click for latest case details.
+description: Convicted on December 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

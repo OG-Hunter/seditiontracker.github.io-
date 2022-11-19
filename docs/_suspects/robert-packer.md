@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Robert Keith Packer charged on January 13, 2021
-description: Convicted on January 2, 2022. Click for latest case details.
+description: Convicted on January 26, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

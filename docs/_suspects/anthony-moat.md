@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Anthony Moat charged on April 7, 2021
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 28, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

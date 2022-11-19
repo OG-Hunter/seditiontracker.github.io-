@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: James Uptmore charged on January 26th, 2021
-description: Convicted on June 0, 2022. Click for latest case details.
+description: Convicted on June 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

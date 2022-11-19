@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Reva Vincent charged on February 14, 2022
-description: Convicted on September 2, 2022. Click for latest case details.
+description: Convicted on September 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

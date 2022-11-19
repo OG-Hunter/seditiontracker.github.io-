@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I will be the guy running around with the budget AR"
 title: Brian Ulrich charged on August 4, 2021
-description: Convicted on April 4, 2022. Click for latest case details.
+description: Convicted on April 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

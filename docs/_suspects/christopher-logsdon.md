@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Christopher Logsdon charged on 1/18/2022
-description: Convicted on July 2, 2022. Click for latest case details.
+description: Convicted on July 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

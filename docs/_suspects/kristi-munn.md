@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kristi Munn charged on July 12, 2021
-description: Convicted on May 4, 2022. Click for latest case details.
+description: Convicted on May 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

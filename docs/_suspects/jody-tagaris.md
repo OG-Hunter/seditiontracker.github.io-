@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "The Capital [sic]... back at hotel safe! Got tear gassed but okay!"
 title: Jody Tagaris charged on May 14, 2021
-description: Convicted on November 2, 2021. Click for latest case details.
+description: Convicted on December 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

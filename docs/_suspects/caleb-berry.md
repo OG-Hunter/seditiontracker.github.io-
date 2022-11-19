@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Caleb Berry charged on July 9, 2021
-description: Convicted on July 1, 2021. Click for latest case details.
+description: Convicted on July 20, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

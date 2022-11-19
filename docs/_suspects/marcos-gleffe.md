@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "[I] would not do it again if I could go back."
 title: Marcos Gleffe charged on September 1, 2021
-description: Convicted on September 3, 2022. Click for latest case details.
+description: Convicted on September 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

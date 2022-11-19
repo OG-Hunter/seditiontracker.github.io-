@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Ryan Suleski charged on March 5, 2021
-description: Convicted on July 2, 2022. Click for latest case details.
+description: Convicted on July 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

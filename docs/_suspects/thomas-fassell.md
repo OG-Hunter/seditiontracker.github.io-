@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Thomas Fassell charged on September 9, 2021
-description: Convicted on July 1, 2022. Click for latest case details.
+description: Convicted on July 19, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

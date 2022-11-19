@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I hope they come for me my videos will show the peace and the lies on the news."
 title: Melody Steele-Smith charged on January 20th, 2021
-description: Convicted on October 1, 2022. Click for latest case details.
+description: Convicted on November 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

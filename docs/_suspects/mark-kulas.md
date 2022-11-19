@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Mark Kulas charged on November 19, 2021
-description: Convicted on December 0, 2021. Click for latest case details.
+description: Convicted on December 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

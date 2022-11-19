@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Danielle Doyle charged on February 24, 2021
-description: Convicted on July 3, 2021. Click for latest case details.
+description: Convicted on July 15, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

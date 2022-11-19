@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Duke Wilson charged on April 12, 2021
-description: Convicted on September 1, 2021. Click for latest case details.
+description: Convicted on September 7, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

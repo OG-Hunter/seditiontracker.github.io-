@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: 'Break it down'
 title: Jeffrey Hubbard charged on December 6, 2021
-description: Convicted on November 3, 2022. Click for latest case details.
+description: Convicted on November 17, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

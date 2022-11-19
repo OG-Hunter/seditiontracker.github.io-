@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Anthony Carollo charged on January 19, 2022
-description: Convicted on April 3, 2022. Click for latest case details.
+description: Convicted on April 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

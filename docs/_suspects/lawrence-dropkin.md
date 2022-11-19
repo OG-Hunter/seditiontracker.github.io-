@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Lawrence Dropkin charged on September 13, 2021
-description: Convicted on July 1, 2022. Click for latest case details.
+description: Convicted on July 12, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

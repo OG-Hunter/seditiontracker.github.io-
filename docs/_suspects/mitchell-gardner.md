@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Things got a little crazy"
 title: Mitchell Gardner arrested on June 25, 2021
-description: Convicted on June 0, 2022. Click for latest case details.
+description: Convicted on June 27, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

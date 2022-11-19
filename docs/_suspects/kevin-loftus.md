@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "That's right folks some of us are in it to win it"
 title: Kevin Loftus charged on January 12, 2021
-description: Convicted on October 1, 2021. Click for latest case details.
+description: Convicted on October 19, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

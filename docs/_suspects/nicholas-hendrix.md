@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Nicholas Hendrix arrested on May 27, 2021
-description: Convicted on June 1, 2022. Click for latest case details.
+description: Convicted on June 7, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

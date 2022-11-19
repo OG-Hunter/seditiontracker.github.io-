@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Robert Petrosh charged on April 29, 2021
-description: Convicted on January 4, 2022. Click for latest case details.
+description: Convicted on January 7, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

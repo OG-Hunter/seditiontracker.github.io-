@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Graydon Young charged on February 15th, 2021
-description: Convicted on June 2, 2021. Click for latest case details.
+description: Convicted on June 23, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jacob Garcia charged on 3/7/2022
-description: Convicted on October 3, 2022. Click for latest case details.
+description: Convicted on October 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

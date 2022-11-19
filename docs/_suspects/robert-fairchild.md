@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Robert Fairchild charged on August 24, 2021
-description: Convicted on May 2, 2022. Click for latest case details.
+description: Convicted on May 11, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

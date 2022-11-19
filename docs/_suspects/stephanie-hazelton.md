@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We need more men!"
 title: Stephanie Hazelton charged on January 22, 2021
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 14, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Mark Leffingwell charged on January 7th, 2021
-description: Convicted on October 1, 2021. Click for latest case details.
+description: Convicted on October 26, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

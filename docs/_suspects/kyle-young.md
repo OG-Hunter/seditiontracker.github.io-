@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kyle Young charged on April 9, 2021
-description: Convicted on May 3, 2022. Click for latest case details.
+description: Convicted on May 5, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

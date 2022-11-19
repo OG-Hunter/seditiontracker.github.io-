@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Matthew Council charged on January 14th, 2021
-description: Convicted on August 2, 2022. Click for latest case details.
+description: Convicted on August 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

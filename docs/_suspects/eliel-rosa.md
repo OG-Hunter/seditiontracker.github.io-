@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Eliel Rosa charged on January 13, 2021
-description: Convicted on July 3, 2021. Click for latest case details.
+description: Convicted on July 29, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Thaddis Johnson charged on 5/23/2022
-description: Convicted on August 2, 2022. Click for latest case details.
+description: Convicted on August 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

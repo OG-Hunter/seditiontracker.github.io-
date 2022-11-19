@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I don’t have a monopoly on press badges. They’re on Amazon for like $8 ... No special permission to buy."
 title: Erik Herrera charged on August 6, 2021
-description: Convicted on August 4, 2022. Click for latest case details.
+description: Convicted on August 19, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Lol to anyone who’s possibly concerned about the picture of me going around ... Sorry I hate freedom? ... Not like I did anything illegal"
 title: Jacob Fracker charged on January 13, 2021
-description: Convicted on March 4, 2022. Click for latest case details.
+description: Convicted on March 18, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

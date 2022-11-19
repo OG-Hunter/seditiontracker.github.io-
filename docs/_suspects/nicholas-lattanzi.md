@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "New jacket who wants to commit war crimes in Bosnia with me?"
 title: Nicholas Lattanzi charged on January 10, 2022
-description: Convicted on August 2, 2022. Click for latest case details.
+description: Convicted on August 31, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

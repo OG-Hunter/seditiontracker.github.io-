@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I got gassed several times inside the Capitol, many times outside the Capitol. Got shot with pepper balls. It was fucking nuts. We had to do...ah...battle with the Police inside."
 title: Robert Reeder charged on February 24, 2021
-description: Convicted on June 2, 2021. Click for latest case details.
+description: Convicted on June 23, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

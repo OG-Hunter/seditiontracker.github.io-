@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jeffrey Register charged on March 19, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 14, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

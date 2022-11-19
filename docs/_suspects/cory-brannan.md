@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Cory Brannan charged on September 2, 2021
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on June 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

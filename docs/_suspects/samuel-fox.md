@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Samuel Fox arrested on June 23, 2021
-description: Convicted on November 4, 2021. Click for latest case details.
+description: Convicted on November 5, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

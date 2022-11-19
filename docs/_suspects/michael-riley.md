@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Hey [Person 1], im [sic] a capitol police officer who agrees with your political stance. Take down the part about being in the building they are currently investigating and everyone who was in the building is going to be charged. Just looking out!"
 title: Michael Riley charged on October 14, 2021
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 28, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

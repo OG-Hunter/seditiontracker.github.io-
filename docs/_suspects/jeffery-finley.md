@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jeffery Finley charged on March 21, 2021
-description: Convicted on April 2, 2022. Click for latest case details.
+description: Convicted on April 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

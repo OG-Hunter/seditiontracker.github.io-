@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We’re not here to hurt any cops, of course. I love my boys in blue, but this is overwhelming for them. There’s no way they can hold us back"
 title: Nicholes Lentz arrested on February 19, 2021
-description: Convicted on February 2, 2022. Click for latest case details.
+description: Convicted on February 23, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

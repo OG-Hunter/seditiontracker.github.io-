@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’M FUCKIN INSIDE THE CRAPITOL!!!"
 title: Robert Chapman charged on April 13, 2021
-description: Convicted on December 3, 2021. Click for latest case details.
+description: Convicted on December 16, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

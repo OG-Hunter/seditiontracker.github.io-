@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Todd Wilson charged on 5/3/2022
-description: Convicted on May 2, 2022. Click for latest case details.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

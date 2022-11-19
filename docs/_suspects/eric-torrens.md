@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Eric Torrens charged on January 27, 2021
-description: Convicted on August 3, 2021. Click for latest case details.
+description: Convicted on August 19, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

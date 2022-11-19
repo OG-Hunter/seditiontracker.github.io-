@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Katharine Morrison charged on February 2nd, 2022
-description: Convicted on October 0, 2022. Click for latest case details.
+description: Convicted on October 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

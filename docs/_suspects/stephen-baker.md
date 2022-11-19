@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was inside for like an hour, dude. I was one of like the last 10 people in there."
 title: Stephen Baker charged on February 1st, 2021
-description: Convicted on January 4, 2022. Click for latest case details.
+description: Convicted on January 7, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

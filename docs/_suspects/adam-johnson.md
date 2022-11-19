@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Adam Johnson charged on January 7, 2021
-description: Convicted on November 0, 2021. Click for latest case details.
+description: Convicted on November 22, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

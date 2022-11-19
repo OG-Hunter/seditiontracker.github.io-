@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: William Merry charged on February 4, 2021
-description: Convicted on January 2, 2022. Click for latest case details.
+description: Convicted on January 5, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

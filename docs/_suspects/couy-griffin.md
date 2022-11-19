@@ -31,7 +31,7 @@ raid:
 perpwalk: couy-griffin.jpg
 quote: "I didn't break anything. I didn't assault anybody."
 title: Couy Griffin charged on January 17, 2021
-description: Convicted on March 1, 2022. Click for latest case details.
+description: Convicted on March 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

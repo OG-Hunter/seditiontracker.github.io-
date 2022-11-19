@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We ride for Trump, we die for Trump!"
 title: Jacob Wiedrich charged on July 21, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 14, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

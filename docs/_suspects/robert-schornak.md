@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Yes I was in it, front line tear gased, pepper sprayed n batoned [sic]"
 title: Robert Schornak charged on March 16, 2021
-description: Convicted on November 4, 2021. Click for latest case details.
+description: Convicted on November 12, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Janet Buhler charged on July 28, 2021
-description: Convicted on January 3, 2022. Click for latest case details.
+description: Convicted on January 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

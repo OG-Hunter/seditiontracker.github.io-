@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was there"
 title: Glenn Croy arrested on February 17, 2021
-description: Convicted on August 0, 2021. Click for latest case details.
+description: Convicted on August 9, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

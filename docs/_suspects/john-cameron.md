@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Was it pretty? No. Did it make a statement? Yes."
 title: John Cameron charged on December 10, 2021
-description: Convicted on May 2, 2022. Click for latest case details.
+description: Convicted on May 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

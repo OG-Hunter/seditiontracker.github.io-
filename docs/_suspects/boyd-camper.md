@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was on the front line. We’re going to take this damn place. If you haven’t heard it’s called the Insurrection Act and we the people are ready."
 title: Boyd Camper charged on March 11, 2021
-description: Convicted on August 3, 2021. Click for latest case details.
+description: Convicted on August 5, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

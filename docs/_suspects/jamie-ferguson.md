@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jamie Ferguson charged on 5/10/2022
-description: Convicted on July 2, 2022. Click for latest case details.
+description: Convicted on July 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

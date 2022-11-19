@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I chugged it and got out of there"
 title: Jason Riddle charged on Februrary 5, 2021
-description: Convicted on November 3, 2021. Click for latest case details.
+description: Convicted on November 18, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

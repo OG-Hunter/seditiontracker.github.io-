@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "THE CAPITOL HAS BEEN BREACHED - IT IS FILLING UP - THEY CAN’T STOP US"
 title: Jeffrey Schaefer charged on 1/11/2022
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

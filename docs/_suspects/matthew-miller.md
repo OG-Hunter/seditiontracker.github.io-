@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Matthew Miller charged on January 25, 2021
-description: Convicted on February 2, 2022. Click for latest case details.
+description: Convicted on February 9, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

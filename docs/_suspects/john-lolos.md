@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: John Lolos charged on January 9th, 2021
-description: Convicted on August 2, 2021. Click for latest case details.
+description: Convicted on August 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

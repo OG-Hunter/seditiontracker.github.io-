@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Abram Markofski charged on April 27, 2021
-description: Convicted on August 2, 2021. Click for latest case details.
+description: Convicted on September 1, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

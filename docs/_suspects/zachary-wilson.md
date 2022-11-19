@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "first ones in !!!! First thing we found was Pelosi's office."
 title: Zachary Wilson charged on February 12, 2021
-description: Convicted on September 0, 2021. Click for latest case details.
+description: Convicted on September 27, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-breach/maga-hatted-texan-caught-on-video-grabbing-cops-arm-to-facilitate-the-entry-of-other-rioters-on-jan-6-feds-say/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547431/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547436/download)

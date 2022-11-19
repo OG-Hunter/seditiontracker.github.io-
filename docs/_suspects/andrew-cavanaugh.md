@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Andrew Cavanaugh charged on March 15, 2021
-description: Convicted on February 3, 2022. Click for latest case details.
+description: Convicted on February 17, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

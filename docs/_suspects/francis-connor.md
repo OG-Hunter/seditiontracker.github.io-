@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was in the Capitol building"
 title: Francis Connor charged on August 27, 2021
-description: Convicted on April 3, 2022. Click for latest case details.
+description: Convicted on April 28, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

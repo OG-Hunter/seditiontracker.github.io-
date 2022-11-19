@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Michael Curzio charged on January 14th, 2021
-description: Convicted on July 0, 2021. Click for latest case details.
+description: Convicted on July 12, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

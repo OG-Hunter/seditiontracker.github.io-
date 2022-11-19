@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kelsey Wilson charged on August 2, 2021
-description: Convicted on September 0, 2021. Click for latest case details.
+description: Convicted on September 27, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

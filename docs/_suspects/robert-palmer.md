@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Robert Palmer arrested on March 17, 2021
-description: Convicted on October 0, 2021. Click for latest case details.
+description: Convicted on October 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

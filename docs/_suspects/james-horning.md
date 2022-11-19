@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Those of you calling for an investigation, why don’t you try investigating deez nuts with ya chin"
 title: James Horning arrested on March 1, 2021
-description: Convicted on October 3, 2022. Click for latest case details.
+description: Convicted on October 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

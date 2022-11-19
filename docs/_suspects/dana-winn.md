@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Got her flags, come with her flagpole, that way I can hit antifa in the head if need be"
 title: Dana Winn charged on January 26th, 2021"
-description: Convicted on October 0, 2021. Click for latest case details.
+description: Convicted on October 4, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Feel like I took about 50 bong rips of pepper spray today."
 title: Glen Simon charged on April 12, 2021
-description: Convicted on October 4, 2021. Click for latest case details.
+description: Convicted on October 15, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

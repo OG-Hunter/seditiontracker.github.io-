@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Rafael Valadez charged on November 9, 2021
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on July 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

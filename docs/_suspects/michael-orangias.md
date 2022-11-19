@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Michael Orangias arrested on March 17, 2021
-description: Convicted on August 1, 2021. Click for latest case details.
+description: Convicted on August 31, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

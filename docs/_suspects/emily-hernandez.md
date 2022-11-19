@@ -31,7 +31,7 @@ raid: emily-hernandez.jpg
 perpwalk:
 quote:
 title: Emily Hernandez charged on January 15, 2021
-description: Convicted on January 0, 2022. Click for latest case details.
+description: Convicted on January 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

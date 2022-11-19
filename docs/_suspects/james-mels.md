@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: James Mels charged on February 11th, 2021
-description: Convicted on July 4, 2022. Click for latest case details.
+description: Convicted on July 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

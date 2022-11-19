@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Only went to one of the most historic days in American history with one of the biggest crowds ever seen Trumps [sic] epic speech live and close up. ... 1/6/21 for life"
 title: Kevin Blakely charged on March 19, 2021
-description: Convicted on October 4, 2021. Click for latest case details.
+description: Convicted on October 22, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

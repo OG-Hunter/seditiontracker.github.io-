@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Eric Barber charged on February 16, 2021
-description: Convicted on December 3, 2021. Click for latest case details.
+description: Convicted on December 16, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

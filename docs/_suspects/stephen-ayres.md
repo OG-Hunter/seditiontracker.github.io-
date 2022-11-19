@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Stephen Ayres charged on January 25, 2021
-description: Convicted on June 2, 2022. Click for latest case details.
+description: Convicted on June 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

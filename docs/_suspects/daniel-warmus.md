@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Daniel Warmus charged on May 17, 2021
-description: Convicted on May 0, 2022. Click for latest case details.
+description: Convicted on May 23, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Shelly Stallings charged on February 9th, 2022
-description: Convicted on August 4, 2022. Click for latest case details.
+description: Convicted on August 12, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

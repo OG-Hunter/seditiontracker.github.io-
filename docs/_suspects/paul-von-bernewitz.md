@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Paul Bernewitz charged on March 24, 2021
-description: Convicted on January 3, 2022. Click for latest case details.
+description: Convicted on January 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

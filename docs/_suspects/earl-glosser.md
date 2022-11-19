@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Earl Glosser charged on January 6th, 2021
-description: Convicted on October 3, 2022. Click for latest case details.
+description: Convicted on October 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

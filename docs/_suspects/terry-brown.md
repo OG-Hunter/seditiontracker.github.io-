@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "So if this is what it took … to make the people stand up and listen, then to me it was worth it."
 title: Terry Brown charged on January 11th, 2021
-description: Convicted on September 4, 2021. Click for latest case details.
+description: Convicted on September 10, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

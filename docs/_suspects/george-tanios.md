@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: George Tanios charged on March 15th, 2021
-description: Convicted on July 2, 2022. Click for latest case details.
+description: Convicted on July 27, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

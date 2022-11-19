@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Gary Wickersham Arrestee on May 7, 2021
-description: Convicted on October 4, 2021. Click for latest case details.
+description: Convicted on October 15, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

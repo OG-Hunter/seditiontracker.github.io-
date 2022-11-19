@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Geoffrey Shough charged on February 17th, 2022
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 16, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

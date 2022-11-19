@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Treniss Evans charged on March 4th, 2021
-description: Convicted on March 3, 2022. Click for latest case details.
+description: Convicted on March 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

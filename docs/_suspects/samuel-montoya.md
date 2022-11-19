@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We have had enough! We’re not gonna take your fucking vaccines! We’re not gonna take all your bullshit! The people are rising up!"
 title: Samuel Montoya charged on April 8, 2021
-description: Convicted on November 1, 2022. Click for latest case details.
+description: Convicted on November 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

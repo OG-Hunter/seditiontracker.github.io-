@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Daniel Caldwell arrested on February 10, 2021
-description: Convicted on September 0, 2022. Click for latest case details.
+description: Convicted on September 26, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Matthew Clark charged on February 12, 2021
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on June 17, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

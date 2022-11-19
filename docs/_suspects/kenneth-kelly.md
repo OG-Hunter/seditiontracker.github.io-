@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Inside White house [sic] via breaking in windows"
 title: Kenneth Kelly charged on April 21, 2021
-description: Convicted on September 4, 2021. Click for latest case details.
+description: Convicted on September 17, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

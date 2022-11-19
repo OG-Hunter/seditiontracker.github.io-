@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We weren’t fighting against antifa we’re fighting against the government"
 title: Troy Faulkner charged on January 26th, 2021
-description: Convicted on August 4, 2022. Click for latest case details.
+description: Convicted on August 5, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Melanie Archer charged on March 11th, 2022
-description: Convicted on October 0, 2022. Click for latest case details.
+description: Convicted on October 24, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

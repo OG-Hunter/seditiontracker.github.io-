@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We're coming in here, whether you like it or not"
 title: James Mcgrew charged on May 27, 2021
-description: Convicted on May 4, 2022. Click for latest case details.
+description: Convicted on May 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

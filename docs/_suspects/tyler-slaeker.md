@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Tyler Slaeker charged on July 27, 2021
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on June 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,13 +40,12 @@ caseName: USA v. SLAEKER
 judge: Paul L. Friedman
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.insider.com/capitol-rioter-arrested-after-mother-posted-his-pictures-on-facebook-2021-8)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Tyler%20Slaeker%20Affidavit%20in%20Support%20of%20Application%20for%20Arrest%20Warrant.pdf)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.236035/gov.uscourts.dcd.236035.44.0.pdf)

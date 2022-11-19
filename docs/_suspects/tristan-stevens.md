@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Tristan Stevens arrested on February 5, 2021
-description: Convicted on September 1, 2022. Click for latest case details.
+description: Convicted on September 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

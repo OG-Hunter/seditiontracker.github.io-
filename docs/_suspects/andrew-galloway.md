@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Yeah, that was us today; no that wasn’t Antifa."
 title: Andrew Galloway charged on January 4, 2022
-description: Convicted on March 1, 2022. Click for latest case details.
+description: Convicted on March 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

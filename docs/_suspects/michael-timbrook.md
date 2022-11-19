@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I'm PROUD of everyone who went in there, even the 30 or so rowdy ones."
 title: Michael Timbrook charged on April 20, 2021
-description: Convicted on February 2, 2022. Click for latest case details.
+description: Convicted on February 9, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

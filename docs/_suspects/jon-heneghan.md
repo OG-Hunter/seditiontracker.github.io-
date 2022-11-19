@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jon Heneghan charged on February 22nd, 2022
-description: Convicted on November 1, 2022. Click for latest case details.
+description: Convicted on November 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Vic Williams charged on May 10, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 28, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

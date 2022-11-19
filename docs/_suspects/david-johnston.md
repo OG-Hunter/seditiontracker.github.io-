@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: David Johnston charged on May 16th, 2022
-description: Convicted on September 4, 2022. Click for latest case details.
+description: Convicted on September 23, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Spent about 30 minutes inside and got out before the swat team went in."
 title: David Wiersma charged on September 13, 2021
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 30, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

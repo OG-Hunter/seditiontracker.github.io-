@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Eduardo Gonzalez charged on January 31, 2021
-description: Convicted on September 3, 2021. Click for latest case details.
+description: Convicted on September 30, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

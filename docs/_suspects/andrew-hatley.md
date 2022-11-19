@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "It has come to my attention that there was someone who looks like me at the Capitol."
 title: Andrew Hatley charged on January 19th, 2021
-description: Convicted on September 1, 2021. Click for latest case details.
+description: Convicted on September 14, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

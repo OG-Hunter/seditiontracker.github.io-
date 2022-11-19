@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Grady Owens charged on April 1, 2021
-description: Convicted on November 3, 2022. Click for latest case details.
+description: Convicted on November 10, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

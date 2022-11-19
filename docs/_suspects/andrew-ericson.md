@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Andrew Ericson charged on January 22, 2021
-description: Convicted on September 3, 2021. Click for latest case details.
+description: Convicted on September 23, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

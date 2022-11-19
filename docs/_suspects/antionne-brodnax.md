@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Antionne Brodnax charged on February 2, 2021
-description: Convicted on October 4, 2021. Click for latest case details.
+description: Convicted on October 22, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

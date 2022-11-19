@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You can keep sitting or you can do something about it like we did today. Our nation has experienced necessary revolts before."
 title: Matthew Wood charged on March 3, 2021
-description: Convicted on May 4, 2022. Click for latest case details.
+description: Convicted on May 27, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

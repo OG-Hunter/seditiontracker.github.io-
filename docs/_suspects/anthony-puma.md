@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was there. They were flash banging us. Tear gassing us. Pepper spraying us. We were outside. Don't believe the NEWS. I have hours of video on my go pro."
 title: Anthony Puma arrested on May 27, 2021
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 30, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

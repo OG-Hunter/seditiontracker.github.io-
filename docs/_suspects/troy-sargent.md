@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Troy Sargent charged on March 8, 2021
-description: Convicted on June 0, 2022. Click for latest case details.
+description: Convicted on June 27, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

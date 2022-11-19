@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Oliver Sarko charged on April 30, 2021
-description: Convicted on November 1, 2021. Click for latest case details.
+description: Convicted on November 9, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

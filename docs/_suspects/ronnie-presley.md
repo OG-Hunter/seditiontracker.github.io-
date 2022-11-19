@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m the guy who got you in this building. Don’t take my word for it. Watch the video."
 title: Ronnie Presley charged on March 5th, 2021
-description: Convicted on July 3, 2022. Click for latest case details.
+description: Convicted on July 28, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

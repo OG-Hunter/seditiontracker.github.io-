@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Devlyn Thompson charged on July 11, 2021
-description: Convicted on August 4, 2021. Click for latest case details.
+description: Convicted on August 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

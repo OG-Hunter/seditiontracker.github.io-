@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "What Patriots do? We fuckin' disarm them and then we storm fuckin' the Capitol"
 title: Scott Fairlamb  charged on January 22, 2021
-description: Convicted on August 4, 2021. Click for latest case details.
+description: Convicted on August 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

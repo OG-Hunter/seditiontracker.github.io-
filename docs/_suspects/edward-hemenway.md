@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Edward Hemenway II charged on January 15, 2015
-description: Convicted on June 0, 2021. Click for latest case details.
+description: Convicted on June 28, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

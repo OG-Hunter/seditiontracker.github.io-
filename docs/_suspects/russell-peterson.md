@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Russell Peterson charged on February 12th, 2021
-description: Convicted on September 2, 2021. Click for latest case details.
+description: Convicted on September 8, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Anthony Scirica charged on June 14, 2021
-description: Convicted on September 1, 2021. Click for latest case details.
+description: Convicted on September 28, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

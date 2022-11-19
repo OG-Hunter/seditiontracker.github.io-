@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Nicholas Reimler arrested on February 19, 2021
-description: Convicted on September 4, 2021. Click for latest case details.
+description: Convicted on September 17, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

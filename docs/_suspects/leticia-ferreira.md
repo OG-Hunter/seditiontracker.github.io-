@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m so irresponsible. Yesterday it felt amazing."
 title: Leticia Ferreira charged on February 14th, 2022
-description: Convicted on June 2, 2022. Click for latest case details.
+description: Convicted on June 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

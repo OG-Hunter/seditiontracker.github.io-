@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: 'We’re in the capital [sic]. Taking our house back'
 title: Mandy Robinson-Hand charged on March 4th, 2022
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 14, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

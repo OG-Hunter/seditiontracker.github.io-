@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Brian Stenz charged on April 28, 2021
-description: Convicted on November 4, 2021. Click for latest case details.
+description: Convicted on November 12, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

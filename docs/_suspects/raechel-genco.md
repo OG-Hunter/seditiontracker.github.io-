@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Raechel Genco charged on February 12, 2021
-description: Convicted on June 2, 2022. Click for latest case details.
+description: Convicted on June 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

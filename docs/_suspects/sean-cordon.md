@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Sean Cordon arrested on March 9, 2021
-description: Convicted on August 4, 2021. Click for latest case details.
+description: Convicted on August 27, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

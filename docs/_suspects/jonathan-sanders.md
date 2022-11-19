@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jonathan Sanders arrested on May 25, 2021
-description: Convicted on August 3, 2021. Click for latest case details.
+description: Convicted on August 26, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Brian McCreary charged on February 4, 2021
-description: Convicted on March 4, 2022. Click for latest case details.
+description: Convicted on April 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

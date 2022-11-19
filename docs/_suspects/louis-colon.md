@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Louis Colon charged on February 11th, 2021
-description: Convicted on April 2, 2022. Click for latest case details.
+description: Convicted on April 27, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

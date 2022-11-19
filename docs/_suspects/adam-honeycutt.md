@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Well, made it in."
 title: Adam Honeycutt charged on February 11th, 2021
-description: Convicted on February 1, 2022. Click for latest case details.
+description: Convicted on March 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: David Blair charged on February 9, 2021
-description: Convicted on March 1, 2022. Click for latest case details.
+description: Convicted on March 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

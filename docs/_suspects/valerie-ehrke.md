@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I took off when I felt pepper spray in my throat! Lol."
 title: Valerie Ehrke charged on January 19th, 2021
-description: Convicted on June 2, 2021. Click for latest case details.
+description: Convicted on June 30, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

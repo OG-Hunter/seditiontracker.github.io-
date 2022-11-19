@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I’m starting to think they’re afraid of the video showing what really happened at the Capitol"
 title: Jesus Rivera charged on January 20, 2021
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on June 17, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

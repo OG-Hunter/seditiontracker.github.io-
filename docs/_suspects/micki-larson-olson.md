@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Micki Larson-Olson charged on January 19th, 2021
-description: Convicted on September 3, 2022. Click for latest case details.
+description: Convicted on September 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

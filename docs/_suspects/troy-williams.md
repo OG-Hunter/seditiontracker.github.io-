@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We were a part of something, there’s cops here, they tried to stop us, they are not letting us in, but not fighting us"
 title: Troy Williams charged on February 1st, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 14, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Ricky Willden charged on June 23, 2021
-description: Convicted on April 3, 2022. Click for latest case details.
+description: Convicted on April 7, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "If you are too much of a coward to risk arrest, being fired, and actual gunfire to secure your rights, you have no words to speak I value."
 title: Thomas Robertson charged on January 13, 2021
-description: Convicted on April 0, 2022. Click for latest case details.
+description: Convicted on April 11, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Taking this back by force now, no more bs"
 title: Patrick McCaughey charged on January 19, 2021
-description: Convicted on September 1, 2022. Click for latest case details.
+description: Convicted on September 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

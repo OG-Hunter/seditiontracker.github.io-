@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Darrell Youngers charged on June 29, 2021
-description: Convicted on March 2, 2022. Click for latest case details.
+description: Convicted on March 30, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

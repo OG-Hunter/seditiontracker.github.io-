@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "on the scene from 1:30pm to 4:00pm."
 title: Charles Hand charged on March 4th, 2022
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 14, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

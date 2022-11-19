@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kenneth Massie charged on January 7, 2022
-description: Convicted on October 4, 2022. Click for latest case details.
+description: Convicted on October 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

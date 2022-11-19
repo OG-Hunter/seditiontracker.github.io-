@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Antifa was not responsible for the Capitol breach. Stop with the bullshit already."
 title: Shawn Witzemann arrested on April 6, 2021
-description: Convicted on July 3, 2022. Click for latest case details.
+description: Convicted on July 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

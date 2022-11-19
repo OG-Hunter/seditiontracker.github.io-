@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We are stopping treason! Stealing elections is treason! We’re not going to take it anymore!"
 title: James Little charged on March 25, 2021
-description: Convicted on November 1, 2021. Click for latest case details.
+description: Convicted on November 16, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

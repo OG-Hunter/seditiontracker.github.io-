@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Y’all on the same we are, aren’t you? You’re not going to respond? You’re not on the same team?"
 title: James Lollis charged on September 3, 2021
-description: Convicted on November 0, 2021. Click for latest case details.
+description: Convicted on November 22, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

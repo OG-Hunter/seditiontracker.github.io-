@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Albuquerque Head charged on April 9, 2021
-description: Convicted on May 4, 2022. Click for latest case details.
+description: Convicted on May 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

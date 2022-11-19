@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.knoe.com/2021/01/17/la-man-and-cousin-arrested-following-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1358936/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1358931/download)

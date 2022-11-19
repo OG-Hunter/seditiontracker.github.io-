@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I THINK WE NEED TO MAKE HOME VISITS"
 title: John Wright charged on April 26, 2021
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

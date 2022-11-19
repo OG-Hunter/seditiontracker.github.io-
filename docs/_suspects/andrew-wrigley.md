@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "At the protest in D.C., I went inside the capitol building and got teargassed"
 title: Andrew Wrigley charged on January 15th, 2021
-description: Convicted on September 2, 2021. Click for latest case details.
+description: Convicted on September 8, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

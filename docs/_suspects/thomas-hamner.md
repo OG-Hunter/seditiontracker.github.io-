@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Thomas Hamner charged on October 29, 2021
-description: Convicted on May 1, 2022. Click for latest case details.
+description: Convicted on May 17, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

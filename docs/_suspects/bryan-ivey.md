@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Bryan Ivey arrested on March 4, 2021
-description: Convicted on June 1, 2021. Click for latest case details.
+description: Convicted on June 22, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

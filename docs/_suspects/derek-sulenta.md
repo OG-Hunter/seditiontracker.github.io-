@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Inside the capital building. This is wild!"
 title: Derek Sulenta charged on June 6th, 2022
-description: Convicted on November 1, 2022. Click for latest case details.
+description: Convicted on November 8, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

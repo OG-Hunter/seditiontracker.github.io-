@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I made the news."
 title: Nolan Cooke charged on January 21st, 2021
-description: Convicted on March 2, 2022. Click for latest case details.
+description: Convicted on March 9, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Suzanne Ianni charged on January 19, 2021
-description: Convicted on September 2, 2022. Click for latest case details.
+description: Convicted on September 14, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

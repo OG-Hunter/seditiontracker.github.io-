@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Joshua Hughes charged on January 28, 2021
-description: Convicted on August 3, 2022. Click for latest case details.
+description: Convicted on August 25, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

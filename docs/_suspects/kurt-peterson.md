@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I stood at the door and told everyone that we were not there to hurt anybody or damage anything..."
 title: Kurt Peterson arrested on June 16, 2021
-description: Convicted on September 2, 2022. Click for latest case details.
+description: Convicted on September 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

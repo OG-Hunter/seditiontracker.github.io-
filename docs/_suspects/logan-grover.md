@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I won't sit idle while the nation is stolen in some insane, slow motion, treasonous insurrection."
 title: Logan Grover arrested on April 28, 2021
-description: Convicted on July 2, 2022. Click for latest case details.
+description: Convicted on July 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

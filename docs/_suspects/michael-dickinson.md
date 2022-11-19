@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Michael Dickinson charged on September 30, 2021
-description: Convicted on September 1, 2022. Click for latest case details.
+description: Convicted on September 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

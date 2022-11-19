@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Mark Ponder charged on March 12, 2021
-description: Convicted on April 4, 2022. Click for latest case details.
+description: Convicted on April 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

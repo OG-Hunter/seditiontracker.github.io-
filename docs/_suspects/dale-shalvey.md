@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "[Cruz] was going to sell us out all along"
 title: Dale Shalvey charged on February 12, 2021
-description: Convicted on October 0, 2022. Click for latest case details.
+description: Convicted on October 3, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

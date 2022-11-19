@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I was the first group in. Yes. We storm peloskis [sic] office and took her beer. She drinks Corona"
 title: Cara Hentschel charged on September 22, 2021
-description: Convicted on May 2, 2022. Click for latest case details.
+description: Convicted on May 18, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

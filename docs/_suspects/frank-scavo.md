@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "This is top-secret shit. We’re in the Capitol. Stormed the fucking Capitol of the fucking United States at 58 years old. What the fuck is wrong with America?"
 title: Frank Scavo charged on March 24, 2021
-description: Convicted on September 2, 2021. Click for latest case details.
+description: Convicted on September 8, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Mahailya Pryer charged on September 22, 2021
-description: Convicted on May 2, 2022. Click for latest case details.
+description: Convicted on May 18, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

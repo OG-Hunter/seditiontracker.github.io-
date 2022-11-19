@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "All good, we were inside."
 title: Christy Clark charged on February 12, 2021
-description: Convicted on May 0, 2021. Click for latest case details.
+description: Convicted on May 31, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

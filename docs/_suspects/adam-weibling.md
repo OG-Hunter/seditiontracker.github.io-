@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Adam Weibling charged on May 19, 2021
-description: Convicted on July 3, 2022. Click for latest case details.
+description: Convicted on July 14, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

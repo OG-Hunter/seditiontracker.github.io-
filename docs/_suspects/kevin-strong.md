@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kevin Strong charged on January 22, 2021
-description: Convicted on December 4, 2021. Click for latest case details.
+description: Convicted on December 17, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

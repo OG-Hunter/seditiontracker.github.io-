@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Cindy Fitchett charged on January 7th, 2021
-description: Convicted on August 1, 2021. Click for latest case details.
+description: Convicted on August 10, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

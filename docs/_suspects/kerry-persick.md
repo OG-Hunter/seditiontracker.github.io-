@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Kerry Persick charged on May 13, 2021
-description: Convicted on April 4, 2022. Click for latest case details.
+description: Convicted on April 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

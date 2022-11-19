@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "No im done i was teargassed maced and they were throwing flash bangs at me but I still stayed on the front lines. It wasn’t easy but we did it."
 title: Athanasios Zoyganeles charged on February 18th, 2022
-description: Convicted on June 4, 2022. Click for latest case details.
+description: Convicted on July 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

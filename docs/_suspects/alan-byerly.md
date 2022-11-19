@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Alan Byerly charged on June 25, 2021
-description: Convicted on July 0, 2022. Click for latest case details.
+description: Convicted on July 25, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

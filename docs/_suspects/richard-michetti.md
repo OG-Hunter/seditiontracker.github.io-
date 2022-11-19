@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "If you can’t see the election was stolen you’re a moron."
 title: Richard Michetti charged on February 17, 2021
-description: Convicted on May 1, 2022. Click for latest case details.
+description: Convicted on May 31, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

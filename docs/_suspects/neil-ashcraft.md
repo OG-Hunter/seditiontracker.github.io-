@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Neil Ashcraft charged on 9/2/2022
-description: Convicted on September 0, 2022. Click for latest case details.
+description: Convicted on September 19, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

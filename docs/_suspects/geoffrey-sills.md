@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Geoffrey Sills charged on June 16, 2021
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 23, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

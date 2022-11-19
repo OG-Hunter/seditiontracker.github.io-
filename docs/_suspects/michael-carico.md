@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Hey Nancy, go fuck yourself."
 title: Michael Carico charged on July 22, 2021
-description: Convicted on December 1, 2021. Click for latest case details.
+description: Convicted on December 21, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

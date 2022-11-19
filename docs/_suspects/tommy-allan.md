@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Here [sic] my Roar you fucking communist bastards. Give me freedom or give me death."
 title: Tommy Allan charged on January 25, 2021
-description: Convicted on August 3, 2022. Click for latest case details.
+description: Convicted on August 11, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

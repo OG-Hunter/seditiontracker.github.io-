@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Capitol building smoking with all my people!"
 title: James Bonet charged on January 27th, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 7, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

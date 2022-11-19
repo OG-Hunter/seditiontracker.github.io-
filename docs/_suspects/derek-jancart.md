@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We're in."
 title: Derek Jancart charged on February 22, 2021
-description: Convicted on July 4, 2021. Click for latest case details.
+description: Convicted on July 23, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

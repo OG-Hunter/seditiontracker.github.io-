@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Maybe I smoked some cigarettes, maybe I spat on a riot officer. Maybe I didn't"
 title: Nicholas DeCarlo charged on January 19, 2021
-description: Convicted on September 4, 2022. Click for latest case details.
+description: Convicted on September 9, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

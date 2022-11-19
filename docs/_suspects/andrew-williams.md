@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Hey, they can't arrest EVERYBODY!"
 title: Andrew Williams charged on January 12, 2021
-description: Convicted on November 1, 2021. Click for latest case details.
+description: Convicted on November 2, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

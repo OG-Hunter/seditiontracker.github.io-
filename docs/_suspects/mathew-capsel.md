@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Mathew Capsel charged on January 19, 2021
-description: Convicted on September 4, 2022. Click for latest case details.
+description: Convicted on September 2, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

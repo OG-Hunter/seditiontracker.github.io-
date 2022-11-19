@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "You're not allowed to shove me"
 title: Anthime Joseph Gionet charged on January 14, 2021
-description: Convicted on July 4, 2022. Click for latest case details.
+description: Convicted on July 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I am fine. I was one of the people that helped storm the capitol building and smash out the windows. We made history today. Proudest day of my life!"
 title: Sean Watson charged on April 23, 2021
-description: Convicted on April 3, 2022. Click for latest case details.
+description: Convicted on April 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I didn’t do anything violent, but I went into the building, so I did trespass."
 title: Dalton Crase charged on February 2nd, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 14, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I didn’t go inside the Capitol Building. I never attacked anyone. I was there filming."
 title: Lewis Cantwell arrested on February 5, 2021
-description: Convicted on March 3, 2022. Click for latest case details.
+description: Convicted on March 24, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

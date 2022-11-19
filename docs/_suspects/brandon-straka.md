@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Also—be embarrassed & hide if you need to- but I was there. It was not Antifa at the Capitol."
 title: Brandon Straka charged on January 25, 2021
-description: Convicted on October 2, 2021. Click for latest case details.
+description: Convicted on October 6, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

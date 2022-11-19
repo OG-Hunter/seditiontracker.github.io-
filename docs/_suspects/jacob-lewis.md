@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Jacob Lewis charged on January 27th, 2021
-description: Convicted on January 3, 2022. Click for latest case details.
+description: Convicted on January 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

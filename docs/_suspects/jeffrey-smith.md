@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "There is no way in hell I was going to drive 38 hours from San Diego and not walk right through the front of the capital [sic] building."
 title: Jeffrey Smith charged on January 27th, 2021
-description: Convicted on October 3, 2021. Click for latest case details.
+description: Convicted on October 28, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

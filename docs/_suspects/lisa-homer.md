@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "Let's blow shit up"
 title: Lisa Homer charged on November 15, 2021
-description: Convicted on August 1, 2022. Click for latest case details.
+description: Convicted on August 9, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

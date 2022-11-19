@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Willard Bostic charged on October 5, 2021
-description: Convicted on October 1, 2022. Click for latest case details.
+description: Convicted on October 25, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

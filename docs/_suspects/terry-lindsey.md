@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Terry Lindsey charged on February 16, 2021
-description: Convicted on April 1, 2022. Click for latest case details.
+description: Convicted on April 5, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

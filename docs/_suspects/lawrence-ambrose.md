@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Lawrence Ambrose charged on 9/13/2022
-description: Convicted on October 1, 2022. Click for latest case details.
+description: Convicted on October 25, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

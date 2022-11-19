@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: George Tenney charged on June 29, 2021
-description: Convicted on June 3, 2022. Click for latest case details.
+description: Convicted on June 30, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

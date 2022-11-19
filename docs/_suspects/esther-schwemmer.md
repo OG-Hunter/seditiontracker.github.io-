@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: Esther Schwemmer arrested on April 15, 2021
-description: Convicted on September 2, 2021. Click for latest case details.
+description: Convicted on September 29, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

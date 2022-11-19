@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "WE SWARMED THE CAPITOL, THOUGH. HOT DAMN, LEADING THE CHARGE. GETTIN’ IT ON."
 title: Timothy Omalley charged on June 28, 2021
-description: Convicted on December 2, 2021. Click for latest case details.
+description: Convicted on December 15, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I left one unconscious so I did my little part and got the fuck out before I got arrested"
 title: Kenneth Grayson charged on January 26th, 2021
-description: Convicted on September 1, 2022. Click for latest case details.
+description: Convicted on September 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We The People took the Capitol!"
 title: Blake Reed charged on January 17, 2021
-description: Convicted on January 1, 2022. Click for latest case details.
+description: Convicted on January 11, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

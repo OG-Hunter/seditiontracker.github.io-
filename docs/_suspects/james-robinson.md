@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.inquirer.com/news/james-jim-robinson-capitol-riot-pennsylvania-martial-arts-20220809.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525361/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525366/download)

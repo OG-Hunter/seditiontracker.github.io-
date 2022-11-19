@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We stormed the Capitol, I am in here now!"
 title: Michael Hardin charged on April 2, 2021
-description: Convicted on January 5, 2022. Click for latest case details.
+description: Convicted on January 22, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true

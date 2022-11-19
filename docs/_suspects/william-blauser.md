@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote:
 title: William Blauser charged on May 18, 2021
-description: Convicted on November 0, 2021. Click for latest case details.
+description: Convicted on November 15, 2021. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
