@@ -45,7 +45,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/18/1752
   felony: false
 sentence:
-  - 20 days intermittent incarceration
+  - 20 days intermittent confinement
   - 36 months probation
   - $5000 fine
   - $500 restitution

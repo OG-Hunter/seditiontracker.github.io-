@@ -45,7 +45,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/18/1752
   felony: false
 sentence:
-  - 10 days intermittent incarceration
+  - 10 days intermittent confinement
   - 1 year probation
   - 100 hours community service
   - $500 restitution

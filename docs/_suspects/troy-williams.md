@@ -45,7 +45,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
-  - 15 days intermittent incarceration
+  - 15 days intermittent confinement
   - 3 years probatoin
   - 60 hours community service
   - $500 restitution

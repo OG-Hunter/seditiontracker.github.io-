@@ -45,7 +45,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
-  - 14 days of intermittent incarceration
+  - 14 days of intermittent confinement
   - 90 days home detention
   - 60 hours community service
   - 3 years probation

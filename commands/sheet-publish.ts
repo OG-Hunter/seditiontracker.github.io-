@@ -65,6 +65,10 @@ const publishSheet = async () => {
     "Felony Conviction",
     "Fine",
     "Restitution",
+    "Confinement",
+    "Home Detention (Days)",
+    "Intermittent Confinement (Days)",
+    "Incarceration (Days)",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -73,7 +77,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AI1");
+  await suspectSheet.loadCells("A1:AM1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -98,7 +102,8 @@ const publishSheet = async () => {
 
     const suspectUrl = `https://seditiontracker.com/suspects/${dasherizeName(suspect.name)}`;
 
-    const { fine, restitution } = getSentence(suspect);
+    const { confinement, fine, home_detention, incarceration, intermittent_confinement, restitution } =
+      getSentence(suspect);
 
     const suspectData = {
       "Last Name": suspect.lastName,
@@ -134,6 +139,10 @@ const publishSheet = async () => {
       "Felony Conviction": felonyConviction(suspect),
       Fine: fine,
       Restitution: restitution,
+      Confinement: confinement,
+      "Home Detention (Days)": home_detention,
+      "Intermittent Confinement (Days)": intermittent_confinement,
+      "Incarceration (Days)": incarceration,
     };
 
     if (suspect.charges?.length > 0) {
@@ -256,16 +265,16 @@ const felonyConviction = (suspect: Suspect) => {
 type Sentence = {
   fine?: number;
   restitution?: number;
-  confinement: boolean;
-  home_confinement?: number;
+  confinement: string;
+  home_detention?: number;
   incarceration?: number;
-  intermittent_incarceration?: number;
+  intermittent_confinement?: number;
   probation?: number;
   community_service?: number;
 };
 
 const getSentence = (suspect: Suspect) => {
-  const sentence: Sentence = { confinement: false };
+  const sentence: Sentence = { confinement: "No" };
 
   for (let item of suspect.sentence) {
     item = item.replace(",", "");
@@ -274,8 +283,23 @@ const getSentence = (suspect: Suspect) => {
       sentence.fine = parseInt(RegExp.$1);
     } else if (/.*\$(\d+)\srestitution/.test(item)) {
       sentence.restitution = parseInt(RegExp.$1);
+    } else if (/(\d+) days home detention/.test(item)) {
+      sentence.home_detention = parseInt(RegExp.$1);
+    } else if (/(\d+) days intermittent/.test(item)) {
+      sentence.intermittent_confinement = parseInt(RegExp.$1);
+    }
+
+    if (/(\d+) days incarceration/.test(item)) {
+      sentence.incarceration = parseInt(RegExp.$1);
+    } else if (/(\d+) months incarceration/.test(item)) {
+      sentence.incarceration = parseInt(RegExp.$1) * 30;
+    } else if (/(\d+) years incarceration/.test(item)) {
+      sentence.incarceration = parseInt(RegExp.$1) * 365;
     }
   }
+
+  sentence.confinement =
+    sentence.home_detention || sentence.intermittent_confinement || sentence.incarceration ? "Yes" : "No";
 
   return sentence;
 };
