@@ -1,9 +1,9 @@
 ---
 name: Menachem Cohen
 lastName: Cohen
-hashtag:
+hashtag: Insider2520
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2022-11-15
 charged: 2022-11-15
@@ -35,8 +35,8 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber: 
-caseName:
+caseNumber: 1:22-mj-256 
+caseName: 
 judge:
 videos:
 charges:
