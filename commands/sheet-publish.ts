@@ -4,6 +4,7 @@ import { GoogleSpreadsheet, TextFormat } from "google-spreadsheet";
 import fs from "fs";
 import { dasherizeName, getSuspectByFile } from "./common/suspect";
 import { listWanted } from "./common/wanted";
+import { Suspect } from "./common/suspect";
 
 require("dotenv").config();
 
@@ -61,6 +62,7 @@ const publishSheet = async () => {
     "Case",
     "Judge",
     "Status Conference",
+    "Felony Conviction",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -69,7 +71,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AF1");
+  await suspectSheet.loadCells("A1:AG1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -125,6 +127,7 @@ const publishSheet = async () => {
       Case: suspect.caseName || "",
       Judge: suspect.judge || "",
       "Status Conference": suspect.status_conference || "",
+      "Felony Conviction": felonyConviction(suspect),
     };
 
     if (suspect.charges?.length > 0) {
@@ -230,10 +233,18 @@ const publishSheet = async () => {
   await fbiSheet.addRows(wantedData);
 };
 
-const sleep = async (ms: number) => {
-  return new Promise((resolve) => {
-    setTimeout(resolve, ms);
-  });
+const felonyConviction = (suspect: Suspect) => {
+  if (!suspect.convicted) {
+    return "";
+  }
+
+  for (const charge of suspect.charges) {
+    if (charge.felony == true) {
+      return "Yes";
+    }
+  }
+
+  return "No";
 };
 
 publishSheet();
