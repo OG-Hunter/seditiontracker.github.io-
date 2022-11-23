@@ -290,6 +290,13 @@ export const updateSuspect = (suspect: Suspect) => {
     warning(`Sentencing date without conviction: ${suspect.name}`);
   }
 
+  const newSentence = [];
+
+  for (const line of suspect.sentence) {
+    newSentence.push(line.replace("home confinement", "home detention"));
+  }
+  suspect.sentence = newSentence;
+
   // make sure dates make sense
   verifyDates(suspect);
 

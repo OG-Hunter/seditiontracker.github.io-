@@ -46,7 +46,7 @@ charges:
   felony: false
 sentence:
   - 14 days of intermittent incarceration
-  - 90 days home confinement
+  - 90 days home detention
   - 60 hours community service
   - 3 years probation
   - $500 restitution

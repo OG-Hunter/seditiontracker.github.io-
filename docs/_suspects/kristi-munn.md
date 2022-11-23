@@ -42,7 +42,7 @@ videos:
 charges:
 sentence:
   - 3 years probation
-  - 90 days home confinement
+  - 90 days home detention
   - 60 hours community service
   - $500 restitution
 ---
