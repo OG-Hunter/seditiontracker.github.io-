@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2023-01-05
+status_conference: 2023-01-19
 age: 59
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0325
 caseName: USA v. VASSALLO
-judge: G. M. Harvey
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

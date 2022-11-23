@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-22
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-02
 status_conference:
 age: 31
 occupation:
@@ -40,13 +40,12 @@ caseName: USA v. GERWATOWSKI
 judge: Jia M. Cobb
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.newsweek.com/feds-arrest-jan-6-rioter-who-allegedly-grabbed-door-shouted-lets-go-1677359)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470326/download)

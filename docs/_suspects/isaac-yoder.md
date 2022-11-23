@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0505
 caseName: USA v. YODER
-judge: Emmet G. Sullivan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

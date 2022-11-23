@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-10-25
 trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2023-02-22
 age: 26
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0078
 caseName: USA v. SULLIVAN
-judge: Emmet G. Sullivan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-22
+status_conference: 2022-12-20
 age: 31
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-mj-0289
 caseName: USA v. MONTONI
-judge: Zia M. Faruqui
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:
