@@ -34,14 +34,14 @@ title: Menachem Cohen charged on November 15th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
-caseNumber: 1:22-mj-256 
-caseName: 
+published: true
+caseNumber: 1:22-mj-256
+caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1553206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1553211/download)
