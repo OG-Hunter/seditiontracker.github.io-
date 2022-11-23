@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-sentencing: 2023-01-06
+trial_date: 2023-04-10
+trial_type: Bench Trial
+sentencing:
 status_conference:
 age: 35
 occupation: Electrician
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/investigations/unemployed-nj-electrician-accused-of-being-at-forefront-of-u-s-capitol-siege/2986692/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384546/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1384551/download)
