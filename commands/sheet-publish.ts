@@ -63,6 +63,8 @@ const publishSheet = async () => {
     "Judge",
     "Status Conference",
     "Felony Conviction",
+    "Fine",
+    "Restitution",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -71,7 +73,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AG1");
+  await suspectSheet.loadCells("A1:AI1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -95,6 +97,8 @@ const publishSheet = async () => {
     }
 
     const suspectUrl = `https://seditiontracker.com/suspects/${dasherizeName(suspect.name)}`;
+
+    const { fine, restitution } = getSentence(suspect);
 
     const suspectData = {
       "Last Name": suspect.lastName,
@@ -128,6 +132,8 @@ const publishSheet = async () => {
       Judge: suspect.judge || "",
       "Status Conference": suspect.status_conference || "",
       "Felony Conviction": felonyConviction(suspect),
+      Fine: fine,
+      Restitution: restitution,
     };
 
     if (suspect.charges?.length > 0) {
@@ -245,6 +251,33 @@ const felonyConviction = (suspect: Suspect) => {
   }
 
   return "No";
+};
+
+type Sentence = {
+  fine?: number;
+  restitution?: number;
+  confinement: boolean;
+  home_confinement?: number;
+  incarceration?: number;
+  intermittent_incarceration?: number;
+  probation?: number;
+  community_service?: number;
+};
+
+const getSentence = (suspect: Suspect) => {
+  const sentence: Sentence = { confinement: false };
+
+  for (let item of suspect.sentence) {
+    item = item.replace(",", "");
+
+    if (/.*\$(\d+)\sfine/.test(item)) {
+      sentence.fine = parseInt(RegExp.$1);
+    } else if (/.*\$(\d+)\srestitution/.test(item)) {
+      sentence.restitution = parseInt(RegExp.$1);
+    }
+  }
+
+  return sentence;
 };
 
 publishSheet();
