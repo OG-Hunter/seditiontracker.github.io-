@@ -40,16 +40,15 @@ caseName: USA v. SCHAEFER
 judge: Thomas F. Hogan
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days incarceration
   - $2000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.delawareonline.com/story/news/2022/01/14/jeffrey-schaefer-arrested-jan-6-capitol-riots-washington-facebook/6528740001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481446/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523486/download)

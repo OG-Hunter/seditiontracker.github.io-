@@ -40,16 +40,15 @@ caseName: USA v. CASTLE
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 months probation
   - $2000 fine
   - $500 restitution
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2022/6/2/23151660/capitol-riot-illinois-women-charges-trudy-castle-kimberly-difrancesco)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510191/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510196/download)

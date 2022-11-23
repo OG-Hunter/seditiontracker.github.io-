@@ -40,17 +40,16 @@ caseName: USA v. WATSON
 judge: Reggie B. Walton
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1752(a)(2) and b(1)(A)
-    title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds (w/a deadly weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(2) and b(1)(A)
+  title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds (w/a deadly weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.wate.com/news/auburn-man-in-federal-custody-following-u-s-capitol-riot/)
 - [Statement of Facts (Stipulated)](https://www.justice.gov/usao-dc/case-multi-defendant/file/1553301/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423471/download)

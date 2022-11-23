@@ -35,13 +35,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-256
+caseNumber: 22-mj-0256
 caseName:
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1553206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1553211/download)

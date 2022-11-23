@@ -40,17 +40,16 @@ caseName: USA v. EVANS III
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
   - 20 days intermittent incarceration
   - 36 months probation
   - $5000 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.ksat.com/news/local/2021/03/09/san-antonio-area-man-charged-in-us-capitol-riot-allegedly-took-shots-of-whiskey-in-pelosis-office/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378611/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378616/download)
