@@ -69,6 +69,7 @@ const publishSheet = async () => {
     "Home Detention (Days)",
     "Intermittent Confinement (Days)",
     "Incarceration (Days)",
+    "Probation (Months)",
   ];
 
   await suspectSheet.setHeaderRow(SUSPECT_HEADERS);
@@ -77,7 +78,7 @@ const publishSheet = async () => {
   const headerFormat: TextFormat = {
     bold: true,
   };
-  await suspectSheet.loadCells("A1:AM1");
+  await suspectSheet.loadCells("A1:AN1");
 
   SUSPECT_HEADERS.forEach((_value, index) => {
     const cell = suspectSheet.getCell(0, index);
@@ -102,7 +103,7 @@ const publishSheet = async () => {
 
     const suspectUrl = `https://seditiontracker.com/suspects/${dasherizeName(suspect.name)}`;
 
-    const { confinement, fine, home_detention, incarceration, intermittent_confinement, restitution } =
+    const { confinement, fine, home_detention, incarceration, intermittent_confinement, probation, restitution } =
       getSentence(suspect);
 
     const suspectData = {
@@ -143,6 +144,7 @@ const publishSheet = async () => {
       "Home Detention (Days)": home_detention,
       "Intermittent Confinement (Days)": intermittent_confinement,
       "Incarceration (Days)": incarceration,
+      "Probation (Months)": probation,
     };
 
     if (suspect.charges?.length > 0) {
@@ -265,7 +267,7 @@ const felonyConviction = (suspect: Suspect) => {
 type Sentence = {
   fine?: number;
   restitution?: number;
-  confinement: string;
+  confinement?: string;
   home_detention?: number;
   incarceration?: number;
   intermittent_confinement?: number;
@@ -274,7 +276,11 @@ type Sentence = {
 };
 
 const getSentence = (suspect: Suspect) => {
-  const sentence: Sentence = { confinement: "No" };
+  if (suspect.sentence.length == 0) {
+    return {};
+  }
+
+  const sentence: Sentence = {};
 
   for (let item of suspect.sentence) {
     item = item.replace(",", "");
@@ -296,10 +302,16 @@ const getSentence = (suspect: Suspect) => {
     } else if (/(\d+) years incarceration/.test(item)) {
       sentence.incarceration = parseInt(RegExp.$1) * 365;
     }
+
+    if (/(\d+) months probation/.test(item)) {
+      sentence.probation = parseInt(RegExp.$1);
+    } else if (/(\d+) years? probation/.test(item)) {
+      sentence.probation = parseInt(RegExp.$1) * 12;
+    }
   }
 
   sentence.confinement =
-    sentence.home_detention || sentence.intermittent_confinement || sentence.incarceration ? "Yes" : "No";
+    sentence.home_detention > 0 || sentence.intermittent_confinement > 0 || sentence.incarceration > 0 ? "Yes" : "No";
 
   return sentence;
 };
