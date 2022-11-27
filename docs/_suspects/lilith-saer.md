@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0147
+caseNumber: 22-cr-0374
 caseName: USA v. SAER
 judge: Zia M. Faruqui
 videos:

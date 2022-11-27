@@ -35,7 +35,7 @@ description: Convicted on August 12, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-cr-0192
+caseNumber: 22-cr-0344
 caseName: USA v. HORVATH
 judge: Beryl A. Howell
 videos:

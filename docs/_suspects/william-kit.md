@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-cr-0184
+caseNumber: 22-cr-0306
 caseName: USA v. RAMEY
 judge: Dabney L. Friedrich
 videos:

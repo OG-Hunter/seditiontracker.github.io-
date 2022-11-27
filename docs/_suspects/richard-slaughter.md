@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0216
+caseNumber: 22-cr-0354
 caseName: USA v. SLAUGHTER
 judge: G. M. Harvey
 videos:

@@ -35,7 +35,7 @@ description: Convicted on August 4, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0739
+caseNumber: 21-cr-0729
 caseName: USA v. BUXTON
 judge: John D. Bates
 videos:

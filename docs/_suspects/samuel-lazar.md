@@ -35,7 +35,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0382
+caseNumber: 21-cr-0525
 caseName: USA v. WARNAGIRIS
 judge: Paul L. Friedman
 videos:
