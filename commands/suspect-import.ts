@@ -324,7 +324,16 @@ const importDoj = async (nameSet: Set<string>) => {
     let caseNumber: string;
 
     // DOJ has wrong case number on their website for some suspects
-    const WRONG_CASE_NUMBERS = ["21-cr-63", "21-cr-386"];
+    const WRONG_CASE_NUMBERS = [
+      "21-cr-63",
+      "21-cr-386",
+      "1:21-cr-739",
+      "1:21-cr-440",
+      "1:21-cr-441",
+      "1:22-cr-192",
+      "21-cr-439",
+      "1:21-cr-150",
+    ];
     if (!WRONG_CASE_NUMBERS.includes(caseNumberText)) {
       if (/(1:)?(21|22|23)-(cr)-0?(\d{1,4})/.test(caseNumberText)) {
         caseNumber = formatCaseNumber(caseNumberText);
