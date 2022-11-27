@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0366
 caseName: USA v. MONCADA
-judge: G. M. Harvey
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-21
 age: 33
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0623
-caseName:
-judge:
+caseName: USA v. NIEMELA
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

@@ -13,7 +13,7 @@ acquitted:
 sentenced: 2022-11-04
 dismissed:
 deceased:
-plea_hearing: 2022-08-12
+plea_hearing: 2022-12-13
 trial_date:
 trial_type:
 sentencing: 2022-11-04
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0344
 caseName: USA v. HORVATH
-judge: Beryl A. Howell
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0358
-caseName:
-judge:
+caseName: USA v. BARTOW
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

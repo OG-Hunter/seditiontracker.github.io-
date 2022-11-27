@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-12-22
 trial_date:
 trial_type:
 sentencing:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0375
-caseName:
-judge:
+caseName: USA v. CAREY
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

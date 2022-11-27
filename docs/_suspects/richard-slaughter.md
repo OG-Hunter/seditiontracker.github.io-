@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0354
 caseName: USA v. SLAUGHTER
-judge: G. M. Harvey
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
