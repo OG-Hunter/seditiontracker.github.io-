@@ -35,7 +35,7 @@ description: Convicted on September 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 2021-CMD-454
 caseName:
 judge:
 videos:
