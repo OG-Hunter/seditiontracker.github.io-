@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age: 49
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0239
-caseName:
-judge:
+caseName: USA v. WYATT
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age: 52
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0237
-caseName:
-judge:
+caseName: USA v. CHOLOD
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

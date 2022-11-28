@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0222
-caseName:
-judge:
+caseName: USA v. WESTON
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

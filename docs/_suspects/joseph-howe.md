@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age: 40
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0087
-caseName:
-judge:
+caseName: USA v. SPARKS
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-10
 age: 66
 occupation: Attorney
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0221
-caseName:
-judge:
+caseName: USA v. O'KELLY
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

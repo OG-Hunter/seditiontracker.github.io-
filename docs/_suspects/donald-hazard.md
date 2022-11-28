@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0117
-caseName:
-judge:
+caseName: USA v. HAZARD
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

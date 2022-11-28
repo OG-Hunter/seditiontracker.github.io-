@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-11-29
 age: 21
 occupation:
 affiliations:
@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0206
-caseName:
-judge:
+caseName: USA v. WOLDENMICHAEL
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

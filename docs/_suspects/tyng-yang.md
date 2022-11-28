@@ -36,8 +36,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0254
-caseName:
-judge:
+caseName: USA v. YANG
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:
