@@ -17,7 +17,7 @@ plea_hearing: 2022-08-11
 trial_date:
 trial_type:
 sentencing: 2022-12-08
-status_conference: 2022-05-24
+status_conference:
 age: 52
 occupation: Real Estate (Former)
 affiliations:

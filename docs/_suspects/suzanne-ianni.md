@@ -17,7 +17,7 @@ plea_hearing: 2022-09-14
 trial_date:
 trial_type:
 sentencing: 2022-12-02
-status_conference: 2022-05-27
+status_conference:
 age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)

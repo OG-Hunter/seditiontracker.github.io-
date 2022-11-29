@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-07-19
+status_conference:
 age: 30
 occupation: Application Security Engineer
 affiliations:

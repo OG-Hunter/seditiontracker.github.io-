@@ -17,7 +17,7 @@ plea_hearing: 2022-11-08
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-10-19
+status_conference:
 age:
 occupation: Founder, Simply Gluten Free Magazine
 affiliations:

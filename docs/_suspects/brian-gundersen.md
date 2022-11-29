@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-11-09
 trial_type: Stipulated Bench Trial
 sentencing: 2023-01-27
-status_conference: 2022-08-31
+status_conference:
 age: 26
 occupation: Sanitation Worker
 affiliations:

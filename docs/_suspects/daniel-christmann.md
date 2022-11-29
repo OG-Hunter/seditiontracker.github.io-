@@ -17,7 +17,7 @@ plea_hearing: 2022-11-28
 trial_date:
 trial_type:
 sentencing: 2023-04-26
-status_conference: 2022-11-28
+status_conference:
 age: 38
 occupation: Plumber
 affiliations:

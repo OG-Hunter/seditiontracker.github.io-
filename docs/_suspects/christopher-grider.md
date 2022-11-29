@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-12
 trial_type: Bench Trial
 sentencing:
-status_conference: 2022-11-23
+status_conference:
 age: 39
 occupation: Teacher (Former), U.S. Military (Former)
 affiliations: U.S. Military

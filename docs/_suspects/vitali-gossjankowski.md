@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-04
 trial_type: Jury Trial
 sentencing:
-status_conference: 2022-07-21
+status_conference:
 age:
 occupation: Student
 affiliations: Gallaudet University

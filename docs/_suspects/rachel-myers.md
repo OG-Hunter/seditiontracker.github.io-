@@ -17,7 +17,7 @@ plea_hearing: 2022-11-15
 trial_date:
 trial_type:
 sentencing: 2023-02-16
-status_conference: 2022-11-15
+status_conference:
 age: 30
 occupation: Employee at Delilah’s Gentlemen’s Club
 affiliations:

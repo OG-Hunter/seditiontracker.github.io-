@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-09-01
+status_conference:
 age: 47
 occupation: Former military (U.S. Special forces)
 affiliations: Oath Keepers, US Army (former Green Beret)

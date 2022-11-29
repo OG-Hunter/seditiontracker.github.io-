@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-09
 trial_type: Jury Trial
 sentencing:
-status_conference: 2022-10-14
+status_conference:
 age: 61
 occupation: Graphic and Comic Book Artist
 affiliations:

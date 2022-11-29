@@ -17,7 +17,7 @@ plea_hearing: 2022-10-14
 trial_date:
 trial_type:
 sentencing: 2023-02-01
-status_conference: 2022-11-22
+status_conference:
 age:
 occupation:
 affiliations: New Jersey for Medical Freedom

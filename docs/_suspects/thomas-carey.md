@@ -17,7 +17,7 @@ plea_hearing: 2022-12-22
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-15
+status_conference:
 age: 21
 occupation:
 affiliations: Groypers

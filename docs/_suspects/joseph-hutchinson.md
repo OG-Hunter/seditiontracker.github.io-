@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-03-06
 trial_type: Jury Trial
 sentencing:
-status_conference: 2022-07-28
+status_conference:
 age:
 occupation:
 affiliations:

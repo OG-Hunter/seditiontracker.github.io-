@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-23
 trial_type: Bench Trial
 sentencing:
-status_conference: 2022-09-19
+status_conference:
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-12
 trial_type: Bench Trial
 sentencing:
-status_conference: 2022-09-27
+status_conference:
 age: 41
 occupation: Contractor, Telecommunication Systems Inc.
 affiliations: U.S. Army (Former)

@@ -280,6 +280,9 @@ export const updateSuspect = (suspect: Suspect) => {
   if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.sentenced)) {
     suspect.status_conference = null;
   }
+  if (pastDate(suspect.status_conference)) {
+    suspect.status_conference = null;
+  }
 
   if (suspect.plea_hearing) {
     suspect.trial_date = null;
@@ -509,4 +512,11 @@ const getCharges = (data: string) => {
 const getSentence = (data: string) => {
   const result = YAML.parse(data);
   return result.sentence || [];
+};
+
+const pastDate = (date: string): boolean => {
+  const currentDate = new Date();
+  const dateToCheck = new Date(`${date} GMT`);
+
+  return dateToCheck < currentDate;
 };
