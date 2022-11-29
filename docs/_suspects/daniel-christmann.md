@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-11-28
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-04-26
 status_conference: 2022-11-28
 age: 38
 occupation: Plumber

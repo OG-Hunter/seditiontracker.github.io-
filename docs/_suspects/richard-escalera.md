@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0364
 caseName: USA v. ESCALERA
-judge: Zia M. Faruqui
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:
