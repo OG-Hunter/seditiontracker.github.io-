@@ -4,11 +4,11 @@ lastName: Caldwell
 hashtag: ThomasCaldwell
 aka:
 residence: Virginia
-status: Indicted
+status: Convicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-27
-convicted:
+convicted: 2022-11-29
 acquitted:
 sentenced:
 dismissed:
@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "We need to do this at the local level. Let's storm the capitol in Ohio. Tell me when!"
 title: Thomas Caldwell charged on January 19, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on November 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,8 +40,17 @@ caseName: USA v. RHODES
 judge: Amit P. Mehta
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(1),2
+    title: Tampering with Documents or Proceedings (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.washingtonpost.com/local/legal-issues/conspiracy-oath-keeper-arrest-capitol-riot/2021/01/19/fb84877a-5a4f-11eb-8bcf-3877871c819d_story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1356331/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)

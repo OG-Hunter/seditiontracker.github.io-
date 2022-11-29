@@ -4,11 +4,11 @@ lastName: Watkins
 hashtag: JessicaWatkins
 aka:
 residence: Ohio
-status: Indicted
+status: Convicted
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-27
-convicted:
+convicted: 2022-11-29
 acquitted:
 sentenced:
 dismissed:
@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: "I wouldn't worry about them coming after us."
 title: Jessica Watkins charged on January 17, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on November 29, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,6 +40,22 @@ caseName: USA v. WATKINS
 judge: Amit P. Mehta
 videos:
 charges:
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 372
+    title: Conspiracy to Impede or Injure an Officer
+    url: https://www.law.cornell.edu/uscode/text/18/372
+    felony: true
+  - code: 18 USC § 231(a)(3),2
+    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
 
