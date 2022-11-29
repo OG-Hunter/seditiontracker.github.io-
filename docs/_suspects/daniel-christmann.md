@@ -4,11 +4,11 @@ lastName: Christmann
 hashtag: DanielChristmann
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-07-16
 charged: 2021-07-16
 indicted:
-convicted:
+convicted: 2022-11-28
 acquitted:
 sentenced:
 dismissed:
@@ -31,7 +31,7 @@ raid:
 perpwalk:
 quote: 'Yeah im [sic] not going to lie. I wasn’t one of the first people in. When realized [sic] it was happening I was scaling walls and shit'
 title: Daniel Christmann charged on July 16, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on November 28, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -40,6 +40,10 @@ caseName: USA v. CHRISTMANN
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.nytimes.com/2021/07/28/nyregion/capitol-riot-brooklyn-plumber.html)
