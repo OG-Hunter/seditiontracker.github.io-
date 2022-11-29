@@ -1,7 +1,7 @@
 import { Command } from "commander";
 import fs from "fs";
 import { load } from "cheerio";
-import { getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
+import { getSuspectByFile, pastDate, Suspect, updateSuspect } from "./common/suspect";
 import { readFile } from "./common/file";
 import { info } from "./common/console";
 
@@ -36,6 +36,11 @@ const latestDate = (suspect: Suspect, field: string, dateText: string) => {
   const oldValue = suspect[field];
   const oldDate = oldValue ? new Date(suspect[field]) : null;
   const newDate = new Date(`${dateText} GMT`);
+
+  if (field === "status_conference" && pastDate(dateText)) {
+    return null;
+  }
+
   if (!oldDate || (oldDate && newDate > oldDate)) {
     const newDateString = newDate.toISOString().split("T")[0];
     console.log(`${suspect.name} ${field}: ${newDateString}`);

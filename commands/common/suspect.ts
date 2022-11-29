@@ -514,7 +514,7 @@ const getSentence = (data: string) => {
   return result.sentence || [];
 };
 
-const pastDate = (date: string): boolean => {
+export const pastDate = (date: string): boolean => {
   const currentDate = new Date();
   const dateToCheck = new Date(`${date} GMT`);
 
