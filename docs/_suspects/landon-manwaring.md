@@ -4,20 +4,20 @@ lastName: Manwaring
 hashtag:
 aka:
 residence: Utah
-status: Convicted
+status: Sentenced
 date: 2022-08-10
 charged: 2022-08-10
 indicted:
 convicted: 2022-08-26
 acquitted:
-sentenced:
+sentenced: 2022-11-28
 dismissed:
 deceased:
 plea_hearing: 2022-08-26
 trial_date:
 trial_type:
 sentencing: 2022-11-28
-status_conference: 2022-09-09
+status_conference:
 age:
 occupation:
 affiliations:
@@ -45,6 +45,9 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 30 days incarceration
+  - 35 months of probation
+  - $500 restitution
 ---
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527176/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529131/download)

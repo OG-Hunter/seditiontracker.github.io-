@@ -289,8 +289,6 @@ const getSentence = (suspect: Suspect) => {
       sentence.fine = parseInt(RegExp.$1);
     } else if (/.*\$(\d+)\srestitution/.test(item)) {
       sentence.restitution = parseInt(RegExp.$1);
-    } else if (/(\d+) days home detention/.test(item)) {
-      sentence.home_detention = parseInt(RegExp.$1);
     } else if (/(\d+) days intermittent/.test(item)) {
       sentence.intermittent_confinement = parseInt(RegExp.$1);
     }
@@ -307,6 +305,12 @@ const getSentence = (suspect: Suspect) => {
       sentence.probation = parseInt(RegExp.$1);
     } else if (/(\d+) years? probation/.test(item)) {
       sentence.probation = parseInt(RegExp.$1) * 12;
+    }
+
+    if (/(\d+) days home detention/.test(item)) {
+      sentence.home_detention = parseInt(RegExp.$1);
+    } else if (/(\d+) month(s) home detention/.test(item)) {
+      sentence.home_detention = parseInt(RegExp.$1) * 30;
     }
   }
 

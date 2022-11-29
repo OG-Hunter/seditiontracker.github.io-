@@ -4,20 +4,20 @@ lastName: Wood
 hashtag: LongScarfBoy
 aka:
 residence: North Carolina
-status: Convicted
+status: Sentenced
 date: 2021-03-03
 charged: 2021-03-03
 indicted: 2021-03-17
 convicted: 2022-05-27
 acquitted:
-sentenced:
+sentenced: 2022-11-28
 dismissed:
 deceased:
 plea_hearing: 2022-05-27
 trial_date:
 trial_type:
 sentencing: 2022-11-28
-status_conference: 2022-03-10
+status_conference:
 age: 23
 occupation:
 affiliations:
@@ -65,6 +65,10 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 12 months home detention
+  - 3 years probation
+  - 100 hours community service
+  - $2000 restitution
 ---
 - [News Report](https://www.charlotteobserver.com/news/politics-government/article249797823.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379546/download)
