@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0141
-caseName:
+caseName: USA v. DAUGHTRY
 judge:
 videos:
 charges:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 2022-11-30
+status_conference:
 age:
 occupation: Special Agent, Drug Enforcement Administration
 affiliations:

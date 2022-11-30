@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0278
-caseName:
+caseName: USA v. HERENDEEN
 judge:
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0144
-caseName: USA v. BRONSBURG
+caseName: USA v. AUNGST
 judge: Reggie B. Walton
 videos:
 charges:

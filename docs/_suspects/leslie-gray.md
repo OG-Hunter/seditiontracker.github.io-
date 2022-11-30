@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0338
-caseName: USA v. ISAACS
+caseName: USA v. GRAY
 judge: Dabney L. Friedrich
 videos:
 charges:

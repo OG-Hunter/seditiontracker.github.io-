@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0283
-caseName:
+caseName: USA v. REBEGILA
 judge:
 videos:
 charges:

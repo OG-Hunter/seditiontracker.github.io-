@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0240
-caseName:
+caseName: USA v. STACKHOUSE
 judge:
 videos:
 charges:

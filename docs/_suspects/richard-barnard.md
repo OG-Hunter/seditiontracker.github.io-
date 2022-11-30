@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0235
-caseName:
+caseName: USA v. BARNARD
 judge:
 videos:
 charges:

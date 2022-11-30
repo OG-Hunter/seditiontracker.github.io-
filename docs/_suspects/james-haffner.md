@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-mj-0672
-caseName: USA v. LOEHRKE
+caseName: USA v. HAFFNER
 judge: G. M. Harvey
 videos:
 charges:

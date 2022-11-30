@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0370
-caseName:
+caseName: USA v. HEINL
 judge:
 videos:
 charges:

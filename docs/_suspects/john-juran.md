@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0419
-caseName:
+caseName: USA v. JURAN
 judge:
 videos:
 charges:

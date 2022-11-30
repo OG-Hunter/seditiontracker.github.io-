@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0670
-caseName: USA v. BANNON
+caseName: USA v. HARGIS-GETSINGER
 judge: Carl J. Nichols
 videos:
 charges:

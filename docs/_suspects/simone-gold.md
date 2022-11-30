@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0085
-caseName: USA v. STRAND
+caseName: USA v. GOLD
 judge: Christopher R. Cooper
 videos:
 charges:

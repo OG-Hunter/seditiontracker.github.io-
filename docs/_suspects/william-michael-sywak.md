@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0494
-caseName:
+caseName: USA v. MICHAEL-SYWAK
 judge:
 videos:
 charges:

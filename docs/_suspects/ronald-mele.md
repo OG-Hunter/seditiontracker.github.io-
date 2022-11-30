@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0392
-caseName: USA v. HOSTETTER
+caseName: USA v. MELE
 judge: Royce C. Lamberth
 videos:
 charges:

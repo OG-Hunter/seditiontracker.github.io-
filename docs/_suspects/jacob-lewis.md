@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0100
-caseName:
+caseName: USA v. LEWIS
 judge:
 videos:
 charges:

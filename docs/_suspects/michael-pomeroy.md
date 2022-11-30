@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0183
-caseName: USA v. KORTE
+caseName: USA v. POMEROY
 judge: Tanya S. Chutkan
 videos:
 charges:

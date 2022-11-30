@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0586
-caseName:
+caseName: USA v. FERRIGNO
 judge:
 videos:
 charges:

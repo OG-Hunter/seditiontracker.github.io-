@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0091
-caseName: USA v. BINGERT
+caseName: USA v. JOHNATAKIS
 judge: Royce C. Lamberth
 videos:
 charges:

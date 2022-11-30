@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0261
-caseName: USA v. CASTLE
+caseName: USA v. DIFRANCESCO
 judge: Christopher R. Cooper
 videos:
 charges:

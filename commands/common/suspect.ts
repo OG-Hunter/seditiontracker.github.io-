@@ -520,3 +520,8 @@ export const pastDate = (date: string): boolean => {
 
   return dateToCheck < currentDate;
 };
+
+export const caseName = (suspect: Suspect): string => {
+  const { lastName } = suspect;
+  return `USA v. ${lastName.toUpperCase().replace(" ", "-")}`;
+};

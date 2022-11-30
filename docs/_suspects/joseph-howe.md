@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0087
-caseName: USA v. SPARKS
+caseName: USA v. HOWE
 judge: Timothy J. Kelly
 videos:
 charges:

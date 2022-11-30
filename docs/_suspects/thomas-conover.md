@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0743
-caseName:
+caseName: USA v. CONOVER
 judge:
 videos:
 charges:

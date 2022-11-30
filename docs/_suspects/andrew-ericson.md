@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0506
-caseName:
+caseName: USA v. ERICSON
 judge:
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0233
-caseName: USA v. NORWOOD III
+caseName: USA v. NORWOOD
 judge: Carl J. Nichols
 videos:
 charges:

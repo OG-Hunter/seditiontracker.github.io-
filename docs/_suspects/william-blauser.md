@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0386
-caseName: USA v. BAUER
+caseName: USA v. BLAUSER
 judge: Trevor N. McFadden
 videos:
 charges:

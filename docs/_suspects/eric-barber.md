@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0228
-caseName:
+caseName: USA v. BARBER
 judge:
 videos:
 charges:

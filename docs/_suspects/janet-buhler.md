@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0510
-caseName:
+caseName: USA v. BUHLER
 judge:
 videos:
 charges:

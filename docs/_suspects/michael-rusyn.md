@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0303
-caseName: USA v. LEE
+caseName: USA v. RUSYN
 judge: Zia M. Faruqui
 videos:
 charges:

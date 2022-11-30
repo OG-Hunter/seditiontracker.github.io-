@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0461
-caseName:
+caseName: USA v. THOMPSON
 judge:
 videos:
 charges:

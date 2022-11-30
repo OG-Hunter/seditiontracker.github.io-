@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0338
-caseName:
+caseName: USA v. SCHWARTZBERG
 judge:
 videos:
 charges:

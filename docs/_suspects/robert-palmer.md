@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0328
-caseName:
+caseName: USA v. PALMER
 judge:
 videos:
 charges:

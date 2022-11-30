@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
-caseName: USA v. MCCAUGHEY III
+caseName: USA v. MCCAUGHEY
 judge: Trevor N. McFadden
 videos:
 - title: Exhibit 1.mp4 (0:03:57)

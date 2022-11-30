@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0356
-caseName:
+caseName: USA v. BLAKELY
 judge:
 videos:
 charges:

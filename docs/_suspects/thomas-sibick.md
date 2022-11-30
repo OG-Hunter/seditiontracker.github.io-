@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0291
-caseName: USA v. HEAD
+caseName: USA v. SIBICK
 judge: Amy B. Jackson
 videos:
 - title: Instagram video_Sibick.mp4 (0:01:06)

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0041
-caseName:
+caseName: USA v. SWEET
 judge:
 videos:
 charges:

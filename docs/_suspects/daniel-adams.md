@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0084
-caseName: USA v. CARTER CONNELL
+caseName: USA v. ADAMS
 judge: Paul L. Friedman
 videos:
 charges:

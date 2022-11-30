@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0205
-caseName: USA v. JONES
+caseName: USA v. KING
 judge: Timothy J. Kelly
 videos:
 charges:

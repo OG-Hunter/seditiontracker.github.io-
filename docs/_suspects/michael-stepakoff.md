@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0096
-caseName:
+caseName: USA v. STEPAKOFF
 judge:
 videos:
 charges:

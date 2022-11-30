@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0208
-caseName:
+caseName: USA v. WEBSTER
 judge:
 videos:
 - title: Exhibit 1 - N.R. BWC Clip.mp4 (0:00:57)

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0047
-caseName: USA v. VARGAS SANTOS
+caseName: USA v. VARGAS-SANTOS
 judge: Randolph D. Moss
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0082
-caseName: USA v. CRASE
+caseName: USA v. WILLIAMS
 judge: Carl J. Nichols
 videos:
 charges:

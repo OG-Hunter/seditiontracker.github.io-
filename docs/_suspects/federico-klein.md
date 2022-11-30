@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0236
-caseName:
+caseName: USA v. KLEIN
 judge:
 videos:
 - title: Bogner.mp4 (0:03:32)

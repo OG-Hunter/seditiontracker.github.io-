@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0725
-caseName: USA v. MASSIE
+caseName: USA v. FAULKNER
 judge: Randolph D. Moss
 videos:
 charges:

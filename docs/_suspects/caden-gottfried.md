@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0354
-caseName: USA v. SLAUGHTER
+caseName: USA v. GOTTFRIED
 judge: Royce C. Lamberth
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0225
-caseName: USA v. EVANS III
+caseName: USA v. EVANS
 judge: Dabney L. Friedrich
 videos:
 charges:

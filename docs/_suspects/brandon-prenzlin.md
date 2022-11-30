@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0694
-caseName:
+caseName: USA v. PRENZLIN
 judge:
 videos:
 charges:

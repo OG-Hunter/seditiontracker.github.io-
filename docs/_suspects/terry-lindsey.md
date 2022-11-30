@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0162
-caseName:
+caseName: USA v. LINDSEY
 judge:
 videos:
 charges:

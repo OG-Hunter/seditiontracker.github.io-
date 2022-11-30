@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0539
-caseName:
+caseName: USA v. VUKICH
 judge:
 videos:
 charges:

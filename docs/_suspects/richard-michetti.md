@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0232
-caseName:
+caseName: USA v. MICHETTI
 judge:
 videos:
 charges:

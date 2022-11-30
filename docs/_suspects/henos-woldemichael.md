@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0206
-caseName: USA v. WOLDENMICHAEL
+caseName: USA v. WOLDEMICHAEL
 judge: Zia M. Faruqui
 videos:
 charges:

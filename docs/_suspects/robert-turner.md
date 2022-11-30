@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0019
-caseName: USA v. PURDY
+caseName: USA v. TURNER
 judge: Royce C. Lamberth
 videos:
 charges:

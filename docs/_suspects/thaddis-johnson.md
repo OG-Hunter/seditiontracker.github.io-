@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0228
-caseName: USA v. JOHNSON, JR
+caseName: USA v. JOHNSON
 judge: John D. Bates
 videos:
 charges:

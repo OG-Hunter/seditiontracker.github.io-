@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0185
-caseName: USA v. ST CYR
+caseName: USA v. ST-CYR
 judge: John D. Bates
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0188
-caseName:
+caseName: USA v. HODGKINS
 judge:
 videos:
 charges:

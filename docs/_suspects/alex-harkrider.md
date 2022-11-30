@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0117
-caseName: USA v. NICHOLS
+caseName: USA v. HARKRIDER
 judge: Thomas F. Hogan
 videos:
 charges:

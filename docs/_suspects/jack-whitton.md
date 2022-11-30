@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0035
-caseName: USA v. STAGER
+caseName: USA v. WHITTON
 judge: Emmet G. Sullivan
 videos:
 - title: Ex. 1 - Storyful Video.mp4 (0:01:41)

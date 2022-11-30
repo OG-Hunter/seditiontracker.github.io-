@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0304
-caseName:
+caseName: USA v. RIDDLE
 judge:
 videos:
 charges:

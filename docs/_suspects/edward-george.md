@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0378
-caseName: USA v. JACKMAN
+caseName: USA v. GEORGE
 judge: Timothy J. Kelly
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0037
-caseName:
+caseName: USA v. HALE-CUSANELLI
 judge:
 videos:
 charges:

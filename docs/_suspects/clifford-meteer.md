@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0630
-caseName:
+caseName: USA v. METEER
 judge:
 videos:
 charges:

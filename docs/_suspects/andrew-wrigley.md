@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0042
-caseName:
+caseName: USA v. WRIGLEY
 judge:
 videos:
 charges:

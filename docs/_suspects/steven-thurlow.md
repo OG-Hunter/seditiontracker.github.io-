@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0615
-caseName:
+caseName: USA v. THURLOW
 judge:
 videos:
 charges:

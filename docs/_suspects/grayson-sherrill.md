@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0282
-caseName: USA v. IRIZARRY
+caseName: USA v. SHERRILL
 judge: Tanya S. Chutkan
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0332
-caseName: USA v. JOHNSON
+caseName: USA v. RANDOLPH
 judge: Jia M. Cobb
 videos:
 charges:

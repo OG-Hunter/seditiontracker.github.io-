@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0729
-caseName: USA v. BUXTON
+caseName: USA v. HOLDRIDGE
 judge: John D. Bates
 videos:
 charges:

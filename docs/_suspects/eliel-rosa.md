@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0068
-caseName:
+caseName: USA v. ROSA
 judge:
 videos:
 charges:

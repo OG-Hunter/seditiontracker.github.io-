@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0631
-caseName: USA v. MESSER
+caseName: USA v. BORGERDING
 judge: Timothy J. Kelly
 videos:
 charges:

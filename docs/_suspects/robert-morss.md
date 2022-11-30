@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
-caseName: USA v. MCCAUGHEY III
+caseName: USA v. MORSS
 judge: Trevor N. McFadden
 videos:
 - title: EXHIIBIT P-Par 35.mp4 (0:00:58)

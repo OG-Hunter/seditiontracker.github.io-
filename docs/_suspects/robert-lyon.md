@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0161
-caseName: USA v. THOMPSON
+caseName: USA v. LYON
 judge: Reggie B. Walton
 videos:
 charges:

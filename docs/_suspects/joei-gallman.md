@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0205
-caseName:
+caseName: USA v. GALLMAN
 judge:
 videos:
 charges:

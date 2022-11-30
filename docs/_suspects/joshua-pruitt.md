@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0023
-caseName:
+caseName: USA v. PRUITT
 judge:
 videos:
 charges:

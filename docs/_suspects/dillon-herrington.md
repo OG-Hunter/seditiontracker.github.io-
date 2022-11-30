@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0553
-caseName: USA v. BALLARD
+caseName: USA v. HERRINGTON
 judge: Thomas F. Hogan
 videos:
 charges:

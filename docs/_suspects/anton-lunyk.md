@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0410
-caseName:
+caseName: USA v. LUNYK
 judge:
 videos:
 charges:

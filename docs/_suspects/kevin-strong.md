@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0114
-caseName:
+caseName: USA v. STRONG
 judge:
 videos:
 charges:

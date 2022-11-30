@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0184
-caseName: USA v. COLE
+caseName: USA v. CROWLEY
 judge: G. M. Harvey
 videos:
 charges:

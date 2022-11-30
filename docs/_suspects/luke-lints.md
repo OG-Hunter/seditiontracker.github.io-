@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0259
-caseName: USA v. SIRR
+caseName: USA v. LINTS
 judge: Trevor N. McFadden
 videos:
 charges:

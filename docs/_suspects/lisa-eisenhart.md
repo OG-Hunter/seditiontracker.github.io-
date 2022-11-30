@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0118
-caseName: USA v. MUNCHEL
+caseName: USA v. EISENHART
 judge: Royce C. Lamberth
 videos:
 charges:

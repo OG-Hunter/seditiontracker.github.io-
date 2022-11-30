@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0203
-caseName: USA v. LOVLEY
+caseName: USA v. LIZAK
 judge: G. M. Harvey
 videos:
 charges:

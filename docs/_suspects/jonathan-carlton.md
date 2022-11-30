@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0247
-caseName: USA v. WEEKS
+caseName: USA v. CARLTON
 judge: Thomas F. Hogan
 videos:
 charges:

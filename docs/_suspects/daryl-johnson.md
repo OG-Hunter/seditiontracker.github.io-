@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0407
-caseName:
+caseName: USA v. JOHNSON
 judge:
 videos:
 charges:

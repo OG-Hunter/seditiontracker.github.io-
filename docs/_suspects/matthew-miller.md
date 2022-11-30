@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0075
-caseName:
+caseName: USA v. MILLER
 judge:
 videos:
 charges:

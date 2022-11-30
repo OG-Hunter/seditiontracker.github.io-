@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0225
-caseName: USA v. KUECKEN
+caseName: USA v. SMITH
 judge: Zia M. Faruqui
 videos:
 charges:

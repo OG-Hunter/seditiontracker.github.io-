@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0349
-caseName:
+caseName: USA v. REGISTER
 judge:
 videos:
 charges:

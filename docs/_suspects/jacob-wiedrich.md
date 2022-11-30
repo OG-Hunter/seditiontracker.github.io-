@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0581
-caseName:
+caseName: USA v. WIEDRICH
 judge:
 videos:
 charges:

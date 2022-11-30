@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0721
-caseName:
+caseName: USA v. RICHARDSON
 judge:
 videos:
 charges:

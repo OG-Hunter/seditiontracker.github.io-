@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0334
-caseName: USA v. SHALVEY
+caseName: USA v. MORRISON
 judge: Timothy J. Kelly
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0256
-caseName:
+caseName: USA v. COHEN
 judge:
 videos:
 charges:

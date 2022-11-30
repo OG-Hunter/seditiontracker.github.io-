@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0289
-caseName:
+caseName: USA v. VOGEL
 judge:
 videos:
 charges:

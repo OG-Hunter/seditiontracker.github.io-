@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0292
-caseName: USA v. SCOTT
+caseName: USA v. WORRELL
 judge: Royce C. Lamberth
 videos:
 charges:

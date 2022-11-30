@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0271
-caseName:
+caseName: USA v. BANCROFT
 judge:
 videos:
 charges:

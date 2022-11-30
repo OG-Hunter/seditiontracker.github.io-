@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0050
-caseName: USA v. SCHWAB
+caseName: USA v. HYLAND
 judge: Christopher R. Cooper
 videos:
 charges:

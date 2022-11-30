@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0607
-caseName:
+caseName: USA v. GETSINGER
 judge:
 videos:
 charges:

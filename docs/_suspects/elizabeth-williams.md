@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0312
-caseName: USA v. BENNETT
+caseName: USA v. WILLIAMS
 judge: James E. Boasberg
 videos:
 charges:

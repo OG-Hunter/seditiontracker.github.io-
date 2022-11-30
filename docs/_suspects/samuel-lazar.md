@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0525
-caseName: USA v. WARNAGIRIS
+caseName: USA v. LAZAR
 judge: Paul L. Friedman
 videos:
 charges:

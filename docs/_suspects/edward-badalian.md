@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0246
-caseName: USA v. RODRIGUEZ
+caseName: USA v. BADALIAN
 judge: Amy B. Jackson
 videos:
 charges:

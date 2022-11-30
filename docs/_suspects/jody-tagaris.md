@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0368
-caseName:
+caseName: USA v. TAGARIS
 judge:
 videos:
 charges:

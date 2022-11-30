@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0243
-caseName: USA v. TEMPLE
+caseName: USA v. WILSON
 judge: Colleen Kollar-Kotelly
 videos:
 charges:

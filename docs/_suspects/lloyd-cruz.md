@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0064
-caseName: USA v. CRUZ, JR
+caseName: USA v. CRUZ
 judge: Reggie B. Walton
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0605
-caseName: USA v. WESTBURY
+caseName: USA v. JAMES
 judge: Rudolph Contreras
 videos:
 charges:

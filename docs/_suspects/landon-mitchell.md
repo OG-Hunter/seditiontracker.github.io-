@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0717
-caseName:
+caseName: USA v. MITCHELL
 judge:
 videos:
 charges:

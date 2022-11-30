@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0062
-caseName:
+caseName: USA v. BARANYI
 judge:
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0662
-caseName:
+caseName: USA v. PEART
 judge:
 videos:
 charges:

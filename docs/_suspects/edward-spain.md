@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0651
-caseName:
+caseName: USA v. SPAIN
 judge:
 videos:
 charges:

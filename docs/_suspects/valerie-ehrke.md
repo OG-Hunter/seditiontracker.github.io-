@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0097
-caseName:
+caseName: USA v. EHRKE
 judge:
 videos:
 charges:

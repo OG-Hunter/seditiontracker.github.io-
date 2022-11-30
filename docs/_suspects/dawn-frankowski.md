@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0592
-caseName: USA v. WIERSMA
+caseName: USA v. FRANKOWSKI
 judge: Amy B. Jackson
 videos:
 charges:

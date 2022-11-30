@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0015
-caseName: USA v. RHODES
+caseName: USA v. JAMES
 judge: Amit P. Mehta
 videos:
 charges:

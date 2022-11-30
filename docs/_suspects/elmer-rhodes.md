@@ -40,20 +40,19 @@ caseName: USA v. RHODES
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 2384
-    title: Seditious Conspiracy
-    url: https://www.law.cornell.edu/uscode/text/18/2384
-    felony: true
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1512(c)(1),2
-    title: Tampering with Documents or Proceedings (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 2384
+  title: Seditious Conspiracy
+  url: https://www.law.cornell.edu/uscode/text/18/2384
+  felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1512(c)(1),2
+  title: Tampering with Documents or Proceedings (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514876/download)

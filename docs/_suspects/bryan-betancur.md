@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0051
-caseName:
+caseName: USA v. BETANCUR
 judge:
 videos:
 charges:

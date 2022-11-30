@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0354
-caseName: USA v. ADAMS, JR
+caseName: USA v. ADAMS
 judge: Amit P. Mehta
 videos:
 charges:

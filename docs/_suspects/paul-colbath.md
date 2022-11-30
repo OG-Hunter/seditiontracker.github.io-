@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0650
-caseName:
+caseName: USA v. COLBATH
 judge:
 videos:
 charges:

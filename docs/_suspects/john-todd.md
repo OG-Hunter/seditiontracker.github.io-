@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0166
-caseName: USA v. TODD III
+caseName: USA v. TODD
 judge: Moxila A. Upadhyaya
 videos:
 charges:

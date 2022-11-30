@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0049
-caseName:
+caseName: USA v. BAUER
 judge:
 videos:
 charges:

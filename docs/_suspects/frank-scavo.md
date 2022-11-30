@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0254
-caseName:
+caseName: USA v. SCAVO
 judge:
 videos:
 charges:

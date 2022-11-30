@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0160
-caseName: USA v. ASHLOCK
+caseName: USA v. CHRESTMAN
 judge: Timothy J. Kelly
 videos:
 charges:

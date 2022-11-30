@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0585
-caseName: USA v. RAHM JR
+caseName: USA v. RAHM
 judge: Thomas F. Hogan
 videos:
 charges:

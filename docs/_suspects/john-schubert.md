@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0587
-caseName:
+caseName: USA v. SCHUBERT
 judge:
 videos:
 charges:

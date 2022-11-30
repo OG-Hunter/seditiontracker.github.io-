@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0207
-caseName: USA v. ESTEY
+caseName: USA v. BELGER
 judge: Zia M. Faruqui
 videos:
 charges:

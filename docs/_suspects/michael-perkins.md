@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0447
-caseName: USA v. HUTCHINSON
+caseName: USA v. PERKINS
 judge: Carl J. Nichols
 videos:
 - title: GX 4.mp4 (0:00:27)

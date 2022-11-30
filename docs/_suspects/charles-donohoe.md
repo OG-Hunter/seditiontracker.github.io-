@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0175
-caseName: USA v. NORDEAN
+caseName: USA v. DONOHOE
 judge: Timothy J. Kelly
 videos:
 - title: Exhibit A_Let_s take the Capitol.mp4 (0:00:23)

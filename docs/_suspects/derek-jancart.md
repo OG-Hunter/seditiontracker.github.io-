@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0148
-caseName:
+caseName: USA v. JANCART
 judge:
 videos:
 charges:

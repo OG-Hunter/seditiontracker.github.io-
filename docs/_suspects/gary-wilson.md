@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0046
-caseName: USA v. MONTGOMERY
+caseName: USA v. WILSON
 judge: Randolph D. Moss
 videos:
 charges:

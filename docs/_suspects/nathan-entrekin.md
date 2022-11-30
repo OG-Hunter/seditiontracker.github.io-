@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0686
-caseName:
+caseName: USA v. ENTREKIN
 judge:
 videos:
 charges:

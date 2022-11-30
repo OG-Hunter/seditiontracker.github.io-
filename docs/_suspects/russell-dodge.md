@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0252
-caseName: USA v. KRAUSS
+caseName: USA v. DODGE
 judge: Robin M. Meriweather
 videos:
 charges:

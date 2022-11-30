@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0005
-caseName:
+caseName: USA v. LEFFINGWELL
 judge:
 videos:
 charges:

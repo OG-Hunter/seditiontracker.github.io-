@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0102
-caseName: USA v. ARCHER
+caseName: USA v. BONENBERGER
 judge: John D. Bates
 videos:
 charges:

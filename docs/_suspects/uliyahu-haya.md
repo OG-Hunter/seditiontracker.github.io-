@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0565
-caseName: USA v. HAYAH
+caseName: USA v. HAYA
 judge: Carl J. Nichols
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0204
-caseName: USA v. BLEDSOE
+caseName: USA v. CLARK
 judge: Beryl A. Howell
 videos:
 charges:

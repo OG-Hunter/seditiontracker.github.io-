@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0313
-caseName: USA v. MORGAN, JR
+caseName: USA v. MORGAN
 judge: Timothy J. Kelly
 videos:
 charges:

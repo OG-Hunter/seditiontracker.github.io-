@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0657
-caseName:
+caseName: USA v. MATTICE
 judge:
 videos:
 charges:

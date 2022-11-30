@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0579
-caseName:
+caseName: USA v. STRAKA
 judge:
 videos:
 charges:

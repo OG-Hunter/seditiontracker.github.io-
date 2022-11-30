@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0575
-caseName: USA v. LESPERANCE
+caseName: USA v. CUSICK
 judge: John D. Bates
 videos:
 charges:

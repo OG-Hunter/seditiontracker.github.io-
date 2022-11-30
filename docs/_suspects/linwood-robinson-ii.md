@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0251
-caseName: USA v. ROBINSON, SR
+caseName: USA v. ROBINSON-II
 judge: Amy B. Jackson
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0035
-caseName: USA v. STAGER
+caseName: USA v. SABOL
 judge: Emmet G. Sullivan
 videos:
 - title: EX 2 - A.W. BWC Clip.mp4 (0:01:06)

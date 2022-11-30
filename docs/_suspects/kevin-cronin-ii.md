@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0233
-caseName: USA v. CRONIN
+caseName: USA v. CRONIN-II
 judge: Amy B. Jackson
 videos:
 charges:

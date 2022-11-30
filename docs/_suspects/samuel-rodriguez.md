@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0256
-caseName: USA v. FONTANEZ RODRIGUEZ
+caseName: USA v. RODRIGUEZ
 judge: Jia M. Cobb
 videos:
 charges:

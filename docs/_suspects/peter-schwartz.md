@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0178
-caseName: USA v. STALLINGS
+caseName: USA v. SCHWARTZ
 judge: Amit P. Mehta
 videos:
 charges:

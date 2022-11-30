@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0621
-caseName:
+caseName: USA v. SIZER
 judge:
 videos:
 charges:

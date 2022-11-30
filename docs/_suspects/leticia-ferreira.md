@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0210
-caseName:
+caseName: USA v. FERREIRA
 judge:
 videos:
 charges:

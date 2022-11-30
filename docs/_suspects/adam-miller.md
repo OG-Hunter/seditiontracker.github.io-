@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0191
-caseName: USA v. STEINER
+caseName: USA v. MILLER
 judge: Royce C. Lamberth
 videos:
 charges:

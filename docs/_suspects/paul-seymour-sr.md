@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0041
-caseName: USA v. SEYMOUR
+caseName: USA v. SEYMOUR-SR
 judge: Amit P. Mehta
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0601
-caseName:
+caseName: USA v. TICAS
 judge:
 videos:
 charges:

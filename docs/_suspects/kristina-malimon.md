@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 2021-CMD-195
-caseName:
+caseName: USA v. MALIMON
 judge:
 videos:
 charges:

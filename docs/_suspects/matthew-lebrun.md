@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0136
-caseName: USA v. MILES
+caseName: USA v. LEBRUN
 judge: Jia M. Cobb
 videos:
 charges:

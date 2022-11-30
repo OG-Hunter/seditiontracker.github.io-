@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0197
-caseName:
+caseName: USA v. KOSTOLSKY
 judge:
 videos:
 charges:

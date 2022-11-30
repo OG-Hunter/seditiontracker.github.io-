@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0154
-caseName: USA v. MONTANO ALVARADO
+caseName: USA v. ALVARADO
 judge: Richard J. Leon
 videos:
 charges:

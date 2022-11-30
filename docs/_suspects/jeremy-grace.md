@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0492
-caseName:
+caseName: USA v. GRACE
 judge:
 videos:
 charges:

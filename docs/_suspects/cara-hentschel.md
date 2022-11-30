@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0667
-caseName:
+caseName: USA v. HENTSCHEL
 judge:
 videos:
 charges:

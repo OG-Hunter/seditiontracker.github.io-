@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0171
-caseName: USA v. CONLON
+caseName: USA v. BOND
 judge: Jia M. Cobb
 videos:
 charges:

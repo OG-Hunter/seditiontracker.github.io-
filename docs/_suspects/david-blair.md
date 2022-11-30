@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0186
-caseName:
+caseName: USA v. BLAIR
 judge:
 videos:
 charges:

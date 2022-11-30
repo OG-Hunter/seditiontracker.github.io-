@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0216
-caseName: USA v. BOZELL IV
+caseName: USA v. BOZELL
 judge: John D. Bates
 videos:
 charges:

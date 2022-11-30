@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0040
-caseName: USA v. MCCAUGHEY III
+caseName: USA v. QUAGLIN
 judge: Trevor N. McFadden
 videos:
 charges:

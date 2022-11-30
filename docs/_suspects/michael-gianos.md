@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0074
-caseName: USA v. MYERS
+caseName: USA v. GIANOS
 judge: Jia M. Cobb
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0061
-caseName: USA v. HENEGHAN
+caseName: USA v. KICINSKI
 judge: Reggie B. Walton
 videos:
 charges:

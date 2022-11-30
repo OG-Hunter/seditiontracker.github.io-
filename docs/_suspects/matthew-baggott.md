@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0411
-caseName: USA v. PARKS
+caseName: USA v. BAGGOTT
 judge: Amit P. Mehta
 videos:
 charges:

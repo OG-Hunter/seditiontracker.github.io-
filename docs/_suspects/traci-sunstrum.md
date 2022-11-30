@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0652
-caseName:
+caseName: USA v. SUNSTRUM
 judge:
 videos:
 charges:

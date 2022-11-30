@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0549
-caseName:
+caseName: USA v. SELLS
 judge:
 videos:
 charges:

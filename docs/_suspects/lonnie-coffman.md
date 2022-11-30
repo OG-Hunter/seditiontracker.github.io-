@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0004
-caseName:
+caseName: USA v. COFFMAN
 judge:
 videos:
 charges:

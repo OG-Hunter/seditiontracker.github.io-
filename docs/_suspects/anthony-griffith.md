@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0244
-caseName: USA v. GRIFFITH, SR
+caseName: USA v. GRIFFITH
 judge: Colleen Kollar-Kotelly
 videos:
 charges:

@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0003
-caseName:
+caseName: USA v. CHANSLEY
 judge:
 videos:
 charges:

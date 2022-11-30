@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0567
-caseName:
+caseName: USA v. SMITH
 judge:
 videos:
 charges:

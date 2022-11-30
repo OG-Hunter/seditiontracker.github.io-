@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0120
-caseName:
+caseName: USA v. FAIRLAMB
 judge:
 videos:
 - title: Exhibit 2 - Fairlamb Instagram Scaffolding Video.mp4 (0:00:13)

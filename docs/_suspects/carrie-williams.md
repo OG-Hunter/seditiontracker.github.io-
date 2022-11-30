@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0248
-caseName: USA v. MILEUR
+caseName: USA v. WILLIAMS
 judge: Randolph D. Moss
 videos:
 charges:

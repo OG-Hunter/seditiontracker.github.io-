@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0011
-caseName: USA v. JOHNSON
+caseName: USA v. FISCHER
 judge: Richard J. Leon
 videos:
 charges:

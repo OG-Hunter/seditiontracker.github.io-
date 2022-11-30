@@ -36,7 +36,7 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 21-cr-0406
-caseName:
+caseName: USA v. RIDGE
 judge:
 videos:
 charges:
