@@ -101,8 +101,10 @@ const parseSchedule = async () => {
       /Judge (.*)/.test(judgeText);
       const judge = RegExp.$1;
 
-      // NOTE: Judge Sullivan is retiring and his cases are being reassigned
-      if (suspect.judge !== judge && judge !== "Emmet G. Sullivan") {
+      // Do not replace case judge with magistrate judge. Judge Sullivan is retiring and his cases are being reassigned.
+      if (/Mag\. Judge/.test(judgeText) || typeText === "Arraignment") {
+        suspect.judge ||= judge;
+      } else if (suspect.judge !== judge && judge !== "Emmet G. Sullivan") {
         suspect.judge = judge;
         console.log(`${suspect.name} judge: ${judge}`);
       }
