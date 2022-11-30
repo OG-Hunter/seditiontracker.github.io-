@@ -34,7 +34,7 @@ title: Dale Huttle charged on October 28, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 caseName: USA v. HUTTLE
 judge:
