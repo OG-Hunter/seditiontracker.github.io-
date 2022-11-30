@@ -46,7 +46,7 @@ charges:
   felony: false
 sentence:
   - 90 days home detention
-  - 18 months of probation
+  - 18 months probation
   - 60 hours community service
   - $742 fine
   - $500 restitution

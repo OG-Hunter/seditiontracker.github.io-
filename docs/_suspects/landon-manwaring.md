@@ -46,7 +46,7 @@ charges:
   felony: false
 sentence:
   - 30 days incarceration
-  - 35 months of probation
+  - 35 months probation
   - $500 restitution
 ---
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1527176/download)
