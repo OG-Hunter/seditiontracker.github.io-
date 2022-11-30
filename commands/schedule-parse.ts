@@ -86,75 +86,64 @@ const parseSchedule = async () => {
     const suspects = caseMap[caseNumber] || [];
 
     for (const suspect of suspects) {
-      if (suspect) {
-        const { caseName, lastName, trial_date, trial_type } = suspect;
+      const { caseName, trial_date, trial_type } = suspect;
 
-        const IGNORE_NAMES = ["Virginia Spencer"];
-        if (IGNORE_NAMES.includes(suspect.name)) {
-          continue;
-        }
-
-        // Check caseName and ignore when same case number but caseName doesn't match (ie. Different defendant)
-        if (caseName && caseName !== parsedCaseName) {
-          continue;
-        } else {
-          if (!caseName) {
-            suspect.caseName = parsedCaseName;
-            console.log(`${suspect.name} caseName: ${parsedCaseName}`);
-          } else if (suspects.length == 1) {
-            suspect.caseName = parsedCaseName;
-          } else if (caseName.replace("USA v. ", "") !== lastName.toUpperCase()) {
-            continue;
-          }
-        }
-
-        /Judge (.*)/.test(judgeText);
-        const judge = RegExp.$1;
-
-        // NOTE: Judge Sullivan is retiring and his cases are being reassigned
-        if (suspect.judge !== judge && judge !== "Emmet G. Sullivan") {
-          suspect.judge = judge;
-          console.log(`${suspect.name} judge: ${judge}`);
-        }
-
-        switch (typeText) {
-          case "Plea Agreement Hearing":
-            suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
-            break;
-          case "Sentencing":
-            suspect.sentencing = latestDate(suspect, "sentencing", dateText);
-            break;
-          case "Jury Selection":
-            if (!isBlank(suspect.plea_hearing)) {
-              break;
-            }
-            if (!trial_type) {
-              console.log(`${suspect.name} jury trial: ${dateText}`);
-              suspect.trial_type = "Jury Trial";
-            }
-            if (!trial_date) {
-              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-            }
-            break;
-          case "Bench Trial":
-            if (!isBlank(suspect.plea_hearing)) {
-              break;
-            }
-            if (!trial_type) {
-              console.log(`${suspect.name} bench trial: ${dateText}`);
-              suspect.trial_type = "Bench Trial";
-            }
-            if (!trial_date) {
-              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-            }
-            break;
-          case "Status Conference":
-            suspect.status_conference = latestDate(suspect, "status_conference", dateText);
-            break;
-        }
-
-        updateSuspect(suspect);
+      const IGNORE_NAMES = ["Virginia Spencer"];
+      if (IGNORE_NAMES.includes(suspect.name)) {
+        continue;
       }
+
+      // Check caseName and ignore when same case number but caseName doesn't match (ie. Different defendant)
+      if (caseName && caseName !== parsedCaseName) {
+        continue;
+      }
+
+      /Judge (.*)/.test(judgeText);
+      const judge = RegExp.$1;
+
+      // NOTE: Judge Sullivan is retiring and his cases are being reassigned
+      if (suspect.judge !== judge && judge !== "Emmet G. Sullivan") {
+        suspect.judge = judge;
+        console.log(`${suspect.name} judge: ${judge}`);
+      }
+
+      switch (typeText) {
+        case "Plea Agreement Hearing":
+          suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
+          break;
+        case "Sentencing":
+          suspect.sentencing = latestDate(suspect, "sentencing", dateText);
+          break;
+        case "Jury Selection":
+          if (!isBlank(suspect.plea_hearing)) {
+            break;
+          }
+          if (!trial_type) {
+            console.log(`${suspect.name} jury trial: ${dateText}`);
+            suspect.trial_type = "Jury Trial";
+          }
+          if (!trial_date) {
+            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          }
+          break;
+        case "Bench Trial":
+          if (!isBlank(suspect.plea_hearing)) {
+            break;
+          }
+          if (!trial_type) {
+            console.log(`${suspect.name} bench trial: ${dateText}`);
+            suspect.trial_type = "Bench Trial";
+          }
+          if (!trial_date) {
+            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          }
+          break;
+        case "Status Conference":
+          suspect.status_conference = latestDate(suspect, "status_conference", dateText);
+          break;
+      }
+
+      updateSuspect(suspect);
     }
   });
 };

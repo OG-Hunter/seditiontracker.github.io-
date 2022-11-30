@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-01-27
 age:
 occupation:
 affiliations: Proud Boys
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0067
 caseName: USA v. PORTLOCK
-judge:
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

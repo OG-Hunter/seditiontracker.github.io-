@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-08-23
 trial_type: Stipulated Bench Trial
-sentencing: 2023-01-06
+sentencing: 2023-02-10
 status_conference:
 age: 30
 occupation:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-01
 age: 21
 occupation:
 affiliations: Groypers
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0203
 caseName: USA v. LIZAK
-judge: G. M. Harvey
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

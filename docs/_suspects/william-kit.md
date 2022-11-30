@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-13
 age: 46
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0306
 caseName: USA v. KIT
-judge: Dabney L. Friedrich
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:

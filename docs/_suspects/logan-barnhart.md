@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-28
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-09
 status_conference:
 age: 40
 occupation: Machine Operator, Barnhart & Son Inc.

@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0374
 caseName: USA v. SAER
-judge: Zia M. Faruqui
+judge: Dabney L. Friedrich
 videos:
 charges:
 sentence:

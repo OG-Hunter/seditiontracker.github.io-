@@ -16,7 +16,7 @@ deceased:
 plea_hearing: 2022-09-13
 trial_date:
 trial_type:
-sentencing:
+sentencing: 2023-03-06
 status_conference:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor

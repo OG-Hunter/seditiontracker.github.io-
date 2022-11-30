@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2023-02-14
 age: 23
 occupation:
 affiliations: Groypers
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0203
 caseName: USA v. BRODY
-judge: G. M. Harvey
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

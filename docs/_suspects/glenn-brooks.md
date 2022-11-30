@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference:
+status_conference: 2022-12-05
 age: 61
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0503
 caseName: USA v. BROOKS
-judge:
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

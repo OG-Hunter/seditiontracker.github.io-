@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-02-13
+trial_type: Bench Trial
 sentencing:
 status_conference:
 age: 40

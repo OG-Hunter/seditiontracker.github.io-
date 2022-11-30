@@ -14,10 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-09-25
+trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-12-02
 age: 51
 occupation: Geologist
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. SABOL
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 - title: EX 2 - A.W. BWC Clip.mp4 (0:01:06)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ca43d920ce2c013960702cde48001122.mp4

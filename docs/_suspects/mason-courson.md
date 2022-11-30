@@ -13,8 +13,8 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-trial_date: 2022-09-25
+plea_hearing: 2022-11-30
+trial_date:
 trial_type:
 sentencing:
 status_conference:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. COURSON
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

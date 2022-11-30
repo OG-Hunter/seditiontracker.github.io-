@@ -14,10 +14,10 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-09-25
+trial_type: Jury Trial
 sentencing:
-status_conference:
+status_conference: 2022-12-02
 age:
 occupation:
 affiliations:
@@ -37,7 +37,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. MULLINS
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-09-12
-trial_type:
+trial_type: Jury Trial
 sentencing:
 status_conference:
 age: 23
