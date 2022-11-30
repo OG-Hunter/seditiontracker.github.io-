@@ -1,7 +1,7 @@
 id: 277
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #277 A - AFO"
 src: https://www.fbi.gov/wanted/capitol-violence-images/277a.png/@@images/image/preview
@@ -10,9 +10,9 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-11-03
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/douglas-wyatt
 name: Douglas Wyatt
 missingImage: false
 identifiedBy: null
