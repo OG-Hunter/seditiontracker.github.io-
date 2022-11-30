@@ -295,7 +295,7 @@ export const updateSuspect = (suspect: Suspect) => {
 
   const newSentence = [];
 
-  for (let line of suspect.sentence) {
+  for (let line of suspect.sentence || []) {
     line = line.replace("home confinement", "home detention");
     line = line.replace("intermittent incarceration", "intermittent confinement");
     newSentence.push(line);

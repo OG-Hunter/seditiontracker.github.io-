@@ -7,7 +7,7 @@ residence: Indiana
 status: Charged
 date: 2022-10-28
 charged: 2022-10-28
-indicted: 
+indicted:
 convicted:
 acquitted:
 sentenced:
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 sentencing:
-status_conference: 
+status_conference:
 age: 61
 occupation:
 affiliations:
@@ -42,6 +42,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbsnews.com/chicago/news/dale-huttle-of-crown-point-charged-with-assault-in-jan-6-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1553876/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1553881/download)

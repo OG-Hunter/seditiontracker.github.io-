@@ -49,3 +49,5 @@ sentence:
 - [News Report](https://www.nytimes.com/2021/07/28/nyregion/capitol-riot-brooklyn-plumber.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1417601/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1424581/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554296/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554301/download)
