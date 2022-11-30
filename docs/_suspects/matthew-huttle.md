@@ -35,14 +35,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: false
-caseNumber:
-caseName:
+caseNumber: 
+caseName: USA v. HUTTLE
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/chicago/news/dale-huttle-of-crown-point-charged-with-assault-in-jan-6-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1553876/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1553881/download)

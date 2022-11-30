@@ -4,13 +4,13 @@ lastName: Wiersma
 hashtag: DavidWiersma
 aka:
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2021-09-13
 charged: 2021-09-13
 indicted:
 convicted: 2022-08-30
 acquitted:
-sentenced:
+sentenced: 2022-11-29
 dismissed:
 deceased:
 plea_hearing: 2022-08-30
@@ -40,12 +40,17 @@ caseName: USA v. WIERSMA
 judge: Amy B. Jackson
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 100 hours community service
+  - 18 months probation
+  - $1500 fine
+  - $500 restitution
 ---
+
 - [News Report](https://chicago.suntimes.com/crime/2021/9/21/22686870/like-going-shopping-mall-two-arrested-suburbs-alleged-role-us-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529581/download)
