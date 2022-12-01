@@ -42,7 +42,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481086/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249696/gov.uscourts.dcd.249696.40.0.pdf)
