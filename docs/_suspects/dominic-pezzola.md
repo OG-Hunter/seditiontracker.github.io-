@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-12
 trial_type: Jury Trial
 sentencing:
-status_conference: 2022-12-12
+status_conference: 2022-12-02
 age: 43
 occupation: Former Military (Marines)
 affiliations: Proud Boys, USMC, U.S. Military

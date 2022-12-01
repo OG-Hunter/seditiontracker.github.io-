@@ -32,10 +32,45 @@ const getCaseMap = (): CaseMap => {
   return caseMap;
 };
 
+// Set to the earliest possible date that has not yet passed
+const earliestDate = (suspect: Suspect, field: string, dateText: string) => {
+  const oldValue = suspect[field];
+  // const oldDate = oldValue ? new Date(suspect[field]) : null;
+  // const newDate = new Date(`${dateText} GMT`);
+
+  const newDate = new Date(`${dateText} GMT`);
+  const newDateText = newDate.toISOString().split("T")[0];
+
+  const dates = [newDateText];
+  if (oldValue) {
+    dates.push(oldValue);
+  }
+
+  const sortedDates = dates.sort();
+
+  for (const dateText of sortedDates) {
+    if (!pastDate(dateText)) {
+      if (dateText !== oldValue) {
+        console.log(`${suspect.name} ${field}: ${dateText}`);
+      }
+      return dateText;
+    }
+  }
+
+  return null;
+};
+
 const latestDate = (suspect: Suspect, field: string, dateText: string) => {
+  const { lastName } = suspect;
   const oldValue = suspect[field];
   const oldDate = oldValue ? new Date(suspect[field]) : null;
   const newDate = new Date(`${dateText} GMT`);
+
+  if (lastName === "Nordean") {
+    // console.log({ field });
+    // console.log({ dateText });
+    // console.log({ oldValue });
+  }
 
   if (field === "status_conference" && pastDate(dateText)) {
     return null;
@@ -87,6 +122,12 @@ const parseSchedule = async () => {
 
     for (const suspect of suspects) {
       const { caseName, trial_date, trial_type } = suspect;
+
+      // const { lastName } = suspect;
+      // if (lastName === "Nordean") {
+      //   console.log({ dateText });
+      //   console.log({ typeText });
+      // }
 
       const IGNORE_NAMES = ["Virginia Spencer"];
       if (IGNORE_NAMES.includes(suspect.name)) {
@@ -141,7 +182,7 @@ const parseSchedule = async () => {
           }
           break;
         case "Status Conference":
-          suspect.status_conference = latestDate(suspect, "status_conference", dateText);
+          suspect.status_conference = earliestDate(suspect, "status_conference", dateText);
           break;
       }
 
