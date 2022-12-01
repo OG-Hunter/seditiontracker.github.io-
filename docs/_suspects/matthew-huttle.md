@@ -43,6 +43,6 @@ charges:
 sentence:
 ---
 - [News Report](https://www.cbsnews.com/chicago/news/dale-huttle-of-crown-point-charged-with-assault-in-jan-6-capitol-riot/)
-- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1553876/download)
-- [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1553881/download)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554316/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554321/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/indiana-man-arrested-felony-charges-actions-during-jan-6-capitol-breach-0)
