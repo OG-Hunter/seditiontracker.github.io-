@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-12-01
 trial_date:
 trial_type:
 sentencing:
@@ -42,5 +42,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481086/download)
