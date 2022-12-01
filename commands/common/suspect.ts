@@ -281,6 +281,7 @@ export const updateSuspect = (suspect: Suspect) => {
     suspect.status_conference = null;
   }
   if (pastDate(suspect.status_conference)) {
+    console.log("PAST DATE!");
     suspect.status_conference = null;
   }
 

@@ -46,6 +46,12 @@ const earliestDate = (suspect: Suspect, field: string, dateText: string) => {
 
   const sortedDates = dates.sort();
 
+  // we don't care about status conferences once the case is resolved
+  const { acquitted, deceased, sentenced } = suspect;
+  if ((field === "status_conference" && acquitted) || deceased || sentenced) {
+    return null;
+  }
+
   for (const dateText of sortedDates) {
     if (!pastDate(dateText)) {
       if (dateText !== oldValue) {
@@ -62,10 +68,6 @@ const latestDate = (suspect: Suspect, field: string, dateText: string) => {
   const oldValue = suspect[field];
   const oldDate = oldValue ? new Date(suspect[field]) : null;
   const newDate = new Date(`${dateText} GMT`);
-
-  if (field === "status_conference" && pastDate(dateText)) {
-    return null;
-  }
 
   if (!oldDate || (oldDate && newDate > oldDate)) {
     const newDateString = newDate.toISOString().split("T")[0];
