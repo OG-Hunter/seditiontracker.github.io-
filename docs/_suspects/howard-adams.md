@@ -18,13 +18,13 @@ trial_date:
 trial_type:
 sentencing:
 status_conference:
-age: 57
+age: 62
 occupation:
 affiliations:
 jurisdiction: Federal
 image: /images/preview/howard-adams.jpg
 suspect: howard-adams.jpg
-booking:
+booking: howard-adams.jpg
 courtroom:
 courthouse: howard-adams.jpg
 raid:
