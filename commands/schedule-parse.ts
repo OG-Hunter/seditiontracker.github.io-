@@ -35,8 +35,6 @@ const getCaseMap = (): CaseMap => {
 // Set to the earliest possible date that has not yet passed
 const earliestDate = (suspect: Suspect, field: string, dateText: string) => {
   const oldValue = suspect[field];
-  // const oldDate = oldValue ? new Date(suspect[field]) : null;
-  // const newDate = new Date(`${dateText} GMT`);
 
   const newDate = new Date(`${dateText} GMT`);
   const newDateText = newDate.toISOString().split("T")[0];
@@ -61,16 +59,9 @@ const earliestDate = (suspect: Suspect, field: string, dateText: string) => {
 };
 
 const latestDate = (suspect: Suspect, field: string, dateText: string) => {
-  const { lastName } = suspect;
   const oldValue = suspect[field];
   const oldDate = oldValue ? new Date(suspect[field]) : null;
   const newDate = new Date(`${dateText} GMT`);
-
-  if (lastName === "Nordean") {
-    // console.log({ field });
-    // console.log({ dateText });
-    // console.log({ oldValue });
-  }
 
   if (field === "status_conference" && pastDate(dateText)) {
     return null;
@@ -158,6 +149,7 @@ const parseSchedule = async () => {
           suspect.sentencing = latestDate(suspect, "sentencing", dateText);
           break;
         case "Jury Selection":
+          // ignore trial dates if a plea hearing is scheduled
           if (!isBlank(suspect.plea_hearing)) {
             break;
           }
@@ -165,9 +157,7 @@ const parseSchedule = async () => {
             console.log(`${suspect.name} jury trial: ${dateText}`);
             suspect.trial_type = "Jury Trial";
           }
-          if (!trial_date) {
-            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-          }
+          suspect.trial_date = latestDate(suspect, "trial_date", dateText);
           break;
         case "Bench Trial":
           if (!isBlank(suspect.plea_hearing)) {
@@ -177,9 +167,7 @@ const parseSchedule = async () => {
             console.log(`${suspect.name} bench trial: ${dateText}`);
             suspect.trial_type = "Bench Trial";
           }
-          if (!trial_date) {
-            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-          }
+          suspect.trial_date = latestDate(suspect, "trial_date", dateText);
           break;
         case "Status Conference":
           suspect.status_conference = earliestDate(suspect, "status_conference", dateText);
