@@ -16,6 +16,7 @@ deceased:
 plea_hearing:
 trial_date: Jury
 trial_type: 2023-01-30
+jury_selection:
 sentencing:
 status_conference:
 age:

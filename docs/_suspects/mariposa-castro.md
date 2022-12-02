@@ -16,6 +16,7 @@ deceased:
 plea_hearing: 2021-11-24
 trial_date:
 trial_type:
+jury_selection:
 sentencing: 2022-02-23
 status_conference:
 age:

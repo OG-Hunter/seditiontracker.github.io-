@@ -16,8 +16,9 @@ deceased:
 plea_hearing:
 trial_date: 2022-12-19
 trial_type: Jury Trial
+jury_selection:
 sentencing:
-status_conference: 2022-12-02
+status_conference:
 age: 43
 occupation: Former Military (Marines)
 affiliations: Proud Boys, USMC, U.S. Military

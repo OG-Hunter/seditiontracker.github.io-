@@ -16,6 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-04-05
 trial_type: Bench Trial
+jury_selection:
 sentencing:
 status_conference:
 age: 42

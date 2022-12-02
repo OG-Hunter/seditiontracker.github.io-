@@ -31,6 +31,7 @@ export interface Suspect {
   plea_hearing?: string;
   trial_date?: string;
   trial_type?: string;
+  jury_selection?: string;
   sentencing?: string;
   name: string;
   lastName: string;
@@ -108,6 +109,10 @@ export const getSuspectByFile = (filename: string) => {
 
   if (data.match(/trial_date: (.*)/)) {
     suspect.trial_date = RegExp.$1.trim();
+  }
+
+  if (data.match(/jury_selection: (.*)/)) {
+    suspect.jury_selection = RegExp.$1.trim();
   }
 
   if (data.match(/sentencing: (.*)/)) {
@@ -281,7 +286,6 @@ export const updateSuspect = (suspect: Suspect) => {
     suspect.status_conference = null;
   }
   if (pastDate(suspect.status_conference)) {
-    console.log("PAST DATE!");
     suspect.status_conference = null;
   }
 
@@ -351,6 +355,7 @@ export const updateSuspect = (suspect: Suspect) => {
   lines.push(`plea_hearing: ${suspect.plea_hearing}`);
   lines.push(`trial_date: ${suspect.trial_date}`);
   lines.push(`trial_type: ${suspect.trial_type}`);
+  lines.push(`jury_selection: ${suspect.jury_selection}`);
   lines.push(`sentencing: ${suspect.sentencing}`);
   lines.push(`status_conference: ${suspect.status_conference}`);
   lines.push(`age: ${suspect.age}`);
