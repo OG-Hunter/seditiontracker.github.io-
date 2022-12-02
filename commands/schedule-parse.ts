@@ -158,6 +158,19 @@ const parseSchedule = async () => {
             suspect.trial_date = latestDate(suspect, "trial_date", dateText);
           }
           break;
+        case "Jury Trial":
+          // ignore trial dates if a plea hearing is scheduled
+          if (!isBlank(suspect.plea_hearing)) {
+            break;
+          }
+          if (!trial_type) {
+            console.log(`${suspect.name} jury trial: ${dateText}`);
+            suspect.trial_type = "Jury Trial";
+          }
+          if (!suspect.trial_date) {
+            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          }
+          break;
         case "Bench Trial":
           if (!isBlank(suspect.plea_hearing)) {
             break;

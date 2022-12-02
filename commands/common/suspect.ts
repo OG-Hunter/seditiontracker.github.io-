@@ -308,6 +308,11 @@ export const updateSuspect = (suspect: Suspect) => {
   }
   suspect.sentence = newSentence;
 
+  const { jury_selection, trial_date } = suspect;
+  if (trial_date && jury_selection && jury_selection > trial_date) {
+    suspect.trial_date = jury_selection;
+  }
+
   // make sure dates make sense
   verifyDates(suspect);
 
