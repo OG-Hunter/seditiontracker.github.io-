@@ -521,9 +521,14 @@ const getSentence = (data: string) => {
   return result.sentence || [];
 };
 
+const zeroPad = (value: number, places = 2) => {
+  return padStart(value.toString(), places, "0");
+};
+
 export const pastDate = (date: string): boolean => {
-  const currentDate = new Date();
-  const dateToCheck = new Date(`${date} GMT`);
+  const now = new Date();
+  const currentDate = new Date(`${now.getFullYear()}-${zeroPad(now.getMonth() + 1)}-${zeroPad(now.getDate())}`);
+  const dateToCheck = new Date(`${date}`);
 
   return dateToCheck < currentDate;
 };
