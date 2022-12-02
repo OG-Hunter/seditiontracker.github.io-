@@ -3,8 +3,9 @@ import { info } from "./common/console";
 import axios from "axios";
 import { HTMLElement, parse } from "node-html-parser";
 import { updateWanted, Wanted } from "./common/wanted";
+import dotenv from "dotenv";
 
-require("dotenv").config();
+dotenv.config();
 
 const cmd = new Command();
 cmd.parse(process.argv);
@@ -24,7 +25,7 @@ const scrapeFBI = async () => {
       const image = item.querySelector("img");
       const { src, alt } = image.attributes;
 
-      const id = alt.match(/Photographs? \#(\d{1,})/)[1];
+      const id = alt.match(/Photographs? #(\d{1,})/)[1];
       // const variation = alt.match(/\b([A-Z]{1})\b/)?.[1] || alt.match(/\d{1,3}([A-Z])/)?.[1] || "";
       const arrested = /Arrested/.test(alt);
       const afo = /AFO/.test(alt);
