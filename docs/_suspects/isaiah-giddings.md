@@ -40,15 +40,14 @@ caseName: USA v. GIDDINGS
 judge: Timothy J. Kelly
 videos:
 charges:
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481086/download)
-- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249696/gov.uscourts.dcd.249696.40.0.pdf)
-- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249696/gov.uscourts.dcd.249696.42.0.pdf)
-- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249696/gov.uscourts.dcd.249696.43.0.pdf)
+- [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555116/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555121/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555126/download)
