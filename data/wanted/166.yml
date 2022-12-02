@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #166 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-166a.jpg/@@images/image/preview
+label: "Photograph #166 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-166aarrest.jpg/@@images/image/preview
 hashtag: SmokeyInsider
 fugitive: false
 minor: false

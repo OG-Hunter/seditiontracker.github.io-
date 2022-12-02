@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #374 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/374a.png/@@images/image/preview
+label: "Photograph #374 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-374aarrest.jpg/@@images/image/preview
 hashtag: CoatWStripeCamo
 fugitive: false
 minor: false

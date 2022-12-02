@@ -10,12 +10,16 @@ dotenv.config();
 const cmd = new Command();
 cmd.parse(process.argv);
 
+const USER_AGENT =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36";
+
 const scrapeFBI = async () => {
   info("Scraping FBI Website");
 
   for (let i = 0; i < 5; i++) {
     const html = await axios.get(
       `https://www.fbi.gov/wanted/capitol-violence/@@castle.cms.querylisting/6cadaf5c442c4711a515e20c9380d18f?page=${i}`,
+      { headers: { "User-Agent": USER_AGENT } },
     );
     const root = parse(html.data);
 

@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #299 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/299a.png/@@images/image/preview
+label: "Photograph #299 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-299aarrest.jpg/@@images/image/preview
 hashtag: LongPoleMan
 fugitive: false
 minor: false

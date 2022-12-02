@@ -1,10 +1,10 @@
 id: 486
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #486 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-486.jpg/@@images/image/preview
+label: "Photograph #486 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-486aarrest.jpg/@@images/image/preview
 hashtag: GreyDoorSprayer
 fugitive: false
 minor: false

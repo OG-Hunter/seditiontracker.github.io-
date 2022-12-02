@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #491 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-491a.jpg/@@images/image/preview
+label: "Photograph #491 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-491aarrest.jpg/@@images/image/preview
 hashtag: JohnAndries
 fugitive: false
 minor: false

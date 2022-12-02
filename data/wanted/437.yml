@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #437 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/437.png/@@images/image/preview
+label: "Photograph #437 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-437arrest.jpg/@@images/image/preview
 hashtag: SmilesPB
 fugitive: false
 minor: false

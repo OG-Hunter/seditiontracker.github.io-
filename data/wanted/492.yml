@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #492 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-492a.jpg/@@images/image/preview
+label: "Photograph #492 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-492aarrest.jpg/@@images/image/preview
 hashtag: BamaRammer
 fugitive: false
 minor: false

@@ -3,8 +3,8 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #27"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-27.jpg/@@images/image/preview
+label: "Photograph #27  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-27arrest.jpg/@@images/image/preview
 hashtag: RedBucketHat
 fugitive: false
 minor: false

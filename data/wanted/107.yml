@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #107 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/107-a.png/@@images/image/preview
+label: "Photograph #107 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-107aarrest.jpg/@@images/image/preview
 hashtag: ChairGuy
 fugitive: false
 minor: false

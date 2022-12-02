@@ -3,8 +3,8 @@ aom: true
 afo: false
 arrested: true
 identified: true
-label: "Photograph #192 - AOM A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-192a.jpg/@@images/image/preview
+label: "Photograph #192 - AOM A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-192aarrest.jpg/@@images/image/preview
 hashtag: GreenBandanaMan
 fugitive: false
 minor: false

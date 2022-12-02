@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #218 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-218-afo-a.png/@@images/image/preview
+label: "Photograph #218 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-218aarrest.jpg/@@images/image/preview
 hashtag: InGodITrustRioter
 fugitive: false
 minor: false

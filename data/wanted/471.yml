@@ -3,8 +3,8 @@ aom: false
 afo: true
 arrested: true
 identified: true
-label: "Photograph #471 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/471a.png/@@images/image/preview
+label: "Photograph #471 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-471aarrest.jpg/@@images/image/preview
 hashtag: RailMixer
 fugitive: false
 minor: false
