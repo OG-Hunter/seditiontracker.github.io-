@@ -116,12 +116,6 @@ const parseSchedule = async () => {
     for (const suspect of suspects) {
       const { caseName, trial_date, trial_type } = suspect;
 
-      // const { lastName } = suspect;
-      // if (lastName === "Nordean") {
-      //   console.log({ dateText });
-      //   console.log({ typeText });
-      // }
-
       const IGNORE_NAMES = ["Virginia Spencer"];
       if (IGNORE_NAMES.includes(suspect.name)) {
         continue;
@@ -159,7 +153,10 @@ const parseSchedule = async () => {
             console.log(`${suspect.name} jury trial: ${dateText}`);
             suspect.trial_type = "Jury Trial";
           }
-          suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          suspect.jury_selection = latestDate(suspect, "jury_selection", dateText);
+          if (!trial_date) {
+            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          }
           break;
         case "Bench Trial":
           if (!isBlank(suspect.plea_hearing)) {
