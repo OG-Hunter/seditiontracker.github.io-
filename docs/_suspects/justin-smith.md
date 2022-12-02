@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2022-12-20
 trial_date:
 trial_type:
 jury_selection:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0157
 caseName: USA v. SMITH
-judge:
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

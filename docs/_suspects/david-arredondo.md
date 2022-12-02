@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0373
 caseName: USA v. ARREDONDO
-judge: Zia M. Faruqui
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
