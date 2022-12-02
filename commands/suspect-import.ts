@@ -821,6 +821,9 @@ const addData = (suspectData) => {
   // suspect exists already but there may be new data to update
   const suspect = getSuspect(firstName, lastName);
 
+  const { links: existingLinks } = suspect;
+  const existingUrls = Object.values(existingLinks).filter((url) => /justice\.gov/.test(url));
+
   if (isEmpty(suspect.residence) && !isEmpty(residence)) {
     console.log(`${suspect.name}: ${residence}`);
     suspect.residence = residence;
@@ -843,6 +846,11 @@ const addData = (suspectData) => {
 
   // pick up any new links
   for (const [type, url] of Object.entries(links)) {
+    // do not relabel existing DOJ links
+    if (existingUrls.includes(url as string)) {
+      continue;
+    }
+
     if (suspect.links[type]) {
       // link already exists but there may be a "better" one from DOJ
       if (/justice.gov/.test(<string>url) && suspect.links[type] !== url) {
