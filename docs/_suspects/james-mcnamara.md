@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://chicago.suntimes.com/metro-state/2022/11/30/23487204/chicago-area-man-charged-in-jan-6-riot-accused-of-ramming-capitol-doors)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555036/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555041/download)

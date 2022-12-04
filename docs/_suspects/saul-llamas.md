@@ -3,7 +3,7 @@ name: Saul Llamas
 lastName: Llamas
 hashtag:
 aka:
-residence:
+residence: Ohio
 status: Charged
 date: 2022-11-14
 charged: 2022-11-14
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 29
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.cleveland.com/court-justice/2022/12/man-charged-in-jan-6-attack-on-us-capitol-is-university-hospitals-police-officer.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554986/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554991/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/ohio-man-arrested-felony-charges-actions-during-jan-6-capitol-breach)
