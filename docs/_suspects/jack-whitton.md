@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing: 2023-03-06
-status_conference:
+status_conference: 2022-12-05
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. WHITTON
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 - title: Ex. 1 - Storyful Video.mp4 (0:01:41)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/7fc9a690ce2a013960702cde48001122.mp4

@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2022-12-02
+status_conference: 2022-12-15
 age: 32
 occupation: Business Owner
 affiliations:

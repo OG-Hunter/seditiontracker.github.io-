@@ -18,7 +18,7 @@ trial_date: 2023-09-25
 trial_type: Jury Trial
 jury_selection: 2023-09-25
 sentencing:
-status_conference: 2022-12-02
+status_conference:
 age: 51
 occupation: Geologist
 affiliations:
