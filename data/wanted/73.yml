@@ -8,7 +8,7 @@ src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-73-arrested.png/
 hashtag: MatthewPerna
 fugitive: false
 minor: false
-deceased: false
+deceased: true
 duplicate: false
 charged: 2021-01-19
 mugshot: null

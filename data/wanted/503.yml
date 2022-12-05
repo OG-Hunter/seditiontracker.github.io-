@@ -8,7 +8,7 @@ src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-503a.jpg/@@image
 hashtag: MeanFlagMan
 fugitive: false
 minor: false
-deceased: false
+deceased: true
 duplicate: false
 charged: null
 mugshot: null
