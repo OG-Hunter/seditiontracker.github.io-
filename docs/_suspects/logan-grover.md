@@ -17,7 +17,7 @@ plea_hearing: 2022-07-20
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2022-12-02
+sentencing: 2023-02-17
 status_conference:
 age:
 occupation:
@@ -41,12 +41,13 @@ caseName: USA v. GROVER
 judge: Amit P. Mehta
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.fortmorgantimes.com/2021/04/28/logan-grover-colorado-capitol-riot-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390406/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390411/download)
