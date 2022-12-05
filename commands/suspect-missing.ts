@@ -117,7 +117,7 @@ const unpublished = async () => {
     info("Missing Case Number");
     for (const suspect of suspects) {
       const { caseNumber } = suspect;
-      if (!/(1:)?(21|22|23)-(mj|cr)-(.*)/.test(caseNumber)) {
+      if (!/(1:)?(21|22|23|2021)-(mj|cr|CMD)-(.*)/.test(caseNumber)) {
         console.log(suspect.name);
       }
     }
