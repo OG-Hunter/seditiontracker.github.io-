@@ -3,7 +3,7 @@ name: Vincent Ardolino
 lastName: Ardolino
 hashtag:
 aka:
-residence:
+residence: California
 status: Charged
 date: 2022-11-21
 charged: 2022-11-21
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 46
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.ocregister.com/2022/12/02/oc-man-charged-in-connection-with-jan-6-insurrection-after-facebook-post/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555301/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555306/download)
