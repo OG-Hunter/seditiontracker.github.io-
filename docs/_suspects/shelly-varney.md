@@ -3,12 +3,12 @@ name: Shelly Varney
 lastName: Varney
 hashtag:
 aka:
-residence:
-status: Charged
+residence: Florida
+status: Convicted
 date: 2022-11-15
 charged: 2022-11-15
 indicted:
-convicted:
+convicted: 2022-12-01
 acquitted:
 sentenced:
 dismissed:
@@ -23,8 +23,8 @@ age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/shelly-varney.jpg
-suspect: shelly-varney.jpg
+image: /images/preview/convicted.jpg
+suspect: convicted.jpg
 booking:
 courtroom:
 courthouse:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555291/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555296/download)
