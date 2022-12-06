@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-03-27
 status_conference:
 age:
 occupation:
@@ -32,17 +32,18 @@ raid:
 perpwalk:
 quote:
 title: Shelly Varney charged on November 15th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 1, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0372
-caseName:
-judge:
+caseName: USA v. Varney
+judge: John D. Bates
 videos:
 charges:
 sentence:
 ---
+
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555291/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555296/download)

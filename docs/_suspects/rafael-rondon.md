@@ -4,20 +4,20 @@ lastName: Rondon
 hashtag: AirHeadBoy
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-09-01
 charged: 2021-09-01
 indicted: 2021-12-08
-convicted:
+convicted: 2022-12-06
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-12-05
+plea_hearing: 2022-12-06
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-03-13
 status_conference:
 age: 23
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "... I’m not taking my car into the city which, the Capitol building I’m about to break into."
 title: Rafael Rondon charged on September 1, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 6, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. RONDON
 judge: Thomas F. Hogan
 videos:
 charges:
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
 - [News Report](https://www.wwnytv.com/2021/10/01/watertown-man-his-mother-facing-federal-charges-jan-6th-capitol-riot/)
