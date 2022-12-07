@@ -37,8 +37,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0251
-caseName:
-judge:
+caseName: USA v. SWOOPE
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

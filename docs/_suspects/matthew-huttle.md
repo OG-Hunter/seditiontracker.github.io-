@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-26
 age: 40
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0234
 caseName: USA v. HUTTLE
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

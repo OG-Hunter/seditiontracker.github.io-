@@ -37,8 +37,8 @@ author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-mj-0257
-caseName:
-judge:
+caseName: USA v. ARDOLINO
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

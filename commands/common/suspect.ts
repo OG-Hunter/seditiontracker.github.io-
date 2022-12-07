@@ -277,10 +277,7 @@ export const updateSuspect = (suspect: Suspect) => {
   if (suspect.trial_type === "Jury") {
     suspect.trial_type = "Jury Trial";
   }
-
-  if (suspect.judge && !suspect.caseName) {
-    warning("No case name: " + suspect.name);
-  }
+  suspect.caseName = getCaseName(suspect);
 
   if (suspect.status_conference && (suspect.acquitted || suspect.deceased || suspect.sentenced)) {
     suspect.status_conference = null;
@@ -538,7 +535,11 @@ export const pastDate = (date: string): boolean => {
   return dateToCheck < currentDate;
 };
 
-export const caseName = (suspect: Suspect): string => {
+export const getCaseName = (suspect: Suspect): string => {
+  const { caseName } = suspect;
+  if (caseName) {
+    return caseName;
+  }
   const { lastName } = suspect;
   return `USA v. ${lastName.toUpperCase().replace(" ", "-")}`;
 };
