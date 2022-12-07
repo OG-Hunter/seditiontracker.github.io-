@@ -18,7 +18,7 @@ trial_date: 2023-07-17
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2022-12-06
+status_conference:
 age:
 occupation:
 affiliations:
