@@ -41,17 +41,16 @@ caseName: USA v. IANNI
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 15 days incarceration
   - 30 months probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-massachusetts-residents-charged-connection-capitol-breach)
 - [News Report](https://www.bostonherald.com/2021/01/19/boston-straight-pride-parade-organizer-mark-sahady-natick-politician-sue-ianni-arrested-for-us-capitol-siege/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIBoston/status/1351560718915612672?s=20)

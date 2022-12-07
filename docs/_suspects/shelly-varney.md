@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555291/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555296/download)

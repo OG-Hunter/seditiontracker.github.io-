@@ -41,16 +41,15 @@ caseName: USA v. PRESLEY
 judge: Randolph D. Moss
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 1 year incarceration
   - 26 months probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.tennessean.com/story/news/crime/2021/03/08/tennessee-man-ronnie-b-presley-arrested-capitol-riot-investigation/4629102001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1375166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380416/download)

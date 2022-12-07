@@ -5,14 +5,7 @@ import axios from "axios";
 import { HTMLElement, parse } from "node-html-parser";
 import { capitalize, isEmpty, toLower } from "lodash";
 import moment from "moment";
-import {
-  dasherizeName,
-  formatCaseNumber,
-  getSuspect,
-  getSuspectByFile,
-  Suspect,
-  updateSuspect,
-} from "./common/suspect";
+import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
 import { execSync } from "child_process";
 
 const cmd = new Command();
@@ -315,32 +308,14 @@ const importDoj = async (nameSet: Set<string>) => {
       continue;
     }
 
-    const dateRegEx = /\d{1,2}([\/.-])\d{1,2}\1\d{2,4}/;
+    const dateRegEx = /\d{1,2}([/.-])\d{1,2}\1\d{2,4}/;
     const dateMatch = cells[5].text.match(dateRegEx) || cells[6].text.match(dateRegEx);
     const dateString = dateMatch ? dateMatch[0] : "";
     const links = getLinks(<HTMLElement>cells[3], "https://www.justice.gov");
 
-    const caseNumberText = cells[0].text.trim();
-    let caseNumber: string;
+    const caseNumber = cells[0].text.trim();
 
-    // DOJ has wrong case number on their website for some suspects
-    const WRONG_CASE_NUMBERS = [
-      "21-cr-63",
-      "21-cr-386",
-      "1:21-cr-739",
-      "1:21-cr-440",
-      "1:21-cr-441",
-      "1:22-cr-192",
-      "21-cr-439",
-      "1:21-cr-150",
-    ];
-    if (!WRONG_CASE_NUMBERS.includes(caseNumberText)) {
-      if (/(1:)?(21|22|23)-(cr)-0?(\d{1,4})/.test(caseNumberText)) {
-        caseNumber = formatCaseNumber(caseNumberText);
-      }
-    }
-
-    if (caseNumberText === "1:21-mj-561") {
+    if (caseNumber === "1:21-mj-561") {
       // ignore duplicate entry for O'Brien
       continue;
     }
@@ -820,7 +795,6 @@ const addData = (suspectData) => {
 
   // suspect exists already but there may be new data to update
   const suspect = getSuspect(firstName, lastName);
-
   const { links: existingLinks } = suspect;
   const existingUrls = Object.values(existingLinks).filter((url) => /justice\.gov/.test(url));
 
@@ -836,9 +810,27 @@ const addData = (suspectData) => {
     updateSuspect(suspect);
   }
 
-  if (caseNumber && suspect.caseNumber !== caseNumber) {
-    if (!["1:21-mj-006", "1:22-mj-33"].includes(caseNumber)) {
+  // DOJ has wrong case number on their website for some suspects
+  const WRONG_CASE_NUMBERS = [
+    "21-cr-63",
+    "21-cr-386",
+    "1:21-cr-739",
+    "1:21-cr-440",
+    "1:21-cr-441",
+    "1:22-cr-192",
+    "21-cr-439",
+    "1:21-cr-150",
+    "1:21-mj-006",
+    "1:22-mj-33",
+    "1:22-xe-125",
+  ];
+
+  if (!WRONG_CASE_NUMBERS.includes(caseNumber)) {
+    if (!suspect.caseNumber) {
       console.log(`${suspect.name}: Case Number ${caseNumber}`);
+      suspect.caseNumber = caseNumber;
+      updateSuspect(suspect);
+    } else if (/(1:)?(21|22|23)-(cr)-0?(\d{1,4})/.test(caseNumber)) {
       suspect.caseNumber = caseNumber;
       updateSuspect(suspect);
     }

@@ -41,17 +41,16 @@ caseName: USA v. FRANKOWSKI
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 18 months probation
   - 100 hours community service
   - $750 fine
   - $500 restitution
 ---
-
 - [News Report](https://chicago.suntimes.com/crime/2021/9/21/22686870/like-going-shopping-mall-two-arrested-suburbs-alleged-role-us-capitol-breach)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1434616/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1530061/download)
