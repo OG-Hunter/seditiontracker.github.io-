@@ -145,8 +145,7 @@ const parseSchedule = async () => {
           suspect.sentencing = latestDate(suspect, "sentencing", dateText);
           break;
         case "Jury Selection":
-          // ignore trial dates if a plea hearing is scheduled
-          if (!isBlank(suspect.plea_hearing)) {
+          if (!isBlank(suspect.plea_hearing) || !isBlank(suspect.jury_selection)) {
             break;
           }
           if (!trial_type) {
