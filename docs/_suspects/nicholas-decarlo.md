@@ -55,3 +55,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533926/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533931/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533936/download)
+- [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227062/gov.uscourts.dcd.227062.94.0.pdf)
