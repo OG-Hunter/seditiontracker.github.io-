@@ -4,13 +4,13 @@ lastName: Ochs
 hashtag: NickOchs
 aka:
 residence: Hawaii
-status: Convicted
+status: Sentenced
 date: 2021-01-07
 charged: 2021-01-07
 indicted: 2021-02-03
 convicted: 2022-09-09
 acquitted:
-sentenced:
+sentenced: 2022-12-09
 dismissed:
 deceased:
 plea_hearing: 2022-09-09
@@ -41,12 +41,17 @@ caseName: USA v. OCHS
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 4 years incarceration
+  - 3 years probation
+  - $2500 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
 - [DOJ Press Release](https://www.justice.gov/usao-hi/pr/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building)
 - [Complaint](https://www.justice.gov/opa/page/file/1353336/download)
@@ -56,3 +61,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533916/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533921/download)
 - [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227061/gov.uscourts.dcd.227061.93.0.pdf)
+- [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/two-men-sentenced-prison-terms-actions-during-jan-6-capitol-breach)

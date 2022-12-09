@@ -4,13 +4,13 @@ lastName: DeCarlo
 hashtag: NicholasDeCarlo
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-03
 convicted: 2022-09-09
 acquitted:
-sentenced:
+sentenced: 2022-12-09
 dismissed:
 deceased:
 plea_hearing: 2022-09-09
@@ -41,12 +41,17 @@ caseName: USA v. DECARLO
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 4 years incarceration
+  - 3 years probation
+  - $2500 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://www.latimes.com/world-nation/story/2021-02-04/reporting-or-rioting-grand-jury-indicts-capitol-rioters-who-claim-theyre-journalists)
 - [Self Incrimination](https://www.latimes.com/world-nation/story/2021-01-13/some-who-stormed-the-capitol-insist-what-i-did-was-journalism)
 - [Complaint](https://www.justice.gov/opa/page/file/1360496/download)
@@ -56,3 +61,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533931/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1533936/download)
 - [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.227062/gov.uscourts.dcd.227062.94.0.pdf)
+- [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/two-men-sentenced-prison-terms-actions-during-jan-6-capitol-breach)
