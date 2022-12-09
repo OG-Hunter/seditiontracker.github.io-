@@ -41,13 +41,12 @@ caseName: USA v. MANLEY
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.al.com/news/2021/10/alabama-man-seen-wearing-bulletproof-vest-pepper-spraying-officers-on-jan-6-arrested-in-alaska.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458781/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458771/download)
