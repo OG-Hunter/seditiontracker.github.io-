@@ -40,6 +40,8 @@ const getNameSet = (): Set<string> => {
 
 const importGw = async (nameSet: Set<string>) => {
   info("Importing suspects from GW site");
+  warning("GW import is temporarily disabled due to changes in the underlying website");
+  return;
 
   const html = await axios.get("https://extremism.gwu.edu/capitol-hill-siege-cases");
 

@@ -3,8 +3,8 @@ aom: false
 afo: false
 arrested: true
 identified: true
-label: "Photograph #273A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-273a.png/@@images/image/preview
+label: "Photograph #273A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-273aarrest.jpg/@@images/image/preview
 hashtag: MaroonPB
 fugitive: false
 minor: false
