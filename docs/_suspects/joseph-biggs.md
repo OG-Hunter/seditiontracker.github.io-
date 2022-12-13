@@ -18,7 +18,7 @@ trial_date: 2022-12-19
 trial_type: Jury Trial
 jury_selection: 2022-12-19
 sentencing:
-status_conference:
+status_conference: 2022-12-14
 age: 37
 occupation:
 affiliations: Proud Boys (Organizer)
