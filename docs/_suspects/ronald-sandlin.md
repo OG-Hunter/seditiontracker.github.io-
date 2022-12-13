@@ -4,13 +4,13 @@ lastName: Sandlin
 hashtag: RonaldSandlin
 aka: Ronnie Sandlin
 residence: Tennessee
-status: Convicted
+status: Sentenced
 date: 2021-01-28
 charged: 2021-01-28
 indicted: 2021-02-05
 convicted: 2022-09-30
 acquitted:
-sentenced:
+sentenced: 2022-12-09
 dismissed:
 deceased:
 plea_hearing: 2022-09-30
@@ -41,16 +41,20 @@ caseName: USA v. SANDLIN
 judge: Dabney L. Friedrich
 videos:
 charges:
-- code: 18 USC § 1512(k)
-  title: Conspiracy to Obstruct an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 111(a)(1), 2
-  title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1), 2
+    title: Assaulting, resisting, or impeding certain officers or employees (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 63 months incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://wreg.com/news/fbi-says-social-media-posts-link-man-charged-in-capitol-riot-to-memphis/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362396/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362396/download)
