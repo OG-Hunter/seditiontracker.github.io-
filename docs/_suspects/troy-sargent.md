@@ -1,7 +1,7 @@
 ---
 name: Troy Sargent
 lastName: Sargent
-hashtag: TroySargent
+hashtag: BigBrickPitcher
 aka:
 residence: Massachusetts
 status: Sentenced

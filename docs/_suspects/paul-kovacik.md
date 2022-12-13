@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-02-03
 trial_date:
 trial_type:
 jury_selection:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://fox59.com/indiana-news/southern-indiana-man-arrested-jan-6-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516076/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516081/download)

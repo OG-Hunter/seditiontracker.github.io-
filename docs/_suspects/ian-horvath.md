@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-01-09
 trial_date:
 trial_type:
 jury_selection:
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wishtv.com/news/indiana-news/northern-indiana-man-arrested-for-entering-capitol-on-jan-6/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245770/gov.uscourts.dcd.245770.1.1.pdf)

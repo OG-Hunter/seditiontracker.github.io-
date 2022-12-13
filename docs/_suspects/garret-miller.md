@@ -4,11 +4,11 @@ lastName: Miller
 hashtag: GarretMiller
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-01-20
 charged: 2021-01-20
 indicted: 2021-02-12
-convicted:
+convicted: 2022-12-13
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "Nah we stormed it"
 title: Garret Miller charged on January 20, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 13, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,17 @@ caseName: USA v. MILLER
 judge: Carl J. Nichols
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 875(c)
+    title: Interstate Communication of Threats
+    url: https://www.law.cornell.edu/uscode/text/18/875
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359601/download)
