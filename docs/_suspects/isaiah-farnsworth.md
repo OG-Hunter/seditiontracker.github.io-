@@ -35,7 +35,7 @@ title: Isaiah Farnsworth charged on 11/29/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. FARNSWORTH
 judge:
