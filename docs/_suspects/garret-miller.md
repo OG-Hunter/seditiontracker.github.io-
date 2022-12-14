@@ -41,17 +41,16 @@ caseName: USA v. MILLER
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 875(c)
-    title: Interstate Communication of Threats
-    url: https://www.law.cornell.edu/uscode/text/18/875
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 875(c)
+  title: Interstate Communication of Threats
+  url: https://www.law.cornell.edu/uscode/text/18/875
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.nbcnewyork.com/news/local/texas-man-charged-in-capitol-riot-made-online-threat-to-assassinate-aoc/2845503/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1359541/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1359601/download)
