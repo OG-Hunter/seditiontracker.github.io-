@@ -4,13 +4,13 @@ lastName: Fassell
 hashtag: ThomasFassell
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-09-09
 charged: 2021-09-09
 indicted:
 convicted: 2022-07-19
 acquitted:
-sentenced:
+sentenced: 2022-12-09
 dismissed:
 deceased:
 plea_hearing: 2022-07-19
@@ -41,12 +41,16 @@ caseName: USA v. FASSELL
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 7 days incarceration
+  - 2 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.tampabay.com/news/crime/2021/09/17/largo-woman-smoked-in-capitol-during-riot-now-she-husband-face-charges/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520831/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1520836/download)
