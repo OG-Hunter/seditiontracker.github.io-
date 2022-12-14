@@ -17,7 +17,7 @@ plea_hearing: 2022-12-14
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-04-12
 status_conference:
 age: 67
 occupation:

@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-trial_date: 2022-08-01
+plea_hearing: 2023-01-30
+trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2022-12-13
+status_conference:
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:

@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2022-12-13
+status_conference:
 age:
 occupation:
 affiliations:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://fox59.com/indiana-news/southern-indiana-man-arrested-jan-6-capitol-breach/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516076/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516081/download)
