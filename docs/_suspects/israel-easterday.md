@@ -35,7 +35,7 @@ title: Israel Easterday charged on 12/2/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. EASTERDAY
 judge:
