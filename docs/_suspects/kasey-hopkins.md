@@ -46,3 +46,5 @@ sentence:
 - [News Report](https://www.kshb.com/news/crime/kansas-city-kansas-man-arrested-charged-for-entering-u-s-capitol-during-jan-6-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524376/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524381/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1558401/download)
+- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1558406/download)

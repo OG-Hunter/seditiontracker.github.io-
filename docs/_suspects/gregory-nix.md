@@ -4,11 +4,11 @@ lastName: Nix
 hashtag:
 aka:
 residence: Alabama
-status: Indicted
+status: Convicted
 date: 2021-11-10
 charged: 2021-11-10
 indicted: 2021-11-17
-convicted:
+convicted: 2022-12-16
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing: 2022-12-16
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-03-10
 status_conference:
 age: 52
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Gregory Nix charged on November 10, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 16, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. NIX
 judge: Beryl A. Howell
 videos:
 charges:
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
 - [News Report](https://www.al.com/news/birmingham/2021/11/alabama-man-52-charged-with-assault-on-law-enforcement-during-jan-6-breach-at-us-capitol.html)
