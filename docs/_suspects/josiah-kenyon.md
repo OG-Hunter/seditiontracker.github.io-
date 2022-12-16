@@ -17,7 +17,7 @@ plea_hearing: 2022-09-14
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2022-12-15
+sentencing:
 status_conference:
 age: 34
 occupation:
@@ -41,12 +41,13 @@ caseName: USA v. KENYON
 judge: Carl J. Nichols
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://thisisreno.com/2021/12/nevada-man-faces-charges-in-jan-6-capitol-assault/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459136/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459126/download)
