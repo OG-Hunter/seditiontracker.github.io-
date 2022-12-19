@@ -36,13 +36,14 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0049
+caseNumber: 22-mj-0096
 caseName: USA v. KELLEY
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wjhl.com/news/regional/tennessee/fbi-maryville-man-was-among-first-to-enter-u-s-capitol-on-january-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499341/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499346/download)
