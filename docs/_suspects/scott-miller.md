@@ -35,7 +35,7 @@ title: Scott Miller charged on 12/14/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. MILLER
 judge:
