@@ -13,11 +13,11 @@ acquitted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing:
-trial_date: 2023-01-10
-trial_type: Jury Trial
+plea_hearing: 2023-03-14
+trial_date:
+trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-03-14
 status_conference:
 age: 39
 occupation: U.S. Army (Former)

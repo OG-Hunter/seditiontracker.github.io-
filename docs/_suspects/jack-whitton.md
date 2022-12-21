@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing: 2023-03-06
-status_conference: 2022-12-20
+status_conference:
 age: 30
 occupation: Fencing Contractor, CrossFit Instructor
 affiliations:

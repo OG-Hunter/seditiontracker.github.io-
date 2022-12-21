@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wmar2news.com/news/local-news/baltimore-couple-arrested-on-charges-related-to-january-6th)
 - [Arrest Warrant](https://storage.courtlistener.com/recap/gov.uscourts.dcd.244335/gov.uscourts.dcd.244335.8.0.pdf)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1534426/download)

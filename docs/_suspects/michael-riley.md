@@ -18,7 +18,7 @@ trial_date: 2022-10-17
 trial_type: Jury Trial
 jury_selection:
 sentencing: 2023-04-13
-status_conference: 2022-12-19
+status_conference:
 age:
 occupation: U.S. Capitol Police K-9 Officer
 affiliations:
