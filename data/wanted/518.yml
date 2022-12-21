@@ -1,16 +1,16 @@
 id: 518
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #518A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-518a.jpg/@@images/image/preview
 hashtag: JamesDeanWannabe
 duplicate: true
-charged: null
+charged: 2022-12-02
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/israel-easterday
+name: Israel Easterday
 missingImage: false
 identifiedBy: null
 notes: Duplicate of 177

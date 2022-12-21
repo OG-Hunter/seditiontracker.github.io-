@@ -1,7 +1,7 @@
 id: 132
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #132 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-132.png/@@images/image/preview
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-12-14
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/scott-miller
+name: Scott Miller
 missingImage: false
 identifiedBy: k2thesky
 notes: null
