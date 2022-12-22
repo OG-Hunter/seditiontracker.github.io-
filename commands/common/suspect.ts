@@ -292,7 +292,9 @@ export const updateSuspect = (suspect: Suspect) => {
   }
 
   if (suspect.sentencing && !suspect.convicted) {
-    warning(`Sentencing date without conviction: ${suspect.name}`);
+    if (suspect.lastName !== "Lollar") {
+      warning(`Sentencing date without conviction: ${suspect.name}`);
+    }
   }
 
   const newSentence = [];
