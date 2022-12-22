@@ -4,11 +4,11 @@ lastName: Mileur
 hashtag: AaronMileur
 aka:
 residence: Alaska
-status: Charged
+status: Convicted
 date: 2021-03-09
 charged: 2021-03-09
 indicted:
-convicted: 
+convicted: 2022-12-21
 acquitted:
 sentenced: 
 dismissed: 
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Aaron Mileur charged on March 9, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 21, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. MILEUR
 judge: Randolph D. Moss
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.ktoo.org/2021/03/16/anchorage-man-arrested-charged-with-participating-in-us-capitol-siege/)

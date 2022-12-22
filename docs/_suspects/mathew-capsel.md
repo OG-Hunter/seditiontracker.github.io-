@@ -4,13 +4,13 @@ lastName: Capsel
 hashtag: MathewCapsel
 aka: Mateo Q Capsel
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2022-03-01
 convicted: 2022-09-02
 acquitted:
-sentenced:
+sentenced: 2022-12-16
 dismissed:
 deceased:
 plea_hearing: 2022-09-02
@@ -41,12 +41,16 @@ caseName: USA v. CAPSEL
 judge: Tanya S. Chutkan
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 18 months incarceration
+  - 2 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://abc7chicago.com/capitol-riot-dc-riots-matthew-capsel-tik-tok/10079241/)
 - [Complaint](https://www.justice.gov/file/1360776/download)
 - [Statement of Facts](https://www.justice.gov/file/1360776/download)

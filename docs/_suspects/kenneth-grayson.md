@@ -4,20 +4,20 @@ lastName: Grayson
 hashtag: KennethGrayson
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-01-26
 charged: 2021-01-26
 indicted: 2021-03-17
 convicted: 2022-09-20
 acquitted:
-sentenced:
+sentenced: 2022-12-20
 dismissed:
 deceased:
 plea_hearing: 2022-09-20
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2022-12-19
+sentencing: 2022-12-20
 status_conference:
 age: 51
 occupation:
@@ -41,12 +41,16 @@ caseName: USA v. GRAYSON
 judge: Tanya S. Chutkan
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 2 months incarceration
+  - 2 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/26/Bridgeville-kenneth-grayson-charged-connection-Capitol-riot-insurrection/stories/202101260151)
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360506/download)
@@ -55,3 +59,4 @@ sentence:
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536371/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536376/download)
 - [DOJ Statement (Conviction)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach-0)
+- [DOJ Statement (Sentencing)](https://www.justice.gov/usao-dc/pr/pennsylvania-man-sentenced-actions-during-jan-6-capitol-breach)
