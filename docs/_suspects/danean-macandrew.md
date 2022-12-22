@@ -18,7 +18,7 @@ trial_date: 2023-01-10
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2022-12-21
+status_conference:
 age:
 occupation:
 affiliations:
