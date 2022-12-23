@@ -846,12 +846,7 @@ const addData = (suspectData) => {
     }
 
     if (suspect.links[type]) {
-      // link already exists but there may be a "better" one from DOJ
-      if (/justice.gov/.test(<string>url) && suspect.links[type] !== url) {
-        suspect.links[type] = <string>url;
-      } else {
-        continue;
-      }
+      continue;
     } else {
       // make sure there is not a similar link already
       if (type == "Complaint" && suspect.links["Statement of Facts"]) {
