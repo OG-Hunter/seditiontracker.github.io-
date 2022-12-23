@@ -41,16 +41,15 @@ caseName: USA v. GRAYSON
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 2 months incarceration
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/26/Bridgeville-kenneth-grayson-charged-connection-Capitol-riot-insurrection/stories/202101260151)
 - [Complaint](https://www.justice.gov/opa/page/file/1360506/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360506/download)
