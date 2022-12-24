@@ -36,12 +36,14 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber:
 caseName: USA v. MILLER
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [Statement of Facts](https://www.documentcloud.org/documents/23463013-scott-miller)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-man-arrested-felony-charges-actions-during-jan-6-capitol-breach)
+- [Detention Memo](https://twitter.com/seditiontrack/status/1606685008319717378)
