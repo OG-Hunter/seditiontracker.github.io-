@@ -4,11 +4,11 @@ lastName: Hopkins
 hashtag:
 aka:
 residence: Kansas
-status: Charged
+status: Convicted
 date: 2022-08-04
 charged: 2022-08-04
 indicted:
-convicted:
+convicted: 2022-12-20
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Kasey Hopkins charged on August 4th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on December 20, 2022. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. HOPKINS
 judge: Tanya S. Chutkan
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.kshb.com/news/crime/kansas-city-kansas-man-arrested-charged-for-entering-u-s-capitol-during-jan-6-riot)
