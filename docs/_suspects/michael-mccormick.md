@@ -41,15 +41,14 @@ caseName: USA v. MCCORMICK
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days incarceration
   - $500 restitution
 ---
-
 - [News Report](https://www.mercurynews.com/2021/12/03/man-arrested-in-orange-in-connection-with-capitol-insurrection/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459001/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458996/download)

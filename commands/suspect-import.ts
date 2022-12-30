@@ -466,6 +466,7 @@ const linkType = (description: string, lastName?: string) => {
     case /charging_documents.pdf/.test(description):
     case /statement_of_offense/.test(description):
     case /Panayiotou Marcos/.test(description):
+    case /Statement of facts/.test(description):
       return "Statement of Facts";
     case /Statement of Offense/.test(description):
     case /statement of offense/.test(description):
