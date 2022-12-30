@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0412
 caseName: USA v. MILLER
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

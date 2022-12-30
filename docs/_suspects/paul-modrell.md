@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-28
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: false
 caseNumber: 22-mj-0267
 caseName: USA v. MODRELL
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

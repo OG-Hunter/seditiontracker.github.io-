@@ -38,7 +38,7 @@ layout: suspect
 published: false
 caseNumber: 22-mj-0268
 caseName: USA v. SATTLER
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

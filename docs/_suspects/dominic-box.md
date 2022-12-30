@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-17
 age: 30
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0413
 caseName: USA v. BOX
-judge:
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
