@@ -4,13 +4,13 @@ lastName: Allan
 hashtag: TommyFrederickAllan
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted: 2021-02-02
 convicted: 2022-08-11
 acquitted:
-sentenced:
+sentenced: 2022-12-08
 dismissed:
 deceased:
 plea_hearing: 2022-08-11
@@ -41,12 +41,16 @@ caseName: USA v. ALLAN
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 21 months incarceration
+  - 3 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.sacbee.com/news/local/article248703410.html)
 - [Complaint](https://www.justice.gov/file/1360801/download)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1360801/download)
