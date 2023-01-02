@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tampabay.com/news/tampa/2021/10/06/tampa-oath-keeper-stays-jailed-after-judge-finds-he-threatened-cops/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438141/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Information.pdf)

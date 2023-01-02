@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:22-mj-00261
+caseNumber: 22-mj-0261
 caseName: USA v. FARNSWORTH
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249829/gov.uscourts.dcd.249829.1.1.pdf)

@@ -41,16 +41,15 @@ caseName: USA v. BUXTON
 judge: John D. Bates
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 18 months probation
   - $500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.kmov.com/news/st-louis-man-faces-federal-charges-for-involvement-in-january-6-capitol-riot/article_456b66e6-5a14-11ec-bbcd-a7b1b51ac5a6.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1468836/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1525331/download)
