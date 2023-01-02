@@ -3,7 +3,7 @@ name: Zachariah Sattler
 lastName: Sattler
 hashtag:
 aka:
-residence:
+residence: Maryland
 status: Charged
 date: 2022-12-02
 charged: 2022-12-02
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 36
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.cbsnews.com/baltimore/news/maryland-man-arrested-accused-capitol-in-jan-6-riot-chesterstown-zachariah-sattler/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559726/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559731/download)

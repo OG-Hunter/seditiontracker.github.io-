@@ -3,7 +3,7 @@ name: Jacquelyn Starer
 lastName: Starer
 hashtag:
 aka:
-residence:
+residence: Massachusetts
 status: Charged
 date: 2022-12-16
 charged: 2022-12-16
@@ -19,8 +19,8 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
-occupation:
+age: 68
+occupation: Doctor
 affiliations:
 jurisdiction: Federal
 image: /images/preview/jacquelyn-starer.jpg
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.businessinsider.com/doctor-accused-of-punching-officer-on-jan-6-arrested-charged-2022-12)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559746/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559751/download)
