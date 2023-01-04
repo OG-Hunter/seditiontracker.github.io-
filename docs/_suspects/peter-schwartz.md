@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2022-11-29
 trial_type: Jury Trial
-jury_selection:
+jury_selection: 2022-11-29
 sentencing: 2023-05-05
 status_conference:
 age: 47

@@ -41,13 +41,12 @@ caseName: USA v. SLYE
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-breach/accused-jan-6th-rioter-dubbed-jackthetripper-for-allegedly-pushing-bike-rack-into-law-enforcement-charged-with-felonies/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539651/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539656/download)
