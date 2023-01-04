@@ -4,11 +4,11 @@ lastName: Slye
 hashtag: JackTheTripper
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2022-09-29
 charged: 2022-09-29
 indicted:
-convicted:
+convicted: 2023-01-03
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Mikhail Slye charged on September 29th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 3, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,13 @@ caseName: USA v. SLYE
 judge: James E. Boasberg
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://lawandcrime.com/u-s-capitol-breach/accused-jan-6th-rioter-dubbed-jackthetripper-for-allegedly-pushing-bike-rack-into-law-enforcement-charged-with-felonies/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539651/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1539656/download)
