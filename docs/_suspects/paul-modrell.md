@@ -35,7 +35,7 @@ title: Paul Modrell charged on December 9th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0267
 caseName: USA v. MODRELL
 judge: G. M. Harvey

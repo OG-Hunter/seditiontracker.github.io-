@@ -35,7 +35,7 @@ title: Jacquelyn Starer charged on December 16th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0278
 caseName: USA v. STARER
 judge:

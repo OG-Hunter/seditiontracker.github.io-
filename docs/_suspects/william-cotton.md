@@ -35,7 +35,7 @@ title: William Cotton charged on December 6th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0265
 caseName: USA v. COTTON
 judge: Moxila A. Upadhyaya
