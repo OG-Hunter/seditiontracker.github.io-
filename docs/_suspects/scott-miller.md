@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-06
 age: 36
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0412
 caseName: USA v. MILLER
-judge: Moxila A. Upadhyaya
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

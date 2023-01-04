@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-21
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0261
 caseName: USA v. FARNSWORTH
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:
