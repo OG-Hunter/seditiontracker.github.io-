@@ -3,7 +3,7 @@ name: William Cotton
 lastName: Cotton
 hashtag:
 aka:
-residence:
+residence: Rhode Islans
 status: Charged
 date: 2022-12-06
 charged: 2022-12-06
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference: 2023-02-23
-age:
+age: 53
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.necn.com/news/local/rhode-island-man-charged-in-jan-6-riot/2885788/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559631/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559636/download)

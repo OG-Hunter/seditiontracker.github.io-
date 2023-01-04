@@ -3,7 +3,7 @@ name: Paul Modrell
 lastName: Modrell
 hashtag:
 aka:
-residence:
+residence: Maryland
 status: Charged
 date: 2022-12-09
 charged: 2022-12-09
@@ -43,6 +43,5 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559666/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559671/download)
