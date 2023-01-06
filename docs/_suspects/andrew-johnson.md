@@ -35,7 +35,7 @@ title: Andrew Johnson charged on October 21st, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-cr-0414
 caseName: USA v. JOHNSON
 judge:

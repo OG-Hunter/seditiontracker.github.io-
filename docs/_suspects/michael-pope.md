@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2022-11-08
+plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://cdapress.com/news/2021/feb/13/sandpoint-man-implicated-capitol-insurrection-cda/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379106/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459966/download)

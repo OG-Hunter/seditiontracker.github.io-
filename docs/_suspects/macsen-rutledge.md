@@ -35,7 +35,7 @@ title: Macsen Rutledge charged on October 25th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0229
 caseName: USA v. RUTLEDGE
 judge:

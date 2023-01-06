@@ -35,7 +35,7 @@ title: Michael Lockwood charged on October 14th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0220
 caseName: USA v. LOCKWOOD
 judge:
