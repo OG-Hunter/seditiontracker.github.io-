@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0281
 caseName: USA v. CHWIESIUK
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

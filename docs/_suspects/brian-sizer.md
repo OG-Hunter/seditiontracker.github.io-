@@ -4,21 +4,21 @@ lastName: Sizer
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2022-10-27
 charged: 2022-10-27
 indicted:
-convicted:
+convicted: 2023-01-05
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-01-05
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
-status_conference: 2023-01-05
+sentencing: 2023-04-05
+status_conference:
 age: 47
 occupation:
 affiliations:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Brian Sizer charged on October 27th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 5, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. SIZER
 judge: James E. Boasberg
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://triblive.com/local/regional/ellwood-city-man-whose-wife-pleaded-guilty-to-involvement-in-capitol-riot-now-faces-charges/)

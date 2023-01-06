@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-19
 age: 32
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0220
 caseName: USA v. LOCKWOOD
-judge:
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

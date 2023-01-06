@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-03-03
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0414
 caseName: USA v. JOHNSON
-judge:
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

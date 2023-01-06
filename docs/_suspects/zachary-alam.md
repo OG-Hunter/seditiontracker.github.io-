@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-01-04
+status_conference: 2023-01-26
 age:
 occupation:
 affiliations:

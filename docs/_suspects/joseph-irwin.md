@@ -18,7 +18,7 @@ trial_date: 2023-01-23
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-09
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0589
 caseName: USA v. IRWIN
-judge: Thomas F. Hogan
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

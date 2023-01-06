@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://cdapress.com/news/2021/feb/13/sandpoint-man-implicated-capitol-insurrection-cda/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379106/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459966/download)

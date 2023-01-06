@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-10
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:
