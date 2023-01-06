@@ -3,7 +3,7 @@ name: Macsen Rutledge
 lastName: Rutledge
 hashtag:
 aka:
-residence:
+residence: New York
 status: Charged
 date: 2022-10-25
 charged: 2022-10-25
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 41
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.syracuse.com/crime/2022/10/fbi-charges-syracuse-man-who-wore-bear-hood-in-us-capitol-during-jan-6-attacks.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560526/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560531/download)
