@@ -3,7 +3,7 @@ name: Rebecca Lavrenz
 lastName: Lavrenz
 hashtag:
 aka:
-residence:
+residence: Colorado
 status: Charged
 date: 2022-09-19
 charged: 2022-09-19
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 70
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.csindy.com/news/springs-woman-arrested-for-jan-6-involvement/article_925a27dc-8108-11ed-ae3f-37a37dfc6b45.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560707/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560702/download)
