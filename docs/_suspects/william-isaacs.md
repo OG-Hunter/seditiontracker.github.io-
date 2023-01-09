@@ -18,7 +18,7 @@ trial_date: 2023-02-01
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-01-06
+status_conference:
 age:
 occupation:
 affiliations: Oath Keepers
