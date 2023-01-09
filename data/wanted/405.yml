@@ -1,10 +1,10 @@
 id: 405
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #405 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/405a.png/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #405 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-405aarrest.jpg/@@images/image/preview
 hashtag: TrumpyValentine
 fugitive: false
 minor: false
