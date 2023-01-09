@@ -35,7 +35,7 @@ title: Rebecca Lavrenz charged on September 19th, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 22-mj-0208
 caseName: USA v. LAVRENZ
 judge:
