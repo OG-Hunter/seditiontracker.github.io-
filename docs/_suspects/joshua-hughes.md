@@ -17,7 +17,7 @@ plea_hearing: 2022-08-25
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-01-06
+sentencing:
 status_conference:
 age: 37
 occupation:
@@ -41,12 +41,13 @@ caseName: USA v. HUGHES
 judge: Timothy J. Kelly
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://helenair.com/news/local/a-closer-look-at-the-east-helena-brothers-arrested-in-capitol-riot/article_0efda0dd-39e7-5650-8a5c-2ebdc03579b5.html)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1364151/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528976/download)
