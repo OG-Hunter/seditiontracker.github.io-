@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-13
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0430
 caseName: USA v. ADAMS
-judge:
+judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
