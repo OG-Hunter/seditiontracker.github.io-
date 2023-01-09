@@ -3,7 +3,7 @@ name: Holly Christensen
 lastName: Christensen
 hashtag:
 aka:
-residence:
+residence: Washington
 status: Charged
 date: 2022-11-28
 charged: 2022-11-28
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 44
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.seattletimes.com/seattle-news/law-justice/puyallup-couple-the-latest-wa-residents-charged-in-jan-6-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560671/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560676/download)
