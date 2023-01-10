@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-01-23
+trial_date: 2023-01-26
 trial_type: Bench Trial
-jury_selection:
+jury_selection: 2023-01-26
 sentencing:
-status_conference: 2023-01-09
+status_conference:
 age:
 occupation: Retired US Army, Retired County Police Officer
 affiliations: Former Sheriff's Deputy; U.S. Army, Retired

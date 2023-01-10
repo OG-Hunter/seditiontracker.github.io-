@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0195
 caseName: USA v. SANDOVAL
-judge: Thomas F. Hogan
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

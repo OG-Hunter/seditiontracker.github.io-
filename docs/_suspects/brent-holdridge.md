@@ -4,13 +4,13 @@ lastName: Holdridge
 hashtag:
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-12-02
 charged: 2021-12-02
 indicted:
 convicted: 2022-08-04
 acquitted:
-sentenced:
+sentenced: 2023-01-09
 dismissed:
 deceased:
 plea_hearing:
@@ -41,12 +41,16 @@ caseName: USA v. HOLDRIDGE
 judge: Reggie B. Walton
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 60 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/eureka-man-linked-to-jan-6-riot-to-appear-in-dc-court/ar-AARtjTH)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459121/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524821/download)

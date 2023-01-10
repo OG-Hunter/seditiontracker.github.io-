@@ -1,5 +1,5 @@
 ---
-name: Jorden Mink
+name: Jordan Mink
 lastName: Mink
 hashtag: CryBeardBrawler
 aka:
@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-01-09
+plea_hearing: 2023-01-17
 trial_date:
 trial_type:
 jury_selection:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357221/download)

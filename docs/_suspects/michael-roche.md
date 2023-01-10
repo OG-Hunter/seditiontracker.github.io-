@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-03-10
+trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-01-09
+status_conference: 2023-01-20
 age: 26
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0086
 caseName: USA v. ROCHE
-judge: Thomas F. Hogan
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:
