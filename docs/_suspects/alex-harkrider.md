@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-07
 age: 33
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0117
 caseName: USA v. HARKRIDER
-judge: Thomas F. Hogan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

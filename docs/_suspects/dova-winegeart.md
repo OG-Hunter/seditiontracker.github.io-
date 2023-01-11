@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0301
 caseName: USA v. WINEGEART
-judge: Emmet G. Sullivan
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

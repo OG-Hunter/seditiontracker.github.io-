@@ -18,7 +18,7 @@ trial_date: 2022-11-01
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-07
 age: 30
 occupation: U.S. Marines (Former)
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0117
 caseName: USA v. NICHOLS
-judge: Thomas F. Hogan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
