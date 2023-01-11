@@ -4,10 +4,10 @@ lastName: Speed
 hashtag:
 aka:
 residence: Virginia
-status: Charged
+status: Indicted
 date: 2022-06-21
 charged: 2022-06-21
-indicted:
+indicted: 2022-01-11
 convicted:
 acquitted:
 sentenced:
@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/fbi-navy-petty-officer-arrested-on-capitol-riot-charges-had-arsenal-of-guns-praised-unabomber/ar-AAYNcvq)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514546/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514551/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245477/gov.uscourts.dcd.245477.38.0_1.pdf)
