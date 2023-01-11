@@ -41,17 +41,16 @@ caseName: USA v. GIONET
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 60 days incarceration
   - $2000 fine
   - 2 years probation
   - $500 restitution
 ---
-
 - [News Report](https://apnews.com/article/joe-biden-donald-trump-capitol-siege-alaska-crime-6666c735165a19a6ee019e412235bd8d)
 - [Self Incrimination](https://twitter.com/Cleavon_MD/status/1348194351172603906?s=20)
 - [Self Incrimination (Cont'd)](https://twitter.com/nathanTbernard/status/1346937960005062661?s=20)
