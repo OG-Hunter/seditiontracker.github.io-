@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-01-11
+status_conference: 2023-02-15
 age:
 occupation: Owner, Hi-Flow Houston
 affiliations:
