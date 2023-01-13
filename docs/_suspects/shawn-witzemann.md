@@ -4,13 +4,13 @@ lastName: Witzemann
 hashtag: ShawnWitzemann
 aka: krampusnatch
 residence: New Mexico
-status: Convicted
+status: Sentenced
 date: 2021-04-06
 charged: 2021-04-06
 indicted:
 convicted: 2022-07-21
 acquitted:
-sentenced:
+sentenced: 2023-01-12
 dismissed:
 deceased:
 plea_hearing: 2022-07-21
@@ -41,12 +41,15 @@ caseName: USA v. WITZEMANN
 judge: Thomas F. Hogan
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 2 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385356/download)
