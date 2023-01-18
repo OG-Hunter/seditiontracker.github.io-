@@ -4,18 +4,18 @@ lastName: MacAndrew
 hashtag:
 aka:
 residence: California
-status: Charged
+status: Convicted
 date: 2021-11-12
 charged: 2021-11-12
 indicted:
-convicted:
+convicted: 2023-01-17
 acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-01-11
-trial_type: Jury Trial
+trial_date: 2023-01-12
+trial_type: Bench Trial
 jury_selection:
 sentencing: 2023-05-24
 status_conference:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "I was scared of it for weeks, so I didn’t post my videos. I finally stood up for truth. When I did, I wasn’t scared anymore."
 title: Danean MacAndrew charged on November 12, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 17, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,25 @@ caseName: USA v. MACANDREW
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.ocregister.com/2021/12/05/mission-viejo-woman-who-joined-mob-that-stormed-capitol-is-charged-by-federal-prosecutors/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.237478/gov.uscourts.dcd.237478.1.1.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Danean%20MacAndrew%20Information.pdf)

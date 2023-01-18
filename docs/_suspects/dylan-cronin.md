@@ -20,7 +20,7 @@ jury_selection:
 sentencing: 2023-04-12
 status_conference: 2023-01-19
 age:
-occupation:
+occupation: US Army Reserves
 affiliations:
 jurisdiction: Federal
 image: /images/preview/dylan-cronin.jpg
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.king5.com/article/news/crime/puyallup-capitol-riot-suspects-charges/281-19245a3b-5271-4dc1-8460-a3c7fa150fe6)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512676/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512681/download)
