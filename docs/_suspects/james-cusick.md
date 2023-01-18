@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-06-12
+trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-01-13
+status_conference: 2023-04-07
 age: 72
 occupation: Pastor
 affiliations:

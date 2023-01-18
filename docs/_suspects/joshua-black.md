@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-13
 trial_type: Jury Trial
 jury_selection:
-sentencing:
+sentencing: 2023-05-05
 status_conference:
 age: 44
 occupation: Business Owner (Lawn Service)

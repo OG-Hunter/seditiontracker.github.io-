@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-09-28
 trial_type: Jury Trial
 jury_selection:
-sentencing: 2023-01-23
+sentencing: 2023-02-02
 status_conference:
 age: 60
 occupation: Owner, Auto Body Shop
