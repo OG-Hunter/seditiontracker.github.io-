@@ -50,3 +50,4 @@ sentence:
 - [News Report](https://www.al.com/news/birmingham/2021/11/alabama-man-52-charged-with-assault-on-law-enforcement-during-jan-6-breach-at-us-capitol.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458896/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458886/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1562711/download)

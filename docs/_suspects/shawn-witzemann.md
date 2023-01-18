@@ -41,17 +41,16 @@ caseName: USA v. WITZEMANN
 judge: Thomas F. Hogan
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 7 days incarceration
   - 2 years probation
   - 60 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.krqe.com/news/crime/farmington-man-charged-for-alleged-role-in-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385351/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1385356/download)

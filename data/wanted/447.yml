@@ -1,10 +1,10 @@
 id: 447
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #447 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/447a.png/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #447 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-447aarrest.jpg/@@images/image/preview
 hashtag: WhiteHorn
 fugitive: false
 minor: false

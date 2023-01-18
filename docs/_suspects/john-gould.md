@@ -50,3 +50,4 @@ sentence:
 - [News Report](https://www.thedailybeast.com/alleged-capitol-rioter-john-gould-arrested-after-getting-outed-by-rioting-co-worker-jonathan-lauren)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483526/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247423/gov.uscourts.dcd.247423.20.0.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1562786/download)

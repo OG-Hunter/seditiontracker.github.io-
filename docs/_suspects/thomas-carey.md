@@ -51,3 +51,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536786/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1562701/download)
