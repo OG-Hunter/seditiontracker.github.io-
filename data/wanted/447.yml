@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-01-12
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/kyler-bard
+name: Kyler Bard
 missingImage: false
 identifiedBy: null
 notes: null
