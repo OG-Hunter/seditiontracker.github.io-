@@ -27,7 +27,7 @@ image: /images/preview/joseph-hackett.jpg
 suspect: joseph-hackett.jpg
 booking: Joseph-Hackett.jpg
 courtroom:
-courthouse:
+courthouse: joseph-hackett.jpg
 raid:
 perpwalk:
 quote: "Messages in cursive to eliminate digital reads."
