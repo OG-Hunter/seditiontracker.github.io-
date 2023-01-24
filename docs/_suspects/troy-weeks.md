@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 37
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -44,3 +44,4 @@ charges:
 sentence:
 ---
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250841/gov.uscourts.dcd.250841.1.1_1.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-arrested-felony-charges-actions-during-jan-6-capitol-breach)
