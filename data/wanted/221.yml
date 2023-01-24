@@ -1,19 +1,19 @@
 id: 221
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #221 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-221-afo.png/@@images/image/preview
+label: "Photograph #221 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-221arrest.jpg/@@images/image/preview
 hashtag: TricornTraitor
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-01-11
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/micaiah-joseph
+name: Micaiah Joseph
 missingImage: false
 identifiedBy: SH
 notes: null

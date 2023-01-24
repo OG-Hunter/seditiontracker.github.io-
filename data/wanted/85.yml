@@ -1,10 +1,10 @@
 id: 85
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #85 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-85-afo.png/@@images/image/preview
+label: "Photograph #85 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-85arrest.jpg/@@images/image/preview
 hashtag: PeeweeGrayMan
 fugitive: false
 minor: false

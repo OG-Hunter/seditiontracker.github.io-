@@ -1,10 +1,10 @@
 id: 187
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #187 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-187.png/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #187 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-187arrest.jpg/@@images/image/preview
 hashtag: BlackNTanGuy
 fugitive: false
 minor: false

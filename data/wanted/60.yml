@@ -1,19 +1,19 @@
 id: 60
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #60 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/photograph-60-afo-1-15-2021.jpg/@@images/image/preview
+label: "Photograph #60 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-60arrest.jpg/@@images/image/preview
 hashtag: HatHag
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-01-17
 mugshot: null
-sedition_link: null
-name: Casey Tryon Roanoke
+sedition_link: https://seditiontracker.com/suspects/casey-tyron-castro
+name: Casey Tyron-Castro
 missingImage: false
 identifiedBy: sh
 notes: null
