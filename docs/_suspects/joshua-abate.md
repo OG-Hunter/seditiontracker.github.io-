@@ -35,7 +35,7 @@ title: Joshua Abate charged on 1/17/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. ABATE
 judge:
