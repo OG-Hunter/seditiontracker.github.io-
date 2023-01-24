@@ -4,13 +4,13 @@ lastName: Clifton
 hashtag:
 aka:
 residence: South Carolina
-status: Convicted
+status: Sentenced
 date: 2022-05-16
 charged: 2022-05-16
 indicted:
 convicted: 2022-10-13
 acquitted:
-sentenced:
+sentenced: 2023-01-13
 dismissed:
 deceased:
 plea_hearing: 2022-10-13
@@ -41,12 +41,18 @@ caseName: USA v. CLIFTON
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 21 days intermittent confinement
+  - 90 days home detention
+  - 3 years probation
+  - $500 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.heraldonline.com/news/local/crime/article261637562.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507421/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507426/download)
