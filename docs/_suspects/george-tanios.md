@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing: 2023-01-27
-status_conference:
+status_conference: 2023-01-25
 age: 39
 occupation: Owner, Sandwich Shop
 affiliations:

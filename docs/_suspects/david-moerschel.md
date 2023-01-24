@@ -41,25 +41,24 @@ caseName: USA v. MOERSCHEL
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 2384
-    title: Seditious Conspiracy
-    url: https://www.law.cornell.edu/uscode/text/18/2384
-    felony: true
-  - code: 18 USC § 1512(k)
-    title: Conspiracy to Obstruct an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 372
-    title: Conspiracy to Prevent an Officer from Discharging any Duties
-    url: https://www.law.cornell.edu/uscode/text/18/372
-    felony: true
+- code: 18 USC § 2384
+  title: Seditious Conspiracy
+  url: https://www.law.cornell.edu/uscode/text/18/2384
+  felony: true
+- code: 18 USC § 1512(k)
+  title: Conspiracy to Obstruct an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 372
+  title: Conspiracy to Prevent an Officer from Discharging any Duties
+  url: https://www.law.cornell.edu/uscode/text/18/372
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/oathkeeper-arrested-david-moerschel/2021/07/02/0f54d5aa-db5d-11eb-9bbb-37c30dcf9363_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408901/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514906/download)

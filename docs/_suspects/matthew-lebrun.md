@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-01-19
+status_conference: 2023-02-02
 age: 33
 occupation:
 affiliations: Proud Boys, Oath Keepers

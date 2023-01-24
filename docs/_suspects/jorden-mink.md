@@ -41,17 +41,16 @@ caseName: USA v. MINK
 judge: Randolph D. Moss
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 641
-    title: Theft of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 641
+  title: Theft of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
 ---
-
 - [News Report](https://triblive.com/local/feds-oakdale-man-stormed-capitol-with-baseball-bat-stole-chair/)
 - [Complaint](https://www.justice.gov/opa/page/file/1357221/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357221/download)

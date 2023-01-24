@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-05
 age: 27
 occupation: Busines Owner
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0289
 caseName: USA v. MAIMONE
-judge:
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age: 34
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0074
 caseName: USA v. COLT
-judge: Thomas F. Hogan
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 18 USC § 1512(c)(2)

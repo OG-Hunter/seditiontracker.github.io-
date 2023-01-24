@@ -17,7 +17,7 @@ plea_hearing: 2022-11-08
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-02-13
+sentencing: 2023-04-05
 status_conference:
 age: 35
 occupation: Video Editor, Infowars (without press credentials)

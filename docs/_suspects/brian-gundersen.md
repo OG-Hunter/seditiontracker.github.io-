@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-11-09
 trial_type: Stipulated Bench Trial
 jury_selection:
-sentencing: 2023-01-27
+sentencing: 2023-05-02
 status_conference:
 age: 26
 occupation: Sanitation Worker
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0137
 caseName: USA v. GUNDERSEN
-judge: Thomas F. Hogan
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2

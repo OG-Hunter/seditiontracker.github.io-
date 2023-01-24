@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-09
 age: 62
 occupation:
 affiliations: U.S. Army Veteran
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0455
 caseName: USA v. CHRISTENSEN
-judge: Thomas F. Hogan
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

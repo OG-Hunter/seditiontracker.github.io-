@@ -41,6 +41,10 @@ caseName: USA v. BARNETT
 judge: Christopher R. Cooper
 videos:
 charges:
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
   - code: 18 USC § 1512(c)(2),2
     title: Obstruction of an Official Proceeding (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1512
@@ -77,5 +81,5 @@ sentence:
 - [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1353231/download)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353191/download)
-- [Indictment](https://www.justice.gov/opa/page/file/1364156/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.226952/gov.uscourts.dcd.226952.96.0_2.pdf)
 - [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/arkansas-man-who-put-his-feet-desk-offices-former-speaker-house-representatives-nancy)

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0720
 caseName: USA v. STECHER
-judge: Thomas F. Hogan
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

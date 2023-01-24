@@ -17,7 +17,7 @@ plea_hearing: 2021-09-29
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-05-10
 status_conference:
 age: 38
 occupation: Olympic Swimmer (Retired)

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0722
 caseName: USA v. RONDON
-judge: Thomas F. Hogan
+judge: Jia M. Cobb
 videos:
 charges:
 - code: 18 USC § 1512(c)(2),2
