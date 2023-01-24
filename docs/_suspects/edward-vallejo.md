@@ -2,13 +2,13 @@
 name: Edward Vallejo
 lastName: Vallejo
 hashtag:
-aka:
+aka: Ed Vallejo
 residence: Arizona
-status: Indicted
+status: Convicted
 date: 2022-01-12
 charged: 2022-01-12
 indicted: 2022-01-12
-convicted:
+convicted: 2023-01-23
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Edward Vallejo charged on 1/12/2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 23, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,7 +41,25 @@ caseName: USA v. VALLEJO
 judge: Amit P. Mehta
 videos:
 charges:
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 372
+    title: Conspiracy to Prevent an Officer from Discharging any Duties
+    url: https://www.law.cornell.edu/uscode/text/18/372
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.azcentral.com/story/news/local/phoenix-breaking/2022/01/13/phoenix-man-edward-vallejo-charged-relation-jan-6-capitol-breach/6516426001/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514921/download)
+- [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/four-oath-keepers-found-guilty-seditious-conspiracy-related-us-capitol-breach)
