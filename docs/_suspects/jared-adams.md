@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-02
 age: 26
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0212
 caseName: USA v. ADAMS
-judge:
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

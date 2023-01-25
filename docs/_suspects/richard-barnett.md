@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-10
 trial_type: Jury Trial
 jury_selection: 2023-01-10
-sentencing:
+sentencing: 2023-05-03
 status_conference:
 age: 60
 occupation:
@@ -41,41 +41,40 @@ caseName: USA v. BARNETT
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 18 USC § 1752(a)(2), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 18 USC § 5104(e)(2)(C)
-    title: Entering and Remaining in Certain Rooms in the Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 18 USC § 641
-    title: Theft of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(1), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 18 USC § 1752(a)(2), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 18 USC § 5104(e)(2)(C)
+  title: Entering and Remaining in Certain Rooms in the Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 18 USC § 641
+  title: Theft of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
 ---
-
 - [News Report](https://apnews.com/article/donald-trump-arkansas-arrests-little-rock-theft-4837d9bae7988943f126f7a0f3782619)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/man-arrested-illegally-entering-office-speaker-house)
 - [FBI Search](https://katv.com/news/local/fbi-conducts-search-warrant-on-richard-barnetts-home)

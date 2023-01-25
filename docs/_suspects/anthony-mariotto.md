@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0094
 caseName: USA v. MARIOTTO
-judge:
+judge: Reggie B. Walton
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
