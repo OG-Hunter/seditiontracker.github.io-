@@ -18,7 +18,7 @@ trial_date: 2023-01-30
 trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-01-31
 age: 55
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0722
 caseName: USA v. MOONEY-RONDON
-judge: Thomas F. Hogan
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
