@@ -41,21 +41,20 @@ caseName: USA v. CHAN
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/fbi-capitol-attack-mick-chan_n_614b5077e4b077b735ee30f3)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mick%20Chan%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457606/download)
