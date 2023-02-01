@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-01-27
 trial_type: Jury Trial
 jury_selection: 2023-01-19
-sentencing:
+sentencing: 2023-06-02
 status_conference:
 age: 52
 occupation: Music teacher

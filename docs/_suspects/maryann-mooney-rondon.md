@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-01-30
+trial_date: 2023-03-27
 trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-01-31
+status_conference:
 age: 55
 occupation:
 affiliations:
