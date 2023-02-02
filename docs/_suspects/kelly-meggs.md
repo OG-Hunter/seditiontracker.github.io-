@@ -17,8 +17,8 @@ plea_hearing:
 trial_date: 2022-09-26
 trial_type: Jury Trial
 jury_selection:
-sentencing:
-status_conference:
+sentencing: 2023-05-25
+status_conference: 2023-05-24
 age: 52
 occupation: General Manager, Car Dealership
 affiliations: Oath Keepers

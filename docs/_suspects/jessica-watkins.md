@@ -17,8 +17,8 @@ plea_hearing:
 trial_date: 2022-09-26
 trial_type: Jury Trial
 jury_selection:
-sentencing:
-status_conference:
+sentencing: 2023-05-26
+status_conference: 2023-05-24
 age: 38
 occupation: Former U.S. Military (Army Ranger)
 affiliations: Oath Keepers, Ohio Regular Militia

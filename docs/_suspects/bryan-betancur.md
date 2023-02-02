@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0051
 caseName: USA v. BETANCUR
-judge:
+judge: Timothy J. Kelly
 videos:
 charges:
 - code: 18 USC § 1752(a)(1)
