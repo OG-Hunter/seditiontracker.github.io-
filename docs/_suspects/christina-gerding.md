@@ -4,11 +4,11 @@ lastName: Gerding
 hashtag: ChristinaGerding
 aka:
 residence: Illinois
-status: Charged
+status: Convicted
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
-convicted: 
+convicted: 2023-01-31
 acquitted:
 sentenced: 
 dismissed: 
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "Quincy made it inside."
 title: Christina Gerding charged on January 28th, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on January 31, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. GERDING
 judge: Paul L. Friedman
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
