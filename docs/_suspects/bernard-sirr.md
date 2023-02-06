@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.abc6.com/north-kingstown-man-charged-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516326/download)

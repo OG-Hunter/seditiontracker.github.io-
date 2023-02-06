@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-03-07
 age: 37
 occupation:
 affiliations:
@@ -38,12 +38,11 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0035
 caseName: USA v. WEEKS
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250841/gov.uscourts.dcd.250841.1.1_1.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-arrested-felony-charges-actions-during-jan-6-capitol-breach)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567171/download)

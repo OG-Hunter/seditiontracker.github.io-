@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-02
+status_conference: 2023-03-21
 age: 56
 occupation:
 affiliations: Oath Keepers

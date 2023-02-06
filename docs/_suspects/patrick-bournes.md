@@ -38,12 +38,11 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0035
 caseName: USA v. BOURNES
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/sanfrancisco/news/january-6-capitol-riot-patrick-allen-bournes-santa-clara-arrested-charged/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1566236/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/california-man-arrested-felony-charge-actions-during-jan-6-capitol-breach)
