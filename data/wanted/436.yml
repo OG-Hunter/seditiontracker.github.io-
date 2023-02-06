@@ -1,10 +1,10 @@
 id: 436
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #436 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/436a.png/@@images/image/preview
+label: "Photograph #436 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-436arrest.jpg/@@images/image/preview
 hashtag: BeardedPlaidGoggles
 fugitive: false
 minor: false

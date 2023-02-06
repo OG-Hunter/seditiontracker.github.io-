@@ -1,10 +1,10 @@
 id: 243
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #243 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/243a.png/@@images/image/preview
+label: "Photograph #243 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-243arrest.jpg/@@images/image/preview
 hashtag: FlackWhacker
 fugitive: false
 minor: false

@@ -1,19 +1,19 @@
 id: 121
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #121 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-121.jpg/@@images/image/preview
+label: "Photograph #121 - AFO  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-121arrest.jpg/@@images/image/preview
 hashtag: TunnelAccountant
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-01-12
 mugshot: null
-sedition_link: null
-name: Kevin Arthur Macomber
+sedition_link: https://seditiontracker.com/suspects/patrick-bournes
+name: Patrick Bournes
 missingImage: false
 identifiedBy: null
 notes: null

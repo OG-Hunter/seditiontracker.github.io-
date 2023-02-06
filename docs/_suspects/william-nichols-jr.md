@@ -1,7 +1,7 @@
 ---
 name: William Nichols Jr
 lastName: Nichols Jr
-hashtag:
+hashtag: FlackWhacker
 aka:
 residence: Vermont
 status: Charged
