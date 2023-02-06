@@ -38,9 +38,7 @@ layout: default
   <div>Indicted: <small>{{ page.indicted | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.status_conference %}
   <div>Status Conference: <small>{{ page.status_conference | date: "%Y-%m-%d"}}</small></div>
-  {% endif %} {% if page.plea_hearing %}
-  <div>Plea Hearing: <small>{{ page.plea_hearing | date: "%Y-%m-%d"}}</small></div>
-  {% endif %} {% if page.trial_type %}{% if page.trial_date %}
+  {% endif %} {% if page.trial_date %}
   <div>Trial Date: <small>{{ page.trial_date | date: "%Y-%m-%d"}}</small></div>
   {% endif %} {% if page.trial_type %}
   <div>Trial Type: <small>{{ page.trial_type }}</small></div>
