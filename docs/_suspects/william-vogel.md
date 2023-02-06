@@ -4,16 +4,16 @@ lastName: Vogel
 hashtag: WilliamVogel
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2021-01-25
 charged: 2021-01-25
 indicted:
-convicted: 
+convicted: 2023-02-02
 acquitted:
 sentenced: 
 dismissed: 
 deceased:
-plea_hearing: 2023-02-01
+plea_hearing: 2023-02-02
 trial_date:
 trial_type:
 jury_selection:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: William Vogel charged on January 25, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 2, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. VOGEL
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.msn.com/en-us/news/crime/dutchess-man-charged-for-taking-part-in-capitol-riot-fbi/ar-BB1d9jwd)
