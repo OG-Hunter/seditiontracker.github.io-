@@ -35,7 +35,7 @@ title: Christina Legros charged on 1/30/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. LEGROS
 judge:
