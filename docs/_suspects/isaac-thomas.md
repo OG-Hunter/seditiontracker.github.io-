@@ -1,0 +1,47 @@
+---
+name: Isaac Thomas
+lastName: Thomas
+hashtag: 
+aka:
+residence: Michigan
+status: Charged
+date: 2023-01-26
+charged: 2023-01-26
+indicted:
+convicted:
+acquitted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+trial_date:
+trial_type:
+jury_selection:
+sentencing:
+status_conference:
+age: 20
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/isaac-thomas.jpg
+suspect: isaac-thomas.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Isaac Thomas charged on 1/26/2023
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber: 
+caseName: USA v. THOMAS
+judge:
+videos:
+charges:
+sentence:
+---
+- [News Report](https://abcnews.go.com/Politics/wireStory/man-appears-federal-court-face-capitol-riot-charges-96707482)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-residents-arrested-charges-actions-during-january-6-capitol-breach)
