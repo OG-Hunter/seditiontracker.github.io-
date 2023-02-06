@@ -41,17 +41,16 @@ caseName: USA v. SOUTHARD-RUMSEY
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://lawandcrime.com/u-s-capitol-siege/florida-woman-assaulted-u-s-capitol-sergeant-with-a-flagpole-and-threatened-nancy-pelosi-on-jan-6th-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1401016/download)
 - [Courthouse (Video)](https://twitter.com/nycsouthpaw/status/1400276104544493572)

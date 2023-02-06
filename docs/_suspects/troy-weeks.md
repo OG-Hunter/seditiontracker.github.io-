@@ -4,10 +4,10 @@ lastName: Weeks
 hashtag: PeeweeGreyMan
 aka:
 residence: New York
-status: Charged
+status: Indicted
 date: 2023-01-09
 charged: 2023-01-09
-indicted:
+indicted: 2023-02-01
 convicted:
 acquitted:
 sentenced:
@@ -36,12 +36,14 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-cr-0035
 caseName: USA v. WEEKS
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250841/gov.uscourts.dcd.250841.1.1_1.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-arrested-felony-charges-actions-during-jan-6-capitol-breach)
+- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567171/download)
