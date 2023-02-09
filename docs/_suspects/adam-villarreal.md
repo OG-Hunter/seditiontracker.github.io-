@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567161/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567166/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567171/download)

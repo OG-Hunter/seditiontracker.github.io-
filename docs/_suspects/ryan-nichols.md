@@ -18,7 +18,7 @@ trial_date: 2022-11-01
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-02-07
+status_conference:
 age: 30
 occupation: U.S. Marines (Former)
 affiliations:

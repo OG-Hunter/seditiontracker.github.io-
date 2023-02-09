@@ -41,13 +41,12 @@ caseName: USA v. COLGAN
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.newscentermaine.com/article/news/crime/jefferson-man-charged-in-connection-with-riot-at-us-capitol-building-insurrection-federal-trump/97-5139b0ef-8e9a-4571-bf38-73257457dd3e)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1498511/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Joshua%20Colgan%20Information.pdf)

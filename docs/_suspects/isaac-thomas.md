@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-0024
 caseName: USA v. THOMAS
 judge:
 videos:
@@ -45,3 +45,5 @@ sentence:
 ---
 - [News Report](https://abcnews.go.com/Politics/wireStory/man-appears-federal-court-face-capitol-riot-charges-96707482)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/michigan-residents-arrested-charges-actions-during-january-6-capitol-breach)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567326/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567331/download)

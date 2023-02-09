@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-arrested-felony-charges-actions-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250930/gov.uscourts.dcd.250930.1.1.pdf)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567171/download)
