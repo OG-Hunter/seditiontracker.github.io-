@@ -3,7 +3,7 @@ name: Robert Degregoris
 lastName: Degregoris
 hashtag:
 aka:
-residence:
+residence: Virginia
 status: Charged
 date: 2023-01-23
 charged: 2023-01-23
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 32
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://wset.com/news/local/loudoun-county-man-robert-degregoris-arrested-felony-charges-related-actions-january-6-insurrection-capitol-riot-breach-congress-electoral-votes-2020-election-civil-disorder-felony-misdemeanors-virginia-january-2023)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567406/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567411/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-felony-charge-actions-during-jan-6-capitol-breach)

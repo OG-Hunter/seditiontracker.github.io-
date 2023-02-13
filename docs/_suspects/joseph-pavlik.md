@@ -3,7 +3,7 @@ name: Joseph Pavlik
 lastName: Pavlik
 hashtag:
 aka:
-residence:
+residence: Illinois
 status: Charged
 date: 2023-01-20
 charged: 2023-01-20
@@ -19,8 +19,8 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
-occupation:
+age: 65
+occupation: Former Firefighter
 affiliations:
 jurisdiction: Federal
 image: /images/preview/joseph-pavlik.jpg
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.cbsnews.com/chicago/news/chicago-man-jan-6-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567236/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567241/download)
