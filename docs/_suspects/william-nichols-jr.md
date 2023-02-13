@@ -5,8 +5,8 @@ hashtag: FlackWhacker
 aka:
 residence: Vermont
 status: Charged
-date: 2023-02-01
-charged: 2023-02-01
+date: 2023-01-20
+charged: 2023-01-20
 indicted:
 convicted:
 acquitted:
@@ -31,7 +31,7 @@ courthouse:
 raid:
 perpwalk:
 quote:
-title: William Nichols Jr charged on 2/1/2023
+title: William Nichols Jr charged on January 20th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
@@ -45,3 +45,5 @@ sentence:
 ---
 
 - [News Report](https://www.sevendaysvt.com/vermont/second-vermonter-accused-of-assaulting-police-at-january-6-riot/Content?oid=37500254)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567501/download)
+- [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567506/download)
