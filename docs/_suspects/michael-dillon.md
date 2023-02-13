@@ -35,7 +35,7 @@ title: Michael Dillon charged on February 7th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0032
 caseName: USA v. DILLON
 judge:
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567971/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567976/download)

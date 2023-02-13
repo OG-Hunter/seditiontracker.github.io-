@@ -35,7 +35,7 @@ title: Richard Avirett charged on January 19th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. AVIRETT
 judge:

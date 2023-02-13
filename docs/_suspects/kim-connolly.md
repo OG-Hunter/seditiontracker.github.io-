@@ -35,7 +35,7 @@ title: Kim Connolly charged on February 6th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-cr-0031
 caseName: USA v. CONNOLLY
 judge:
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567381/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567386/download)

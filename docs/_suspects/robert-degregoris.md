@@ -35,7 +35,7 @@ title: Robert Degregoris charged on January 23rd, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0023
 caseName: USA v. DEGREGORIS
 judge:

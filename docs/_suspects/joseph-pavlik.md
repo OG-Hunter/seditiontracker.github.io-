@@ -35,7 +35,7 @@ title: Joseph Pavlik charged on January 20th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0020
 caseName: USA v. PAVLIK
 judge:

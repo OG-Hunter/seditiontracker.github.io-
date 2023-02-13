@@ -35,7 +35,7 @@ title: Austin Harris charged on January 23rd, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0021
 caseName: USA v. HARRIS
 judge:

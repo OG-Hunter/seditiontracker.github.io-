@@ -35,7 +35,7 @@ title: Victor Martinez charged on January 20th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0018
 caseName: USA v. MARTINEZ
 judge:

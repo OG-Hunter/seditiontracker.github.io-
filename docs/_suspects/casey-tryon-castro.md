@@ -35,7 +35,7 @@ title: Casey Tryon-Castro charged on January 12th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-cr-0035
 caseName: USA v. TRYON-CASTRO
 judge:

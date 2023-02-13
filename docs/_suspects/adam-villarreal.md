@@ -35,7 +35,7 @@ title: Adam Villarreal charged on March 23rd, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-cr-0035
 caseName: USA v. VILLARREAL
 judge:
