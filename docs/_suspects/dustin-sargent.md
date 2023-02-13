@@ -1,9 +1,9 @@
 ---
 name: Dustin Sargent
 lastName: Sargent
-hashtag:
+hashtag: BeardedPlaidGoggles
 aka:
-residence:
+residence: Pennsylvania
 status: Charged
 date: 2023-01-23
 charged: 2023-01-23
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 30
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,7 +43,8 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.wnep.com/article/news/local/monroe-county/monroe-county-man-arrested-for-capitol-riot-role-dustin-sargent-from-kunkletown-was-arrested-wednesday/523-1d76ffac-2ccf-4b1b-adfb-a36a0309ecd4)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567191/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567196/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567201/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/pennsylvania-man-arrested-felony-charges-actions-during-jan-6-capitol-breach)

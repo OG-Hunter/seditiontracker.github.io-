@@ -3,7 +3,7 @@ name: Richard Avirett
 lastName: Avirett
 hashtag:
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2023-01-19
 charged: 2023-01-19
@@ -20,7 +20,7 @@ jury_selection:
 sentencing:
 status_conference:
 age:
-occupation:
+occupation: Marine Corps veteran
 affiliations:
 jurisdiction: Federal
 image: /images/preview/richard-avirett.jpg
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://vozwire.com/marine-corps-vet-richard-avirett-took-part-in-the-jan-6-capitol-riot-but-hasnt-been-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567476/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567471/download)

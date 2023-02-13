@@ -3,7 +3,7 @@ name: Kyle Mlynarek
 lastName: Mlynarek
 hashtag:
 aka:
-residence:
+residence: Michigan
 status: Charged
 date: 2023-01-27
 charged: 2023-01-27
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 27
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.fox2detroit.com/news/2-metro-detroit-men-arrested-for-roles-in-jan-6-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567216/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567221/download)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-michigan-men-arrested-felony-charges-actions-during-jan-6-capitol-breach)
