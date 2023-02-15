@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wdbj7.com/2023/01/18/roanoke-woman-arrested-involvement-capitol-riot/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-arrested-felony-charges-actions-during-jan-6-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567226/download)

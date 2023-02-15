@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wnep.com/article/news/local/monroe-county/monroe-county-man-arrested-for-capitol-riot-role-dustin-sargent-from-kunkletown-was-arrested-wednesday/523-1d76ffac-2ccf-4b1b-adfb-a36a0309ecd4)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567191/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567196/download)
