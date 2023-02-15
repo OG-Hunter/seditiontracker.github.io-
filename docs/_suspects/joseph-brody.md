@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-14
+status_conference: 2023-05-16
 age: 23
 occupation:
 affiliations: Groypers

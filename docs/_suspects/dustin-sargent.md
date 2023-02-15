@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0037
 caseName: USA v. SARGENT
-judge:
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

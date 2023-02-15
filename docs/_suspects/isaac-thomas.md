@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-03-30
 age: 20
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0024
 caseName: USA v. THOMAS
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

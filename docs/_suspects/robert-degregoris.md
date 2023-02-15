@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-23
 age: 32
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0023
 caseName: USA v. DEGREGORIS
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

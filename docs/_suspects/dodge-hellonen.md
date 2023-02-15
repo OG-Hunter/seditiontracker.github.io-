@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0014
 caseName: USA v. HELLONEN
-judge:
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

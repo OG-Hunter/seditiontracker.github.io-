@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-02
+status_conference: 2023-03-07
 age: 35
 occupation: Owner, Cliff’s Mobile Motorcycle Tires
 affiliations:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/08/10/fort-worth-mechanic-assaulted-capitol-police-with-baton-and-table-during-jan-6-riot-feds-say/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1423131/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Thomas%20John%20Ballard%20Indictment.pdf)

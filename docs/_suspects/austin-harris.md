@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-04
 age:
 occupation: Doctor
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0021
 caseName: USA v. HARRIS
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

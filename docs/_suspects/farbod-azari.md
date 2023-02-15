@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0012
 caseName: USA v. AZARI
-judge:
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

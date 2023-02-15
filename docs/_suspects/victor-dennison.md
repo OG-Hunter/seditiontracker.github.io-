@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0032
 caseName: USA v. DENNISON
-judge:
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

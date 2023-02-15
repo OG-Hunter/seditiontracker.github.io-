@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0222
 caseName: USA v. KHATER
-judge: Thomas F. Hogan
+judge: Richard J. Leon
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b) and (2)

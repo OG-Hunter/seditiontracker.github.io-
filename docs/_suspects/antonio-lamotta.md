@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-08-14
+trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-02-09
+status_conference: 2023-02-23
 age: 63
 occupation:
 affiliations:

@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-04-27
 status_conference:
 age: 60
 occupation: Martial arts gym owner

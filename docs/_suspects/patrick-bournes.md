@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-02-15
 age: 59
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0035
 caseName: USA v. BOURNES
-judge: Robin M. Meriweather
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

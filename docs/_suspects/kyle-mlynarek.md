@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0025
 caseName: USA v. MLYNAREK
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

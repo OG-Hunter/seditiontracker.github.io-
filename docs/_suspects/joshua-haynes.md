@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing: 2023-02-02
-status_conference:
+status_conference: 2023-04-26
 age: 39
 occupation:
 affiliations: Proud Boys
