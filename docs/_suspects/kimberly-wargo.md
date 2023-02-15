@@ -4,16 +4,16 @@ lastName: Wargo
 hashtag:
 aka:
 residence: Ohio
-status: Charged
+status: Convicted
 date: 2022-05-03
 charged: 2022-05-03
 indicted:
-convicted:
+convicted: 2023-02-07
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-02-07
 trial_date:
 trial_type:
 jury_selection:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Kimberly Wargo charged on May 3, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 7, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. WARGO
 judge: Royce C. Lamberth
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.cleveland.com/court-justice/2022/05/feds-charge-north-olmsted-mother-westlake-son-in-jan-6-capitol-riot.html)
