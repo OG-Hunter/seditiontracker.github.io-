@@ -35,7 +35,7 @@ title: Brian Mcgee charged on February 8th, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 23-mj-0033
 caseName: USA v. MCGEE
 judge:
