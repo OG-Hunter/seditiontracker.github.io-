@@ -41,25 +41,24 @@ caseName: USA v. RODRIGUEZ
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1512(c)(1)
-    title: Tampering with Documents or Proceedings
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1512(c)(1)
+  title: Tampering with Documents or Proceedings
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.latimes.com/california/story/2021-03-31/daniel-rodriguez-arrested-capitol-riot-officer-assault)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1381991/download)
 - [FBI Interview](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229256/gov.uscourts.dcd.229256.38.1.pdf)

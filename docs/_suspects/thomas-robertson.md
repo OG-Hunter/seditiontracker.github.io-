@@ -41,35 +41,34 @@ caseName: USA v. ROBERTSON
 judge:
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 231(a)(3),2
-    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 1752(a)(1) and b(1)(A)
-    title: Entering a restricted building or grounds (w/a deadly weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 18 USC § 1752(a)(2) and b(1)(A)
-    title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds (w/a deadly weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 18 USC § 1512(c)(1)
-    title: Tampering with Documents or Proceedings
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 231(a)(3),2
+  title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 1752(a)(1) and b(1)(A)
+  title: Entering a restricted building or grounds (w/a deadly weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 18 USC § 1752(a)(2) and b(1)(A)
+  title: Disorderly and Disruptive Conduct in a Restricted Building or Grounds (w/a deadly weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 18 USC § 1512(c)(1)
+  title: Tampering with Documents or Proceedings
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 87 months incarceration
   - $2000 restitution
 ---
-
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1353456/download)

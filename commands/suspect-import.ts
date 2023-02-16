@@ -189,6 +189,10 @@ const importDoj = async (nameSet: Set<string>) => {
       name = "WOODS, Shane";
     }
 
+    if (name == "NICHOLS, William") {
+      name = "NICHOLS JR, William";
+    }
+
     if (name.match(/.*Timothy Earl$/)) {
       name = "O'MALLEY, Timothy";
     }
