@@ -1,9 +1,9 @@
 ---
-name: Brian Mcgee
-lastName: Mcgee
+name: Brian McGee
+lastName: McGee
 hashtag:
 aka:
-residence:
+residence: Missouri
 status: Charged
 date: 2023-02-08
 charged: 2023-02-08
@@ -20,7 +20,7 @@ jury_selection:
 sentencing:
 status_conference:
 age:
-occupation:
+occupation: Former Missouri National Guard
 affiliations:
 jurisdiction: Federal
 image: /images/preview/brian-mcgee.jpg
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://localtoday.news/mo/former-missouri-national-guard-arrested-in-connection-with-january-6-capitol-riots-141252.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1568186/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1568181/download)
