@@ -3,7 +3,7 @@ name: Jeremy Harrison
 lastName: Harrison
 hashtag:
 aka:
-residence:
+residence: Florida
 status: Charged
 date: 2023-02-08
 charged: 2023-02-08
@@ -43,6 +43,6 @@ videos:
 charges:
 sentence:
 ---
-- [News Report]()
+- [News Report](https://www.clickorlando.com/news/local/2023/02/09/36th-central-florida-resident-arrested-in-capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1568186/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1568181/download)
