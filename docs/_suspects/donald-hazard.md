@@ -4,11 +4,11 @@ lastName: Hazard
 hashtag: TacklingDummy
 aka:
 residence: Texas
-status: Indicted
+status: Convicted
 date: 2021-12-07
 charged: 2021-12-07
 indicted: 2022-04-01
-convicted:
+convicted: 2023-02-16
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "There’s a Civil War coming and I for one will be on the front lines taking out as many of those sons of bitches as I possibly can."
 title: Donald Hazard charged on 12/7/2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 16, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. HAZARD
 judge: Randolph D. Moss
 videos:
 charges:
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
 - [News Report](https://www.dallasnews.com/news/crime/2021/12/14/tarrant-county-men-arrested-after-feds-say-they-fought-with-police-at-capitol-on-jan-6/)

@@ -4,10 +4,10 @@ lastName: Chwiesiuk
 hashtag:
 aka: Agnes Chwiesiuk
 residence: Illinois
-status: Charged
+status: Indicted
 date: 2022-12-16
 charged: 2022-12-16
-indicted:
+indicted: 2023-02-13
 convicted:
 acquitted:
 sentenced:
@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://news.wttw.com/2022/12/19/sister-chicago-police-officer-previously-charged-jan-6-riot-now-also-charged-breaching-us)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560296/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560301/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235279/gov.uscourts.dcd.235279.54.0_1.pdf)

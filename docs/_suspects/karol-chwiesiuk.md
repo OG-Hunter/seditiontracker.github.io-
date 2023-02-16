@@ -4,10 +4,10 @@ lastName: Chwiesiuk
 hashtag: KarolChwiesiuk
 aka:
 residence: Illinois
-status: Charged
+status: Indicted
 date: 2021-06-11
 charged: 2021-06-11
-indicted:
+indicted: 2023-02-13
 convicted:
 acquitted:
 sentenced:
@@ -47,3 +47,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1403441/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Motion%20to%20Mofidy%20Conditions%20of%20Release.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Karol%20Chwiesiuk%20Information.pdf)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.235279/gov.uscourts.dcd.235279.54.0_1.pdf)

@@ -44,4 +44,4 @@ charges:
 sentence:
 ---
 - [News Report](https://www.fox4news.com/news/fort-worth-man-charged-for-injuring-officers-during-capitol-riot)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481481/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234879/gov.uscourts.dcd.234879.245.0.pdf)

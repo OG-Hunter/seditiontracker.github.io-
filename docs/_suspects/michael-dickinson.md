@@ -4,13 +4,13 @@ lastName: Dickinson
 hashtag: UnluckyWaterman
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-09-30
 charged: 2021-09-30
 indicted: 2021-10-29
 convicted: 2022-09-06
 acquitted:
-sentenced:
+sentenced: 2023-02-16
 dismissed:
 deceased:
 plea_hearing: 2022-09-06
@@ -46,6 +46,9 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/18/111
   felony: true
 sentence:
+  - 20 months incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
 - [News Report](https://www.inquirer.com/news/capitol-riot-arrest-michael-dickinson-philadelphia-20211006.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1439961/download)

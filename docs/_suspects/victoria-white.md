@@ -13,9 +13,9 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-02-10
-trial_date:
-trial_type:
+plea_hearing:
+trial_date: 2023-05-08
+trial_type: Jury Trial
 jury_selection:
 sentencing:
 status_conference:
