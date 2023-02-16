@@ -13,9 +13,9 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
-trial_date: 2023-02-27
-trial_type: Bench Trial
+plea_hearing: 2023-02-22
+trial_date:
+trial_type:
 jury_selection: 2023-02-27
 sentencing:
 status_conference:
