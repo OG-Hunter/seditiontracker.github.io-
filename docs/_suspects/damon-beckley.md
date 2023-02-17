@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2022-12-12
-trial_type: Jury Trial
+trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
 status_conference:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
 - [Complaint](https://www.justice.gov/opa/file/1355856/download)
 - [Statement of Facts](https://www.justice.gov/opa/file/1355861/download)
