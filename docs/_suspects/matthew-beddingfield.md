@@ -17,7 +17,7 @@ plea_hearing: 2023-02-16
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-06-22
 status_conference:
 age: 21
 occupation:
@@ -41,13 +41,12 @@ caseName: USA v. BEDDINGFIELD
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-arrests-trump-fan-stormed-capitol-bail-attempted-murder-rcna15169)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470311/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1470316/download)

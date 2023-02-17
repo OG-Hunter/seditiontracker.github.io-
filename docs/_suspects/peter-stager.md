@@ -4,11 +4,11 @@ lastName: Stager
 hashtag: Caveman
 aka:
 residence: Arkansas
-status: Indicted
+status: Convicted
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-01-29
-convicted:
+convicted: 2023-02-16
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing: 2023-02-16
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-07-24
 status_conference:
 age: 41
 occupation:
@@ -32,7 +32,7 @@ raid: peter-stager.jpg
 perpwalk:
 quote: "Everybody in there is a treasonous traitor. Death is the only remedy for what’s in that building."
 title: Peter Stager charged on January 14, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on February 16, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,13 @@ caseName: USA v. STAGER
 judge: Rudolph Contreras
 videos:
 charges:
+  - code: 18 USC § 111(a)(1) and (b),2
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon) (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/BeFqRm1wpv2SEpH3SSLQ)
 - [Self Incrimination [VIDEO]](https://www.youtube.com/watch?v=SVhLKKTUhIg&feature=youtu.be)
 - [Complaint](https://www.justice.gov/opa/page/file/1354981/download)

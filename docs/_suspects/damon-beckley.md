@@ -14,7 +14,7 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2022-12-12
+trial_date: 2023-02-23
 trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
