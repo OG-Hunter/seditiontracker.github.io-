@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.huffpost.com/entry/facial-recognition-capitol-defendants_n_607f34c0e4b0df3610c17614)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388841/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234879/gov.uscourts.dcd.234879.245.0.pdf)

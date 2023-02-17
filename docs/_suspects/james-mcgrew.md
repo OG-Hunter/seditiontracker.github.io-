@@ -41,17 +41,16 @@ caseName: USA v. MCGREW
 judge: Beryl A. Howell
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 78 months incarceration
   - $5000 fine
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.azcentral.com/story/news/local/arizona/2021/06/02/james-burton-mcgrew-king-james-belly-tattoo-arrested-arizona-striking-2-officers-capitol-riot-jan-6/7499980002/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400856/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505726/download)

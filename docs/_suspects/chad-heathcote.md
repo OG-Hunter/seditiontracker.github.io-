@@ -41,16 +41,15 @@ caseName: USA v. HEATHCOTE
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 15 days intermittent confinement
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.desmoinesregister.com/story/news/crime-and-courts/2022/05/05/chad-heathcote-adel-iowa-charged-two-offenses-january-6-2021-us-capitol-riot-washington-dc/9655987002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499041/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1499046/download)
