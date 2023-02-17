@@ -17,7 +17,7 @@ plea_hearing: 2022-07-01
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-01-26
+sentencing:
 status_conference: 2023-02-17
 age: 44
 occupation:
@@ -41,12 +41,13 @@ caseName: USA v. ZOYGANELES
 judge: James E. Boasberg
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://chicago.suntimes.com/metro-state/2022/2/22/22946601/feds-arrest-man-who-says-he-stayed-front-lines-during-capitol-breach)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475901/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1475906/download)

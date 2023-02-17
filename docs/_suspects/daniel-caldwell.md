@@ -4,13 +4,13 @@ lastName: Caldwell
 hashtag: SprayMeSprayYou
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-02-10
 charged: 2021-02-10
 indicted: 2021-03-03
 convicted: 2022-09-26
 acquitted:
-sentenced:
+sentenced: 2023-02-01
 dismissed:
 deceased:
 plea_hearing: 2022-09-26
@@ -41,12 +41,15 @@ caseName: USA v. CALDWELL
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 68 months incarceration
+  - $0 restitution
 ---
+
 - [News Report](https://dentonrc.com/news/denton-county-man-allegedly-assaulted-officer-at-capitol-riot/article_bdf358b0-4e47-5d72-bf9a-11887f779425.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378491/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378486/download)
