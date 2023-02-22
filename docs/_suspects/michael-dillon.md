@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-04
 age:
 occupation:
 affiliations:
@@ -38,11 +38,10 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0032
 caseName: USA v. DILLON
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:
 ---
-
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567971/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567976/download)

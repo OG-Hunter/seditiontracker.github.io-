@@ -18,7 +18,7 @@ trial_date: 2023-06-20
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-02-17
+status_conference:
 age: 45
 occupation:
 affiliations: Proud Boys, USMC

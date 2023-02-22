@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2022-12-06
 trial_type: Bench Trial
 jury_selection:
-sentencing: 2023-03-13
+sentencing: 2023-04-27
 status_conference:
 age: 55
 occupation:

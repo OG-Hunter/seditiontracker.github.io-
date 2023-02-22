@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-17
+status_conference: 2023-03-03
 age:
 occupation: Business Consultant at KCO Credit
 affiliations:

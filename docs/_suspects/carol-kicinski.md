@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing: 2023-02-23
-status_conference:
+status_conference: 2023-04-03
 age:
 occupation: Founder, Simply Gluten Free Magazine
 affiliations:
