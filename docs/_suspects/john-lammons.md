@@ -4,13 +4,13 @@ lastName: Lammons
 hashtag:
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2022-03-01
 charged: 2022-03-01
 indicted:
 convicted: 2022-11-08
 acquitted:
-sentenced:
+sentenced: 2023-02-06
 dismissed:
 deceased:
 plea_hearing: 2022-11-08
@@ -41,12 +41,16 @@ caseName: USA v. LAMMONS
 judge: Royce C. Lamberth
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 30 days incarceration
+  - 3 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.khou.com/article/news/local/fbi-agents-arrest-galveston-county-man-capitol-riot/285-38904ed4-0723-4e3e-886f-2892b41d1a9d)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487231/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487236/download)

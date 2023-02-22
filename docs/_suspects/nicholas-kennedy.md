@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-02-08
+plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/sikeston-man-faces-charges-in-capitol-riot-feds-say/article_aeda28bb-fed3-5cd3-8281-9ba9dd8db859.html)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Nicholas%20Kennedy%20Indictment.pdf)
