@@ -4,13 +4,13 @@ lastName: Hubbard
 hashtag:
 aka:
 residence: Oregon
-status: Convicted
+status: Sentenced
 date: 2021-12-06
 charged: 2021-12-06
 indicted:
 convicted: 2022-11-17
 acquitted:
-sentenced:
+sentenced: 2023-02-17
 dismissed:
 deceased:
 plea_hearing: 2022-11-17
@@ -30,7 +30,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'Break it down'
+quote: "Break it down"
 title: Jeffrey Hubbard charged on December 6, 2021
 description: Convicted on November 17, 2022. Click for latest case details.
 author: seditiontrack
@@ -46,6 +46,9 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 45 days incarceration
+  - 3 years probation
+  - $500 restitution
 ---
 - [News Report](https://www.oregonlive.com/crime/2021/12/lincoln-city-man-accused-of-storming-the-us-capitol-on-jan-6.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459251/download)

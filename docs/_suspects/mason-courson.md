@@ -41,13 +41,12 @@ caseName: USA v. COURSON
 judge: Rudolph Contreras
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b),2
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon) (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b),2
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon) (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://abcnews.go.com/US/wireStory/florida-man-arrested-charged-jan-attack-us-capitol-81775546)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461561/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554831/download)
