@@ -1,18 +1,18 @@
 id: 261
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #261 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-261a.jpg/@@images/image/preview
+label: "Photograph #261 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-261aarrest.jpg/@@images/image/preview
 hashtag: BlackGreyFlannel
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-06-24
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/luke-lints
 name: Luke Lints
 missingImage: false
 identifiedBy: null
