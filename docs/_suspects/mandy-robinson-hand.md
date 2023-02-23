@@ -41,16 +41,15 @@ caseName: USA v. ROBINSON-HAND
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 20 days incarceration
   - 6 months probation
   - $500 restitution
 ---
-
 - [News Report](https://www.11alive.com/article/news/special-reports/capitol-insurrection/georgia-couple-arrested-jan-6-case-capitol-riots/85-7da2e02e-4b63-4579-9aef-a959a286d122)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482886/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1482891/download)

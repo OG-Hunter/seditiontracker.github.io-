@@ -41,16 +41,15 @@ caseName: USA v. BAOUCHE
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 30 days incarceration
   - 2 years probation
   - $0 restitution
 ---
-
 - [News Report](https://www.courant.com/breaking-news/hc-br-new-london-man-arrested-capitol-riot-20211112-34gykmlotvhs7drrykkdl6g4pi-story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528881/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528896/download)
