@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0033
 caseName: USA v. HARRISON
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

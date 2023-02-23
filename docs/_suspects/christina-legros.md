@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0024
 caseName: USA v. LEGROS
-judge:
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:

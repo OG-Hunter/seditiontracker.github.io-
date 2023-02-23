@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-18
 age:
 occupation: Former Missouri National Guard
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0033
 caseName: USA v. MCGEE
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:
