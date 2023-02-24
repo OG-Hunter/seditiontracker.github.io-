@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-03-03
-trial_type: Bench Trial
+trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
 status_conference:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-says-proud-boy-tried-derail-jan-6-investigating-menacing-agent-rcna25418)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1496006/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243752/gov.uscourts.dcd.243752.6.0.pdf)
