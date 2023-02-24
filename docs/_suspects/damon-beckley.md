@@ -4,11 +4,11 @@ lastName: Beckley
 hashtag: DamonBeckley
 aka:
 residence: Kentucky
-status: Indicted
+status: Convicted
 date: 2021-01-16
 charged: 2021-01-16
 indicted: 2021-04-07
-convicted:
+convicted: 2023-02-23
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-02-23
 trial_type: Stipulated Bench Trial
 jury_selection:
-sentencing:
+sentencing: 2023-05-24
 status_conference:
 age: 52
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "If we're going to come back here and start a revolution and take all of these traitors out, which is what should be done, then we will!"
 title: Damon Beckley charged on January 16, 2021
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Convicted on February 23, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,17 @@ caseName: USA v. BECKLEY
 judge: James E. Boasberg
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.wdrb.com/news/fbi-arrests-man-from-louisville-who-entered-us-capitol-during-riot/article_9dff8ffc-5863-11eb-b21c-5b982889fe2a.html)
 - [Complaint](https://www.justice.gov/opa/file/1355856/download)
 - [Statement of Facts](https://www.justice.gov/opa/file/1355861/download)

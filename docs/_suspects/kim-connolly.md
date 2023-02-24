@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0031
 caseName: USA v. CONNOLLY
-judge:
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:

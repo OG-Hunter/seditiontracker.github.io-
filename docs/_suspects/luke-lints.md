@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.9and10news.com/2022/06/30/traverse-city-man-arrested-on-felony-misdemeanor-charges-for-jan-6-actions/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516826/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516831/download)

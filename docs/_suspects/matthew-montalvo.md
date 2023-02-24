@@ -4,13 +4,13 @@ lastName: Montalvo
 hashtag:
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2022-04-15
 charged: 2022-04-15
 indicted:
 convicted: 2022-10-14
 acquitted:
-sentenced:
+sentenced: 2023-01-13
 dismissed:
 deceased:
 plea_hearing: 2022-10-14
@@ -41,12 +41,16 @@ caseName: USA v. MONTALVO
 judge: Randolph D. Moss
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - $5000 fine
+  - $500 restitution
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2022/04/26/man-arrested-on-jan-6-capitol-riot-charges-is-27th-central-floridian-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497021/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1497026/download)
