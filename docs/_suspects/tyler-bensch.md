@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-24
+status_conference: 2023-03-23
 age: 20
 occupation:
 affiliations: B Squad Militia, Three Percenters
