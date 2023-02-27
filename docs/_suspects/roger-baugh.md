@@ -41,16 +41,15 @@ caseName: USA v. BAUGH
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 1 year incarceration
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.whas11.com/article/news/crime/roger-kent-baugh-guilty-us-capitol-riots-january-6/417-4b71e35a-c57c-4a82-a012-64d903833756)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546241/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546246/download)
