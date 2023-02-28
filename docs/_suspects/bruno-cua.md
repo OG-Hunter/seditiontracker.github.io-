@@ -40,20 +40,19 @@ caseNumber: 21-cr-0107
 caseName: USA v. CUA
 judge: Randolph D. Moss
 videos:
-  - title: Detention Ex 4 Cua.mp4 (0:00:41)
-    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4
+- title: Detention Ex 4 Cua.mp4 (0:00:41)
+  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/6ea58310ce2a013960702cde48001122.mp4
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.ajc.com/news/metro-atlanta-teen-charged-in-us-capitol-attack/U7EPRZANXVBFPB7KRW7EQ3VRIE/)
 - [FBI Statement (Twitter)](https://twitter.com/FBIAtlanta/status/1358082973623533571?s=20)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365571/download)
