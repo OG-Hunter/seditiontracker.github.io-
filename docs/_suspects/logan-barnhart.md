@@ -17,7 +17,7 @@ plea_hearing: 2022-09-28
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-03-09
+sentencing: 2023-04-13
 status_conference:
 age: 40
 occupation: Machine Operator, Barnhart & Son Inc.
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. BARNHART
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

@@ -41,13 +41,12 @@ caseName: USA v. LINTS
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.9and10news.com/2022/06/30/traverse-city-man-arrested-on-felony-misdemeanor-charges-for-jan-6-actions/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516826/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516831/download)

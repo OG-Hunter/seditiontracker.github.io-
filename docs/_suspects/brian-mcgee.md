@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-04-18
+status_conference: 2023-02-28
 age:
 occupation: Former Missouri National Guard
 affiliations:

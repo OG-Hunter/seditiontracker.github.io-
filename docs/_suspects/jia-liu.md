@@ -17,7 +17,7 @@ plea_hearing: 2022-10-20
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-06-06
+sentencing: 2023-06-15
 status_conference:
 age: 26
 occupation: US Marine Corps Reserve
