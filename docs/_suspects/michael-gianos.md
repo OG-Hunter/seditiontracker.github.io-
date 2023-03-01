@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-04-10
-trial_type: Jury Trial
+trial_date:
+trial_type:
 jury_selection:
 sentencing:
 status_conference:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/feds-claim-pa-woman-stormed-the-capitol-on-jan-6-welcomed-fight-with-counterprotesters/ar-AARp9Sv)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459071/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459076/download)
