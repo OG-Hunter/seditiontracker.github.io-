@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-02-13
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/william-sarsfield
+name: William Sarsfield
 missingImage: false
 identifiedBy: null
 notes: null
