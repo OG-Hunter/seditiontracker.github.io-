@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-04-28
 trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-10
+status_conference:
 age:
 occupation:
 affiliations:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://triblive.com/local/regional/cranberry-man-charged-for-alleged-involvement-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485601/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1485606/download)
