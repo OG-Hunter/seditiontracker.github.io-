@@ -174,11 +174,13 @@ const parseSchedule = async () => {
           if (!isBlank(suspect.plea_hearing)) {
             break;
           }
-          if (!trial_type) {
+          if (!trial_type || trial_type !== "Bench Trial") {
             console.log(`${suspect.name} bench trial: ${dateText}`);
             suspect.trial_type = "Bench Trial";
           }
-          suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          if (!suspect.trial_date) {
+            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+          }
           break;
         case "Status Conference":
           suspect.status_conference = earliestDate(suspect, "status_conference", dateText);

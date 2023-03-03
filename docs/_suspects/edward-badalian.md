@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-03-02
-trial_type: Jury Trial
+trial_type: Bench Trial
 jury_selection: 2023-02-27
 sentencing:
 status_conference:

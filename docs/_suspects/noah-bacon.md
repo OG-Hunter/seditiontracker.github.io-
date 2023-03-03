@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-02-27
 trial_type: Jury Trial
 jury_selection: 2023-02-27
-sentencing:
+sentencing: 2023-06-14
 status_conference:
 age: 28
 occupation:
