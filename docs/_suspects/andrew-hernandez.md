@@ -41,16 +41,15 @@ caseName: USA v. HERNANDEZ
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 18 months incarceration
   - 3 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.sfgate.com/politics/article/California-man-wore-shirt-job-logo-manager-FBI-15982541.php)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378681/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378676/download)
