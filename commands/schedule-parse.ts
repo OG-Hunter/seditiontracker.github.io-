@@ -181,6 +181,9 @@ const parseSchedule = async () => {
           if (!suspect.trial_date) {
             suspect.trial_date = latestDate(suspect, "trial_date", dateText);
           }
+          if (suspect.jury_selection) {
+            suspect.jury_selection = null;
+          }
           break;
         case "Status Conference":
           suspect.status_conference = earliestDate(suspect, "status_conference", dateText);
