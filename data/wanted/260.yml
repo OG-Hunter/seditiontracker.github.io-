@@ -1,19 +1,19 @@
 id: 260
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #260 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-260a.jpg/@@images/image/preview
+label: "Photograph #260 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-260aarrest.jpg/@@images/image/preview
 hashtag: MrBeanAFO
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2022-11-02
 mugshot: null
-sedition_link: null
-name: Ray Cholard
+sedition_link: https://seditiontracker.com/suspects/raymund-cholod
+name: Raymund Cholod
 missingImage: false
 identifiedBy: null
 notes: null
