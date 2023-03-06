@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-04-28
 trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-03-03
+status_conference:
 age:
 occupation: Business Consultant at KCO Credit
 affiliations:

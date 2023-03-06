@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-03-24
 trial_date:
 trial_type:
 jury_selection:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.ydr.com/story/news/2022/05/24/brian-korte-york-haven-lynwood-nester-dillsburg-charged-capitol-riots/65357319007/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507501/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507506/download)

@@ -18,7 +18,7 @@ trial_date: 2023-04-07
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-03-03
+status_conference:
 age: 40
 occupation:
 affiliations: Proud Boys(?) (Chicago)
