@@ -1,9 +1,9 @@
 ---
 name: Nathan Watts
 lastName: Watts
-hashtag: 
+hashtag:
 aka:
-residence: 
+residence:
 status: Charged
 date: 2023-02-23
 charged: 2023-02-23
@@ -36,11 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-00044
 caseName: USA v. WATTS
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [Arrest Warrant](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252474/gov.uscourts.dcd.252474.5.0.pdf)

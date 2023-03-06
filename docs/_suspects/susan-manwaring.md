@@ -4,26 +4,26 @@ lastName: Manwaring
 hashtag:
 aka:
 residence:
-status: Convicted
+status: Sentenced
 date: 2022-09-13
 charged: 2022-09-13
 indicted:
 convicted: 2022-10-05
 acquitted:
-sentenced:
+sentenced: 2023-02-14
 dismissed:
 deceased:
 plea_hearing: 2022-10-05
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-01-19
+sentencing: 2023-02-14
 status_conference:
 age:
 occupation:
 affiliations:
 jurisdiction: Federal
-image: /images/preview/convicted.jpg
+image: /images/preview/sentenced.jpg
 suspect: arrest.jpg
 booking:
 courtroom:
@@ -42,7 +42,11 @@ judge: Carl J. Nichols
 videos:
 charges:
 sentence:
+  - 30 days home detention
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540796/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540801/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540806/download)

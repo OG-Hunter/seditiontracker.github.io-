@@ -4,13 +4,13 @@ lastName: Bronsburg
 hashtag: TammyBronsburg
 aka: Tammy Butry
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-02-04
 charged: 2021-02-04
 indicted:
 convicted: 2022-06-07
 acquitted:
-sentenced:
+sentenced: 2023-01-05
 dismissed:
 deceased:
 plea_hearing: 2022-06-07
@@ -41,12 +41,16 @@ caseName: USA v. BRONSBURG
 judge: Reggie B. Walton
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 20 days incarceration
+  - 2 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.northcentralpa.com/news/two-lycoming-county-individuals-charged-with-breaking-into-u-s-capitol/article_266b3682-67c5-11eb-a73d-9336a612db11.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Mark%20Aungst%20and%20Tammy%20Bronsburg%20Criminal%20Complaint.pdf)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1365926/download)

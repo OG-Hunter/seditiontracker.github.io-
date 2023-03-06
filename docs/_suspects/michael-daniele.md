@@ -36,12 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-00042
 caseName: USA v. DANIELE
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.courierpostonline.com/story/news/local/south-jersey/2023/02/27/capitol-rioters-sentenced-retired-nj-state-trooper-michael-daniele/69951038007/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252406/gov.uscourts.dcd.252406.1.1.pdf)

@@ -4,20 +4,20 @@ lastName: Gordon
 hashtag: VaughnGordon
 aka:
 residence: Louisiana
-status: Convicted
+status: Sentenced
 date: 2021-01-14
 charged: 2021-01-14
 indicted: 2021-02-09
 convicted: 2022-09-28
 acquitted:
-sentenced:
+sentenced: 2023-02-27
 dismissed:
 deceased:
 plea_hearing: 2022-09-28
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-02-24
+sentencing: 2023-02-27
 status_conference:
 age: 50
 occupation:
@@ -41,12 +41,16 @@ caseName: USA v. GORDON
 judge: Paul L. Friedman
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 90 days home confinement
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.theadvocate.com/acadiana/news/article_489d5514-56b3-11eb-bbbb-2b9a6a6e6984.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354986/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354991/download)
