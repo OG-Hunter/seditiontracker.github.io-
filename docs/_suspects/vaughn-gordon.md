@@ -41,16 +41,15 @@ caseName: USA v. GORDON
 judge: Paul L. Friedman
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
-  - 90 days home confinement
+  - 90 days home detention
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.theadvocate.com/acadiana/news/article_489d5514-56b3-11eb-bbbb-2b9a6a6e6984.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1354986/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1354991/download)

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0689
 caseName: USA v. HAMNER
-judge:
+judge: Amy B. Jackson
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

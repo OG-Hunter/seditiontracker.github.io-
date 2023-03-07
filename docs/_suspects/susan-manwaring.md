@@ -46,7 +46,6 @@ sentence:
   - 3 years probation
   - $500 restitution
 ---
-
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540796/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540801/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540806/download)

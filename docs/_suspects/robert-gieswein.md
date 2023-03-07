@@ -17,7 +17,7 @@ plea_hearing: 2023-03-06
 trial_date:
 trial_type:
 jury_selection: 2023-05-02
-sentencing:
+sentencing: 2023-06-09
 status_conference:
 age: 24
 occupation: Founder of Woodland Wild Dogs (Paramilitary Training Group)
