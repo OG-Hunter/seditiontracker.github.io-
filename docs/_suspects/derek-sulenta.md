@@ -4,13 +4,13 @@ lastName: Sulenta
 hashtag:
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2022-06-06
 charged: 2022-06-06
 indicted:
 convicted: 2022-11-08
 acquitted:
-sentenced:
+sentenced: 2023-02-22
 dismissed:
 deceased:
 plea_hearing: 2022-11-08
@@ -41,12 +41,16 @@ caseName: USA v. SULENTA
 judge: Tanya S. Chutkan
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 14 days incarceration
+  - 480 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.msn.com/en-us/news/politics/doj-says-man-arrested-in-long-beach-bragged-dude-we-breached-the-capital/ar-AA10mJsN)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524366/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1524371/download)

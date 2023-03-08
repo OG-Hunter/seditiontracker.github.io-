@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-02-21
-trial_type: Jury Trial
-jury_selection: 2023-02-21
+trial_date:
+trial_type:
+jury_selection:
 sentencing:
 status_conference: 2023-03-24
 age: 41
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.houstonpublicmedia.org/articles/news/criminal-justice/2021/03/30/394724/texas-lifestyle-coach-and-her-boyfriend-arrested-for-joining-capitol-insurrection-fbi-says/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386551/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386556/download)

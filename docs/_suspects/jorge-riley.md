@@ -8,16 +8,16 @@ status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-02-03
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
 plea_hearing: 2023-03-07
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-09-06
 status_conference:
 age: 42
 occupation:
@@ -30,7 +30,7 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'We broke windows. We went into the door. We pushed our way in.'
+quote: "We broke windows. We went into the door. We pushed our way in."
 title: Jorge Riley charged on January 19, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://nypost.com/2021/01/19/gop-activist-jorge-riley-arrested-in-capitol-hill-attack/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357041/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357046/download)
