@@ -30,7 +30,7 @@ courtroom:
 courthouse: paul-rae.jpg
 raid: paul-rae.jpg
 perpwalk:
-quote:
+quote: "Let's go find Pelosi"
 title: Paul Rae arrested on March 24, 2021
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack

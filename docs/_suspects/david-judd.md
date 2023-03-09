@@ -41,21 +41,20 @@ caseName: USA v. JUDD
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 32 months incarceration
   - 2 years probation
   - $5691 fine
   - $2000 restitution
 ---
-
 - [News Report](https://www.dallasnews.com/news/crime/2021/03/26/dallas-fbi-arrests-its-20th-alleged-rioter-for-storming-of-the-capitol-during-uprising/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1380671/download)
