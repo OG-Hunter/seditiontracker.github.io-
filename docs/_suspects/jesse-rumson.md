@@ -4,10 +4,10 @@ lastName: Rumson
 hashtag: SeditionPanda
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2023-02-24
 charged: 2023-02-24
-indicted:
+indicted: 2023-03-08
 convicted:
 acquitted:
 sentenced:
@@ -45,3 +45,4 @@ sentence:
 ---
 
 - [News Report](https://www.wfla.com/news/local-news/citrus-county/florida-man-known-as-sedition-panda-arrested-for-allegedly-storming-capitol/)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252921/gov.uscourts.dcd.252921.8.0_1.pdf)
