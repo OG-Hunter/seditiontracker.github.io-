@@ -4,13 +4,13 @@ lastName: Khater
 hashtag: MuttonTrump
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-03-15
 charged: 2021-03-15
 indicted: 2021-03-17
 convicted: 2022-09-01
 acquitted:
-sentenced:
+sentenced: 2023-01-27
 dismissed:
 deceased:
 plea_hearing: 2022-09-01
@@ -38,19 +38,24 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0222
 caseName: USA v. KHATER
-judge: Richard J. Leon
+judge: Thomas F. Hogan
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b) and (2)
-  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
-- code: 18 USC § 111(a)(1) and (b) and (2)
-  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b) and (2)
+    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1) and (b) and (2)
+    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 80 months incarceration
+  - 2 years probation
+  - $10000 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)

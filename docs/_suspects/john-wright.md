@@ -4,13 +4,13 @@ lastName: Wright
 hashtag: JohnWright
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-04-26
 charged: 2021-04-26
 indicted: 2021-05-05
 convicted: 2022-08-02
 acquitted:
-sentenced:
+sentenced: 2023-03-06
 dismissed:
 deceased:
 plea_hearing: 2022-08-02
@@ -41,12 +41,16 @@ caseName: USA v. WRIGHT
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 49 months incarceration
+  - 3 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download)
