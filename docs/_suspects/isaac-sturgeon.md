@@ -18,7 +18,7 @@ trial_date: 2023-05-15
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-03-09
+status_conference:
 age: 32
 occupation: Owner, Lawn Care Business
 affiliations:

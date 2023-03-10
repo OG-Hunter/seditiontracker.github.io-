@@ -41,21 +41,20 @@ caseName: USA v. KHATER
 judge: Thomas F. Hogan
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 111(a)(1) and (b) and (2)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 111(a)(1) and (b) and (2)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon and Aiding and Abetting
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 80 months incarceration
   - 2 years probation
   - $10000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://apnews.com/article/george-tanios-julian-khater-charged-capitol-riot-f28484b486155d911cab41c90a8bed8d)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1376156/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377311/download)

@@ -41,13 +41,12 @@ caseName: USA v. RILEY
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://nypost.com/2021/01/19/gop-activist-jorge-riley-arrested-in-capitol-hill-attack/)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1357041/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1357046/download)

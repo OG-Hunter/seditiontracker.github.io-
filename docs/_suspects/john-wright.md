@@ -41,16 +41,15 @@ caseName: USA v. WRIGHT
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 49 months incarceration
   - 3 years probation
   - $0 restitution
 ---
-
 - [News Report](https://www.cantonrep.com/story/news/2021/05/03/stark-county-man-arrested-charged-capitol-riot/4924457001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391066/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1391071/download)
