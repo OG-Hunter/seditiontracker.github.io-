@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-03-06
 trial_type: Jury Trial
 jury_selection:
-sentencing:
+sentencing: 2023-07-14
 status_conference:
 age: 51
 occupation: Retired NYPD Officer

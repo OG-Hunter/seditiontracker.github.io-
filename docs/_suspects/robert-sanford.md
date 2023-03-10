@@ -17,7 +17,7 @@ plea_hearing: 2022-09-23
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-03-16
+sentencing: 2023-04-11
 status_conference:
 age: 55
 occupation: Fire Fighter (Retired)
