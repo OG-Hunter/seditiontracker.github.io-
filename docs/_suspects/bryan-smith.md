@@ -35,7 +35,7 @@ title: Bryan Smith charged on 12/13/2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. SMITH
 judge:
