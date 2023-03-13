@@ -18,7 +18,7 @@ trial_date: 2023-04-03
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-03-10
+status_conference:
 age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
