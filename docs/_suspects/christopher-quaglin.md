@@ -21,7 +21,7 @@ sentencing:
 status_conference:
 age: 35
 occupation: Electrician
-affiliations:
+affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/christopher-quaglin.jpg
 suspect: christopher-quaglin.jpg

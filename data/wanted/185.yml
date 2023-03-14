@@ -1,10 +1,10 @@
 id: 185
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
-label: "Photograph #185 - AFO"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-185.png/@@images/image/preview
+label: "Photograph #185 - AFO (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-185arrest.jpg/@@images/image/preview
 hashtag: CrispWhiteRiot
 fugitive: false
 minor: false

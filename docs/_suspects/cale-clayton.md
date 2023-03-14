@@ -4,11 +4,11 @@ lastName: Clayton
 hashtag: MAGAHotDog
 aka:
 residence: Missouri
-status: Indicted
+status: Convicted
 date: 2022-03-28
 charged: 2022-03-28
 indicted: 2022-04-22
-convicted:
+convicted: 2023-03-10
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "Your fucking president told us to be here. You should be on this side, right here, going with us. You are an American citizen. Your fucking President told you to do that."
 title: Cale Clayton charged on March 28th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 10, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,17 @@ caseName: USA v. CLAYTON
 judge: Royce C. Lamberth
 videos:
 charges:
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.kctv5.com/2022/03/31/drexel-mo-man-charged-assaulting-law-enforcement-officers-during-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1489216/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1489221/download)
