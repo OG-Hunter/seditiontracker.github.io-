@@ -41,13 +41,12 @@ caseName: USA v. RODRIGUEZ
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/here-in-america-we-fight-back-formally-dressed-man-dubbed-suitmacer-charged-with-spraying-police-during-capitol-siege/ar-AALZYmU)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410871/download)
 - [Edgar macing police officers (Video)](https://twitter.com/1600PennPooch/status/1413630211774730242)
