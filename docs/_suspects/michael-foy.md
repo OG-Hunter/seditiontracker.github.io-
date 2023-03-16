@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: Jury
-trial_type: Stipulated Bench Trial
+trial_type: Bench Trial
 jury_selection:
 sentencing:
 status_conference:
