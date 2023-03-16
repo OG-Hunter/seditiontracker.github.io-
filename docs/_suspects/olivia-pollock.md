@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.tampabay.com/news/florida/2021/06/30/plant-city-man-two-others-arrested-in-jan-6-capitol-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410336/download)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410341/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.233018/gov.uscourts.dcd.233018.116.0_2.pdf)
