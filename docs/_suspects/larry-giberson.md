@@ -35,7 +35,7 @@ title: Larry Giberson charged on 3/10/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. GIBERSON
 judge:
