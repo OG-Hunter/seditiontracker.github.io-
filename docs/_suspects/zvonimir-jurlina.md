@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)
 - [Incriminating Evidence (VIDEO)](https://youtu.be/ZrDckH2Td68?t=190)
+- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253168/gov.uscourts.dcd.253168.39.0_2.pdf)
