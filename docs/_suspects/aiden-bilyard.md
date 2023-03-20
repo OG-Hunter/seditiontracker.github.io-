@@ -4,13 +4,13 @@ lastName: Bilyard
 hashtag: HarvardSweats
 aka:
 residence: North Carolina
-status: Convicted
+status: Sentenced
 date: 2021-11-15
 charged: 2021-11-15
 indicted: 2022-01-26
 convicted: 2022-10-20
 acquitted:
-sentenced:
+sentenced: 2023-03-17
 dismissed:
 deceased:
 plea_hearing: 2022-10-20
@@ -41,14 +41,19 @@ caseName: USA v. BILYARD
 judge: Reggie B. Walton
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 40 months incarceration
+  - 3 years probation
+  - $3500 restitution
 ---
+
 - [News Report](https://www.huffpost.com/entry/aiden-bilyard-capitol-riot-air-force_n_619d3479e4b044a1cc0dc38c)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459026/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545681/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545686/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545691/download)
+- [DOJ Statement (Sentencing)](https://www.justice.gov/usao-dc/pr/north-carolina-man-sentenced-assaulting-officers-during-jan-6-capitol-breach)

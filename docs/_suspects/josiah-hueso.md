@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-03-14
+plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.sandiegouniontribune.com/news/courts/story/2022-05-27/hueso-capitol-arrest)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509781/download)

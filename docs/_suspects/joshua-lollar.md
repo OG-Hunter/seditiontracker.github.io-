@@ -8,12 +8,12 @@ status: Indicted
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-02-24
-convicted: 
+convicted:
 acquitted:
-sentenced: 
-dismissed: 
+sentenced:
+dismissed:
 deceased:
-plea_hearing: 2023-03-14
+plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
@@ -30,7 +30,7 @@ courtroom: joshua-lollar.jpg
 courthouse:
 raid:
 perpwalk:
-quote: 'Just got gassed and fought with cops that I never thought would happen.'
+quote: "Just got gassed and fought with cops that I never thought would happen."
 title: Joshua Lollar charged on January 15, 2021
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355471/download)

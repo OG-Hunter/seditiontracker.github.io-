@@ -4,13 +4,13 @@ lastName: Ashcraft
 hashtag: TarpCutter
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2022-09-02
 charged: 2022-09-02
 indicted:
 convicted: 2022-09-19
 acquitted:
-sentenced:
+sentenced: 2023-03-08
 dismissed:
 deceased:
 plea_hearing: 2022-09-19
@@ -41,16 +41,20 @@ caseName: USA v. ASHCRAFT
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 18 USC § 641
-  title: Theft of Government Property
-  url: https://www.law.cornell.edu/uscode/text/18/641
-  felony: false
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 641
+    title: Theft of Government Property
+    url: https://www.law.cornell.edu/uscode/text/18/641
+    felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
+  - 80 days incarceration
+  - 1 year probation
+  - $0 restitution
 ---
+
 - [News Report](https://bipartisanreport.com/2022/09/05/flagpole-wielding-jan-6-rioter-tracked-down-and-caught-by-feds/)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536716/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536721/download)
