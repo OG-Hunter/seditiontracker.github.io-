@@ -56,4 +56,5 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389316/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389321/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459351/download)
+- [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234538/gov.uscourts.dcd.234538.57.0.pdf)
 - [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234539/gov.uscourts.dcd.234539.56.0.pdf)
