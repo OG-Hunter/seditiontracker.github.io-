@@ -18,7 +18,7 @@ trial_date: 2023-08-21
 trial_type: Jury Trial
 jury_selection: 2023-03-13
 sentencing:
-status_conference: 2023-03-20
+status_conference:
 age: 40
 occupation: U.S. Army (Former)
 affiliations: Proud Boys
