@@ -41,16 +41,15 @@ caseName: USA v. BILYARD
 judge: Reggie B. Walton
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 40 months incarceration
   - 3 years probation
   - $3500 restitution
 ---
-
 - [News Report](https://www.huffpost.com/entry/aiden-bilyard-capitol-riot-air-force_n_619d3479e4b044a1cc0dc38c)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459026/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1545681/download)

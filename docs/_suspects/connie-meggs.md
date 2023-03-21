@@ -41,29 +41,28 @@ caseName: USA v. MEGGS
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 1512(k)
-    title: Conspiracy to Obstruct of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 372
-    title: Conspiracy to Prevent an Officer from Discharging any Duties
-    url: https://www.law.cornell.edu/uscode/text/18/372
-    felony: true
-  - code: 18 USC § 1361, 2
-    title: Destruction of Government Property (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1361
-    felony: true
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1512(k)
+  title: Conspiracy to Obstruct of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 372
+  title: Conspiracy to Prevent an Officer from Discharging any Duties
+  url: https://www.law.cornell.edu/uscode/text/18/372
+  felony: true
+- code: 18 USC § 1361, 2
+  title: Destruction of Government Property (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1361
+  felony: true
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/news/capitol-riot-oath-keepers-indicted-conspiracy/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1369076/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1515136/download)
