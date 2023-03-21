@@ -4,13 +4,13 @@ lastName: Brock
 hashtag: LarryBrock
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2021-01-09
 charged: 2021-01-09
 indicted: 2021-06-23
 convicted: 2022-11-16
 acquitted:
-sentenced:
+sentenced: 2023-03-17
 dismissed:
 deceased:
 plea_hearing:
@@ -41,32 +41,37 @@ caseName: USA v. BROCK
 judge: John D. Bates
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
-- code: 18 USC § 1752(a)(2)
-  title: Disorderly and disruptive conduct in a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
-- code: 40 USC § 5104(e)(2)(A)
-  title: Entering and Remaining on the Floor of Congress
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
-- code: 40 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 40 USC § 5104(e)(2)(A)
+    title: Entering and Remaining on the Floor of Congress
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 2 years incarceration
+  - 2 years probation
+  - 100 hours community service
+  - $2000 restitution
 ---
+
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
 - [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)
@@ -77,3 +82,4 @@ sentence:
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1416921/download)
 - [Defense Motion for Modification of Bond](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Defense%20Motion%20to%20Modify%20Conditions%20of%20Release.pdf)
 - [Government's Opposition to Modifying Conditions of Release](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Larry%20Rendall%20Brock%20Government%20Response%20to%20Motion%20to%20Modify%20Conditions%20of%20Release.pdf)
+- [DOJ Press Release (Sentencing)](https://www.justice.gov/usao-dc/pr/texas-man-sentenced-felony-and-misdemeanor-charges-related-capitol-breach)
