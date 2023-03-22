@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-07-10
-trial_type: Jury Trial
+trial_date:
+trial_type:
 jury_selection:
 sentencing:
 status_conference:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.courierpostonline.com/story/news/2021/06/23/brian-bingham-capitol-riot-insurrection-pennsville/5330587001/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1405791/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Brian%20Glenn%20Bingham%20Indictment.pdf)

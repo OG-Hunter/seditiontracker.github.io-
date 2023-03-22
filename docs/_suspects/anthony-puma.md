@@ -4,13 +4,13 @@ lastName: Puma
 hashtag: AnthonyPuma
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-05-27
 charged: 2021-05-27
 indicted: 2021-07-07
 convicted: 2022-08-30
 acquitted:
-sentenced:
+sentenced: 2023-03-21
 dismissed:
 deceased:
 plea_hearing: 2022-08-30
@@ -41,12 +41,17 @@ caseName: USA v. PUMA
 judge: Paul L. Friedman
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 9 months incarceration
+  - 2 years probation
+  - $500 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://www.detroitnews.com/story/news/local/michigan/2021/05/27/anthony-puma-charged-breaking-into-capitol-during-jan-6-riot/7467940002/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1399291/download)
