@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing: 2023-03-20
-trial_date: 2023-03-01
-trial_type: Bench Trial
+trial_date:
+trial_type:
 jury_selection:
 sentencing:
 status_conference:
@@ -41,25 +41,24 @@ caseName: USA v. CALHOUN
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.11alive.com/article/news/crime/trials/mccall-calhoun-probable-cause-dc-riots/85-b805cef5-82f0-4b22-aa63-d9ca62d6472d)
 - [Complaint](https://www.justice.gov/opa/page/file/1356041/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356036/download)

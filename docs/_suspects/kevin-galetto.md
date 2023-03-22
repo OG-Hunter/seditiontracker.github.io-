@@ -41,17 +41,16 @@ caseName: USA v. GALETTO
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/61-year-old-westminster-man-arrested-in-connection-with-jan-6-capitol-riots/ar-BB1fZg2s)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389316/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389321/download)

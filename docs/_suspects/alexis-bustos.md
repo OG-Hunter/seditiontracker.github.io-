@@ -41,16 +41,15 @@ caseName: USA v. BUSTOS
 judge: Carl J. Nichols
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - 30 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.presstelegram.com/2021/11/30/2-long-beach-men-charged-in-connection-to-capitol-insurrection/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1550026/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1550041/download)
