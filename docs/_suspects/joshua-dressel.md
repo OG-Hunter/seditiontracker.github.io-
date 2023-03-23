@@ -41,16 +41,15 @@ caseName: USA v. DRESSEL
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 14 days incarceration
   - $500 fine
   - $500 restitution
 ---
-
 - [News Report](https://www.stltoday.com/news/local/crime-and-courts/festus-man-streamed-capitol-riot-video-to-facebook-court-documents-say/article_15c8ff19-3032-5486-8a23-ba88d225f092.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1412326/download)
 - [Incriminating Evidence (Video)](https://youtu.be/MDg1NG4C2Z0)
