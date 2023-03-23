@@ -18,7 +18,7 @@ trial_date: 2023-04-10
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-17
 age: 52
 occupation:
 affiliations: Formery U.S. Army
