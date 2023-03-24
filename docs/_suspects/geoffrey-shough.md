@@ -4,13 +4,13 @@ lastName: Shough
 hashtag: TexasPleather
 aka:
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2022-02-17
 charged: 2022-02-17
 indicted: 2022-06-01
 convicted: 2022-08-16
 acquitted:
-sentenced:
+sentenced: 2023-03-22
 dismissed:
 deceased:
 plea_hearing: 2022-08-16
@@ -41,12 +41,16 @@ caseName: USA v. SHOUGH
 judge: Dabney L. Friedrich
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 6 months incarceration
+  - 1 year probation
+  - $2000 restitution
 ---
+
 - [News Report](https://www.newsweek.com/man-arrested-alleged-role-capitol-riot-after-ex-outs-him-fbi-1683868)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479011/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1479016/download)
