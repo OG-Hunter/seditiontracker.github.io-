@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.9news.com/article/news/crime/telluride-man-accused-capitol-riot/73-0099c000-279e-4152-83c8-1acd8da7e0ec)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1478566/download)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Avery%20MacCracken%20Indictment.pdf)
+- [Motion to Dismiss](https://storage.courtlistener.com/recap/gov.uscourts.dcd.239177/gov.uscourts.dcd.239177.35.0.pdf)
