@@ -17,7 +17,7 @@ plea_hearing: 2023-01-26
 trial_date:
 trial_type:
 jury_selection: 2023-03-06
-sentencing: 2023-04-13
+sentencing: 2023-03-31
 status_conference:
 age: 62
 occupation:
@@ -41,12 +41,13 @@ caseName: USA v. ADAMS
 judge: Beryl A. Howell
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.clickorlando.com/news/local/2021/03/10/another-central-florida-man-arrested-in-capitol-riot/#//)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378311/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1456816/download)
