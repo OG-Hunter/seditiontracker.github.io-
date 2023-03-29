@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-jury_selection:
+trial_date: 2023-12-11
+trial_type: Jury Trial
+jury_selection: 2023-12-11
 sentencing:
 status_conference:
 age:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0071
 caseName: USA v. SMITH
-judge:
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

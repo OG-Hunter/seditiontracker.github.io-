@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-05-01
+trial_type: Jury Trial
 jury_selection:
 sentencing:
 status_conference:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0536
 caseName: USA v. CHWIESIUK
-judge: Robin M. Meriweather
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

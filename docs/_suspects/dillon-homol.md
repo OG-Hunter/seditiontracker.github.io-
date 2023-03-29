@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0050
 caseName: USA v. HOMOL
-judge: Robin M. Meriweather
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:

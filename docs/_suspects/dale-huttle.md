@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-04
 age: 61
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0403
 caseName: USA v. HUTTLE
-judge: Robin M. Meriweather
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

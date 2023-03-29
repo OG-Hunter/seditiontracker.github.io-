@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-07-05
 status_conference:
 age: 22
 occupation:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0018
 caseName: USA v. CHASE
-judge: Moxila A. Upadhyaya
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

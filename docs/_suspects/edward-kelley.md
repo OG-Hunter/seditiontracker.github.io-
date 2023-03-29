@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-07-05
 age: 33
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0408
 caseName: USA v. KELLEY
-judge: Moxila A. Upadhyaya
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

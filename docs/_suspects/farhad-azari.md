@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-23
 age: 62
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0013
 caseName: USA v. AZARI
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

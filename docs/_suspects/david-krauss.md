@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-13
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0034
 caseName: USA v. KRAUSS
-judge: Robin M. Meriweather
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

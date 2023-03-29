@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-02
 age: 33
 occupation:
 affiliations: B Squad Militia, Three Percenters
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0045
 caseName: USA v. PRELLER
-judge: G. M. Harvey
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

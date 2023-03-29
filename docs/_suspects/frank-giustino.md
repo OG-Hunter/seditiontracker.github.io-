@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-05-02
 status_conference:
 age:
 occupation:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0016
 caseName: USA v. GIUSTINO
-judge: Zia M. Faruqui
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

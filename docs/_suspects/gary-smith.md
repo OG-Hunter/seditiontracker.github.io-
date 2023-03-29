@@ -17,7 +17,7 @@ plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-06-09
 status_conference:
 age: 71
 occupation:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0006
 caseName: USA v. SMITH
-judge: Zia M. Faruqui
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

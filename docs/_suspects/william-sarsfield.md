@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0035
 caseName: USA v. SARSFIELD
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:
