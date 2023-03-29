@@ -41,17 +41,16 @@ caseName: USA v. MOONEY-RONDON
 judge: Jia M. Cobb
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 641,2
-    title: Theft of Government Property (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 641,2
+  title: Theft of Government Property (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.wwnytv.com/2021/10/01/watertown-man-his-mother-facing-federal-charges-jan-6th-capitol-riot/)
 - [Statement of Facts](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Statement%20of%20Facts.pdf)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Maryann%20Mooney-Rondon%20and%20Rafael%20Rondon%20Indictment.pdf)
