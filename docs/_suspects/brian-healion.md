@@ -36,12 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0689
+caseNumber: 22-cr-0389
 caseName: USA v. HEALION
 judge: Timothy J. Kelly
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/3-philly-area-proud-boys-charged-in-jan-6-capitol-riot/ar-AARQELh)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481111/download)

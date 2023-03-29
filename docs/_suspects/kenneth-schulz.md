@@ -1,7 +1,7 @@
 ---
 name: Kenneth Schulz
 lastName: Schulz
-hashtag: 
+hashtag:
 aka:
 residence: Texas
 status: Charged
@@ -36,11 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-cr-0077
 caseName: USA v. SCHULZ
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252303/gov.uscourts.dcd.252303.1.1.pdf)
