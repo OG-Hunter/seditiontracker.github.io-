@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-07
+status_conference:
 age:
 occupation:
 affiliations:
@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0252
+caseNumber: 23-cr-0034
 caseName: USA v. KRAUSS
 judge: Robin M. Meriweather
 videos:

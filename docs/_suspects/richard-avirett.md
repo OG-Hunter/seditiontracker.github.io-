@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00017
+caseNumber: 23-mj-0017
 caseName: USA v. AVIRETT
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://vozwire.com/marine-corps-vet-richard-avirett-took-part-in-the-jan-6-capitol-riot-but-hasnt-been-charged/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567476/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567471/download)

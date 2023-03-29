@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00044
+caseNumber: 23-mj-0044
 caseName: USA v. WATTS
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Arrest Warrant](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252474/gov.uscourts.dcd.252474.5.0.pdf)

@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0002
+caseNumber: 23-cr-0016
 caseName: USA v. GIUSTINO
 judge: Zia M. Faruqui
 videos:

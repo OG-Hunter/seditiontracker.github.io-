@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00045
+caseNumber: 23-mj-0045
 caseName: USA v. RUMSON
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wfla.com/news/local-news/citrus-county/florida-man-known-as-sedition-panda-arrested-for-allegedly-storming-capitol/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252921/gov.uscourts.dcd.252921.8.0_1.pdf)

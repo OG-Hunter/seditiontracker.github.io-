@@ -43,7 +43,5 @@ videos:
 charges:
 sentence:
 ---
-
-- [News Report](https://www.waff.com/2022/12/15/alabama-man-arrested-alleged-role-jan-6-capitol-riot/)
 - [News Report](https://www.wsfa.com/2023/03/09/alabama-man-indicted-charges-alleged-role-us-capitol-riot/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252923/gov.uscourts.dcd.252923.16.0_1.pdf)

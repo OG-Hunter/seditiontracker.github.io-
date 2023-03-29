@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-14
+status_conference:
 age: 22
 occupation:
 affiliations: Groypers
@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0203
+caseNumber: 23-cr-0018
 caseName: USA v. CHASE
 judge: Moxila A. Upadhyaya
 videos:

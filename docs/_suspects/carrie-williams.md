@@ -41,15 +41,14 @@ caseName: USA v. WILLIAMS
 judge: Randolph D. Moss
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 2 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.wmar2news.com/news/local-news/baltimore-couple-arrested-on-charges-related-to-january-6th)
 - [Arrest Warrant](https://storage.courtlistener.com/recap/gov.uscourts.dcd.244335/gov.uscourts.dcd.244335.8.0.pdf)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1534426/download)

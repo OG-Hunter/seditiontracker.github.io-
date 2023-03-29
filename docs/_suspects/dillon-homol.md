@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0278
+caseNumber: 23-cr-0050
 caseName: USA v. HOMOL
 judge: Robin M. Meriweather
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.clickorlando.com/news/local/2021/03/16/brevard-county-man-joins-hundreds-charged-in-capitol-riots/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378686/download)

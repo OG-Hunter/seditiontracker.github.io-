@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0239
+caseNumber: 22-cr-0381
 caseName: USA v. WYATT
 judge: Robin M. Meriweather
 videos:

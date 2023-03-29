@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0503
+caseNumber: 23-cr-0009
 caseName: USA v. BROWN
 judge: G. M. Harvey
 videos:

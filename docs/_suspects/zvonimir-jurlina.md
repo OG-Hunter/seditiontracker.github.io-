@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-03-17
+status_conference:
 age: 31
 occupation:
 affiliations:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.rawstory.com/capitol-hill-riot/)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1407626/download)
 - [Incriminating Evidence (VIDEO)](https://youtu.be/ZrDckH2Td68?t=190)

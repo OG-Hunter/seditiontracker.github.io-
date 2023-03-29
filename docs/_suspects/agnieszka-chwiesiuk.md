@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-03-02
+status_conference:
 age:
 occupation:
 affiliations:
@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0281
+caseNumber: 21-cr-0536
 caseName: USA v. CHWIESIUK
 judge: Robin M. Meriweather
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://news.wttw.com/2022/12/19/sister-chicago-police-officer-previously-charged-jan-6-riot-now-also-charged-breaching-us)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560296/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560301/download)

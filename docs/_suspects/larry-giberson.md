@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName: USA v. GIBERSON
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/news/larry-giberson-princeton-student-charged-jan-6-capitol-attack/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253038/gov.uscourts.dcd.253038.1.1.pdf)
 - [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/new-jersey-man-arrested-felony-and-misdemeanor-charges-actions-lower-west-terrace-during)

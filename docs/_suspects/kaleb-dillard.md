@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-arrests-ex-marine-allegedly-assaulting-officers-capitol-jan-6-rcna44503)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528266/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528271/download)

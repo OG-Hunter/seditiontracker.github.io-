@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-mj-00019
+caseNumber: 23-mj-0019
 caseName: USA v. NICHOLS-JR
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.sevendaysvt.com/vermont/second-vermonter-accused-of-assaulting-police-at-january-6-riot/Content?oid=37500254)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567501/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567506/download)

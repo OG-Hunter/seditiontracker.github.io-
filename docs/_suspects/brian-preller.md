@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-02-14
+status_conference:
 age: 33
 occupation:
 affiliations: B Squad Militia, Three Percenters
@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0184
+caseNumber: 23-cr-0045
 caseName: USA v. PRELLER
 judge: G. M. Harvey
 videos:

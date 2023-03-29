@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00041
+caseNumber: 23-mj-0041
 caseName: USA v. MAURER
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wmtw.com/article/sixth-maine-man-charged-for-participating-in-january-6th-capitol-riot/43033428)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maine-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252346/gov.uscourts.dcd.252346.1.1.pdf)

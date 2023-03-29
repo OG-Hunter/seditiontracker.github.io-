@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00009
+caseNumber: 23-mj-0009
 caseName: USA v. BARD
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.kshb.com/news/crime/we-gotta-take-it-over-joplin-man-accused-of-shoving-officer-during-jan-6-riot-at-u-s-capitol)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250978/gov.uscourts.dcd.250978.1.1_1.pdf)

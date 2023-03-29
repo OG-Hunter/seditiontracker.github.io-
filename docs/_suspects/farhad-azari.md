@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00013
+caseNumber: 23-mj-0013
 caseName: USA v. AZARI
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-father-and-son-arrested-felony-charges-actions-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.251097/gov.uscourts.dcd.251097.1.1.pdf)

@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-mj-00015
+caseNumber: 23-mj-0015
 caseName: USA v. BONAWITZ
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.251220/gov.uscourts.dcd.251220.1.1.pdf)

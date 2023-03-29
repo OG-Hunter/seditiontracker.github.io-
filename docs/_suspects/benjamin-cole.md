@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0184
+caseNumber: 23-cr-0045
 caseName: USA v. COLE
 judge: G. M. Harvey
 videos:

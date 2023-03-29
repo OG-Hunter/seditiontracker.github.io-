@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.expressnews.com/news/local/article/another-san-antonio-man-charged-in-u-s-capitol-17774646.php)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567416/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567421/download)

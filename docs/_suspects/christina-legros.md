@@ -1,7 +1,7 @@
 ---
 name: Christina Legros
 lastName: Legros
-hashtag: 
+hashtag:
 aka:
 residence: Michigan
 status: Charged
@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0024
+caseNumber: 23-cr-0069
 caseName: USA v. LEGROS
 judge: Zia M. Faruqui
 videos:
