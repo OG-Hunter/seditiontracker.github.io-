@@ -4,16 +4,16 @@ lastName: Smith
 hashtag:
 aka:
 residence: Michigan
-status: Charged
+status: Convicted
 date: 2022-10-21
 charged: 2022-10-21
 indicted:
-convicted:
+convicted: 2023-03-06
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-03-06
 trial_date:
 trial_type:
 jury_selection:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Gary Smith charged on October 21st, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 6, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. SMITH
 judge: Royce C. Lamberth
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.mlive.com/news/2022/10/michigan-siblings-charged-after-photos-place-them-inside-capitol-during-jan-6-riot.html)
