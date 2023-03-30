@@ -1,7 +1,7 @@
 ---
 name: Isaac Thomas
 lastName: Thomas
-hashtag: 
+hashtag:
 aka:
 residence: Michigan
 status: Charged
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0024
+caseNumber: 23-cr-0069
 caseName: USA v. THOMAS
-judge: Robin M. Meriweather
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

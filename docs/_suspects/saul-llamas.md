@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-28
 age: 29
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0251
+caseNumber: 23-cr-0020
 caseName: USA v. LLAMAS
-judge: Robin M. Meriweather
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

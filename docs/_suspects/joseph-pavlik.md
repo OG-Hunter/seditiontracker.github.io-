@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-02
 age: 65
 occupation: Former Firefighter
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0020
+caseNumber: 23-cr-0045
 caseName: USA v. PAVLIK
-judge:
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

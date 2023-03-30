@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0169
+caseNumber: 23-cr-0078
 caseName: USA v. BARGAR
 judge: Robin M. Meriweather
 videos:

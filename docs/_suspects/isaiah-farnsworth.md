@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0261
+caseNumber: 23-cr-0004
 caseName: USA v. FARNSWORTH
 judge: Moxila A. Upadhyaya
 videos:

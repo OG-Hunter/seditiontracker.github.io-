@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-cr-00003
+caseNumber: 23-cr-0003
 caseName: USA v. SATTLER
-judge: Robin M. Meriweather
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/baltimore/news/maryland-man-arrested-accused-capitol-in-jan-6-riot-chesterstown-zachariah-sattler/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559726/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1559731/download)

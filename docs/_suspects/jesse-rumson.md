@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0045
+caseNumber: 23-cr-0070
 caseName: USA v. RUMSON
 judge:
 videos:

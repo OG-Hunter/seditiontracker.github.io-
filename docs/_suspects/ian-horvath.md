@@ -17,7 +17,7 @@ plea_hearing: 2023-01-23
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-04-13
 status_conference:
 age:
 occupation:
@@ -36,9 +36,9 @@ description: Convicted on January 23, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0167
+caseNumber: 22-cr-0344
 caseName: USA v. HORVATH
-judge: Moxila A. Upadhyaya
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

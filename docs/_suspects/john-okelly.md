@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-09
 age: 66
 occupation: Attorney
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0221
+caseNumber: 23-cr-0061
 caseName: USA v. O'KELLY
-judge: G. M. Harvey
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:
