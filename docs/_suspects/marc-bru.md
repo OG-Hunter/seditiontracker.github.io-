@@ -15,10 +15,10 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-04-17
-trial_type: Jury Trial
+trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-03-29
+status_conference:
 age: 41
 occupation:
 affiliations: Proud Boys

@@ -41,12 +41,11 @@ caseName: USA v. GIUSTINO
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481246/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250922/gov.uscourts.dcd.250922.31.0.pdf)

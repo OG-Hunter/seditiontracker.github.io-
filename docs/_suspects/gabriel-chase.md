@@ -41,13 +41,12 @@ caseName: USA v. CHASE
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/members-far-right-group-america-first-charged-connection-jan-6-riot-rcna48664)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536751/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536756/download)
