@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-04
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0004
 caseName: USA v. FARNSWORTH
-judge: Moxila A. Upadhyaya
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

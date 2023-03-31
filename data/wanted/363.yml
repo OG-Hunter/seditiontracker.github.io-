@@ -1,8 +1,8 @@
 id: 363
 aom: false
 afo: true
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #363 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-363a.jpg/@@images/image/preview
 hashtag: SprayingMantis
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-03-28
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/thomas-casselman
+name: Thomas Casselman
 missingImage: false
 identifiedBy: null
 notes: null
