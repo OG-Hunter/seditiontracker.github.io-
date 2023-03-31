@@ -35,7 +35,7 @@ title: Thomas Casselman charged on 3/28/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. CASSELMAN
 judge:
