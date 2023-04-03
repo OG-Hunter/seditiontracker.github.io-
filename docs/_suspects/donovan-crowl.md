@@ -18,7 +18,7 @@ trial_date: 2023-02-01
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-03-31
+status_conference:
 age: 50
 occupation: Former U.S. Military (Marines)
 affiliations: Oath Keepers, Ohio Regular Militia
