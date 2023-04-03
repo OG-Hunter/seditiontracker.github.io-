@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-08
 age: 46
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0257
+caseNumber: 22-cr-0406
 caseName: USA v. ARDOLINO
-judge: Robin M. Meriweather
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

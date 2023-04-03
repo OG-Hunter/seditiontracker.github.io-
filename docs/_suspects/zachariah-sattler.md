@@ -4,11 +4,11 @@ lastName: Sattler
 hashtag:
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2022-12-02
 charged: 2022-12-02
 indicted:
-convicted:
+convicted: 2023-03-30
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Zachariah Sattler charged on December 2nd, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 30, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. SATTLER
 judge: Royce C. Lamberth
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.cbsnews.com/baltimore/news/maryland-man-arrested-accused-capitol-in-jan-6-riot-chesterstown-zachariah-sattler/)

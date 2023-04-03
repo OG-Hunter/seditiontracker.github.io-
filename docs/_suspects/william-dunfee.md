@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-26
 age: 57
 occupation: Pastor
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0217
+caseNumber: 23-cr-0036
 caseName: USA v. DUNFEE
-judge: G. M. Harvey
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

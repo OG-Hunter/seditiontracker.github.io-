@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-08
 age: 26
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0009
+caseNumber: 23-cr-0084
 caseName: USA v. BARD
-judge:
+judge: Amit P. Mehta
 videos:
 charges:
 sentence:

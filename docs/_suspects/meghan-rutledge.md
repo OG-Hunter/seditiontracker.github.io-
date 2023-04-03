@@ -4,13 +4,13 @@ lastName: Rutledge
 hashtag:
 aka: Meghan Bostic
 residence: Virginia
-status: Convicted
+status: Sentenced
 date: 2021-10-05
 charged: 2021-10-05
 indicted:
 convicted: 2022-10-27
 acquitted:
-sentenced:
+sentenced: 2023-03-31
 dismissed:
 deceased:
 plea_hearing: 2022-10-27
@@ -41,12 +41,17 @@ caseName: USA v. RUTLEDGE
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 3 years probation
+  - 90 days home confinement
+  - 60 hours community service
+  - $500 restitution
 ---
+
 - [News Report](https://www.13newsnow.com/article/news/crime/virginia-beach-woman-father-accused-us-capitol-riot-january-6/291-a4b9d125-e63b-414d-8a2a-2bd153af1bae)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457781/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547686/download)

@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0208
+caseNumber: 23-cr-0066
 caseName: USA v. LAVRENZ
 judge: Zia M. Faruqui
 videos:

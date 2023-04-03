@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0140
+caseNumber: 23-cr-0038
 caseName: USA v. TILLEY
 judge: Robin M. Meriweather
 videos:

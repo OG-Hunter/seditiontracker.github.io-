@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-cr-0362
+caseNumber: 23-cr-0040
 caseName: USA v. CAVANAUGH
-judge:
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

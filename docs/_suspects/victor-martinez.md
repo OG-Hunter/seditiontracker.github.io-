@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0018
+caseNumber: 23-cr-0039
 caseName: USA v. MARTINEZ
-judge: Robin M. Meriweather
+judge: Tanya S. Chutkan
 videos:
 charges:
 sentence:

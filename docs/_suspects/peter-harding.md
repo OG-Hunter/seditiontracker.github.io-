@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-23
 age: 47
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects considered innocent until p
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0033
+caseNumber: 23-cr-0080
 caseName: USA v. HARDING
-judge: Robin M. Meriweather
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

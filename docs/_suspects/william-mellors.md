@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-11
 age: 50
 occupation:
 affiliations: Proud Boys
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0162
+caseNumber: 23-cr-0056
 caseName: USA v. MELLORS
-judge: Robin M. Meriweather
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

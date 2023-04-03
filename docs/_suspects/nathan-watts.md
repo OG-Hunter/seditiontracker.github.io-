@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-26
 age:
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0044
+caseNumber: 23-cr-0089
 caseName: USA v. WATTS
-judge:
+judge: Amy B. Jackson
 videos:
 charges:
 sentence:

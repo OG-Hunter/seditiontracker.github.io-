@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-04
 age: 40
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0234
+caseNumber: 22-cr-0403
 caseName: USA v. HUTTLE
-judge: Robin M. Meriweather
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

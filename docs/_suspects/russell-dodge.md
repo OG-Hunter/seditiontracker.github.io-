@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-04-13
 trial_date:
 trial_type:
 jury_selection:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0252
+caseNumber: 23-cr-0034
 caseName: USA v. DODGE
-judge: Robin M. Meriweather
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

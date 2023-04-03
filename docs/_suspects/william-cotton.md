@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-22
 age: 53
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0265
+caseNumber: 23-cr-0002
 caseName: USA v. COTTON
-judge: Moxila A. Upadhyaya
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

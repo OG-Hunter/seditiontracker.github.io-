@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-17
 age: 32
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0023
+caseNumber: 23-cr-0057
 caseName: USA v. DEGREGORIS
-judge: Moxila A. Upadhyaya
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

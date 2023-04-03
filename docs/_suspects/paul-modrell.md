@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-07
 age:
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0267
+caseNumber: 23-cr-0001
 caseName: USA v. MODRELL
-judge: G. M. Harvey
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-25
 age:
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0015
+caseNumber: 23-cr-0055
 caseName: USA v. BONAWITZ
-judge:
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
