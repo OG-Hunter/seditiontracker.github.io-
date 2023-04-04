@@ -41,17 +41,16 @@ caseName: USA v. KIT
 judge: Jia M. Cobb
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 22 DC Code § 4504(a)
-    title: Carrying a Pistol Without a License
-    url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
-    felony: true
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 22 DC Code § 4504(a)
+  title: Carrying a Pistol Without a License
+  url: https://code.dccouncil.us/us/dc/council/code/sections/22-4504.html
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.wltx.com/article/news/national/dc-resident-and-pro-trump-youtuber-charged-with-entering-capitol-william-stephon-kit-oxon-hill/65-0dec1b07-60f4-412f-b3eb-19c4a7c34f36)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523691/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523696/download)

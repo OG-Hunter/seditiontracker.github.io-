@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-06
 age:
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0070
 caseName: USA v. RUMSON
-judge:
+judge: Carl J. Nichols
 videos:
 charges:
 sentence:

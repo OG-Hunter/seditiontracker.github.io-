@@ -18,7 +18,7 @@ trial_date: 2022-12-05
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-05-17
 age: 47
 occupation: Former military (U.S. Special forces)
 affiliations: Oath Keepers, US Army (former Green Beret)
