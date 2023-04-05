@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0304
 caseName: USA v. RIDDLE
-judge:
+judge: Dabney L. Friedrich
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

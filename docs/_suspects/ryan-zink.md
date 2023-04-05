@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-jury_selection:
+trial_date: 2023-09-05
+trial_type: Jury Trial
+jury_selection: 2023-09-05
 sentencing:
-status_conference: 2023-04-04
+status_conference:
 age: 32
 occupation: Business Owner
 affiliations:

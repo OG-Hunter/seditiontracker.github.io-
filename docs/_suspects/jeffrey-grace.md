@@ -41,13 +41,12 @@ caseName: USA v. GRACE
 judge: Randolph D. Moss
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.seattletimes.com/seattle-news/crime/clark-county-man-charged-with-entering-capitol-during-siege/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1364691/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1388636/download)

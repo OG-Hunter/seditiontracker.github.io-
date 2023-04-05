@@ -1,10 +1,10 @@
 id: 233
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #233 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/233a.png/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #233 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-233aarrest.jpg/@@images/image/preview
 hashtag: BrownBeanieJAG
 fugitive: false
 minor: false

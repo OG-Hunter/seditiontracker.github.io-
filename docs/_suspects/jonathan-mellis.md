@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-05-05
 trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-04-04
+status_conference:
 age: 34
 occupation:
 affiliations:
