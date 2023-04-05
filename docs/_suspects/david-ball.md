@@ -1,7 +1,7 @@
 ---
 name: David Ball
 lastName: Ball
-hashtag: 
+hashtag:
 aka:
 residence: Maine
 status: Charged
@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-08
 age:
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-0062
 caseName: USA v. BALL
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

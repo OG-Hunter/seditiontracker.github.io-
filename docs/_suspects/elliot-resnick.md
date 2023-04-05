@@ -1,7 +1,7 @@
 ---
 name: Elliot Resnick
 lastName: Resnick
-hashtag: 
+hashtag:
 aka:
 residence: New York
 status: Charged
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-0058
 caseName: USA v. RESNICK
-judge:
+judge: Robin M. Meriweather
 videos:
 charges:
 sentence:

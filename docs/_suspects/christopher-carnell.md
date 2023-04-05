@@ -1,7 +1,7 @@
 ---
 name: Christopher Carnell
 lastName: Carnell
-hashtag: 
+hashtag:
 aka:
 residence: North Carolina
 status: Charged
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-0047
 caseName: USA v. CARNELL
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

@@ -41,25 +41,24 @@ caseName: USA v. HAGER
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.gatesvillemessenger.com/news/gatesville-man-arrested-taking-part-jan-6-mob)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400881/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1400886/download)

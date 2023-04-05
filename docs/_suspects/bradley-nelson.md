@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-29
 age:
 occupation:
 affiliations:
@@ -30,15 +30,15 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I was one of those that breach [sic] that I was in the capital [sic] I was in the tunda [sic] area when everybody got pushed through and all hell broke loose'
+quote: "I was one of those that breach [sic] that I was in the capital [sic] I was in the tunda [sic] area when everybody got pushed through and all hell broke loose"
 title: Bradley Nelson charged on 3/20/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-0061
 caseName: USA v. NELSON
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

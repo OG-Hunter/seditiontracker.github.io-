@@ -41,20 +41,19 @@ caseName: USA v. BADALIAN
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 18 USC § 371
-    title: Conspiracy to commit an offense against the United States
-    url: https://www.law.cornell.edu/uscode/text/18/371
-    felony: true
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 371
+  title: Conspiracy to commit an offense against the United States
+  url: https://www.law.cornell.edu/uscode/text/18/371
+  felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.nbclosangeles.com/news/local/los-angeles-man-faces-conspiracy-charge-for-us-capitol-breach/2769387/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.cacd.837671/gov.uscourts.cacd.837671.3.1_1.pdf)
