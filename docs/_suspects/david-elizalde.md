@@ -35,7 +35,7 @@ title: David Elizalde charged on 2/16/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. ELIZALDE
 judge:
