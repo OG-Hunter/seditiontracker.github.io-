@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-04-03
+trial_date: 2023-10-17
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-04-07
+status_conference:
 age: 46
 occupation: Retired Firefighter
 affiliations: Oath Keepers
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.thedailybeast.com/oath-keeper-jonathan-walden-brought-82-pound-german-shepherd-warrior-to-capitol-riots)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1471021/download)

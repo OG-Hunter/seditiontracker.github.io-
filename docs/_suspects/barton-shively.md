@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-13
 age: 53
 occupation: U.S. Marines (Former)
 affiliations: Proud Boys
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0151
 caseName: USA v. SHIVELY
-judge: Colleen Kollar-Kotelly
+judge: Jia M. Cobb
 videos:
 charges:
 - code: 18 USC § 111(a)(1)

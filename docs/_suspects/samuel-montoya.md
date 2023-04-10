@@ -41,10 +41,10 @@ caseName: USA v. MONTOYA
 judge: John D. Bates
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 120 days home detention
   - 60 hours community service
@@ -52,7 +52,6 @@ sentence:
   - 3 years probation
   - $500 restitution
 ---
-
 - [News Report](https://www.alternet.org/2021/04/samuel-christopher-montoya/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386666/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1386671/download)

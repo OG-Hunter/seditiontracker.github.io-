@@ -4,11 +4,11 @@ lastName: Korte
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2022-05-20
 charged: 2022-05-20
 indicted:
-convicted:
+convicted: 2023-03-24
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Brian Korte charged on May 20th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on March 24, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. KORTE
 judge: Tanya S. Chutkan
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.ydr.com/story/news/2022/05/24/brian-korte-york-haven-lynwood-nester-dillsburg-charged-capitol-riots/65357319007/)

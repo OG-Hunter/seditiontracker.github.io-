@@ -18,7 +18,7 @@ trial_date: 2023-06-12
 trial_type: Jury Trial
 jury_selection:
 sentencing:
-status_conference: 2023-04-07
+status_conference:
 age: 35
 occupation: Pastor
 affiliations:

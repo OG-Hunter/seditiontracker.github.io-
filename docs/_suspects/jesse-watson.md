@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-05-05
 trial_date:
 trial_type:
 jury_selection:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0087
 caseName: USA v. WATSON
-judge: Zia M. Faruqui
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

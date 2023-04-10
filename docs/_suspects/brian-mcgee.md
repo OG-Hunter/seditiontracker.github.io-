@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0096
 caseName: USA v. MCGEE
-judge: Moxila A. Upadhyaya
+judge: Randolph D. Moss
 videos:
 charges:
 sentence:

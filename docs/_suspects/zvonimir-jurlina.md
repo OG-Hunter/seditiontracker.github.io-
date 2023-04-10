@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-04-19
 trial_date:
 trial_type:
 jury_selection:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0083
 caseName: USA v. JURLINA
-judge: G. M. Harvey
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
