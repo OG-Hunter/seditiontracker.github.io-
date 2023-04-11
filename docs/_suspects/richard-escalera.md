@@ -8,12 +8,12 @@ status: Convicted
 date: 2022-10-20
 charged: 2022-10-20
 indicted:
-convicted: 2023-004-06
+convicted: 2023-04-06
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-004-06
+plea_hearing: 2023-04-06
 trial_date:
 trial_type:
 jury_selection:
@@ -41,12 +41,13 @@ caseName: USA v. ESCALERA
 judge: Amit P. Mehta
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546276/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1546281/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249327/gov.uscourts.dcd.249327.26.0.pdf)
