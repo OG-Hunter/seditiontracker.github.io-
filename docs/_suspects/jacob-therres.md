@@ -51,3 +51,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1552271/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1552276/download)
 - [DOJ Press Release (Conviction)](https://www.justice.gov/usao-dc/pr/maryland-man-pleads-guilty-felony-charge-actions-during-jan-6-capitol-breach-1)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1578951/download)

@@ -52,3 +52,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361586/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377731/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1377731/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1578911/download)

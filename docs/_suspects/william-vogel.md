@@ -51,3 +51,4 @@ sentence:
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360591/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1360591/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/William%20Vogel%20Information.pdf)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1578906/download)

@@ -4,11 +4,11 @@ lastName: Lovley
 hashtag: BrownSweaterBrat
 aka:
 residence: Maryland
-status: Charged
+status: Convicted
 date: 2022-09-12
 charged: 2022-09-12
 indicted:
-convicted:
+convicted: 2023-02-02
 acquitted:
 sentenced:
 dismissed:
@@ -43,7 +43,9 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/politics/justice-department/members-far-right-group-america-first-charged-connection-jan-6-riot-rcna48664)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536796/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/virginia-man-arrested-felony-and-misdemeanor-charges-actions-during-jan-6-capitol-breach)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1578886/download)
