@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0222
 caseName: USA v. TANIOS
-judge: Thomas F. Hogan
+judge: Richard J. Leon
 videos:
 - title: Exhibit 3 - Pole Cam Clip 1.mp4 (0:06:15)
   url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/30b58850ce2b013960702cde48001122.mp4

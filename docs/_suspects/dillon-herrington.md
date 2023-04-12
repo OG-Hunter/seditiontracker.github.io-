@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0553
 caseName: USA v. HERRINGTON
-judge: Thomas F. Hogan
+judge: Richard J. Leon
 videos:
 charges:
 sentence:

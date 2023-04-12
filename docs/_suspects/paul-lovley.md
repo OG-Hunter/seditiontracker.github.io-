@@ -32,18 +32,17 @@ raid:
 perpwalk:
 quote:
 title: Paul Lovley charged on September 12th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on February 2, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
 caseNumber: 22-cr-0375
 caseName: USA v. LOVLEY
-judge: Moxila A. Upadhyaya
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/members-far-right-group-america-first-charged-connection-jan-6-riot-rcna48664)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536791/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1536796/download)

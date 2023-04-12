@@ -121,11 +121,6 @@ const parseSchedule = async () => {
         continue;
       }
 
-      // Check caseName and ignore when same case number but caseName doesn't match (ie. Different defendant)
-      if (caseName && caseName !== parsedCaseName) {
-        continue;
-      }
-
       /Judge (.*)/.test(judgeText);
       const judge = RegExp.$1;
 
@@ -137,57 +132,60 @@ const parseSchedule = async () => {
         console.log(`${suspect.name} judge: ${judge}`);
       }
 
-      switch (typeText) {
-        case "Plea Agreement Hearing":
-          suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
-          break;
-        case "Sentencing":
-          suspect.sentencing = latestDate(suspect, "sentencing", dateText);
-          break;
-        case "Jury Selection":
-          if (!isBlank(suspect.plea_hearing) || !isBlank(suspect.jury_selection)) {
+      // Only update dates if the case name matches
+      if (caseName && caseName === parsedCaseName) {
+        switch (typeText) {
+          case "Plea Agreement Hearing":
+            suspect.plea_hearing = latestDate(suspect, "plea_hearing", dateText);
             break;
-          }
-          if (!trial_type) {
-            console.log(`${suspect.name} jury trial: ${dateText}`);
-            suspect.trial_type = "Jury Trial";
-          }
-          suspect.jury_selection = latestDate(suspect, "jury_selection", dateText);
-          if (!trial_date) {
-            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-          }
-          break;
-        case "Jury Trial":
-          // ignore trial dates if a plea hearing is scheduled
-          if (!isBlank(suspect.plea_hearing)) {
+          case "Sentencing":
+            suspect.sentencing = latestDate(suspect, "sentencing", dateText);
             break;
-          }
-          if (!trial_type) {
-            console.log(`${suspect.name} jury trial: ${dateText}`);
-            suspect.trial_type = "Jury Trial";
-          }
-          if (!suspect.trial_date) {
-            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-          }
-          break;
-        case "Bench Trial":
-          if (!isBlank(suspect.plea_hearing)) {
+          case "Jury Selection":
+            if (!isBlank(suspect.plea_hearing) || !isBlank(suspect.jury_selection)) {
+              break;
+            }
+            if (!trial_type) {
+              console.log(`${suspect.name} jury trial: ${dateText}`);
+              suspect.trial_type = "Jury Trial";
+            }
+            suspect.jury_selection = latestDate(suspect, "jury_selection", dateText);
+            if (!trial_date) {
+              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+            }
             break;
-          }
-          if (!trial_type || trial_type !== "Bench Trial") {
-            console.log(`${suspect.name} bench trial: ${dateText}`);
-            suspect.trial_type = "Bench Trial";
-          }
-          if (!suspect.trial_date) {
-            suspect.trial_date = latestDate(suspect, "trial_date", dateText);
-          }
-          if (suspect.jury_selection) {
-            suspect.jury_selection = null;
-          }
-          break;
-        case "Status Conference":
-          suspect.status_conference = earliestDate(suspect, "status_conference", dateText);
-          break;
+          case "Jury Trial":
+            // ignore trial dates if a plea hearing is scheduled
+            if (!isBlank(suspect.plea_hearing)) {
+              break;
+            }
+            if (!trial_type) {
+              console.log(`${suspect.name} jury trial: ${dateText}`);
+              suspect.trial_type = "Jury Trial";
+            }
+            if (!suspect.trial_date) {
+              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+            }
+            break;
+          case "Bench Trial":
+            if (!isBlank(suspect.plea_hearing)) {
+              break;
+            }
+            if (!trial_type || trial_type !== "Bench Trial") {
+              console.log(`${suspect.name} bench trial: ${dateText}`);
+              suspect.trial_type = "Bench Trial";
+            }
+            if (!suspect.trial_date) {
+              suspect.trial_date = latestDate(suspect, "trial_date", dateText);
+            }
+            if (suspect.jury_selection) {
+              suspect.jury_selection = null;
+            }
+            break;
+          case "Status Conference":
+            suspect.status_conference = earliestDate(suspect, "status_conference", dateText);
+            break;
+        }
       }
 
       updateSuspect(suspect);

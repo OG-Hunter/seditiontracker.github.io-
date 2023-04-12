@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0045
 caseName: USA v. BENSCH
-judge: G. M. Harvey
+judge: Trevor N. McFadden
 videos:
 charges:
 sentence:

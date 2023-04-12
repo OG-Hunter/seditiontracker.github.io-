@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0585
 caseName: USA v. RAHM
-judge: Thomas F. Hogan
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-mj-0275
 caseName: USA v. KRILL
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

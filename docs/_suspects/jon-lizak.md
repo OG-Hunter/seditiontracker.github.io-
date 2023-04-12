@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0375
 caseName: USA v. LIZAK
-judge: Zia M. Faruqui
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

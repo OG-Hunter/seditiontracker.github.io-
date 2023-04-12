@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0035
 caseName: USA v. VILLARREAL
-judge:
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

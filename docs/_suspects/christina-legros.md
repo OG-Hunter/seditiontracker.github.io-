@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0069
 caseName: USA v. LEGROS
-judge: Zia M. Faruqui
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

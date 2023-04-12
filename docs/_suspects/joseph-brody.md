@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0375
 caseName: USA v. BRODY
-judge: Moxila A. Upadhyaya
+judge: Colleen Kollar-Kotelly
 videos:
 charges:
 sentence:

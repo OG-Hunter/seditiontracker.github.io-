@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0087
 caseName: USA v. WESTON
-judge: Zia M. Faruqui
+judge: Reggie B. Walton
 videos:
 charges:
 sentence:

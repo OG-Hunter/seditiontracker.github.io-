@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0381
 caseName: USA v. WYATT
-judge: Robin M. Meriweather
+judge: James E. Boasberg
 videos:
 charges:
 sentence:

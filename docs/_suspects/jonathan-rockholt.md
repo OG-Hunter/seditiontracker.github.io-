@@ -38,20 +38,19 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0045
 caseName: USA v. ROCKHOLT
-judge: G. M. Harvey
+judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 641,2
-    title: Theft of Government Property (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 641,2
+  title: Theft of Government Property (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
 sentence:
 ---
-
 - [News Report](https://abcnews.go.com/US/wireStory/fbi-militia-members-charged-storming-capitol-88818164)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529806/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529811/download)

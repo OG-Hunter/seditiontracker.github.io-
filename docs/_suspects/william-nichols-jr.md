@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0019
 caseName: USA v. NICHOLS-JR
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:

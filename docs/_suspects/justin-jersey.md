@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. JERSEY
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 - code: 18 USC § 111(a)(1) and (b)

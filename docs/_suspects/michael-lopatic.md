@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0035
 caseName: USA v. LOPATIC
-judge: Emmet G. Sullivan
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

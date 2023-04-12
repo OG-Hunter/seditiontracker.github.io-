@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.9news.com/article/news/crime/capitol-riot-suspect-rodney-milstreed/73-395be66f-e2e3-4669-9e91-f2d22f5c6f6f)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508141/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download)
