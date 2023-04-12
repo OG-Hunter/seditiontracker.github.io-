@@ -43,8 +43,10 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.9news.com/article/news/crime/capitol-riot-suspect-rodney-milstreed/73-395be66f-e2e3-4669-9e91-f2d22f5c6f6f)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508141/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/maryland-man-arrested-assaulting-law-enforcement-officers-during-jan-6-capitol-breach)
 - [Indictment](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Rodney%20Kenneth%20Milstreed%20Indictment.pdf)
+- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.243939/gov.uscourts.dcd.243939.26.0.pdf)

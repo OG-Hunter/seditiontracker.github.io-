@@ -16,7 +16,7 @@ deceased:
 plea_hearing:
 trial_date: 2023-06-05
 trial_type: Jury Trial
-jury_selection:
+jury_selection: 2023-06-05
 sentencing:
 status_conference: 2023-04-14
 age:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 22-cr-0038
 caseName: USA v. EICHER
-judge: Colleen Kollar-Kotelly
+judge: Beryl A. Howell
 videos:
 charges:
 sentence:

@@ -35,7 +35,7 @@ title: Quinn Keen charged on 4/6/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. KEEN
 judge:

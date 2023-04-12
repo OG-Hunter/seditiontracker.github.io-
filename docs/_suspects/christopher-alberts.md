@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-02-06
+trial_date: 2023-04-11
 trial_type: Jury Trial
-jury_selection: 2023-02-06
+jury_selection: 2023-04-11
 sentencing:
 status_conference:
 age: 33
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.baltimoresun.com/news/crime/bs-md-cr-marylanders-arrested-at-capitol-20210107-nd4fjzvmifdxflacbby4mxmyqu-story.html)
 - [DOJ Press Release](https://www.justice.gov/opa/pr/thirteen-charged-federal-court-following-riot-united-states-capitol)
 - [Complaint](https://www.justice.gov/opa/press-release/file/1351681/download)
