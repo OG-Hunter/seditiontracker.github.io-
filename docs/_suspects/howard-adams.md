@@ -4,13 +4,13 @@ lastName: Adams
 hashtag: HowardBertonAdams
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-03-10
 charged: 2021-03-10
 indicted: 2021-05-14
 convicted: 2023-01-26
 acquitted:
-sentenced:
+sentenced: 2023-04-13
 dismissed:
 deceased:
 plea_hearing: 2023-01-26
@@ -46,6 +46,10 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/18/231
   felony: true
 sentence:
+  - 8 months incarceration
+  - 3 years probation
+  - $2000 fine
+  - $2000 restitution
 ---
 - [News Report](https://www.clickorlando.com/news/local/2021/03/10/another-central-florida-man-arrested-in-capitol-riot/#//)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378311/download)

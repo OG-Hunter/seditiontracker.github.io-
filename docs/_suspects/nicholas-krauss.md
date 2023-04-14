@@ -4,11 +4,11 @@ lastName: Krauss
 hashtag: CapitolPuma
 aka:
 residence: New Jersey
-status: Charged
+status: Convicted
 date: 2022-11-14
 charged: 2022-11-14
 indicted:
-convicted:
+convicted: 2023-04-13
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing: 2023-04-13
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-08-29
 status_conference:
 age:
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Nicholas Krauss charged on November 14th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 13, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. KRAUSS
 judge: James E. Boasberg
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1551961/download)

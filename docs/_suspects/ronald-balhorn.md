@@ -4,10 +4,10 @@ lastName: Balhorn
 hashtag:
 aka:
 residence: Michigan
-status: Charged
+status: Indicted
 date: 2023-01-27
 charged: 2023-01-27
-indicted:
+indicted: 2023-04-05
 convicted:
 acquitted:
 sentenced:
@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-04-18
 age: 53
 occupation:
 affiliations:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0025
+caseNumber: 23-cr-0114
 caseName: USA v. BALHORN
-judge: Moxila A. Upadhyaya
+judge: Ana C. Reyes
 videos:
 charges:
 sentence:
@@ -47,3 +47,4 @@ sentence:
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567206/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1567211/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-michigan-men-arrested-felony-charges-actions-during-jan-6-capitol-breach)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253930/gov.uscourts.dcd.253930.22.0_1.pdf)

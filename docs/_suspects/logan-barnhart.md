@@ -4,13 +4,13 @@ lastName: Barnhart
 hashtag: CatSweat
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2021-08-04
 charged: 2021-08-04
 indicted: 2021-08-04
 convicted: 2022-09-28
 acquitted:
-sentenced:
+sentenced: 2023-04-13
 dismissed:
 deceased:
 plea_hearing: 2022-09-28
@@ -46,6 +46,10 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/18/111
   felony: true
 sentence:
+  - 3 years incarceration
+  - 3 years probation
+  - $3688 fine
+  - $2000 restitution
 ---
 - [News Report](https://www.huffpost.com/entry/logan-barnhart-trump-capitol-attack-fbi-arrest_n_6086e1b3e4b02e74d21d4a28?ztc)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461561/download)
