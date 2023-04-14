@@ -17,7 +17,7 @@ plea_hearing: 2023-02-24
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-04-12
+sentencing: 2023-06-23
 status_conference:
 age:
 occupation:
@@ -41,17 +41,16 @@ caseName: USA v. CRONIN
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
   - 18 months probation
   - $1500 fine
   - 0 hours community service
   - $500 restitution
 ---
-
 - [News Report](https://www.king5.com/article/news/crime/puyallup-capitol-riot-suspects-charges/281-19245a3b-5271-4dc1-8460-a3c7fa150fe6)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512656/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1512661/download)

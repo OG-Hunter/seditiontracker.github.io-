@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-04-13
+status_conference:
 age: 53
 occupation: U.S. Marines (Former)
 affiliations: Proud Boys
