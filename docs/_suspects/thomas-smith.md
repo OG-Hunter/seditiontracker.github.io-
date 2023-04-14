@@ -14,9 +14,9 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date: 2023-04-24
+trial_date: 2023-11-13
 trial_type: Jury Trial
-jury_selection: 2023-04-24
+jury_selection: 2023-11-13
 sentencing:
 status_conference:
 age:

@@ -142,7 +142,7 @@ const parseSchedule = async () => {
             suspect.sentencing = latestDate(suspect, "sentencing", dateText);
             break;
           case "Jury Selection":
-            if (!isBlank(suspect.plea_hearing) || !isBlank(suspect.jury_selection)) {
+            if (!isBlank(suspect.plea_hearing)) {
               break;
             }
             if (!trial_type) {
@@ -150,6 +150,9 @@ const parseSchedule = async () => {
               suspect.trial_type = "Jury Trial";
             }
             suspect.jury_selection = latestDate(suspect, "jury_selection", dateText);
+            if (suspect.trial_date < suspect.jury_selection) {
+              suspect.trial_date = suspect.jury_selection;
+            }
             if (!trial_date) {
               suspect.trial_date = latestDate(suspect, "trial_date", dateText);
             }
