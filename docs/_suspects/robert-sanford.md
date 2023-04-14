@@ -41,16 +41,15 @@ caseName: USA v. SANFORD
 judge: Paul L. Friedman
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 52 months incarceration
   - 3 years probation
   - $5800 restitution
 ---
-
 - [News Report](https://www.wsj.com/livecoverage/trump-impeachment-house-biden/card/jjabJi3k3h0KAkxYDoWY)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol)
 - [Video of Incident](https://twitter.com/DavidBegnaud/status/1349055784089370624?s=20)

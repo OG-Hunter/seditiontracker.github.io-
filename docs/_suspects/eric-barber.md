@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0228
 caseName: USA v. BARBER
-judge:
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
