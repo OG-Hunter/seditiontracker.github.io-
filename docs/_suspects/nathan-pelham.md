@@ -35,7 +35,7 @@ title: Nathan Pelham charged on 4/11/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. PELHAM
 judge:
