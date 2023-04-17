@@ -15,7 +15,7 @@ dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-04-17
-trial_type: Bench Trial
+trial_type: Stipulated Bench Trial
 jury_selection:
 sentencing:
 status_conference:
@@ -40,33 +40,34 @@ caseNumber: 21-cr-0453
 caseName: USA v. MCHUGH
 judge: John D. Bates
 videos:
-- title: Media1.mp4 (0:00:56)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c2f1fca0ce2a013960702cde48001122.mp4
-- title: Media3.mp4 (0:00:14)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cc626190ce2a013960702cde48001122.mp4
-- title: Media5.mp4 (0:00:34)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e05fc660ce2a013960702cde48001122.mp4
-- title: Media7.mp4 (0:00:22)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/dd94dd00ce2a013960702cde48001122.mp4
-- title: Media9.mp4 (0:00:26)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e7358f10ce2a013960702cde48001122.mp4
-- title: Media11.mp4 (0:00:20)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c9c24010ce2a013960702cde48001122.mp4
-- title: Media2.mp4 (0:00:14)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ce977610ce2a013960702cde48001122.mp4
-- title: Media4.mp4 (0:00:21)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e46d7400ce2a013960702cde48001122.mp4
-- title: Media6.mp4 (0:01:29)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d2dd3c80ce2a013960702cde48001122.mp4
-- title: Media8.mp4 (0:00:17)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/eac148f0ce2a013960702cde48001122.mp4
-- title: Media10.mp4 (0:00:13)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d095dad0ce2a013960702cde48001122.mp4
-- title: Media12.mp4 (0:00:10)
-  url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c100a3d0ce2a013960702cde48001122.mp4
+  - title: Media1.mp4 (0:00:56)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c2f1fca0ce2a013960702cde48001122.mp4
+  - title: Media3.mp4 (0:00:14)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/cc626190ce2a013960702cde48001122.mp4
+  - title: Media5.mp4 (0:00:34)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e05fc660ce2a013960702cde48001122.mp4
+  - title: Media7.mp4 (0:00:22)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/dd94dd00ce2a013960702cde48001122.mp4
+  - title: Media9.mp4 (0:00:26)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e7358f10ce2a013960702cde48001122.mp4
+  - title: Media11.mp4 (0:00:20)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c9c24010ce2a013960702cde48001122.mp4
+  - title: Media2.mp4 (0:00:14)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/ce977610ce2a013960702cde48001122.mp4
+  - title: Media4.mp4 (0:00:21)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/e46d7400ce2a013960702cde48001122.mp4
+  - title: Media6.mp4 (0:01:29)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d2dd3c80ce2a013960702cde48001122.mp4
+  - title: Media8.mp4 (0:00:17)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/eac148f0ce2a013960702cde48001122.mp4
+  - title: Media10.mp4 (0:00:13)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/d095dad0ce2a013960702cde48001122.mp4
+  - title: Media12.mp4 (0:00:10)
+    url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/c100a3d0ce2a013960702cde48001122.mp4
 charges:
 sentence:
 ---
+
 - [News Report](https://www.sacbee.com/news/local/crime/article251748888.html)
 - [Statement of Facts](https://www.justice.gov/opa/case-multi-defendant/file/1399611/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1410721/download)
