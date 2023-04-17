@@ -45,3 +45,4 @@ sentence:
 ---
 - [News Report](https://www.wfla.com/news/local-news/citrus-county/florida-man-known-as-sedition-panda-arrested-for-allegedly-storming-capitol/)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252921/gov.uscourts.dcd.252921.8.0_1.pdf)
+- [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1579766/download)
