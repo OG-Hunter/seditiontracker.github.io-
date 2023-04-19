@@ -50,3 +50,4 @@ sentence:
 - [News Report](https://triblive.com/local/regional/ellwood-city-man-whose-wife-pleaded-guilty-to-involvement-in-capitol-riot-now-faces-charges/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549196/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549201/download)
+- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1580216/download)

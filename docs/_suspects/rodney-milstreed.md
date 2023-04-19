@@ -41,21 +41,20 @@ caseName: USA v. MILSTREED
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
-  - code: 18 USC § 113(a)(4)
-    title: Assault by striking, beating or wounding
-    url: https://www.law.cornell.edu/uscode/text/18/113
-    felony: false
-  - code: 26 USC § 5861(d)
-    title: Possession of an Unregistered Firearm
-    url: https://www.law.cornell.edu/uscode/text/26/5861
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
+- code: 18 USC § 113(a)(4)
+  title: Assault by striking, beating or wounding
+  url: https://www.law.cornell.edu/uscode/text/18/113
+  felony: false
+- code: 26 USC § 5861(d)
+  title: Possession of an Unregistered Firearm
+  url: https://www.law.cornell.edu/uscode/text/26/5861
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.9news.com/article/news/crime/capitol-riot-suspect-rodney-milstreed/73-395be66f-e2e3-4669-9e91-f2d22f5c6f6f)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508141/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1508146/download)

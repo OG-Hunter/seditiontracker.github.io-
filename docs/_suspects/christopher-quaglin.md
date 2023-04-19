@@ -18,7 +18,7 @@ trial_date: 2023-04-10
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-04-17
+status_conference:
 age: 35
 occupation: Electrician
 affiliations: Proud Boys
