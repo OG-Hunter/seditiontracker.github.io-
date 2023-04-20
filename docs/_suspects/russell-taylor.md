@@ -47,3 +47,4 @@ sentence:
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)
 - [FBI Raid](https://www.cnn.com/2021/02/03/politics/fbi-raids-capitol-attack-investigation/index.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232193/gov.uscourts.dcd.232193.197.0.pdf)
