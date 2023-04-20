@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-16
 age: 70
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0066
 caseName: USA v. LAVRENZ
-judge: Zia M. Faruqui
+judge: Rudolph Contreras
 videos:
 charges:
 sentence:

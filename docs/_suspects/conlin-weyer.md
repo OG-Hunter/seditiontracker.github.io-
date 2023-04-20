@@ -41,13 +41,12 @@ caseName: USA v. WEYER
 judge: Jia M. Cobb
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.wisn.com/article/wisconsin-man-charged-in-capitol-riot/39996062)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505816/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1505821/download)

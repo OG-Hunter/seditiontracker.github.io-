@@ -41,36 +41,35 @@ caseName: USA v. BROWN
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 26 USC § 5861(d)
-    title: Possession of an Unregistered Firearm
-    url: https://www.law.cornell.edu/uscode/text/26/5861
-    felony: true
-  - code: 26 USC § 5861(d)
-    title: Possession of an Unregistered Firearm
-    url: https://www.law.cornell.edu/uscode/text/26/5861
-    felony: true
-  - code: 26 USC § 5861(d)
-    title: Possession of an Unregistered Firearm
-    url: https://www.law.cornell.edu/uscode/text/26/5861
-    felony: true
-  - code: 26 USC § 5861(d)
-    title: Possession of an Unregistered Firearm
-    url: https://www.law.cornell.edu/uscode/text/26/5861
-    felony: true
-  - code: 18 USC § 842(j)
-    title: Unlawful Storage of Explosive Materials
-    url: https://www.law.cornell.edu/uscode/text/18/842
-    felony: false
-  - code: 18 USC § 793(e)
-    title: Unauthorized Posession of Defense Information
-    url: https://www.law.cornell.edu/uscode/text/18/793
-    felony: true
+- code: 26 USC § 5861(d)
+  title: Possession of an Unregistered Firearm
+  url: https://www.law.cornell.edu/uscode/text/26/5861
+  felony: true
+- code: 26 USC § 5861(d)
+  title: Possession of an Unregistered Firearm
+  url: https://www.law.cornell.edu/uscode/text/26/5861
+  felony: true
+- code: 26 USC § 5861(d)
+  title: Possession of an Unregistered Firearm
+  url: https://www.law.cornell.edu/uscode/text/26/5861
+  felony: true
+- code: 26 USC § 5861(d)
+  title: Possession of an Unregistered Firearm
+  url: https://www.law.cornell.edu/uscode/text/26/5861
+  felony: true
+- code: 18 USC § 842(j)
+  title: Unlawful Storage of Explosive Materials
+  url: https://www.law.cornell.edu/uscode/text/18/842
+  felony: false
+- code: 18 USC § 793(e)
+  title: Unauthorized Posession of Defense Information
+  url: https://www.law.cornell.edu/uscode/text/18/793
+  felony: true
 sentence:
   - 87 months incarceration
   - 3 years probation
   - $0 restitution
 ---
-
 - [News Report](https://www.tampabay.com/news/tampa/2021/10/06/tampa-oath-keeper-stays-jailed-after-judge-finds-he-threatened-cops/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1438141/download)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Jeremy%20Brown%20Information.pdf)

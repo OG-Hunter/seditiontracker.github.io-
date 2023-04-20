@@ -18,7 +18,7 @@ trial_date: 2023-04-19
 trial_type: Jury Trial
 jury_selection: 2023-04-19
 sentencing:
-status_conference: 2023-04-19
+status_conference: 2023-05-18
 age: 46
 occupation:
 affiliations:
