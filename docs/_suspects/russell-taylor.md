@@ -41,13 +41,12 @@ caseName: USA v. TAYLOR
 judge: Royce C. Lamberth
 videos:
 charges:
-  - code: 18 USC § 1512(k)
-    title: Conspiracy to Obstruct an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(k)
+  title: Conspiracy to Obstruct an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.reuters.com/world/us/three-percenters-militia-members-charged-us-capitol-attack-2021-06-10/)
 - [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)
 - [FBI Raid](https://www.cnn.com/2021/02/03/politics/fbi-raids-capitol-attack-investigation/index.html)

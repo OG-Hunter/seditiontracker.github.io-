@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0536
 caseName: USA v. CHWIESIUK
-judge: Colleen Kollar-Kotelly
+judge: Ana C. Reyes
 videos:
 charges:
 sentence:
