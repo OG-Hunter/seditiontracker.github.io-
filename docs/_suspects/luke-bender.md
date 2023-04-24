@@ -10,7 +10,7 @@ charged: 2021-07-26
 indicted: 2021-08-04
 convicted: 2022-12-07
 acquitted:
-sentenced: 2020-04-20
+sentenced: 2023-04-20
 dismissed:
 deceased:
 plea_hearing:
