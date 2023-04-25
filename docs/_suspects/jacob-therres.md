@@ -4,13 +4,13 @@ lastName: Therres
 hashtag: NelsonPostThrower
 aka:
 residence: Maryland
-status: Convicted
+status: Sentenced
 date: 2022-11-03
 charged: 2022-11-03
 indicted:
 convicted: 2023-01-23
 acquitted:
-sentenced:
+sentenced: 2023-04-24
 dismissed:
 deceased:
 plea_hearing: 2023-01-23
@@ -41,12 +41,16 @@ caseName: USA v. THERRES
 judge: James E. Boasberg
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 40 months incarceration
+  - 3 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://www.thebaltimorebanner.com/community/criminal-justice/fallston-father-and-stepson-charged-with-assaulting-police-during-jan-6-insurrection-TFFWXKARWJEBVDKQ6N5H7CTABI/?tag1=twitter&tag2=socialnewsdesk)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1552271/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1552276/download)

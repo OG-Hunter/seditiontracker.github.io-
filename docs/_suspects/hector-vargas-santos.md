@@ -8,7 +8,7 @@ status: Sentenced
 date: 2021-01-22
 charged: 2021-01-22
 indicted:
-convicted:
+convicted: 2022-12-12
 acquitted:
 sentenced: 2023-04-21
 dismissed:

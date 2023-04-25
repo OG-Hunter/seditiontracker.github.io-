@@ -4,11 +4,11 @@ lastName: Munafo
 hashtag: BoyInTheHood
 aka:
 residence: New York
-status: Indicted
+status: Convicted
 date: 2021-04-23
 charged: 2021-04-23
 indicted: 2021-04-28
-convicted:
+convicted: 2023-04-21
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Jonathan Munafo charged on April 23, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 21, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
