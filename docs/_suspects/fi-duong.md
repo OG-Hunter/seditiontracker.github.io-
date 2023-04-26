@@ -41,13 +41,12 @@ caseName: USA v. DUONG
 judge: Paul L. Friedman
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/capitol-riot-bible-study-group-militia/2021/07/06/e5e6cd26-de82-11eb-ae31-6b7c5c34f0d6_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1409611/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234965/gov.uscourts.dcd.234965.11.0.pdf)

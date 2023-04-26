@@ -41,17 +41,16 @@ caseName: USA v. MUNAFO
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.orlandosentinel.com/news/breaking-news/os-ne-jonathan-munafo-us-capitol-riot-20210427-cmz7ovdhejeefm2unzdns4aqzy-story.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389811/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1389816/download)

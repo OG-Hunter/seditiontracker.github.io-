@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-04-19
 trial_type: Jury Trial
 jury_selection: 2023-04-19
-sentencing:
+sentencing: 2023-09-11
 status_conference:
 age:
 occupation:
@@ -41,25 +41,24 @@ caseName: USA v. RHINE
 judge: Rudolph Contreras
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://news.yahoo.com/bremerton-man-accused-being-jan-175708598.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Criminal%20Complaint.pdf)
 - [Information](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/David%20Charles%20Rhine%20Information.pdf)
