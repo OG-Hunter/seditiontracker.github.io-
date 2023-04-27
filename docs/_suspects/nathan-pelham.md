@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-mj-0079
 caseName: USA v. PELHAM
-judge:
+judge: G. M. Harvey
 videos:
 charges:
 sentence:

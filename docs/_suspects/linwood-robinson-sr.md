@@ -41,13 +41,12 @@ caseName: USA v. ROBINSON-SR
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.wcnc.com/article/news/local/south-carolina-family-charged-connection-capitol-riot/275-8f18be45-808e-4043-8352-a1256ce11587)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507556/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1507561/download)

@@ -18,7 +18,7 @@ trial_date: 2023-02-27
 trial_type: Jury Trial
 jury_selection: 2023-02-27
 sentencing:
-status_conference:
+status_conference: 2023-05-19
 age:
 occupation: Student
 affiliations: Gallaudet University
