@@ -4,11 +4,11 @@ lastName: Gianos
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2021-11-22
 charged: 2021-11-22
 indicted:
-convicted:
+convicted: 2023-04-28
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing: 2023-04-28
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-07-25
 status_conference:
 age:
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote: "Yeah I was in there. Stormed Nancy office"
 title: Michael Gianos charged on November 22, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on April 28, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,13 @@ caseName: USA v. GIANOS
 judge: Jia M. Cobb
 videos:
 charges:
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/crime/feds-claim-pa-woman-stormed-the-capitol-on-jan-6-welcomed-fight-with-counterprotesters/ar-AARp9Sv)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459071/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459076/download)

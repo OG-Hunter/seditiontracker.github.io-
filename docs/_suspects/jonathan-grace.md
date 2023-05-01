@@ -4,10 +4,10 @@ lastName: Grace
 hashtag:
 aka:
 residence: Colorado
-status: Charged
+status: Indicted
 date: 2023-03-17
 charged: 2023-03-17
-indicted:
+indicted: 2023-04-26
 convicted:
 acquitted:
 sentenced:
@@ -46,3 +46,4 @@ sentence:
 
 - [News Report]()
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253252/gov.uscourts.dcd.253252.1.1.pdf)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.254631/gov.uscourts.dcd.254631.41.0_1.pdf)

@@ -41,13 +41,12 @@ caseName: USA v. HART
 judge: Paul L. Friedman
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.wusa9.com/article/news/national/capitol-riots/i70-paintball-and-airsoft-owner-charged-in-capitol-riots-wearing-qanon-gear-timothy-hart/65-b2582dd8-1272-4dd0-817c-e56829faf180)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1408076/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.234955/gov.uscourts.dcd.234955.18.0_2.pdf)

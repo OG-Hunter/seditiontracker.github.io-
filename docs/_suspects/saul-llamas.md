@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-04-28
+status_conference: 2023-05-26
 age: 29
 occupation:
 affiliations:

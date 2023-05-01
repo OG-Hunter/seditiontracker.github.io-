@@ -4,10 +4,10 @@ lastName: Sarsfield
 hashtag: BandanaWolverine
 aka:
 residence: Texas
-status: Charged
+status: Indicted
 date: 2023-02-13
 charged: 2023-02-13
-indicted:
+indicted: 2023-04-26
 convicted:
 acquitted:
 sentenced:
@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.cbs19.tv/article/news/local/east-texas-man-arrested-for-alleged-involvement-us-capitol-riot/501-89461969-d80b-433b-8d07-43e6147eca79)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/texas-man-arrested-actions-lower-west-terrace-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252126/gov.uscourts.dcd.252126.1.1.pdf)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.254631/gov.uscourts.dcd.254631.41.0_1.pdf)

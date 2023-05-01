@@ -4,10 +4,10 @@ lastName: Cook
 hashtag: CrispWhiteRiot
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2023-03-07
 charged: 2023-03-07
-indicted:
+indicted: 2023-04-26
 convicted:
 acquitted:
 sentenced:
@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://bocanewsnow.com/2023/03/09/boca-raton-man-arrested-for-january-6th-capitol-breach/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252880/gov.uscourts.dcd.252880.1.1.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/florida-man-arrested-actions-lower-west-terrace-during-jan-6-capitol-breach)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.254631/gov.uscourts.dcd.254631.41.0_1.pdf)

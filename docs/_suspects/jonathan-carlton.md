@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0247
 caseName: USA v. CARLTON
-judge: Thomas F. Hogan
+judge: John D. Bates
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
