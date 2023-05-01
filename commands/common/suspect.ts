@@ -61,6 +61,34 @@ export interface Suspect {
   videos?: Video[];
 }
 
+export const getFirstLastName = (nameText: string): { firstName: string; lastName: string } => {
+  let firstName = "";
+
+  nameText = nameText
+    .replace("Updated", "")
+    .replace("New", "")
+    .replace("Jr.", "")
+    .replace("Sr.", "")
+    .replace("III", "")
+    .replace("II", "")
+    .replace("IV", "")
+    .replace(", ", "")
+    .replace(/\S\./, "")
+    .trim();
+
+  const names = nameText.split(" ").filter((n) => n !== "");
+
+  if (names.length == 2) {
+    return { firstName: names[0], lastName: names[1] };
+  } else if (names.length == 3) {
+    return { firstName: names[0], lastName: names[2] };
+  } else {
+    firstName = names.shift();
+    names.shift();
+    return { firstName, lastName: names.join(" ") };
+  }
+};
+
 export const getSuspectByFile = (filename: string) => {
   const data = readFile(`./docs/_suspects/${filename}`);
   const suspect: Suspect = { published: true, name: "", lastName: "" };
@@ -421,10 +449,6 @@ export const getSuspect = (firstName: string, lastName: string) => {
 };
 
 export const dasherizeName = (firstName: string, lastName?: string) => {
-  if (lastName == "Sywak") {
-    console.log({ firstName });
-    console.log({ lastName });
-  }
   const name = lastName ? `${firstName} ${lastName}` : firstName;
   return name.replace(/\s/g, "-").replace(/'/g, "").toLowerCase();
 };

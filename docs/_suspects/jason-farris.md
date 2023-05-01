@@ -1,0 +1,49 @@
+---
+name: Jason Farris
+lastName: Farris
+hashtag:
+aka:
+residence: Texas
+status: Charged
+date: 2023-02-03
+charged: 2023-02-03
+indicted:
+convicted:
+acquitted:
+sentenced:
+dismissed:
+deceased:
+plea_hearing:
+trial_date:
+trial_type:
+jury_selection:
+sentencing:
+status_conference:
+age: 44
+occupation:
+affiliations:
+jurisdiction: Federal
+image: /images/preview/jason-farris.jpg
+suspect: jason-farris.jpg
+booking:
+courtroom:
+courthouse:
+raid:
+perpwalk:
+quote:
+title: Jason Farris charged on February 2, 2023
+description: Click for latest case details. Suspects innocent until proven guilty.
+author: seditiontrack
+layout: suspect
+published: false
+caseNumber: 1:23-cr-00068
+caseName: USA v. FARRIS
+judge:
+videos:
+charges:
+sentence:
+---
+
+- [News Report]()
+- [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/texas-man-arrested-felony-charges-actions-during-jan-6-capitol-breach)
+- [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252932/gov.uscourts.dcd.252932.1.1.pdf)

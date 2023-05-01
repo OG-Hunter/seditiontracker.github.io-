@@ -5,8 +5,17 @@ import axios from "axios";
 import { HTMLElement, parse } from "node-html-parser";
 import { capitalize, isEmpty, toLower } from "lodash";
 import moment from "moment";
-import { dasherizeName, getSuspect, getSuspectByFile, Suspect, updateSuspect } from "./common/suspect";
+import {
+  dasherizeName,
+  getFirstLastName,
+  getSuspect,
+  getSuspectByFile,
+  Suspect,
+  updateSuspect,
+} from "./common/suspect";
 import { execSync } from "child_process";
+import { load } from "cheerio";
+import { readFile } from "./common/file";
 
 const cmd = new Command();
 cmd.parse(process.argv);
@@ -16,6 +25,7 @@ const importSuspects = async () => {
 
   await importDoj(getNameSet());
   await importGw(getNameSet());
+  await importNPR(getNameSet());
 };
 
 const getNameSet = (): Set<string> => {
@@ -335,6 +345,122 @@ const importDoj = async (nameSet: Set<string>) => {
       caseNumber,
     });
   }
+};
+
+const importNPR = async (nameSet: Set<string>) => {
+  /**
+   * Page loads dynamically so we need to save the source to a local file first
+   *
+   * https://apps.npr.org/dailygraphics/graphics/capitol-riot-table-20210204/table.html
+   */
+  info("Importing suspects from NPR site");
+  const html = readFile("npr.html");
+  const $ = load(html);
+
+  const IGNORE_NPR = [
+    "michael-mackrell",
+    "william-sywak",
+    "eric-bernewitz",
+    "paul-bernewitz",
+    "linwood-robinson",
+    "zach-rehl",
+    "nick-decarlo",
+    "benjamen-burlew",
+    "yvonne-cyr",
+    "paul-seymour",
+    "lawrence-stackhouse",
+    "douglas-macrae",
+    "jeffery-witcher",
+    "kenneth-paul-schulz",
+    "esyededeea-aesfyza",
+    "chadwick-clifton",
+    "cody-carter-connell",
+    "glenn-lee-croy",
+    "stacy-ebanks",
+    "samuel-fontanez-rodriguez",
+    "william-wyatt-gallman",
+    "uliyahu-hayah",
+    "yuji-hiraiwa",
+    "kasey-owen-hopkins",
+    "yevgeniya-malimon",
+    "wilmar-jeovanny-montano-alvarado",
+    "lynnwood-nester",
+    "kenneth-owen-thomas",
+    "kelsey-ann-wilson",
+    "elijah-yazdani",
+    "michael-amos",
+    "victoria-bergeson",
+    "jere-brower",
+    "daniel-clavijo",
+    "tara-coleman",
+    "jonathan-doll",
+    "david-fitzgerald",
+    "chris-georgia",
+    "lance-grames",
+    "william-leary",
+    "ryan-mason",
+    "mauricio-mendez",
+    "marsha-murphy",
+    "john-parker",
+    "nazeer-qaim",
+    "james-sinclair",
+    "anthony-tammaro",
+    "john-ross-gould",
+    "david-ross",
+    "isreal-easterday",
+    "william-nichols",
+  ];
+
+  $("body > div > div > table > tbody > tr").each((index, element) => {
+    $("td.bio", element).each((index, element) => {
+      $("div", element).each((index, element) => {
+        let nameText = "";
+        let locationText = "";
+        let ageText = "";
+
+        switch (index) {
+          case 0:
+            return;
+          case 1:
+            $("span", element).each((index, element) => {
+              switch (index) {
+                case 0:
+                  nameText = $(element).text().trim();
+                  break;
+                case 1:
+                  ageText = $(element).text().trim();
+                  break;
+                case 2:
+                  locationText = $(element).text().trim();
+                  break;
+              }
+            });
+            break;
+        }
+
+        const { firstName, lastName } = getFirstLastName(nameText);
+        const nameToCheck = dasherizeName(firstName, lastName);
+        if (nameSet.has(nameToCheck)) {
+          return;
+        }
+
+        if (IGNORE_NPR.includes(nameToCheck)) {
+          return;
+        }
+
+        const ageMatch = ageText.match(/(\d\d) years old/);
+        const residenceMatch = locationText.match(/\w*, (\w*)/);
+
+        addData({
+          nameSet,
+          firstName,
+          lastName,
+          age: ageMatch ? ageMatch[1] : undefined,
+          residence: residenceMatch ? residenceMatch[0] : undefined,
+        });
+      });
+    });
+  });
 };
 
 const falsePositives = (site: string) => {
