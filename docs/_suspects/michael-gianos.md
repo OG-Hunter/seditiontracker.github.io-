@@ -41,13 +41,12 @@ caseName: USA v. GIANOS
 judge: Jia M. Cobb
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/crime/feds-claim-pa-woman-stormed-the-capitol-on-jan-6-welcomed-fight-with-counterprotesters/ar-AARp9Sv)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459071/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1459076/download)

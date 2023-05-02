@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://fox59.com/indiana-news/brownsburg-couple-arrested-for-taking-part-in-jan-6-u-s-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1574611/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/indiana-couple-arrested-actions-lower-west-terrace-during-jan-6-capitol-breach)

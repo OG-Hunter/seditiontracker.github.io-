@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://bocanewsnow.com/2023/03/09/boca-raton-man-arrested-for-january-6th-capitol-breach/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252880/gov.uscourts.dcd.252880.1.1.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/florida-man-arrested-actions-lower-west-terrace-during-jan-6-capitol-breach)

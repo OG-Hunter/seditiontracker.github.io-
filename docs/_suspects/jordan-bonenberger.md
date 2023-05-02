@@ -4,20 +4,20 @@ lastName: Bonenberger
 hashtag:
 aka:
 residence: Pennsylvania
-status: Charged
+status: Convicted
 date: 2022-03-11
 charged: 2022-03-11
 indicted:
-convicted:
+convicted: 2023-05-01
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-04-28
+plea_hearing: 2023-05-01
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-09-05
 status_conference:
 age:
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Jordan Bonenberger charged on March 11th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 1, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. BONENBERGER
 judge: John D. Bates
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://triblive.com/local/regional/cranberry-man-charged-for-alleged-involvement-in-jan-6-capitol-attack/)
