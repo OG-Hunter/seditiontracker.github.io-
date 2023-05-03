@@ -18,7 +18,7 @@ trial_date: 2023-04-03
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-05-02
+status_conference: 2023-07-10
 age: 62
 occupation:
 affiliations:

@@ -4,11 +4,11 @@ lastName: Gallman
 hashtag:
 aka:
 residence: South Carolina
-status: Charged
+status: Convicted
 date: 2022-09-27
 charged: 2022-09-27
 indicted:
-convicted:
+convicted: 2023-05-02
 acquitted:
 sentenced:
 dismissed:
@@ -17,7 +17,7 @@ plea_hearing: 2023-05-02
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-08-18
 status_conference:
 age: 38
 occupation:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: William Gallman charged on September 27, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 2, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,6 +41,10 @@ caseName: USA v. GALLMAN
 judge: Amy B. Jackson
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://www.thestate.com/news/local/crime/article267161521.html)

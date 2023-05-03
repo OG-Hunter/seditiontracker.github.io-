@@ -41,13 +41,12 @@ caseName: USA v. HUESO
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.sandiegouniontribune.com/news/courts/story/2022-05-27/hueso-capitol-arrest)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1509781/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.244718/gov.uscourts.dcd.244718.25.0_6.pdf)

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0138
 caseName: USA v. MOSTOFSKY
-judge:
+judge: James E. Boasberg
 videos:
 charges:
 - code: 18 USC § 231(a)(3)

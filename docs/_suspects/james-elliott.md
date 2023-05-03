@@ -52,3 +52,4 @@ sentence:
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/illinois-man-arrested-assault-law-enforcement-during-jan-6-capitol-breach)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549141/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549146/download)
+- [Sentencing Memo](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238529/gov.uscourts.dcd.238529.40.0.pdf)
