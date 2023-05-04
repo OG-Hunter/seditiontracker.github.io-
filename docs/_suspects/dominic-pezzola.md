@@ -57,6 +57,10 @@ charges:
     title: Destruction of Government Property (Aiding and Abetting)
     url: https://www.law.cornell.edu/uscode/text/18/1361
     felony: true
+  - code: 18 USC § 1361, 2
+    title: Destruction of Government Property (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
   - code: 18 USC § 111(a)(1)
     title: Assaulting, resisting, or impeding certain officers or employees
     url: https://www.law.cornell.edu/uscode/text/18/111
