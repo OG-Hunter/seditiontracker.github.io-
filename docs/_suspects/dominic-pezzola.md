@@ -41,6 +41,30 @@ caseName: USA v. PEZZOLA
 judge: Timothy J. Kelly
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 372
+    title: Conspiracy to Prevent an Officer from Discharging any Duties
+    url: https://www.law.cornell.edu/uscode/text/18/372
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1361, 2
+    title: Destruction of Government Property (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 2112
+    title: Robbery of personal property of the United States
+    url: https://www.law.cornell.edu/uscode/text/18/2112
+    felony: true
 sentence:
 ---
 

@@ -43,6 +43,30 @@ videos:
   - title: 21CR175_00001495_PARTIAL.mp4 (0:03:00)
     url: https://propublica-data-j6cases-videos.s3.us-east-1.amazonaws.com/8a8f0be0ce2b013960702cde48001122.mp4
 charges:
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 372
+    title: Conspiracy to Prevent an Officer from Discharging any Duties
+    url: https://www.law.cornell.edu/uscode/text/18/372
+    felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
+  - code: 18 USC § 1361, 2
+    title: Destruction of Government Property (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1361
+    felony: true
 sentence:
 ---
 
