@@ -20,7 +20,7 @@ jury_selection:
 sentencing:
 status_conference:
 age: 42
-occupation:
+occupation: Former Navy Law Enforcement Specialist
 affiliations:
 jurisdiction: Federal
 image: /images/preview/dusty-higgins.jpg
@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.denverpost.com/2023/02/10/dusty-higgins-colorado-veteran-jan-6-arrest/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.251793/gov.uscourts.dcd.251793.1.1.pdf)

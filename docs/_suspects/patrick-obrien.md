@@ -44,6 +44,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.greatfallstribune.com/story/news/2023/01/13/great-falls-man-who-brought-juvenile-son-to-capitol-riot-charged/69807454007/)
 - [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/montana-man-arraigned-charges-actions-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250674/gov.uscourts.dcd.250674.1.1.pdf)

@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.pennlive.com/news/2023/03/2-years-after-capitol-riot-central-pa-man-charged-with-assault-obstructing-police.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/pennsylvania-man-charged-two-felonies-actions-during-jan-6-capitol-breach)

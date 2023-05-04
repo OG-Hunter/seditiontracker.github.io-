@@ -20,7 +20,7 @@ jury_selection:
 sentencing:
 status_conference:
 age: 37
-occupation:
+occupation: Amtrak
 affiliations:
 jurisdiction: Federal
 image: /images/preview/ronald-andrulonis.jpg
@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.phillymag.com/news/2023/03/06/ronald-andrulonis-capitol-riot-arrest/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252601/gov.uscourts.dcd.252601.1.1.pdf)

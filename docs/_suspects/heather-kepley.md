@@ -44,5 +44,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://whyy.org/articles/jan-6-insurrection-delaware-woman-brother-charged-capitol-breach-attempt/)
 - [Statement of Facts](https://www.documentcloud.org/documents/23742465-86b94973-51d8-458a-ad1c-8a68d9d4e440)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/pennsylvania-man-arrested-felony-charge-actions-during-jan-6-capitol-breach)

@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.13newsnow.com/article/news/crime/portsmouth-man-charged-alleged-involvement-2021-capitol-riot/291-b6566e33-b745-4f69-8a30-6f9a424a86a8)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252414/gov.uscourts.dcd.252414.1.1.pdf)

@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.4029tv.com/article/brennan-machacek-arrested-us-capitol/42299231)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250167/gov.uscourts.dcd.250167.1.1_5.pdf)

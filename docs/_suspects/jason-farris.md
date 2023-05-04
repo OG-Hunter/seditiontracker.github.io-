@@ -44,6 +44,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.wfaa.com/article/news/local/arlington-man-charged-jan-6-capitol-riot/287-cd3faf32-194d-4733-9769-ec4ec453e79d)
 - [DOJ Press Release (Arrest)](https://www.justice.gov/usao-dc/pr/texas-man-arrested-felony-charges-actions-during-jan-6-capitol-breach)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252932/gov.uscourts.dcd.252932.1.1.pdf)

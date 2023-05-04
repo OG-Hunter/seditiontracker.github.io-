@@ -1,7 +1,7 @@
 ---
 name: Brandon Dillard
 lastName: Dillard
-hashtag:
+hashtag: SpiderNazi
 aka:
 residence: Nevada
 status: Charged
@@ -20,7 +20,7 @@ jury_selection:
 sentencing:
 status_conference:
 age: 39
-occupation:
+occupation: Co-Owner, Vegas Girl Wigs
 affiliations:
 jurisdiction: Federal
 image: /images/preview/brandon-dillard.jpg
@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.reviewjournal.com/crime/courts/las-vegas-business-owner-charged-in-capitol-riot-2741339/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250352/gov.uscourts.dcd.250352.1.1.pdf)
