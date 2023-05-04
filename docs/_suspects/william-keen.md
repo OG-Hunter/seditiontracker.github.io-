@@ -44,5 +44,4 @@ charges:
 sentence:
 ---
 
-- [News Report]()
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250356/gov.uscourts.dcd.250356.1.1.pdf)

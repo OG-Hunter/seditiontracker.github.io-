@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 49
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -44,6 +44,6 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.kktv.com/2023/03/30/colorado-springs-man-accused-fighting-officers-during-breach-us-capitol/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253252/gov.uscourts.dcd.253252.1.1.pdf)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.254631/gov.uscourts.dcd.254631.41.0_1.pdf)

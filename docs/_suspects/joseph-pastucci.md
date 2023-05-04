@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 49
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.pennlive.com/news/2023/04/central-pa-woman-kicked-capitol-police-officer-in-the-groin-on-jan-6-fbi.html)
 - [Statement of Facts](https://s3.documentcloud.org/documents/23791216/pastucci-and-mangia.pdf)

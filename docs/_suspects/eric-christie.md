@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.nbcnews.com/politics/justice-department/jan-6-participant-arrested-hours-long-standoff-fbi-rcna63035)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250311/gov.uscourts.dcd.250311.1.1.pdf)
