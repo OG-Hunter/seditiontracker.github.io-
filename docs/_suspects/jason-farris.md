@@ -35,7 +35,7 @@ title: Jason Farris charged on February 2, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:23-cr-00068
 caseName: USA v. FARRIS
 judge:

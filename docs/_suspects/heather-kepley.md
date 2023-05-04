@@ -35,7 +35,7 @@ title: Heather Kepley charged on April 3, 2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber:
 caseName: USA v. KEPLEY
 judge:

@@ -35,7 +35,7 @@ title: William Keen charged on December 16, 2022
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 1:23-cr-00060
 caseName: USA v. KEEN
 judge:
