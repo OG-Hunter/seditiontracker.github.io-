@@ -4,11 +4,11 @@ lastName: Tarrio
 hashtag:
 aka: Henry Tarrio
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2022-03-07
 charged: 2022-03-07
 indicted: 2022-03-07
-convicted:
+convicted: 2023-05-04
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk: tarrio.jpg
 quote:
 title: Henry Tarrio charged on 3/2/2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -43,7 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.theguardian.com/us-news/2022/mar/08/enrique-tarrio-proud-boys-leader-arrested-us-capitol-attack-conspiracy)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1480986/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241009/gov.uscourts.dcd.241009.380.0_5.pdf)
 - [Detention Memo](https://s3.documentcloud.org/documents/21417131/3-14-22-us-detention-memo-enrique-tarrio.pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Enrique%20Tarrio%20Motion%20for%20Revocation%20of%20Detention%20Order.pdf)

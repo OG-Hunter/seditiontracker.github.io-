@@ -4,11 +4,11 @@ lastName: Rehl
 hashtag: ZachRehlPB
 aka:
 residence: Pennsylvania
-status: Indicted
+status: Convicted
 date: 2021-03-10
 charged: 2021-03-10
 indicted: 2021-03-10
-convicted:
+convicted: 2023-05-04
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Zach Rehl arrested on March 10, 2021
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 4, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.bozemandailychronicle.com/ap_news/philly-proud-boys-president-charged-in-capitol-riot/article_d9524b45-6f2a-57ac-9720-dd7bdd5093fe.html)
-- [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1510986/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.241009/gov.uscourts.dcd.241009.380.0_5.pdf)
