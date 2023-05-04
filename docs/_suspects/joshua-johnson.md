@@ -41,13 +41,12 @@ caseName: USA v. JOHNSON
 judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.rawstory.com/ma-2657044063/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487181/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1487186/download)
