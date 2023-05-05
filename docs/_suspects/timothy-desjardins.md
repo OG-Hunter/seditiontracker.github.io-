@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-mj-0663
 caseName: USA v. DESJARDINS
-judge:
+judge: Zia M. Faruqui
 videos:
 charges:
 sentence:
