@@ -1,10 +1,10 @@
 id: 490
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #490 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-490a.jpg/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #490 - AFO A (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-490aarrest.jpg/@@images/image/preview
 hashtag: PlagueMouth
 fugitive: false
 minor: false

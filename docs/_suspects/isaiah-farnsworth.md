@@ -41,12 +41,11 @@ caseName: USA v. FARNSWORTH
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.249829/gov.uscourts.dcd.249829.1.1.pdf)
 - [Complaint](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250668/gov.uscourts.dcd.250668.1.0.pdf)

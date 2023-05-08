@@ -18,7 +18,7 @@ trial_date: 2023-05-10
 trial_type: Jury Trial
 jury_selection: 2023-05-10
 sentencing:
-status_conference: 2023-05-05
+status_conference: 2023-07-20
 age:
 occupation:
 affiliations:

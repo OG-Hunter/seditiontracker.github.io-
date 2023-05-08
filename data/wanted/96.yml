@@ -6,14 +6,14 @@ identified: true
 label: "Photograph #96 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-96b.png/@@images/image/preview
 hashtag: OrangeGlowHead
-fugitive: false
+fugitive: true
 minor: false
 deceased: false
 duplicate: false
 charged: null
 mugshot: null
 sedition_link: null
-name: null
+name: Adam Ryan Villarreal
 missingImage: false
 identifiedBy: null
 notes: null
