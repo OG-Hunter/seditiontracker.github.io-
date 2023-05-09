@@ -4,20 +4,20 @@ lastName: Varney
 hashtag:
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2022-11-15
 charged: 2022-11-15
 indicted:
 convicted: 2022-12-01
 acquitted:
-sentenced:
+sentenced: 2023-05-08
 dismissed:
 deceased:
 plea_hearing:
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-03-27
+sentencing: 2023-05-08
 status_conference:
 age:
 occupation:
@@ -42,7 +42,12 @@ judge: John D. Bates
 videos:
 charges:
 sentence:
+  - 24 days incarceration
+  - 1 year probation
+  - $1000 fine
+  - $500 restitution
 ---
+
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555286/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555291/download)
 - [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555296/download)
