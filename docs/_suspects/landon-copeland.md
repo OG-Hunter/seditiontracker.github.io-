@@ -41,17 +41,16 @@ caseName: USA v. COPELAND
 judge: Amit P. Mehta
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 3 years incarceration
   - 3 years probation
   - 6 months home detention
   - $0 restitution
 ---
-
 - [News Report](https://www.ksl.com/article/50156952/southern-utah-man-charged-with-attacking-officers-during-us-capitol-riot)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390646/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1390651/download)
