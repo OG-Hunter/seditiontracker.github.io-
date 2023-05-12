@@ -3,7 +3,7 @@ name: Jonathan Bonney
 lastName: Bonney
 hashtag:
 aka:
-residence:
+residence: Wisconsin
 status: Charged
 date: 2023-04-27
 charged: 2023-04-27
@@ -19,7 +19,7 @@ trial_type:
 jury_selection:
 sentencing:
 status_conference:
-age:
+age: 38
 occupation:
 affiliations:
 jurisdiction: Federal
@@ -44,5 +44,5 @@ charges:
 sentence:
 ---
 
-- [News Report]()
+- [News Report](https://www.jsonline.com/story/news/crime/2023/04/28/wisconsin-man-faces-charge-in-jan-6-insurrection-at-the-capitol-building/70164063007/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.wiwd.50813/gov.uscourts.wiwd.50813.1.2.pdf)
