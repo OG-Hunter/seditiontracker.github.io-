@@ -25,7 +25,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/zach-rehl.jpg
 suspect: zach-rehl.jpg
-booking:
+booking: zach-rehl.jpg
 courtroom:
 courthouse:
 raid:

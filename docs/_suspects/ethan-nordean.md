@@ -25,7 +25,7 @@ affiliations: Proud Boys
 jurisdiction: Federal
 image: /images/preview/ethan-nordean.png
 suspect: ethan-nordean.png
-booking:
+booking: ethan-nordean.jpg
 courtroom:
 courthouse:
 raid:
