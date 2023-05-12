@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.msn.com/en-us/news/us/temecula-man-5-others-indicted-in-us-capitol-attack/ar-AAKVtDh)
-- [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232192/gov.uscourts.dcd.232192.210.0.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)

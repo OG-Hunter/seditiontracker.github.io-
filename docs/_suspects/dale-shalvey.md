@@ -4,20 +4,20 @@ lastName: Shalvey
 hashtag: GreenPeaPitcher
 aka:
 residence: Pennsylvania
-status: Convicted
+status: Sentenced
 date: 2021-02-12
 charged: 2021-02-12
 indicted: 2021-04-30
 convicted: 2022-10-03
 acquitted:
-sentenced:
+sentenced: 2023-5-11-23
 dismissed:
 deceased:
 plea_hearing: 2022-10-03
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-05-11
+sentencing: 2023-5-11-23
 status_conference:
 age: 36
 occupation: Business Owner (Woodworking Shop)
@@ -41,16 +41,20 @@ caseName: USA v. SHALVEY
 judge: Timothy J. Kelly
 videos:
 charges:
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 41 months incarceration
+  - 2 years probation
+  - $200 restitution
 ---
+
 - [News Report](https://www.thedailybeast.com/pennsylvania-rioter-dale-shalvey-charged-after-going-through-senate-papers-during-capitol-riot)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1379321/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473426/download)

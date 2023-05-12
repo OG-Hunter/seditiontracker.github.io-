@@ -1,8 +1,8 @@
 id: 537
 aom: false
 afo: false
-arrested: false
-identified: false
+arrested: true
+identified: true
 label: "Photograph #537 A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-537a.jpg/@@images/image/preview
 hashtag: PinkBeret
@@ -10,10 +10,10 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-05-05
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/jennifer-vargas-geller
+name: Jennifer Vargas Geller
 missingImage: false
 identifiedBy: null
 notes: null

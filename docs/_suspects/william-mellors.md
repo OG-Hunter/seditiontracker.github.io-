@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-jury_selection:
+trial_date: 2023-11-27
+trial_type: Jury Trial
+jury_selection: 2023-11-27
 sentencing:
-status_conference: 2023-05-11
+status_conference:
 age: 50
 occupation:
 affiliations: Proud Boys

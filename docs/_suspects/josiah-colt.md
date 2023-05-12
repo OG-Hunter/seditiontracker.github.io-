@@ -4,20 +4,20 @@ lastName: Colt
 hashtag: JosiahColt
 aka:
 residence: Idaho
-status: Convicted
+status: Sentenced
 date: 2021-01-12
 charged: 2021-01-12
 indicted: 2021-02-03
 convicted: 2021-07-14
 acquitted:
-sentenced:
+sentenced: 2023-5-10-23
 dismissed:
 deceased:
 plea_hearing: 2021-07-14
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-05-10
+sentencing: 2023-5-10-23
 status_conference:
 age: 34
 occupation:
@@ -41,12 +41,16 @@ caseName: USA v. COLT
 judge: Dabney L. Friedrich
 videos:
 charges:
-- code: 18 USC § 1512(c)(2)
-  title: Obstruction of an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2)
+    title: Obstruction of an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 15 months incarceration
+  - 3 years probation
+  - $1000 restitution
 ---
+
 - [News Report](https://wgntv.com/news/josiah-colt-man-seen-hanging-from-senate-balcony-turns-himself-in/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Self Incrimination Pt. 1](https://idahonews.com/more-to-watch/boise-man-goes-viral-after-making-his-way-onto-senate-floor?utm_source=t.co&utm_medium=referral&utm_campaign=socialflow)

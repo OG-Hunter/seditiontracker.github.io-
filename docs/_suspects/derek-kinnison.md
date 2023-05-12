@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.desertsun.com/story/news/nation/california/2021/06/10/four-riverside-county-men-among-6-socal-residents-indicted-capitol-breach/7647401002/)
-- [Indictment](https://www.justice.gov/opa/press-release/file/1403191/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232192/gov.uscourts.dcd.232192.210.0.pdf)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/six-california-men-four-whom-self-identify-members-three-percenter-militias-indicted)
