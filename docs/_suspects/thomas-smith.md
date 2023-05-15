@@ -36,7 +36,7 @@ description: Convicted on May 5, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-cr-0199
+caseNumber: 21-cr-0599
 caseName: USA v. SMITH
 judge: Carl J. Nichols
 videos:

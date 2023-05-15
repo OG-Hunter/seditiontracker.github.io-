@@ -57,6 +57,10 @@ charges:
     title: Entering a restricted building or grounds with a dangerous or deadly weapon
     url: https://www.law.cornell.edu/uscode/text/18/1752
     felony: true
+  - code: 40 USC § 5104(e)(2)(F)
+    title: Act of physical violence on Capitol grounds
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
   - code: 18 USC § 231(a)(3)
     title: Obstruction of Law Enforcement During Civil Disorder
     url: https://www.law.cornell.edu/uscode/text/18/231
