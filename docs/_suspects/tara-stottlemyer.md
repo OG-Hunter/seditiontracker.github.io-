@@ -46,7 +46,6 @@ sentence:
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.theintelligencer.net/news/community/2021/09/wife-of-former-wheeling-man-charged-in-capitol-riot-also-arrested/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473431/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540336/download)

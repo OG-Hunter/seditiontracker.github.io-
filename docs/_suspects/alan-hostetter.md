@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.thedailybeast.com/alan-hostetter-california-stop-the-steal-organizer-indicted-for-conspiracy)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.232192/gov.uscourts.dcd.232192.210.0.pdf)
 - [FBI Raid](https://www.cnn.com/2021/02/03/politics/fbi-raids-capitol-attack-investigation/index.html)

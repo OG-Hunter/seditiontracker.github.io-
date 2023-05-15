@@ -41,16 +41,15 @@ caseName: USA v. COLT
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2)
-    title: Obstruction of an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2)
+  title: Obstruction of an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 15 months incarceration
   - 3 years probation
   - $1000 restitution
 ---
-
 - [News Report](https://wgntv.com/news/josiah-colt-man-seen-hanging-from-senate-balcony-turns-himself-in/)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/seven-charged-federal-court-following-events-united-capitol)
 - [Self Incrimination Pt. 1](https://idahonews.com/more-to-watch/boise-man-goes-viral-after-making-his-way-onto-senate-floor?utm_source=t.co&utm_medium=referral&utm_campaign=socialflow)
