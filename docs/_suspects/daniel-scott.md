@@ -41,17 +41,16 @@ caseName: USA v. SCOTT
 judge: Royce C. Lamberth
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.washingtonpost.com/local/legal-issues/proudboy-screaming-lets-take-capitol-arrested/2021/05/20/ccae5e00-b9a7-11eb-a6b1-81296da0339b_story.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395876/download)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.229958/gov.uscourts.dcd.229958.147.0.pdf)
