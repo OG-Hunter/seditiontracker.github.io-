@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-05-16
+status_conference: 2023-08-04
 age:
 occupation: Marine Scout Sniper (Former)
 affiliations: Proud Boys, military
