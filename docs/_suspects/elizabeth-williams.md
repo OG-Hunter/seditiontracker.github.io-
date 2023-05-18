@@ -17,7 +17,7 @@ plea_hearing: 2022-02-03
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-10-24
 status_conference:
 age: 31
 occupation: Lifestyle Coach

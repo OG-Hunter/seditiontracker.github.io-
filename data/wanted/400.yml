@@ -1,19 +1,19 @@
 id: 400
 aom: false
 afo: true
-arrested: false
-identified: false
-label: "Photograph #400 - AFO A"
-src: https://www.fbi.gov/wanted/capitol-violence-images/400a.jpg/@@images/image/preview
+arrested: true
+identified: true
+label: "Photograph #400 - AFO A  (Arrested)"
+src: https://www.fbi.gov/wanted/capitol-violence-images/capitol-400aarrest.jpg/@@images/image/preview
 hashtag: FlagPoleBreaker
 fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-04-23
 mugshot: null
-sedition_link: null
-name: null
+sedition_link: https://seditiontracker.com/suspects/odin-meacham
+name: Odin Meacham
 missingImage: false
 identifiedBy: null
 notes: null

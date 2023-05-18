@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0667
 caseName: USA v. PRYER
-judge:
+judge: Royce C. Lamberth
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)

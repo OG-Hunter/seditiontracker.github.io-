@@ -35,7 +35,7 @@ title: Jennifer Vargas Geller charged on 5/5/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. VARGAS-GELLER
 judge:

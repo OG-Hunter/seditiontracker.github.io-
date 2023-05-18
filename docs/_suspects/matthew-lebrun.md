@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-07-21
 trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-05-17
+status_conference:
 age: 33
 occupation:
 affiliations: Proud Boys, Oath Keepers
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wtsp.com/article/news/crime/steven-miles-florida-jan-6-capitol-riot/67-f7854f44-8475-48b8-bb71-034c1d956d8e)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494286/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1494291/download)

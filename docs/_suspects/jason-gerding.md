@@ -4,14 +4,14 @@ lastName: Gerding
 hashtag: JasonGerding
 aka:
 residence: Illinois
-status: Convicted
+status: Sentenced
 date: 2021-01-28
 charged: 2021-01-28
 indicted:
 convicted: 2023-01-31
 acquitted:
-sentenced: 
-dismissed: 
+sentenced: 2023-05-16
+dismissed:
 deceased:
 plea_hearing: 2023-01-31
 trial_date:
@@ -41,12 +41,15 @@ caseName: USA v. GERDING
 judge: Paul L. Friedman
 videos:
 charges:
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 2 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://khqa.com/news/local/justice-department-arrests-quincy-couple-in-connection-to-us-capitol-raid)
 - [Complaint](https://www.justice.gov/opa/page/file/1361581/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1361581/download)
