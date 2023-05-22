@@ -41,13 +41,12 @@ caseName: USA v. ARDOLINO
 judge: Reggie B. Walton
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.ocregister.com/2022/12/02/oc-man-charged-in-connection-with-jan-6-insurrection-after-facebook-post/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555301/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555306/download)

@@ -14,11 +14,11 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
-jury_selection:
+trial_date: 2023-11-01
+trial_type: Jury Trial
+jury_selection: 2023-11-01
 sentencing:
-status_conference: 2023-05-19
+status_conference: 2023-07-13
 age:
 occupation:
 affiliations:
