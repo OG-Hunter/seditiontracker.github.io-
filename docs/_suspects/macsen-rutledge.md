@@ -4,16 +4,16 @@ lastName: Rutledge
 hashtag:
 aka:
 residence: New York
-status: Charged
+status: Convicted
 date: 2022-10-25
 charged: 2022-10-25
 indicted:
-convicted:
+convicted: 2023-05-22
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-05-22
 trial_date:
 trial_type:
 jury_selection:
@@ -32,17 +32,23 @@ raid:
 perpwalk:
 quote:
 title: Macsen Rutledge charged on October 25th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on May 22, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-0229
+caseNumber: 23-cr-0151
 caseName: USA v. RUTLEDGE
 judge: Moxila A. Upadhyaya
 videos:
 charges:
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
 ---
+
 - [News Report](https://www.syracuse.com/crime/2022/10/fbi-charges-syracuse-man-who-wore-bear-hood-in-us-capitol-during-jan-6-attacks.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560526/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560531/download)
+- [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255021/gov.uscourts.dcd.255021.32.0.pdf)

@@ -4,13 +4,13 @@ lastName: Baquero
 hashtag:
 aka:
 residence: Florida
-status: Convicted
+status: Sentenced
 date: 2021-10-27
 charged: 2021-10-27
 indicted: 2021-12-01
 convicted: 2023-02-16
 acquitted:
-sentenced:
+sentenced: 2023-05-22
 dismissed:
 deceased:
 plea_hearing: 2023-02-16
@@ -41,12 +41,16 @@ caseName: USA v. BAQUERO
 judge: James E. Boasberg
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 18 months incarceration
+  - 1 year probation
+  - $2000 restitution
 ---
+
 - [News Report](https://bipartisanreport.com/2021/11/12/florida-insurrectionist-who-assaulted-police-caught-charged-by-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458906/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458911/download)
