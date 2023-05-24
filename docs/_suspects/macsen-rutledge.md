@@ -17,7 +17,7 @@ plea_hearing: 2023-05-22
 trial_date:
 trial_type:
 jury_selection:
-sentencing:
+sentencing: 2023-09-05
 status_conference: 2023-06-20
 age: 41
 occupation:
@@ -38,16 +38,15 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0151
 caseName: USA v. RUTLEDGE
-judge: Moxila A. Upadhyaya
+judge: Christopher R. Cooper
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.syracuse.com/crime/2022/10/fbi-charges-syracuse-man-who-wore-bear-hood-in-us-capitol-during-jan-6-attacks.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560526/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1560531/download)

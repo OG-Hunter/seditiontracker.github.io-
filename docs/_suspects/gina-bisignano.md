@@ -4,18 +4,18 @@ lastName: Bisignano
 hashtag: GinaBisignano
 aka:
 residence: California
-status: Convicted
+status: Indicted
 date: 2021-01-19
 charged: 2021-01-19
 indicted: 2021-01-29
-convicted: 2021-08-04
+convicted:
 acquitted:
 sentenced:
 dismissed:
 deceased:
 plea_hearing:
 trial_date: 2023-10-30
-trial_type: Jury Trial
+trial_type: Bench Trial
 jury_selection: 2023-10-30
 sentencing:
 status_conference:
@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Video)](https://twitter.com/waterspider__/status/1349422388396494850)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
@@ -50,5 +51,5 @@ sentence:
 - [Complaint](https://www.justice.gov/opa/page/file/1356561/download)
 - [Indictment](https://www.justice.gov/opa/page/file/1362886/download)
 - [FBI Raid (Video)](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
-- [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461916/download)
-- [Statement of Offense](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461921/download)
+- [Plea Agreement (Guilty Plea Withdrawn)](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461916/download)
+- [Statement of Offense (Guilty Plea Withdrawn)](https://www.justice.gov/usao-dc/case-multi-defendant/file/1461921/download)

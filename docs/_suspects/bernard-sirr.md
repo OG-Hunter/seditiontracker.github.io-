@@ -4,20 +4,20 @@ lastName: Sirr
 hashtag: ViperCap
 aka:
 residence: Rhode Island
-status: Convicted
+status: Sentenced
 date: 2022-06-21
 charged: 2022-06-21
 indicted:
 convicted: 2023-01-27
 acquitted:
-sentenced:
+sentenced: 2023-05-22
 dismissed:
 deceased:
 plea_hearing: 2023-01-27
 trial_date:
 trial_type:
 jury_selection: 2023-06-05
-sentencing: 2023-05-23
+sentencing: 2023-05-22
 status_conference:
 age: 47
 occupation:
@@ -41,12 +41,16 @@ caseName: USA v. SIRR
 judge: Trevor N. McFadden
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 60 days incarceration
+  - 6 months home detention
+  - $2000 restitution
 ---
+
 - [News Report](https://www.abc6.com/north-kingstown-man-charged-in-jan-6-capitol-attack/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516321/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516326/download)

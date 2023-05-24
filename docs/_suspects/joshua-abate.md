@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-05-23
+status_conference:
 age:
 occupation: U.S. Marine Corps
 affiliations:

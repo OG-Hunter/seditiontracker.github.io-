@@ -41,16 +41,15 @@ caseName: USA v. BAQUERO
 judge: James E. Boasberg
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
   - 18 months incarceration
   - 1 year probation
   - $2000 restitution
 ---
-
 - [News Report](https://bipartisanreport.com/2021/11/12/florida-insurrectionist-who-assaulted-police-caught-charged-by-feds/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458906/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458911/download)

@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 21-cr-0115
 caseName: USA v. ALVEAR-GONZALEZ
-judge:
+judge: Christopher R. Cooper
 videos:
 charges:
 - code: 40 USC § 5104(e)(2)(G)
