@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-06-09
 age: 60
 occupation:
 affiliations:
@@ -38,7 +38,7 @@ layout: suspect
 published: true
 caseNumber: 23-cr-0100
 caseName: USA v. YANG
-judge: Zia M. Faruqui
+judge: John D. Bates
 videos:
 charges:
 sentence:

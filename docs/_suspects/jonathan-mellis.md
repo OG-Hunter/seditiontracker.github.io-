@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-05-26
+plea_hearing: 2023-06-05
 trial_date:
 trial_type:
 jury_selection:

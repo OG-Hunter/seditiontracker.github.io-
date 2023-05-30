@@ -4,13 +4,13 @@ lastName: Lints
 hashtag: BlackGreyFlannel
 aka:
 residence: Michigan
-status: Convicted
+status: Sentenced
 date: 2022-06-24
 charged: 2022-06-24
 indicted:
 convicted: 2023-01-27
 acquitted:
-sentenced:
+sentenced: 2023-05-26
 dismissed:
 deceased:
 plea_hearing: 2023-01-27
@@ -41,14 +41,20 @@ caseName: USA v. LINTS
 judge: Trevor N. McFadden
 videos:
 charges:
-- code: 18 USC § 231(a)(3)
-  title: Obstruction of Law Enforcement During Civil Disorder
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 231(a)(3)
+    title: Obstruction of Law Enforcement During Civil Disorder
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 4 months incarceration
+  - 4 months home detention
+  - 3 years probation
+  - $2000 restitution
 ---
+
 - [News Report](https://www.9and10news.com/2022/06/30/traverse-city-man-arrested-on-felony-misdemeanor-charges-for-jan-6-actions/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516826/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1516831/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245741/gov.uscourts.dcd.245741.37.0_1.pdf)
 - [Statement of Offense](https://storage.courtlistener.com/recap/gov.uscourts.dcd.245741/gov.uscourts.dcd.245741.38.0_1.pdf)
+- [DOJ Statement (Sentencing)](https://www.justice.gov/usao-dc/pr/michigan-man-sentenced-felony-charge-actions-during-jan-6-capitol-breach-0)

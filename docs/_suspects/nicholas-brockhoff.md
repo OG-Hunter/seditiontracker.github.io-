@@ -4,20 +4,20 @@ lastName: Brockhoff
 hashtag: GreenHornHoodlum
 aka:
 residence: Kentucky
-status: Convicted
+status: Sentenced
 date: 2021-05-24
 charged: 2021-05-24
 indicted: 2021-08-18
 convicted: 2022-10-27
 acquitted:
-sentenced:
+sentenced: 2023-05-25
 dismissed:
 deceased:
 plea_hearing: 2022-10-27
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-06-02
+sentencing: 2023-05-25
 status_conference:
 age: 20
 occupation:
@@ -41,12 +41,16 @@ caseName: USA v. BROCKHOFF
 judge: Colleen Kollar-Kotelly
 videos:
 charges:
-- code: 18 USC § 111(a)(1) and (b)
-  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1) and (b)
+    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
+  - 3 years incarceration
+  - 3 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.whas11.com/article/news/crime/kentucky-man-charges-jan-6-capitol-riot-nicholas-james-brockhoff-insurrection/417-242a7574-396c-492c-9479-35057a5994c2)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1398871/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1547606/download)

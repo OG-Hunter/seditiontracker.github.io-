@@ -4,13 +4,13 @@ lastName: Watkins
 hashtag: JessicaWatkins
 aka:
 residence: Ohio
-status: Convicted
+status: Sentenced
 date: 2021-01-17
 charged: 2021-01-17
 indicted: 2021-01-27
 convicted: 2022-11-29
 acquitted:
-sentenced:
+sentenced: 2023-05-26
 dismissed:
 deceased:
 plea_hearing:
@@ -18,7 +18,7 @@ trial_date: 2022-09-26
 trial_type: Jury Trial
 jury_selection:
 sentencing: 2023-05-26
-status_conference: 2023-05-24
+status_conference:
 age: 38
 occupation: Former U.S. Military (Army Ranger)
 affiliations: Oath Keepers, Ohio Regular Militia
@@ -41,24 +41,28 @@ caseName: USA v. WATKINS
 judge: Amit P. Mehta
 videos:
 charges:
-- code: 18 USC § 1512(k)
-  title: Conspiracy to Obstruct an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 372
-  title: Conspiracy to Prevent an Officer from Discharging any Duties
-  url: https://www.law.cornell.edu/uscode/text/18/372
-  felony: true
-- code: 18 USC § 231(a)(3),2
-  title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/231
-  felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 372
+    title: Conspiracy to Prevent an Officer from Discharging any Duties
+    url: https://www.law.cornell.edu/uscode/text/18/372
+    felony: true
+  - code: 18 USC § 231(a)(3),2
+    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/231
+    felony: true
 sentence:
+  - 102 months incarceration
+  - 3 years probation
+  - $0 restitution
 ---
+
 - [News Report](https://www.whio.com/news/local/2-arrested-by-feds-possibly-linked-riot-washington-dc/TBMLXSMEQ5HGDNQW4KCWJGAD6A)
 - [FBI Raid](https://www.whio.com/news/local/fbi-surrounds-champaign-county-apartment-connection-dc-riots-man-says/6XNF3MMRJBDYFFZXBHLICKY2OE/)
 - [Self Incrimination (Audio)](https://www.wnycstudios.org/podcasts/otm/segments/zello-tapes-walkie-talkie-app-used-during-insurrection-on-the-media)

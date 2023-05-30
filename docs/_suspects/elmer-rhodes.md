@@ -4,13 +4,13 @@ lastName: Rhodes
 hashtag:
 aka: Stewart Rhodes, Elmer Stewart Rhodes III
 residence: Texas
-status: Convicted
+status: Sentenced
 date: 2022-01-12
 charged: 2022-01-12
 indicted: 2022-01-12
 convicted: 2022-11-29
 acquitted:
-sentenced:
+sentenced: 2023-05-25
 dismissed:
 deceased:
 plea_hearing:
@@ -18,7 +18,7 @@ trial_date: 2022-09-26
 trial_type: Jury Trial
 jury_selection:
 sentencing: 2023-05-25
-status_conference: 2023-05-24
+status_conference:
 age: 56
 occupation:
 affiliations: Oath Keepers
@@ -41,19 +41,23 @@ caseName: USA v. RHODES
 judge: Amit P. Mehta
 videos:
 charges:
-- code: 18 USC § 2384
-  title: Seditious Conspiracy
-  url: https://www.law.cornell.edu/uscode/text/18/2384
-  felony: true
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1512(c)(1),2
-  title: Tampering with Documents or Proceedings (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 2384
+    title: Seditious Conspiracy
+    url: https://www.law.cornell.edu/uscode/text/18/2384
+    felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(1),2
+    title: Tampering with Documents or Proceedings (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
+  - 18 years incarceration
+  - 3 years probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.cnn.com/2022/01/13/politics/oathkeeper-rhodes-arrested-doj/index.html)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1514876/download)

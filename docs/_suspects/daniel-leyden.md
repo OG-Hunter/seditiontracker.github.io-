@@ -17,7 +17,7 @@ plea_hearing: 2023-05-23
 trial_date:
 trial_type:
 jury_selection: 2023-06-12
-sentencing: 2023-08-29
+sentencing: 2023-09-06
 status_conference:
 age: 55
 occupation:
@@ -41,13 +41,12 @@ caseName: USA v. LEYDEN
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
 ---
-
 - [News Report](https://wgntv.com/news/chicago-news/local-brothers-charged-in-jan-6-capitol-riot/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528146/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1528151/download)

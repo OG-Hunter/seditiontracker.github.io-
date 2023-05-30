@@ -41,16 +41,15 @@ caseName: USA v. LOLLAR
 judge: Tanya S. Chutkan
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 30 months incarceration
   - 1 year probation
   - $2000 restitution
 ---
-
 - [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
 - [Complaint](https://www.justice.gov/opa/page/file/1355466/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1355471/download)

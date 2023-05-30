@@ -17,8 +17,8 @@ plea_hearing:
 trial_date: 2022-09-26
 trial_type: Jury Trial
 jury_selection:
-sentencing: 2023-05-24
-status_conference: 2023-05-24
+sentencing:
+status_conference:
 age: 66
 occupation: Navy (retired)
 affiliations: Oath Keepers, military
@@ -41,16 +41,17 @@ caseName: USA v. CALDWELL
 judge: Amit P. Mehta
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1512(c)(1),2
-  title: Tampering with Documents or Proceedings (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1512(c)(1),2
+    title: Tampering with Documents or Proceedings (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.washingtonpost.com/local/legal-issues/conspiracy-oath-keeper-arrest-capitol-riot/2021/01/19/fb84877a-5a4f-11eb-8bcf-3877871c819d_story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1356331/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1360991/download)
