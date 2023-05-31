@@ -41,29 +41,28 @@ caseName: USA v. NEELY
 judge: John D. Bates
 videos:
 charges:
-  - code: 18 USC § 641
-    title: Theft of Government Property
-    url: https://www.law.cornell.edu/uscode/text/18/641
-    felony: false
-  - code: 18 USC § 1752(a)(1)
-    title: Entering a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 18 USC § 1752(a)(2)
-    title: Disorderly and disruptive conduct in a restricted building or grounds
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: false
-  - code: 40 USC § 5104(e)(2)(D)
-    title: Disorderly Conduct in a Capitol Building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 18 USC § 641
+  title: Theft of Government Property
+  url: https://www.law.cornell.edu/uscode/text/18/641
+  felony: false
+- code: 18 USC § 1752(a)(1)
+  title: Entering a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 18 USC § 1752(a)(2)
+  title: Disorderly and disruptive conduct in a restricted building or grounds
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: false
+- code: 40 USC § 5104(e)(2)(D)
+  title: Disorderly Conduct in a Capitol Building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.msn.com/en-us/news/us/man-charged-in-jan-6-riot-stole-capitol-officers-hat-wore-it-on-his-youtube-channel-officials-say/ar-AAPIwIu)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457771/download)
 - [Information](https://www.justice.gov/usao-dc/case-multi-defendant/file/1457766/download)

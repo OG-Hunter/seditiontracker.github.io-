@@ -41,13 +41,12 @@ caseName: USA v. HAZELTON
 judge: John D. Bates
 videos:
 charges:
-  - code: 18 USC § 231(a)(3),2
-    title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3),2
+  title: Obstruction of Law Enforcement During Civil Disorder (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-capitol-insurrection-medford-new-jersey-rioters-20210122.html?utm_source=t.co&cid=Philly.com+Twitter&utm_campaign=Philly.com+Twitter+Account&utm_medium=social)
 - [Incriminating Evidence (VIDEO)](https://www.inquirer.com/news/new-jersey/stephanie-hazelton-ayla-wolf-south-jersey-us-capitol-riot-anti-vax-20210119.html)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Stephanie%20Hazelton%20Criminal%20Complaint.pdf)
