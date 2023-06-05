@@ -8,12 +8,12 @@ status: Convicted
 date: 2022-09-12
 charged: 2022-09-12
 indicted:
-convicted: 2023-05-11-23
+convicted: 2023-05-11
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing: 2023-05-11-23
+plea_hearing: 2023-05-11
 trial_date:
 trial_type:
 jury_selection:
@@ -41,12 +41,13 @@ caseName: USA v. VASSALLO
 judge: Amy B. Jackson
 videos:
 charges:
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
 ---
+
 - [News Report](https://newjersey.news12.com/toms-river-man-faces-charges-related-to-jan-6-riot-at-the-us-capitol)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535166/download)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1535176/download)

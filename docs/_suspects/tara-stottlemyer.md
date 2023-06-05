@@ -10,14 +10,14 @@ charged: 2021-07-28
 indicted: 2021-07-28
 convicted: 2022-10-03
 acquitted:
-sentenced: 2023-5-11-23
+sentenced: 2023-05-11
 dismissed:
 deceased:
 plea_hearing: 2022-10-03
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-5-11-23
+sentencing: 2023-05-11
 status_conference:
 age:
 occupation:
@@ -46,6 +46,7 @@ sentence:
   - 2 years probation
   - $2000 restitution
 ---
+
 - [News Report](https://www.theintelligencer.net/news/community/2021/09/wife-of-former-wheeling-man-charged-in-capitol-riot-also-arrested/)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1473431/download)
 - [Plea Agreement](https://www.justice.gov/usao-dc/case-multi-defendant/file/1540336/download)

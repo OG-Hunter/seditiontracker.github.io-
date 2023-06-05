@@ -10,14 +10,14 @@ charged: 2021-01-28
 indicted: 2021-02-05
 convicted: 2022-06-27
 acquitted:
-sentenced: 2023-5-10-23
+sentenced: 2023-05-10
 dismissed:
 deceased:
 plea_hearing: 2022-06-27
 trial_date:
 trial_type:
 jury_selection:
-sentencing: 2023-5-10-23
+sentencing: 2023-05-10
 status_conference:
 age: 31
 occupation: Business Owner ("Adult Model Management Company")
@@ -41,20 +41,21 @@ caseName: USA v. DEGRAVE
 judge:
 videos:
 charges:
-- code: 18 USC § 1512(k)
-  title: Conspiracy to Obstruct an Official Proceeding
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 111(a)(1)
-  title: Assaulting, resisting, or impeding certain officers or employees
-  url: https://www.law.cornell.edu/uscode/text/18/111
-  felony: true
+  - code: 18 USC § 1512(k)
+    title: Conspiracy to Obstruct an Official Proceeding
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 111(a)(1)
+    title: Assaulting, resisting, or impeding certain officers or employees
+    url: https://www.law.cornell.edu/uscode/text/18/111
+    felony: true
 sentence:
   - 37 months incarceration
   - 3 years probation
   - $25000 fine
   - $2000 restitution
 ---
+
 - [News Report](https://www.8newsnow.com/i-team/i-team-special-reports/i-team-las-vegas-nevada-man-accused-of-taking-part-in-capitol-riot-called-president-trump-his-idol-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362391/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362391/download)
