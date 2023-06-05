@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.wkyc.com/article/news/crime/perry-man-charged-felony-allegedly-spraying-chemicals-officers-jan-6-capitol-riot/95-d3964210-7ac9-4487-8273-5c3e7eda2845)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554971/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554976/download)

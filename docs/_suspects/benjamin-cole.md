@@ -41,13 +41,12 @@ caseName: USA v. COLE
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 18 USC § 231(a)(3)
-    title: Obstruction of Law Enforcement During Civil Disorder
-    url: https://www.law.cornell.edu/uscode/text/18/231
-    felony: true
+- code: 18 USC § 231(a)(3)
+  title: Obstruction of Law Enforcement During Civil Disorder
+  url: https://www.law.cornell.edu/uscode/text/18/231
+  felony: true
 sentence:
 ---
-
 - [News Report](https://abcnews.go.com/US/wireStory/fbi-militia-members-charged-storming-capitol-88818164)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529781/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1529786/download)

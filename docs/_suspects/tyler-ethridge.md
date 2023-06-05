@@ -13,12 +13,12 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-07-12
 trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-06-01
+status_conference:
 age: 33
 occupation: Youth Pastor
 affiliations:

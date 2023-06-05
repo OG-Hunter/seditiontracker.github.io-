@@ -41,13 +41,12 @@ caseName: USA v. SIEMERS
 judge: Trevor N. McFadden
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
-
 - [News Report](https://www.cleveland.com/court-justice/2022/12/man-charged-in-jan-6-attack-on-us-capitol-is-university-hospitals-police-officer.html)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1554996/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1555001/download)
