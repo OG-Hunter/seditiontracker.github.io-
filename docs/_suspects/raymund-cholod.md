@@ -4,10 +4,10 @@ lastName: Cholod
 hashtag: MrBeanAFO
 aka:
 residence: Florida
-status: Charged
+status: Indicted
 date: 2022-11-02
 charged: 2022-11-02
-indicted:
+indicted: 2023-05-31
 convicted:
 acquitted:
 sentenced:
@@ -43,6 +43,8 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.tallahassee.com/story/news/2022/11/04/tallahassee-man-arrested-role-jan-6-attack-u-s-capitol-insurrection-raymund-joseph-cholod-florida/8269028001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549496/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549501/download)
+- [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255996/gov.uscourts.dcd.255996.27.0.pdf)

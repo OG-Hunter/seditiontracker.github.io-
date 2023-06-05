@@ -43,6 +43,7 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcmiami.com/news/local/man-arrested-in-south-florida-in-connection-with-jan-6-u-s-capitol-breach/2417430/)
 - [Indictment](https://www.docdroid.net/6nVAAG5/richardharris2ndsupersedingindictment-pdf)
 - [Detention Order](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/Richard%20Harris%20Detention%20Order.pdf)

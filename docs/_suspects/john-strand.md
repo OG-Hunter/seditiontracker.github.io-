@@ -4,13 +4,13 @@ lastName: Strand
 hashtag: JohnStrand
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-18
 charged: 2021-01-18
 indicted: 2021-02-05
 convicted: 2022-09-27
 acquitted:
-sentenced:
+sentenced: 2023-06-01
 dismissed:
 deceased:
 plea_hearing:
@@ -41,28 +41,33 @@ caseName: USA v. STRAND
 judge: Christopher R. Cooper
 videos:
 charges:
-- code: 18 USC § 1512(c)(2),2
-  title: Obstruction of an Official Proceeding (Aiding and Abetting)
-  url: https://www.law.cornell.edu/uscode/text/18/1512
-  felony: true
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
-- code: 18 USC § 1752(a)(2)
-  title: Disorderly and disruptive conduct in a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
-- code: 40 USC § 5104(e)(2)(D)
-  title: Disorderly Conduct in a Capitol Building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
-- code: 40 USC § 5104(e)(2)(G)
-  title: Parading, demonstrating or picketing in a Capitol building
-  url: https://www.law.cornell.edu/uscode/text/40/5104
-  felony: false
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 18 USC § 1752(a)(2)
+    title: Disorderly and disruptive conduct in a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
+  - code: 40 USC § 5104(e)(2)(D)
+    title: Disorderly Conduct in a Capitol Building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
+  - code: 40 USC § 5104(e)(2)(G)
+    title: Parading, demonstrating or picketing in a Capitol building
+    url: https://www.law.cornell.edu/uscode/text/40/5104
+    felony: false
 sentence:
+  - 32 months incarceration
+  - 3 years probation
+  - $10000 fine
+  - $2000 restitution
 ---
+
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356546/download)

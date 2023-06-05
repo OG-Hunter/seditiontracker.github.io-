@@ -4,11 +4,11 @@ lastName: Gray
 hashtag:
 aka:
 residence: Florida
-status: Indicted
+status: Convicted
 date: 2022-06-06
 charged: 2022-06-06
 indicted: 2022-10-12
-convicted:
+convicted: 2023-06-01
 acquitted:
 sentenced:
 dismissed:
@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Leslie Gray charged on June 6th, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 1, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,8 +41,13 @@ caseName: USA v. GRAY
 judge: Dabney L. Friedrich
 videos:
 charges:
+  - code: 18 USC § 1512(c)(2),2
+    title: Obstruction of an Official Proceeding (Aiding and Abetting)
+    url: https://www.law.cornell.edu/uscode/text/18/1512
+    felony: true
 sentence:
 ---
+
 - [News Report](https://www.fox35orlando.com/news/3-more-arrested-in-central-florida-connected-to-capitol-riot-officials-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513211/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513216/download)
