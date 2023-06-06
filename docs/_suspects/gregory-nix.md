@@ -41,16 +41,15 @@ caseName: USA v. NIX
 judge: Beryl A. Howell
 videos:
 charges:
-  - code: 18 USC § 111(a)(1) and (b)
-    title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 111(a)(1) and (b)
+  title: Assaulting, resisting, or impeding certain officers or employees (using a deadly or dangerous weapon)
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 42 months incarceration
   - 2 years probation
   - $2000 restitution
 ---
-
 - [News Report](https://www.al.com/news/birmingham/2021/11/alabama-man-52-charged-with-assault-on-law-enforcement-during-jan-6-breach-at-us-capitol.html)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458896/download)
 - [Indictment](https://www.justice.gov/usao-dc/case-multi-defendant/file/1458886/download)

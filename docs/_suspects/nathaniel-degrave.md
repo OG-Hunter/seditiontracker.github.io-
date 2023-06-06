@@ -41,21 +41,20 @@ caseName: USA v. DEGRAVE
 judge:
 videos:
 charges:
-  - code: 18 USC § 1512(k)
-    title: Conspiracy to Obstruct an Official Proceeding
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
-  - code: 18 USC § 111(a)(1)
-    title: Assaulting, resisting, or impeding certain officers or employees
-    url: https://www.law.cornell.edu/uscode/text/18/111
-    felony: true
+- code: 18 USC § 1512(k)
+  title: Conspiracy to Obstruct an Official Proceeding
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
+- code: 18 USC § 111(a)(1)
+  title: Assaulting, resisting, or impeding certain officers or employees
+  url: https://www.law.cornell.edu/uscode/text/18/111
+  felony: true
 sentence:
   - 37 months incarceration
   - 3 years probation
   - $25000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://www.8newsnow.com/i-team/i-team-special-reports/i-team-las-vegas-nevada-man-accused-of-taking-part-in-capitol-riot-called-president-trump-his-idol-fbi/)
 - [Complaint](https://www.justice.gov/opa/page/file/1362391/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362391/download)

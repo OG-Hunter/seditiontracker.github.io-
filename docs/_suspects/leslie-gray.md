@@ -41,13 +41,12 @@ caseName: USA v. GRAY
 judge: Dabney L. Friedrich
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.fox35orlando.com/news/3-more-arrested-in-central-florida-connected-to-capitol-riot-officials-say)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513211/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1513216/download)
