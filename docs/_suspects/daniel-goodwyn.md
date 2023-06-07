@@ -4,13 +4,13 @@ lastName: Goodwyn
 hashtag: GoodwynPB
 aka:
 residence: California
-status: Convicted
+status: Sentenced
 date: 2021-01-15
 charged: 2021-01-15
 indicted: 2021-02-24
 convicted: 2023-01-31
 acquitted:
-sentenced:
+sentenced: 2023-06-06
 dismissed:
 deceased:
 plea_hearing: 2023-01-31
@@ -41,12 +41,17 @@ caseName: USA v. GOODWYN
 judge: Reggie B. Walton
 videos:
 charges:
-- code: 18 USC § 1752(a)(1)
-  title: Entering a restricted building or grounds
-  url: https://www.law.cornell.edu/uscode/text/18/1752
-  felony: false
+  - code: 18 USC § 1752(a)(1)
+    title: Entering a restricted building or grounds
+    url: https://www.law.cornell.edu/uscode/text/18/1752
+    felony: false
 sentence:
+  - 60 days incarceration
+  - $2500 fine
+  - 1 year probation
+  - $500 restitution
 ---
+
 - [News Report](https://www.sfgate.com/crime/article/daniel-goodwyn-sf-proud-boys-capitol-arrests-15877697.php)
 - [Complaint](https://assets.documentcloud.org/documents/20456929/1-15-21-us-v-daniel-goodwyn-complaint-statement.pdf)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362756/download)
