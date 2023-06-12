@@ -35,7 +35,7 @@ title: Daniel Wilson charged on 5/25/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. WILSON
 judge:

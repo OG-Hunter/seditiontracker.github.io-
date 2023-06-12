@@ -35,7 +35,7 @@ title: Joshua Hall charged on 5/18/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. HALL
 judge:
