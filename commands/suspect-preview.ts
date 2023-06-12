@@ -25,6 +25,8 @@ const generatePreview = (previewImage, status) => {
         return 221;
       case "ACQUITTED":
         return 225;
+      case "DISMISSED":
+        return 222;
       default:
         return 200;
     }

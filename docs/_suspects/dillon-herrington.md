@@ -4,14 +4,14 @@ lastName: Herrington
 hashtag: MagaLumberjack
 aka:
 residence: Alabama
-status: Charged
+status: Dismissed
 date: 2021-06-07
 charged: 2021-06-07
 indicted:
 convicted:
 acquitted:
 sentenced:
-dismissed:
+dismissed: 2023-06-09
 deceased:
 plea_hearing:
 trial_date:
@@ -43,5 +43,6 @@ videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.waff.com/2021/06/08/court-documents-state-madison-man-nicknamed-magalumberjack-charged-with-assaulting-federal-officer-january-6-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1402556/download)
