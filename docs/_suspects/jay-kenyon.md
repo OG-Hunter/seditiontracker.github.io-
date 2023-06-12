@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 23-mj-00048
 caseName: USA v. KENYON
 judge:
 videos:

@@ -32,7 +32,7 @@ raid:
 perpwalk:
 quote:
 title: Jerod Bargar charged on August 3rd, 2022
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 8, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
@@ -41,13 +41,12 @@ caseName: USA v. BARGAR
 judge: Reggie B. Walton
 videos:
 charges:
-  - code: 18 USC § 1752(a)(1), (b)(1)(A)
-    title: Entering a restricted building or grounds with a dangerous or deadly weapon
-    url: https://www.law.cornell.edu/uscode/text/18/1752
-    felony: true
+- code: 18 USC § 1752(a)(1), (b)(1)(A)
+  title: Entering a restricted building or grounds with a dangerous or deadly weapon
+  url: https://www.law.cornell.edu/uscode/text/18/1752
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.kctv5.com/2022/08/03/missouri-man-arrested-accused-carrying-gun-us-capitol-during-jan-6/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523981/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1523986/download)

@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.fox13news.com/news/lakeland-woman-charged-with-being-at-u-s-capitol-attack)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378976/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1378971/download)

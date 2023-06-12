@@ -46,6 +46,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 30 days incarceration
   - $500 restitution
 ---
 - [News Report](https://www.king5.com/article/news/crime/puyallup-capitol-riot-suspects-charges/281-19245a3b-5271-4dc1-8460-a3c7fa150fe6)

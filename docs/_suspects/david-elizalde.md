@@ -1,7 +1,7 @@
 ---
 name: David Elizalde
 lastName: Elizalde
-hashtag: 
+hashtag:
 aka:
 residence: Virginia
 status: Charged
@@ -36,12 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-00036
 caseName: USA v. ELIZALDE
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://apnews.com/article/david-elizalde-capitol-riot-uss-harry-truman-e4794872429d13e5ad7a5958510cef64)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252255/gov.uscourts.dcd.252255.1.1_2.pdf)

@@ -1,7 +1,7 @@
 ---
 name: Daniel Wilson
 lastName: Wilson
-hashtag: 
+hashtag:
 aka:
 residence: Kentucky
 status: Charged
@@ -30,19 +30,20 @@ courtroom:
 courthouse:
 raid:
 perpwalk:
-quote: 'I am ready to lay my life on the line. It is time for good men to do bad things.'
+quote: "I am ready to lay my life on the line. It is time for good men to do bad things."
 title: Daniel Wilson charged on 5/25/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber: 23-mj-00103
 caseName: USA v. WILSON
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.courier-journal.com/story/news/2023/05/25/daniel-edwin-wilson-of-louisville-arrested-jan-6-insurrection/70258453007/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1585261/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/kentucky-militia-member-charged-felony-and-misdemeanors-actions-during-jan-6-capitol)

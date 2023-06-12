@@ -36,7 +36,7 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 23-mj-00115
 caseName: USA v. JOHNSTON
 judge:
 videos:
