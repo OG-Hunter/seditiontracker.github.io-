@@ -4,13 +4,13 @@ lastName: Niemela
 hashtag:
 aka:
 residence: New Hampshire
-status: Convicted
+status: Sentenced
 date: 2022-01-14
 charged: 2022-01-14
 indicted:
 convicted: 2023-01-26
 acquitted:
-sentenced:
+sentenced: 2023-06-08
 dismissed:
 deceased:
 plea_hearing:
@@ -58,6 +58,7 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - $500 restitution
 ---
 - [News Report](https://www.boston.com/news/local-news/2022/01/18/capitol-riot-two-new-england-women-charged/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1481421/download)

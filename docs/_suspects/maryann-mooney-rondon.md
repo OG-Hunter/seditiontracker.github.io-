@@ -17,7 +17,7 @@ plea_hearing:
 trial_date: 2023-03-27
 trial_type: Stipulated Bench Trial
 jury_selection:
-sentencing: 2023-07-18
+sentencing: 2023-09-12
 status_conference:
 age: 55
 occupation:

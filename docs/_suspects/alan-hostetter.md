@@ -18,7 +18,7 @@ trial_date: 2023-07-06
 trial_type: Bench Trial
 jury_selection:
 sentencing:
-status_conference: 2023-06-08
+status_conference:
 age: 56
 occupation: Yoga Instructor, Former Police Chief
 affiliations: Three Percenters, American Phoenix Project
