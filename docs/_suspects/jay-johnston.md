@@ -1,7 +1,7 @@
 ---
 name: Jay Johnston
 lastName: Johnston
-hashtag: 
+hashtag: GQCamoGaiter
 aka:
 residence: California
 status: Charged
@@ -36,12 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 
+caseNumber:
 caseName: USA v. JOHNSTON
 judge:
 videos:
 charges:
 sentence:
 ---
+
 - [News Report](https://www.nbcnews.com/politics/justice-department/feds-charge-bobs-burgers-arrested-development-actor-jan-6-capitol-riot-rcna88135)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.256063/gov.uscourts.dcd.256063.1.1_2.pdf)

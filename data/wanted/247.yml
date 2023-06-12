@@ -1,7 +1,7 @@
 id: 247
 aom: false
 afo: true
-arrested: false
+arrested: true
 identified: true
 label: "Photograph #247 - AFO A"
 src: https://www.fbi.gov/wanted/capitol-violence-images/247a.png/@@images/image/preview
@@ -10,9 +10,9 @@ fugitive: false
 minor: false
 deceased: false
 duplicate: false
-charged: null
+charged: 2023-06-05
 mugshot: null
-sedition_link: null
+sedition_link: https://seditiontracker.com/suspects/jay-johnston
 name: Jay Johnston
 missingImage: false
 identifiedBy: null
