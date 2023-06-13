@@ -1,19 +1,19 @@
 ---
 name: Joshua Abate
 lastName: Abate
-hashtag: 
+hashtag:
 aka:
 residence: Virginia
-status: Charged
+status: Convicted
 date: 2023-01-17
 charged: 2023-01-17
 indicted:
-convicted:
+convicted: 2023-06-12
 acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-06-12
 trial_date:
 trial_type:
 jury_selection:
@@ -32,16 +32,21 @@ raid:
 perpwalk:
 quote:
 title: Joshua Abate charged on 1/17/2023
-description: Click for latest case details. Suspects innocent until proven guilty.
+description: Convicted on June 12, 2023. Click for latest case details.
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-0014
+caseNumber: 23-cr-0144
 caseName: USA v. ABATE
 judge: Zia M. Faruqui
 videos:
 charges:
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
 ---
 - [News Report](https://lawandcrime.com/u-s-capitol-breach/im-waiting-for-the-boogaloo-three-active-duty-marines-charged-with-breaching-the-capitol-on-jan-6/)
 - [Statement of Facts](https://s3.documentcloud.org/documents/23580778/abate-coomer-hellonen-jan-6-statement-of-facts.pdf)
+- [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255124/gov.uscourts.dcd.255124.27.0.pdf)

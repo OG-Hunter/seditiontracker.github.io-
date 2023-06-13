@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName: USA v. RICHTER
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.252273/gov.uscourts.dcd.252273.1.1.pdf)

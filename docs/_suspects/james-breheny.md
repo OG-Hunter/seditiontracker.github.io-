@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-06-08
+status_conference:
 age: 61
 occupation:
 affiliations: Oath Keepers
@@ -41,13 +41,12 @@ caseName: USA v. BREHENY
 judge: G. M. Harvey
 videos:
 charges:
-  - code: 18 USC § 1512(c)(2),2
-    title: Obstruction of an Official Proceeding (Aiding and Abetting)
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(2),2
+  title: Obstruction of an Official Proceeding (Aiding and Abetting)
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
 ---
-
 - [News Report](https://www.cbsnews.com/news/oath-keeper-james-breheny-charged-capitol-riot/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1395881/download)
 - [Plea Agreement](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255665/gov.uscourts.dcd.255665.57.0_1.pdf)

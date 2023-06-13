@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00082
+caseNumber: 23-mj-0082
 caseName: USA v. WISE
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/fbi-says-former-agent-arrested-jan-6-called-officers-nazis-rcna82567)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.ord.173019/gov.uscourts.ord.173019.1.1.pdf)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255972/gov.uscourts.dcd.255972.9.0.pdf)

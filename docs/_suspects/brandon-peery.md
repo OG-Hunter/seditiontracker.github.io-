@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00110
+caseNumber: 23-mj-0110
 caseName: USA v. PEERY
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.255804/gov.uscourts.dcd.255804.1.1.pdf)

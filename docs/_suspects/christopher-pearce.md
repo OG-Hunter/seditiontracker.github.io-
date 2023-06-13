@@ -45,4 +45,3 @@ sentence:
 ---
 - [Arrest Warrant](https://www.docdroid.net/TS5Qi6z/pearcearrestwarrant-pdf)
 - [Statement of Facts](https://s3.documentcloud.org/documents/23783850/pearce.pdf)
-

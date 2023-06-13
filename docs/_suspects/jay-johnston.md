@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00115
+caseNumber: 23-mj-0115
 caseName: USA v. JOHNSTON
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/feds-charge-bobs-burgers-arrested-development-actor-jan-6-capitol-riot-rcna88135)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.256063/gov.uscourts.dcd.256063.1.1_2.pdf)

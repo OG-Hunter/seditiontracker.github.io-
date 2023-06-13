@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-07-11
 age: 39
 occupation: Co-Owner, Vegas Girl Wigs
 affiliations:
@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-cr-00076
+caseNumber: 23-cr-0076
 caseName: USA v. DILLARD
-judge:
+judge: Christopher R. Cooper
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.reviewjournal.com/crime/courts/las-vegas-business-owner-charged-in-capitol-riot-2741339/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250352/gov.uscourts.dcd.250352.1.1.pdf)

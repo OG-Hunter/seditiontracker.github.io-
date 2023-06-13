@@ -58,6 +58,8 @@ charges:
   url: https://www.law.cornell.edu/uscode/text/40/5104
   felony: false
 sentence:
+  - 1 year incarceration incarceration
+  - $1000 fine
   - $500 restitution
 ---
 - [News Report](https://www.boston.com/news/local-news/2022/01/18/capitol-riot-two-new-england-women-charged/)

@@ -41,10 +41,10 @@ caseName: USA v. RILEY
 judge: Amy B. Jackson
 videos:
 charges:
-  - code: 18 USC § 1512(c)(1)
-    title: Tampering with Documents or Proceedings
-    url: https://www.law.cornell.edu/uscode/text/18/1512
-    felony: true
+- code: 18 USC § 1512(c)(1)
+  title: Tampering with Documents or Proceedings
+  url: https://www.law.cornell.edu/uscode/text/18/1512
+  felony: true
 sentence:
   - 4 months home detention
   - 2 years probation
@@ -52,6 +52,5 @@ sentence:
   - $10000 fine
   - $2000 restitution
 ---
-
 - [News Report](https://www.nbcnews.com/politics/politics-news/capitol-police-officer-charged-helping-hide-jan-6-rioter-s-n1281654)
 - [Indictment](https://s3.documentcloud.org/documents/21085728/10-14-21-us-v-michael-riley-indictment.pdf)

@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-08-01
 age: 47
 occupation:
 affiliations: Gray Ghost Militia
@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 23-mj-00103
+caseNumber: 23-mj-0103
 caseName: USA v. WILSON
-judge:
+judge: Moxila A. Upadhyaya
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.courier-journal.com/story/news/2023/05/25/daniel-edwin-wilson-of-louisville-arrested-jan-6-insurrection/70258453007/)
 - [Statement of Facts](https://www.justice.gov/usao-dc/press-release/file/1585261/download)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/kentucky-militia-member-charged-felony-and-misdemeanors-actions-during-jan-6-capitol)

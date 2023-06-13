@@ -41,16 +41,15 @@ caseName: USA v. GOULD
 judge: Rudolph Contreras
 videos:
 charges:
-  - code: 40 USC § 5104(e)(2)(G)
-    title: Parading, demonstrating or picketing in a Capitol building
-    url: https://www.law.cornell.edu/uscode/text/40/5104
-    felony: false
+- code: 40 USC § 5104(e)(2)(G)
+  title: Parading, demonstrating or picketing in a Capitol building
+  url: https://www.law.cornell.edu/uscode/text/40/5104
+  felony: false
 sentence:
-  - 60 days home confinement
+  - 60 days home detention
   - 1 year probation
   - $500 restitution
 ---
-
 - [News Report](https://www.thedailybeast.com/alleged-capitol-rioter-john-gould-arrested-after-getting-outed-by-rioting-co-worker-jonathan-lauren)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1483526/download)
 - [Information](https://storage.courtlistener.com/recap/gov.uscourts.dcd.247423/gov.uscourts.dcd.247423.20.0.pdf)

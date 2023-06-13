@@ -13,7 +13,7 @@ acquitted:
 sentenced:
 dismissed:
 deceased:
-plea_hearing:
+plea_hearing: 2023-06-26
 trial_date:
 trial_type:
 jury_selection:
@@ -36,9 +36,9 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-0289
+caseNumber: 23-cr-0195
 caseName: USA v. MONTONI
-judge: Moxila A. Upadhyaya
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:

@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName: USA v. BONNEY
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.jsonline.com/story/news/crime/2023/04/28/wisconsin-man-faces-charge-in-jan-6-insurrection-at-the-capitol-building/70164063007/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.wiwd.50813/gov.uscourts.wiwd.50813.1.2.pdf)

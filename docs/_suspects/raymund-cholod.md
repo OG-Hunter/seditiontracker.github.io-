@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference: 2023-06-01
+status_conference:
 age: 52
 occupation:
 affiliations:
@@ -43,7 +43,6 @@ videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.tallahassee.com/story/news/2022/11/04/tallahassee-man-arrested-role-jan-6-attack-u-s-capitol-insurrection-raymund-joseph-cholod-florida/8269028001/)
 - [Complaint](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549496/download)
 - [Statement of Facts](https://www.justice.gov/usao-dc/case-multi-defendant/file/1549501/download)

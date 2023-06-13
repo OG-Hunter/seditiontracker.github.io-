@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-cr-00059
+caseNumber: 23-cr-0059
 caseName: USA v. HIGGINS
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.denverpost.com/2023/02/10/dusty-higgins-colorado-veteran-jan-6-arrest/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.251793/gov.uscourts.dcd.251793.1.1.pdf)

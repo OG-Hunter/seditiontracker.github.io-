@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 21-mj-00128
+caseNumber: 21-mj-0128
 caseName: USA v. KELLY
 judge: Zia M. Faruqui
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nydailynews.com/new-york/ny-retired-nypd-brother-capitol-riot-charges-20210121-qnobfub6n5d6vexmco7jhktxem-story.html)
 - [Complaint](https://www.justice.gov/opa/page/file/1362961/download)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1362961/download)

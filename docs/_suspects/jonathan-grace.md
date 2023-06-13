@@ -36,14 +36,13 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName: USA v. GRACE
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.kktv.com/2023/03/30/colorado-springs-man-accused-fighting-officers-during-breach-us-capitol/)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.253252/gov.uscourts.dcd.253252.1.1.pdf)
 - [Indictment](https://storage.courtlistener.com/recap/gov.uscourts.dcd.254631/gov.uscourts.dcd.254631.41.0_1.pdf)

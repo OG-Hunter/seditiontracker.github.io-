@@ -18,7 +18,7 @@ trial_date:
 trial_type:
 jury_selection:
 sentencing:
-status_conference:
+status_conference: 2023-08-04
 age: 26
 occupation:
 affiliations:
@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-cr-00086
+caseNumber: 23-cr-0086
 caseName: USA v. HESS
-judge:
+judge: Royce C. Lamberth
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.pennlive.com/news/2023/03/2-years-after-capitol-riot-central-pa-man-charged-with-assault-obstructing-police.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/pennsylvania-man-charged-two-felonies-actions-during-jan-6-capitol-breach)

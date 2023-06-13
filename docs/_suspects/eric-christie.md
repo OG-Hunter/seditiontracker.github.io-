@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 22-mj-00274
+caseNumber: 22-mj-0274
 caseName: USA v. CHRISTIE
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.nbcnews.com/politics/justice-department/jan-6-participant-arrested-hours-long-standoff-fbi-rcna63035)
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250311/gov.uscourts.dcd.250311.1.1.pdf)

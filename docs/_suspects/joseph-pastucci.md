@@ -36,13 +36,12 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber:
+caseNumber: 
 caseName: USA v. PASTUCCI
 judge:
 videos:
 charges:
 sentence:
 ---
-
 - [News Report](https://www.pennlive.com/news/2023/04/central-pa-woman-kicked-capitol-police-officer-in-the-groin-on-jan-6-fbi.html)
 - [Statement of Facts](https://s3.documentcloud.org/documents/23791216/pastucci-and-mangia.pdf)

@@ -14,8 +14,8 @@ sentenced:
 dismissed:
 deceased:
 plea_hearing:
-trial_date:
-trial_type:
+trial_date: 2023-07-24
+trial_type: Jury Trial
 jury_selection:
 sentencing:
 status_conference:
@@ -36,12 +36,11 @@ description: Click for latest case details. Suspects innocent until proven guilt
 author: seditiontrack
 layout: suspect
 published: true
-caseNumber: 1:23-cr-00060
+caseNumber: 23-cr-0060
 caseName: USA v. KEEN
-judge:
+judge: Jia M. Cobb
 videos:
 charges:
 sentence:
 ---
-
 - [Statement of Facts](https://storage.courtlistener.com/recap/gov.uscourts.dcd.250356/gov.uscourts.dcd.250356.1.1.pdf)
