@@ -35,7 +35,7 @@ title: Renee Fatta charged on 6/8/2023
 description: Click for latest case details. Suspects innocent until proven guilty.
 author: seditiontrack
 layout: suspect
-published: false
+published: true
 caseNumber: 
 caseName: USA v. FATTA
 judge:
